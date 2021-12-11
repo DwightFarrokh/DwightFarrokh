@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda" tvg-logo="https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png" group-title="CANAIS: HD",Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index_6.m3u8|Origin=https://jovempan.com.br|Referer=https://jovempan.com.br
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_3.m3u8|Origin=https://jovempan.com.br|Referer=https://jovempan.com.br
 
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
