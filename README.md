@@ -1264,6 +1264,9 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="Música",RADIO 21
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD Â²" tvg-logo="http://static.bldn.vip/logos/filmeseseries/paramount.png" group-title="FILMES E SERIES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://cdnrede.com:80/justo123/123justo/21167|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+
 
 
 
