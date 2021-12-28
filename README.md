@@ -7,7 +7,682 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LIS
 
 
 
-
+#EXTINF:-1,COPA DO NORDESTE 02 PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/812699
+#EXTINF:-1,COPA DO NORDESTE 01 PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/812698
+#EXTINF:-1,COPA DO NORDESTE 03 PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/812700
+#EXTINF:-1,RECORD NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814792
+#EXTINF:-1,RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814793
+#EXTINF:-1,RECORD NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814794
+#EXTINF:-1,COMBATE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814612
+#EXTINF:-1,COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814613
+#EXTINF:-1,COMBATE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814614
+#EXTINF:-1,SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814807
+#EXTINF:-1,SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814810
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814811
+#EXTINF:-1,SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814812
+#EXTINF:-1,SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814813
+#EXTINF:-1,SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814814
+#EXTINF:-1,SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814815
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814808
+#EXTINF:-1,SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814809
+#EXTINF:-1,BAND NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814594
+#EXTINF:-1,BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814595
+#EXTINF:-1,BAND NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814596
+#EXTINF:-1,CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814607
+#EXTINF:-1,CNN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814609
+#EXTINF:-1,CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814608
+#EXTINF:-1,GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814893
+#EXTINF:-1,GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814892
+#EXTINF:-1,LOADING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814735
+#EXTINF:-1,REDE SUPER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814799
+#EXTINF:-1,REDE VIDA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814800
+#EXTINF:-1,REDE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814801
+#EXTINF:-1,REDE VIDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814802
+#EXTINF:-1,RIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814803
+#EXTINF:-1,TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814844
+#EXTINF:-1,TV Igreja Mundial
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814845
+#EXTINF:-1,TV PAI ETERNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814846
+#EXTINF:-1,TV RA TIM BUM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814847
+#EXTINF:-1,CULTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814957
+#EXTINF:-1,FUTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814958
+#EXTINF:-1,FUTURA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814959
+#EXTINF:-1,REDE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814960
+#EXTINF:-1,REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814961
+#EXTINF:-1,TV BRASIL  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814963
+#EXTINF:-1,TV BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814964
+#EXTINF:-1,TV BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814965
+#EXTINF:-1,Tv Camara
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814966
+#EXTINF:-1,CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814989
+#EXTINF:-1,Boa Vontade TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814990
+#EXTINF:-1,CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814991
+#EXTINF:-1,TV GAZETA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814992
+#EXTINF:-1,CANAL DO BOI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814993
+#EXTINF:-1,REDE TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814962
+#EXTINF:-1,AGRO CANAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814997
+#EXTINF:-1,TERRA VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814998
+#EXTINF:-1,CULTURA PAULISTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814999
+#EXTINF:-1,CANCAO NOVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814994
+#EXTINF:-1,TV SENADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815061
+#EXTINF:-1,ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814585
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814586
+#EXTINF:-1,ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814587
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814627
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814628
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814629
+#EXTINF:-1,DISCOVERY KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814630
+#EXTINF:-1,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814631
+#EXTINF:-1,DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814632
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814633
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814634
+#EXTINF:-1,DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814635
+#EXTINF:-1,DISCOVERY THEATER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814636
+#EXTINF:-1,DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814637
+#EXTINF:-1,DISCOVERY THEATER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814638
+#EXTINF:-1,DISCOVERY TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814639
+#EXTINF:-1,DISCOVERY TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814640
+#EXTINF:-1,DISCOVERY TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814641
+#EXTINF:-1,DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814642
+#EXTINF:-1,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814643
+#EXTINF:-1,DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814644
+#EXTINF:-1,DISCOVERY WORLD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814645
+#EXTINF:-1,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814646
+#EXTINF:-1,DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814647
+#EXTINF:-1,DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814648
+#EXTINF:-1,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814649
+#EXTINF:-1,DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814650
+#EXTINF:-1,H2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814699
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814700
+#EXTINF:-1,H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814701
+#EXTINF:-1,HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814730
+#EXTINF:-1,HISTORY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814731
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814732
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814733
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814734
+#EXTINF:-1,NATGEO KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814746
+#EXTINF:-1,NATGEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814747
+#EXTINF:-1,NATGEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814748
+#EXTINF:-1,NATGEO WILD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814749
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814750
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814751
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814752
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814459
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814460
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814461
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814462
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814463
+#EXTINF:-1,AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814464
+#EXTINF:-1,TELECINE FUN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814824
+#EXTINF:-1,TELECINE PIPOCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814825
+#EXTINF:-1,TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814826
+#EXTINF:-1,TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814827
+#EXTINF:-1,TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814828
+#EXTINF:-1,TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814829
+#EXTINF:-1,TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814830
+#EXTINF:-1,TELECINE TOUCH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814831
+#EXTINF:-1,TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814832
+#EXTINF:-1,TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814823
+#EXTINF:-1,TELECINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814816
+#EXTINF:-1,TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814817
+#EXTINF:-1,TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814818
+#EXTINF:-1,TELECINE CULT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814819
+#EXTINF:-1,TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814820
+#EXTINF:-1,TELECINE CULT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814821
+#EXTINF:-1,TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814822
+#EXTINF:-1,TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814833
+#EXTINF:-1,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814706
+#EXTINF:-1,HBO FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814707
+#EXTINF:-1,HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814708
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814709
+#EXTINF:-1,HBO MUNDI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814710
+#EXTINF:-1,HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814711
+#EXTINF:-1,HBO MUNDI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814712
+#EXTINF:-1,HBO PLUS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814713
+#EXTINF:-1,HBO PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814714
+#EXTINF:-1,HBO FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814705
+#EXTINF:-1,HBO PLUS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814715
+#EXTINF:-1,HBO POP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814716
+#EXTINF:-1,HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814717
+#EXTINF:-1,HBO POP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814718
+#EXTINF:-1,HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814719
+#EXTINF:-1,HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814720
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814721
+#EXTINF:-1,HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814722
+#EXTINF:-1,HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814723
+#EXTINF:-1,HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814724
+#EXTINF:-1,HBO Xtreme SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814725
+#EXTINF:-1,BABY TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814591
+#EXTINF:-1,BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814592
+#EXTINF:-1,BABY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814593
+#EXTINF:-1,BOOMERANG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814602
+#EXTINF:-1,BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814601
+#EXTINF:-1,BOOMERANG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814600
+#EXTINF:-1,DISNEY JR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814651
+#EXTINF:-1,DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814626
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814625
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814624
+#EXTINF:-1,DISNEY XD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814654
+#EXTINF:-1,DISNEY JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814653
+#EXTINF:-1,DISNEY JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814652
+#EXTINF:-1,GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814691
+#EXTINF:-1,GLOOB FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814690
+#EXTINF:-1,GLOOBINHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814695
+#EXTINF:-1,GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814694
+#EXTINF:-1,GLOOBINHO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814693
+#EXTINF:-1,GLOOB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814692
+#EXTINF:-1,NICKELODEON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814758
+#EXTINF:-1,NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814757
+#EXTINF:-1,NICKELODEON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814756
+#EXTINF:-1,NICK JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814755
+#EXTINF:-1,NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814754
+#EXTINF:-1,NICK JR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814753
+#EXTINF:-1,NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814745
+#EXTINF:-1,NATGEO KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814744
+#EXTINF:-1,TOONCAST SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814841
+#EXTINF:-1,TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814840
+#EXTINF:-1,TOONCAST FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814839
+#EXTINF:-1,ZOOMOO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814862
+#EXTINF:-1,ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814861
+#EXTINF:-1,ZOOMO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814860
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814702
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814703
+#EXTINF:-1,HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814704
+#EXTINF:-1,LIFETIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814465
+#EXTINF:-1,ARTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814588
+#EXTINF:-1,ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814589
+#EXTINF:-1,ARTE 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814590
+#EXTINF:-1,CURTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814618
+#EXTINF:-1,CURTA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814619
+#EXTINF:-1,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814616
+#EXTINF:-1,COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814615
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814657
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814658
+#EXTINF:-1,E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814659
+#EXTINF:-1,BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814599
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814598
+#EXTINF:-1,BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814597
+#EXTINF:-1,MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814738
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814737
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814736
+#EXTINF:-1,MUSICBOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814743
+#EXTINF:-1,MULTISHOW SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814742
+#EXTINF:-1,MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814741
+#EXTINF:-1,MULTISHOW FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814740
+#EXTINF:-1,MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814739
+#EXTINF:-1,PRIME BOX BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814787
+#EXTINF:-1,PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814786
+#EXTINF:-1,PRIME BOX BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814785
+#EXTINF:-1,PREMIERE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814764
+#EXTINF:-1,PREMIERE 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814765
+#EXTINF:-1,PREMIERE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814775
+#EXTINF:-1,PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814774
+#EXTINF:-1,PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814773
+#EXTINF:-1,PREMIERE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814772
+#EXTINF:-1,PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814771
+#EXTINF:-1,PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814770
+#EXTINF:-1,PREMIERE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814769
+#EXTINF:-1,PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814768
+#EXTINF:-1,PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814767
+#EXTINF:-1,PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814766
+#EXTINF:-1,PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814784
+#EXTINF:-1,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814783
+#EXTINF:-1,PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814782
+#EXTINF:-1,PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814781
+#EXTINF:-1,PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814780
+#EXTINF:-1,PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814779
+#EXTINF:-1,PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814778
+#EXTINF:-1,PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814777
+#EXTINF:-1,PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814776
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814697
+#EXTINF:-1,GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814698
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814696
+#EXTINF:-1,HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814728
+#EXTINF:-1,HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814727
+#EXTINF:-1,HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814726
+#EXTINF:-1,TRU TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814842
+#EXTINF:-1,TRU TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814843
+#EXTINF:-1,VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814855
+#EXTINF:-1,VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814854
+#EXTINF:-1,VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814853
+#EXTINF:-1,CANAL BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815002
+#EXTINF:-1,DAZN 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814621
+#EXTINF:-1,Canção Nova HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814603
+#EXTINF:-1,EVANGELIZAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814675
+#EXTINF:-1,EVANGELIZAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814676
+#EXTINF:-1,REDE GENESIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814798
+#EXTINF:-1,COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814617
+#EXTINF:-1,STAR +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815035
+#EXTINF:-1,STAR+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815034
+#EXTINF:-1,STAR + 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815033
+#EXTINF:-1,STAR + 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815032
+#EXTINF:-1,HBO MAX 03 HD *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815025
+#EXTINF:-1,HBO MAX 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815024
+#EXTINF:-1,HBO MAX 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815023
+#EXTINF:-1,TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814848
+#EXTINF:-1,TV RA TIM BUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814849
+#EXTINF:-1,WOOHOO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814856
+#EXTINF:-1,WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814857
+#EXTINF:-1,WOOHOO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814858
+#EXTINF:-1,OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814760
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814761
+#EXTINF:-1,OFF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814762
+#EXTINF:-1,BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815005
+#EXTINF:-1,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815004
+#EXTINF:-1,BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815003
+#EXTINF:-1,JOVEM PAN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814863
+#EXTINF:-1,GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814891
+#EXTINF:-1,JOVEM PAN NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815064
+#EXTINF:-1,JOVEM PAN NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815063
+#EXTINF:-1,MAIS NA TELA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814950
+#EXTINF:-1,MAIS NA TELA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814951
+#EXTINF:-1,MAIS NA TELA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814952
+#EXTINF:-1,PREMIERE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815030
+#EXTINF:-1,PREMIERE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815031
+#EXTINF:-1,SPORT TV 1 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815077
+#EXTINF:-1,SPORT TV 5 HD ᴴᵉᵛᶜ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815095
+#EXTINF:-1,ELEVEN SPORTS 2 HD ᴴᵉᵛᶜ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815110
+#EXTINF:-1,ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815107
+#EXTINF:-1,ELEVEN SPORTS 2 LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815106
+#EXTINF:-1,SPORT TV 6 LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815119
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815117
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815126
+#EXTINF:-1,SPORTING TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815124
+#EXTINF:-1,SPORT TV 1 LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815070
+#EXTINF:-1,HISTORY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/814729
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815169
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815170
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815171
+#EXTINF:-1,CINEMAX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815172
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815173
+#EXTINF:-1,CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815174
+#EXTINF:-1,SONY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815187
+#EXTINF:-1,SONY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815186
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815185
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815184
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815183
+#EXTINF:-1,MEGAPIX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815182
+#EXTINF:-1,MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815181
+#EXTINF:-1,MEGAPIX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815180
+#EXTINF:-1,LIFETIME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815179
+#EXTINF:-1,LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815178
+#EXTINF:-1,SONY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815188
+#EXTINF:-1,SPACE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815191
+#EXTINF:-1,SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815190
+#EXTINF:-1,SPACE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815189
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815208
+#EXTINF:-1,SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815207
+#EXTINF:-1,STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815206
+#EXTINF:-1,STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815205
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815204
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815217
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815216
+#EXTINF:-1,TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815215
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815214
+#EXTINF:-1,TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815213
+#EXTINF:-1,TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815212
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815211
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815210
+#EXTINF:-1,SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815209
+#EXTINF:-1,WARNER CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815225
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815224
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815223
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815222
+#EXTINF:-1,TNT SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815221
+#EXTINF:-1,TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815220
+#EXTINF:-1,TNT SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815219
+#EXTINF:-1,TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815218
+#EXTINF:-1,WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815227
+#EXTINF:-1,WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815226
+#EXTINF:-1,STAR HITS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815200
+#EXTINF:-1,STAR HITS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815199
+#EXTINF:-1,STAR HITS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815198
+#EXTINF:-1,STAR HITS 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815197
+#EXTINF:-1,STAR HITS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815196
+#EXTINF:-1,STAR HITS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815195
+#EXTINF:-1,STAR CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815194
+#EXTINF:-1,STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815193
+#EXTINF:-1,STAR CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815192
+#EXTINF:-1,STAR LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815203
+#EXTINF:-1,STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815202
+#EXTINF:-1,STAR LIFE  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815201
+#EXTINF:-1,NHK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://38.91.101.172:80/Vitor2021/Vitor2021/815062
 
 
 
