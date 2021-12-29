@@ -8,6 +8,1571 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LIS
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="http://img.kudaplay.com/1590851950_BANNER1.png" group-title="24 HORAS",3 Palavrinhas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/68994
+#EXTINF:-1 tvg-id="" tvg-name="A Cobrinha Azul" tvg-logo="http://img.kudaplay.com/1590851950_BANNER.png" group-title="24 HORAS",A Cobrinha Azul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/68995
+#EXTINF:-1 tvg-id="" tvg-name="A Culpa é do Cabral" tvg-logo="https://i.ibb.co/RQ5K6Nk/24hACEDC.png" group-title="24 HORAS",A Culpa é do Cabral
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/68996
+#EXTINF:-1 tvg-id="" tvg-name="A Familia Dracula" tvg-logo="http://img.kudaplay.com/1590852526_BANNER2.png" group-title="24 HORAS",A Familia Dracula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/68997
+#EXTINF:-1 tvg-id="" tvg-name="A Feiticeira" tvg-logo="" group-title="24 HORAS",A Feiticeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/68998
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Familia" tvg-logo="https://i.ibb.co/GtrdDwN/24hAGF.png" group-title="24 HORAS",A Grande Familia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/68999
+#EXTINF:-1 tvg-id="" tvg-name="A Mansão Foster" tvg-logo="" group-title="24 HORAS",A Mansão Foster
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69000
+#EXTINF:-1 tvg-id="" tvg-name="A Roda do Onibus" tvg-logo="https://i.ibb.co/r5Yw6tM/24hFarmees.png" group-title="24 HORAS",A Roda do Onibus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69001
+#EXTINF:-1 tvg-id="" tvg-name="A Turma da Monica" tvg-logo="http://img.kudaplay.com/1590852760_BANNER4.png" group-title="24 HORAS",A Turma da Monica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69002
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Pateta" tvg-logo="http://img.kudaplay.com/1590853184_BANNER5.png" group-title="24 HORAS",A Turma do Pateta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69003
+#EXTINF:-1 tvg-id="26" tvg-name="A&E 4K" tvg-logo="http://ux.minhatela.vip:80/images/dbdbc66158890bf65923c8646d00fdaf.png" group-title="4K",A&E 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/21418
+#EXTINF:-1 tvg-id="26" tvg-name="A&E FHD" tvg-logo="http://u.meulogin.net:80/images/78330c5ae17c0baf6084035a26df1a35.png" group-title="FILMES E SERIES",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/700
+#EXTINF:-1 tvg-id="26" tvg-name="A&E HD" tvg-logo="http://ux.minhatela.vip:80/images/dbdbc66158890bf65923c8646d00fdaf.png" group-title="FILMES E SERIES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/288
+#EXTINF:-1 tvg-id="26" tvg-name="A&E SD" tvg-logo="http://ux.minhatela.vip:80/images/dbdbc66158890bf65923c8646d00fdaf.png" group-title="FILMES E SERIES",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/289
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento Lakebottom" tvg-logo="http://img.kudaplay.com/1590853585_BANNER6.png" group-title="24 HORAS",Acampamento Lakebottom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69004
+#EXTINF:-1 tvg-id="" tvg-name="Aladim (Desenho)" tvg-logo="http://img.kudaplay.com/1590853801_BANNER7.png" group-title="24 HORAS",Aladim (Desenho)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69005
+#EXTINF:-1 tvg-id="1" tvg-name="AMC 4K" tvg-logo="http://u.meulogin.net:80/images/3d69462b1d78e64c62dfa83126f2175a.png" group-title="4K",AMC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41578
+#EXTINF:-1 tvg-id="1" tvg-name="AMC FHD" tvg-logo="http://u.meulogin.net:80/images/3d69462b1d78e64c62dfa83126f2175a.png" group-title="FILMES E SERIES",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/701
+#EXTINF:-1 tvg-id="1" tvg-name="AMC HD" tvg-logo="http://ux.minhatela.vip:80/images/3d69462b1d78e64c62dfa83126f2175a.png" group-title="FILMES E SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/291
+#EXTINF:-1 tvg-id="1" tvg-name="AMC SD" tvg-logo="http://u.meulogin.net:80/images/3d69462b1d78e64c62dfa83126f2175a.png" group-title="FILMES E SERIES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/292
+#EXTINF:-1 tvg-id="132" tvg-name="Animal Planet 4k" tvg-logo="http://ux.minhatela.vip:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="4K",Animal Planet 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/245
+#EXTINF:-1 tvg-id="132" tvg-name="Animal Planet FHD" tvg-logo="http://ux.minhatela.vip:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="DOCUMENTARIOS",Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/702
+#EXTINF:-1 tvg-id="132" tvg-name="Animal Planet HD" tvg-logo="http://ux.minhatela.vip:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="DOCUMENTARIOS",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/293
+#EXTINF:-1 tvg-id="132" tvg-name="Animal Planet SD" tvg-logo="http://u.meulogin.net:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="DOCUMENTARIOS",Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/294
+#EXTINF:-1 tvg-id="" tvg-name="Annie e Ben" tvg-logo="https://i.ibb.co/tby9RqC/24hAnnieBen.png" group-title="24 HORAS",Annie e Ben
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69006
+#EXTINF:-1 tvg-id="89" tvg-name="Arte 1 FHD" tvg-logo="http://u.meulogin.net:80/images/3f838c01d2c5267cbf9c109091c90a87.png" group-title="FILMES E SERIES",Arte 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/703
+#EXTINF:-1 tvg-id="89" tvg-name="Arte 1 HD" tvg-logo="http://ux.minhatela.vip:80/images/31b6dd4ecc2c2e1de65bcf4eac145960.png" group-title="FILMES E SERIES",Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/97
+#EXTINF:-1 tvg-id="89" tvg-name="Arte 1 SD" tvg-logo="http://u.meulogin.net:80/images/31b6dd4ecc2c2e1de65bcf4eac145960.png" group-title="FILMES E SERIES",Arte 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/296
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="http://img.kudaplay.com/1590854175_BANNER8.png" group-title="24 HORAS",As Aventuras de Jackie Chan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69007
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Super Poderosas" tvg-logo="https://i.ibb.co/wSmWkjv/24hSuperpoderosas.png" group-title="24 HORAS",As Meninas Super Poderosas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69008
+#EXTINF:-1 tvg-id="27" tvg-name="AXN 4K" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png" group-title="4K",AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19296
+#EXTINF:-1 tvg-id="27" tvg-name="AXN FHD" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png" group-title="FILMES E SERIES",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/704
+#EXTINF:-1 tvg-id="27" tvg-name="AXN HD" tvg-logo="http://ux.minhatela.vip:80/images/5360ed4bc0c08746770e645fde5348dd.png" group-title="FILMES E SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/297
+#EXTINF:-1 tvg-id="27" tvg-name="AXN SD" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png" group-title="FILMES E SERIES",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/298
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://static.wikia.nocookie.net/santiago/images/1/16/Bftvlogo2019.png" group-title="INFANTIL",Baby First
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/14602
+#EXTINF:-1 tvg-id="72" tvg-name="BabyTV FHD" tvg-logo="http://u.meulogin.net:80/images/b055d436f0b5d380c1e2a61206c8b60c.png" group-title="INFANTIL",BabyTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/705
+#EXTINF:-1 tvg-id="72" tvg-name="BabyTV HD" tvg-logo="http://u.meulogin.net:80/images/b055d436f0b5d380c1e2a61206c8b60c.png" group-title="INFANTIL",BabyTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/299
+#EXTINF:-1 tvg-id="72" tvg-name="BabyTV SD" tvg-logo="http://u.meulogin.net:80/images/b055d436f0b5d380c1e2a61206c8b60c.png" group-title="INFANTIL",BabyTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/300
+#EXTINF:-1 tvg-id="157" tvg-name="Band 4K" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="4K",Band 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/246
+#EXTINF:-1 tvg-id="Band Brasília" tvg-name="Band Brasilia HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/302
+#EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="Band Campinas HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/303
+#EXTINF:-1 tvg-id="158" tvg-name="Band Campinas SD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64263
+#EXTINF:-1 tvg-id="157" tvg-name="Band MG HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/54616
+#EXTINF:-1 tvg-id="157" tvg-name="Band MG SD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band MG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/54615
+#EXTINF:-1 tvg-id="148" tvg-name="Band News 4K" tvg-logo="http://u.meulogin.net:80/images/47edc605752b0883c16e44c1f18115a8.png" group-title="4K",Band News 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19295
+#EXTINF:-1 tvg-id="148" tvg-name="Band News FHD" tvg-logo="http://u.meulogin.net:80/images/47edc605752b0883c16e44c1f18115a8.png" group-title="NOTICIAS",Band News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/706
+#EXTINF:-1 tvg-id="148" tvg-name="Band News HD" tvg-logo="http://ux.minhatela.vip:80/images/bbf92603486f1a8723f31caa538a0d2a.png" group-title="NOTICIAS",Band News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/304
+#EXTINF:-1 tvg-id="148" tvg-name="Band News SD" tvg-logo="http://u.meulogin.net:80/images/bbf92603486f1a8723f31caa538a0d2a.png" group-title="NOTICIAS",Band News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/305
+#EXTINF:-1 tvg-id="Band Curitiba HD" tvg-name="Band Parana HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band Parana HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/306
+#EXTINF:-1 tvg-id="158" tvg-name="Band PR Maringa HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band PR Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64264
+#EXTINF:-1 tvg-id="Band RJ HD" tvg-name="BAND RJ HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",BAND RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/15468
+#EXTINF:-1 tvg-id="157" tvg-name="Band SP FHD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/707
+#EXTINF:-1 tvg-id="157" tvg-name="Band SP HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/310
+#EXTINF:-1 tvg-id="157" tvg-name="Band SP SD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/311
+#EXTINF:-1 tvg-id="45" tvg-name="Band Sports 4K" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png" group-title="4K",Band Sports 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19294
+#EXTINF:-1 tvg-id="45" tvg-name="Band Sports FHD" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png" group-title="ESPORTES",Band Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/708
+#EXTINF:-1 tvg-id="45" tvg-name="Band Sports HD" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png" group-title="ESPORTES",Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/312
+#EXTINF:-1 tvg-id="45" tvg-name="Band Sports SD" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png" group-title="ESPORTES",Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/313
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="http://img.kudaplay.com/1591294360_ben10poster.png" group-title="24 HORAS",Ben 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69009
+#EXTINF:-1 tvg-id="90" tvg-name="BIS 4K" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png" group-title="4K",BIS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41579
+#EXTINF:-1 tvg-id="90" tvg-name="Bis FHD" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png" group-title="VARIEDADES E MUSICAIS",Bis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/709
+#EXTINF:-1 tvg-id="90" tvg-name="Bis HD" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png" group-title="VARIEDADES E MUSICAIS",Bis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/314
+#EXTINF:-1 tvg-id="90" tvg-name="Bis SD" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png" group-title="VARIEDADES E MUSICAIS",Bis SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/315
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="http://img.kudaplay.com/1591294358_bobesponjaposter.png" group-title="24 HORAS",Bob Esponja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69010
+#EXTINF:-1 tvg-id="" tvg-name="Bob O Trem" tvg-logo="https://i.ibb.co/Lnjcnqr/24hBobOTrem.png" group-title="24 HORAS",Bob O Trem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69011
+#EXTINF:-1 tvg-id="" tvg-name="Boku no Hero Academia" tvg-logo="http://img.kudaplay.com/1591294359_bokunoheroposter.png" group-title="24 HORAS",Boku no Hero Academia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69012
+#EXTINF:-1 tvg-id="73" tvg-name="Cartonito 4K" tvg-logo="http://u.meulogin.net:80/images/4123616c747d753a6279fe0759aa4ca7.png" group-title="4K",Cartonito 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19293
+#EXTINF:-1 tvg-id="73" tvg-name="Cartonito FHD" tvg-logo="http://u.meulogin.net:80/images/4123616c747d753a6279fe0759aa4ca7.png" group-title="INFANTIL",Cartonito FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/710
+#EXTINF:-1 tvg-id="73" tvg-name="Cartonito HD" tvg-logo="http://u.meulogin.net:80/images/4123616c747d753a6279fe0759aa4ca7.png" group-title="INFANTIL",Cartonito HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/316
+#EXTINF:-1 tvg-id="73" tvg-name="Cartonito SD" tvg-logo="http://u.meulogin.net:80/images/4123616c747d753a6279fe0759aa4ca7.png" group-title="INFANTIL",Cartonito SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/317
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS FHD" tvg-logo="http://ux.minhatela.vip:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",BRAZZERS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/828
+#EXTINF:-1 tvg-id="2" tvg-name="Canal Brasil 4K" tvg-logo="http://ux.minhatela.vip:80/images/0bdba217c57922ca70453187ce757b8a.png" group-title="4K",Canal Brasil 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41580
+#EXTINF:-1 tvg-id="2" tvg-name="Canal Brasil FHD" tvg-logo="http://ux.minhatela.vip:80/images/0bdba217c57922ca70453187ce757b8a.png" group-title="FILMES E SERIES",Canal Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/827
+#EXTINF:-1 tvg-id="2" tvg-name="Canal Brasil HD" tvg-logo="https://i.ibb.co/CwRkTh2/B-Canal-Brasil-HD.png" group-title="FILMES E SERIES",Canal Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/325
+#EXTINF:-1 tvg-id="2" tvg-name="Canal Brasil SD" tvg-logo="https://i.ibb.co/HH74d8Q/B-Canal-Brasil-SD.png" group-title="FILMES E SERIES",Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64268
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" tvg-logo="http://ux.minhatela.vip:80/images/5e711b057e3dcf51d19020d88ae00bce.png" group-title="ABERTOS",Canal do Boi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/699
+#EXTINF:-1 tvg-id="92" tvg-name="Canal Rural HD" tvg-logo="http://ux.minhatela.vip:80/images/6d03d7ca9f00a58a2327ae6d6c939051.png" group-title="ABERTOS",Canal Rural HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/326
+#EXTINF:-1 tvg-id="92" tvg-name="Canal Rural SD" tvg-logo="http://ux.minhatela.vip:80/images/6d03d7ca9f00a58a2327ae6d6c939051.png" group-title="ABERTOS",Canal Rural SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64269
+#EXTINF:-1 tvg-id="93" tvg-name="Cançao Nova HD" tvg-logo="https://i.ibb.co/8xDTh3X/B-Cancao-Nova-HD.png" group-title="RELIGIOSOS",Cançao Nova HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64270
+#EXTINF:-1 tvg-id="93" tvg-name="Canção Nova SD" tvg-logo="https://i.ibb.co/pWjyfVy/B-Cancao-Nova-SD.png" group-title="RELIGIOSOS",Canção Nova SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/327
+#EXTINF:-1 tvg-id="74" tvg-name="Cartoon Network 4K" tvg-logo="http://ux.minhatela.vip:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="4K",Cartoon Network 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/247
+#EXTINF:-1 tvg-id="74" tvg-name="Cartoon Network FHD" tvg-logo="http://u.meulogin.net:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="INFANTIL",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/711
+#EXTINF:-1 tvg-id="74" tvg-name="Cartoon Network HD" tvg-logo="http://ux.minhatela.vip:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="INFANTIL",Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/328
+#EXTINF:-1 tvg-id="74" tvg-name="Cartoon Network SD" tvg-logo="http://u.meulogin.net:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="INFANTIL",Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/329
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos" tvg-logo="http://img.kudaplay.com/1591294359_cavaleirosdozodiacoposter.png" group-title="24 HORAS",Cavaleiros dos Zodiacos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69013
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="http://img.kudaplay.com/1591294370_cavernadodragaoposter.png" group-title="24 HORAS",Caverna do Dragão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69014
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin" tvg-logo="https://i.ibb.co/bNkRn0x/24hChapolin.png" group-title="24 HORAS",Chapolin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69015
+#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://i.ibb.co/k8QrsTF/24hChaves.png" group-title="24 HORAS",Chaves
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69016
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Desenho" tvg-logo="https://i.ibb.co/PzkdYRS/24hChavesDesenho.png" group-title="24 HORAS",Chaves Desenho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69017
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01 FHD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/331
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02 FHD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/332
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03 FHD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/333
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04 FHD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 04 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/334
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05 FHD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 05 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/335
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/336
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 07 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 07 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/337
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 08 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 08 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/338
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 09 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 09 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/339
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 10 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/340
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 11 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/341
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 12 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/342
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 13 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/343
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 14 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/344
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 15 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/345
+#EXTINF:-1 tvg-id="3" tvg-name="Cinemax 4K" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="4K",Cinemax 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19292
+#EXTINF:-1 tvg-id="3" tvg-name="Cinemax FHD" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="FILMES E SERIES",Cinemax FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/712
+#EXTINF:-1 tvg-id="3" tvg-name="Cinemax HD" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="FILMES E SERIES",Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/346
+#EXTINF:-1 tvg-id="3" tvg-name="Cinemax SD" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="FILMES E SERIES",Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/347
+#EXTINF:-1 tvg-id="152" tvg-name="CNN Brasil FHD" tvg-logo="http://u.meulogin.net:80/images/62788158be0a70e0f1018de2a3da6ef2.png" group-title="NOTICIAS",CNN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/713
+#EXTINF:-1 tvg-id="152" tvg-name="CNN Brasil HD" tvg-logo="http://u.meulogin.net:80/images/62788158be0a70e0f1018de2a3da6ef2.png" group-title="NOTICIAS",CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/348
+#EXTINF:-1 tvg-id="152" tvg-name="CNN Brasil SD" tvg-logo="http://u.meulogin.net:80/images/62788158be0a70e0f1018de2a3da6ef2.png" group-title="NOTICIAS",CNN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/349
+#EXTINF:-1 tvg-id="154" tvg-name="CNN Internacional FHD" tvg-logo="https://i.ibb.co/LJ19t2G/B-CNN-Internacional-FHD.png" group-title="NOTICIAS",CNN Internacional FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64266
+#EXTINF:-1 tvg-id="154" tvg-name="CNN Internacional HD" tvg-logo="https://i.ibb.co/vchxB03/B-CNN-Internacional-HD.png" group-title="NOTICIAS",CNN Internacional HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64267
+#EXTINF:-1 tvg-id="154" tvg-name="CNN Internacional SD" tvg-logo="https://i.ibb.co/1ztVC0j/B-CNN-Internacional-SD.png" group-title="NOTICIAS",CNN Internacional SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64265
+#EXTINF:-1 tvg-id="46" tvg-name="Combate 4K" tvg-logo="http://ux.minhatela.vip:80/images/299f4b3064094cb510f4529cd6d79ab6.png" group-title="4K",Combate 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/248
+#EXTINF:-1 tvg-id="46" tvg-name="Combate FHD" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png" group-title="ESPORTES",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/714
+#EXTINF:-1 tvg-id="46" tvg-name="COMBATE HD" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png" group-title="ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/14272
+#EXTINF:-1 tvg-id="46" tvg-name="Combate SD" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png" group-title="ESPORTES",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/351
+#EXTINF:-1 tvg-id="95" tvg-name="Comedy Central 4K" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png" group-title="4K",Comedy Central 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19290
+#EXTINF:-1 tvg-id="95" tvg-name="Comedy Central FHD" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png" group-title="FILMES E SERIES",Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/715
+#EXTINF:-1 tvg-id="95" tvg-name="Comedy Central HD" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png" group-title="FILMES E SERIES",Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/352
+#EXTINF:-1 tvg-id="95" tvg-name="Comedy Central SD" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png" group-title="FILMES E SERIES",Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/353
+#EXTINF:-1 tvg-id="47" tvg-name="Conmebol 1 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/14277
+#EXTINF:-1 tvg-id="47" tvg-name="Conmebol 1 SD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/54610
+#EXTINF:-1 tvg-id="48" tvg-name="Conmebol 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/14274
+#EXTINF:-1 tvg-id="48" tvg-name="Conmebol 2 SD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/54611
+#EXTINF:-1 tvg-id="49" tvg-name="Conmebol 3 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/716
+#EXTINF:-1 tvg-id="49" tvg-name="Conmebol 3 SD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/54612
+#EXTINF:-1 tvg-id="47" tvg-name="Conmebol TV 1 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/355
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/357
+#EXTINF:-1 tvg-id="49" tvg-name="Conmebol TV 3 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/359
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/360
+#EXTINF:-1 tvg-id="171" tvg-name="Cultura FHD" tvg-logo="https://i.ibb.co/hyghfVq/B-Cultura-FHD.png" group-title="ABERTOS",Cultura FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64272
+#EXTINF:-1 tvg-id="26" tvg-name="Cultura HD" tvg-logo="https://i.ibb.co/3fYFwxV/G-Cultura-HD.png" group-title="ABERTOS",Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/364
+#EXTINF:-1 tvg-id="171" tvg-name="Cultura SD" tvg-logo="https://i.ibb.co/n7Xjftc/B-Cultura-SD.png" group-title="ABERTOS",Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64271
+#EXTINF:-1 tvg-id="128" tvg-name="Curta! FHD" tvg-logo="https://www.tribunaribeirao.com.br/site/wp-content/uploads/2020/05/Curta.png" group-title="VARIEDADES E MUSICAIS",Curta! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/65214
+#EXTINF:-1 tvg-id="128" tvg-name="Curta! HD" tvg-logo="https://www.tribunaribeirao.com.br/site/wp-content/uploads/2020/05/Curta.png" group-title="VARIEDADES E MUSICAIS",Curta! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/365
+#EXTINF:-1 tvg-id="128" tvg-name="Curta! SD" tvg-logo="https://www.tribunaribeirao.com.br/site/wp-content/uploads/2020/05/Curta.png" group-title="VARIEDADES E MUSICAIS",Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/366
+#EXTINF:-1 tvg-id="" tvg-name="Daniel Tigre" tvg-logo="http://img.kudaplay.com/1591294368_danieltigreposter.png" group-title="24 HORAS",Daniel Tigre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69018
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DAZN",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/369
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DAZN",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/372
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3 HD" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DAZN",DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/374
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4 HD" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DAZN",DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/376
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos" tvg-logo="http://img.kudaplay.com/1591294368_desenhosbiblicosposter.png" group-title="24 HORAS",Desenhos Biblicos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69019
+#EXTINF:-1 tvg-id="133" tvg-name="Discovery Channel 4K" tvg-logo="http://ux.minhatela.vip:80/images/4bb92752ec76ca74909c935088f11855.png" group-title="4K",Discovery Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/249
+#EXTINF:-1 tvg-id="133" tvg-name="Discovery Channel FHD" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png" group-title="DOCUMENTARIOS",Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/717
+#EXTINF:-1 tvg-id="133" tvg-name="Discovery Channel HD" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png" group-title="DOCUMENTARIOS",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/377
+#EXTINF:-1 tvg-id="133" tvg-name="Discovery Channel SD" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png" group-title="DOCUMENTARIOS",Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/378
+#EXTINF:-1 tvg-id="140" tvg-name="Discovery HGTV FHD" tvg-logo="http://u.meulogin.net:80/images/216fb73d5182d6abe5b17af999e2e3ce.png" group-title="VARIEDADES E MUSICAIS",Discovery HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/777
+#EXTINF:-1 tvg-id="140" tvg-name="Discovery HGTV HD" tvg-logo="http://ux.minhatela.vip:80/images/216fb73d5182d6abe5b17af999e2e3ce.png" group-title="VARIEDADES E MUSICAIS",Discovery HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/542
+#EXTINF:-1 tvg-id="140" tvg-name="Discovery HGTV SD" tvg-logo="http://u.meulogin.net:80/images/216fb73d5182d6abe5b17af999e2e3ce.png" group-title="VARIEDADES E MUSICAIS",Discovery HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/543
+#EXTINF:-1 tvg-id="140" tvg-name="Discovery Home & Garden 4K" tvg-logo="http://u.meulogin.net:80/images/216fb73d5182d6abe5b17af999e2e3ce.png" group-title="4K",Discovery Home & Garden 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41588
+#EXTINF:-1 tvg-id="134" tvg-name="Discovery Home & Health 4k" tvg-logo="http://ux.minhatela.vip:80/images/109cdb8901bf793f95f6bca6c6fa7260.png" group-title="4K",Discovery Home & Health 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19297
+#EXTINF:-1 tvg-id="134" tvg-name="Discovery Home & Health FHD" tvg-logo="http://u.meulogin.net:80/images/109cdb8901bf793f95f6bca6c6fa7260.png" group-title="VARIEDADES E MUSICAIS",Discovery Home & Health FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/718
+#EXTINF:-1 tvg-id="134" tvg-name="Discovery Home & Health HD" tvg-logo="http://ux.minhatela.vip:80/images/109cdb8901bf793f95f6bca6c6fa7260.png" group-title="VARIEDADES E MUSICAIS",Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/379
+#EXTINF:-1 tvg-id="134" tvg-name="Discovery Home & Health SD" tvg-logo="http://u.meulogin.net:80/images/109cdb8901bf793f95f6bca6c6fa7260.png" group-title="VARIEDADES E MUSICAIS",Discovery Home & Health SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/380
+#EXTINF:-1 tvg-id="33" tvg-name="Discovery ID FHD" tvg-logo="http://u.meulogin.net:80/images/af984b000eca07a9ec7e5fe0d1c7608b.png" group-title="DOCUMENTARIOS",Discovery ID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/719
+#EXTINF:-1 tvg-id="33" tvg-name="Discovery ID HD" tvg-logo="http://u.meulogin.net:80/images/af984b000eca07a9ec7e5fe0d1c7608b.png" group-title="DOCUMENTARIOS",Discovery ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/381
+#EXTINF:-1 tvg-id="33" tvg-name="Discovery ID SD" tvg-logo="http://u.meulogin.net:80/images/af984b000eca07a9ec7e5fe0d1c7608b.png" group-title="DOCUMENTARIOS",Discovery ID SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/382
+#EXTINF:-1 tvg-id="75" tvg-name="Discovery Kids 4K" tvg-logo="http://u.meulogin.net:80/images/9c0c52e751ad4a92f87c8238dccc439f.png" group-title="4K",Discovery Kids 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19289
+#EXTINF:-1 tvg-id="75" tvg-name="Discovery Kids FHD" tvg-logo="http://u.meulogin.net:80/images/9c0c52e751ad4a92f87c8238dccc439f.png" group-title="INFANTIL",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/720
+#EXTINF:-1 tvg-id="75" tvg-name="Discovery Kids HD" tvg-logo="http://ux.minhatela.vip:80/images/9c0c52e751ad4a92f87c8238dccc439f.png" group-title="INFANTIL",Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/383
+#EXTINF:-1 tvg-id="75" tvg-name="Discovery Kids SD" tvg-logo="http://u.meulogin.net:80/images/9c0c52e751ad4a92f87c8238dccc439f.png" group-title="INFANTIL",Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/384
+#EXTINF:-1 tvg-id="135" tvg-name="Discovery Science 4K" tvg-logo="http://u.meulogin.net:80/images/83e8295a87cb4fe212c191a875cfde6a.png" group-title="4K",Discovery Science 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19288
+#EXTINF:-1 tvg-id="135" tvg-name="Discovery Science FHD" tvg-logo="http://u.meulogin.net:80/images/83e8295a87cb4fe212c191a875cfde6a.png" group-title="DOCUMENTARIOS",Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/721
+#EXTINF:-1 tvg-id="135" tvg-name="Discovery Science HD" tvg-logo="http://ux.minhatela.vip:80/images/83e8295a87cb4fe212c191a875cfde6a.png" group-title="DOCUMENTARIOS",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/385
+#EXTINF:-1 tvg-id="135" tvg-name="Discovery Science SD" tvg-logo="http://u.meulogin.net:80/images/83e8295a87cb4fe212c191a875cfde6a.png" group-title="DOCUMENTARIOS",Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/386
+#EXTINF:-1 tvg-id="137" tvg-name="Discovery Theater 4K" tvg-logo="http://ux.minhatela.vip:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png" group-title="4K",Discovery Theater 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19299
+#EXTINF:-1 tvg-id="137" tvg-name="Discovery Theater FHD" tvg-logo="http://u.meulogin.net:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png" group-title="DOCUMENTARIOS",Discovery Theater FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/722
+#EXTINF:-1 tvg-id="137" tvg-name="Discovery Theater HD" tvg-logo="http://ux.minhatela.vip:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png" group-title="DOCUMENTARIOS",Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/387
+#EXTINF:-1 tvg-id="137" tvg-name="Discovery Theater SD" tvg-logo="http://u.meulogin.net:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png" group-title="DOCUMENTARIOS",Discovery Theater SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/388
+#EXTINF:-1 tvg-id="146" tvg-name="Discovery TLC FHD" tvg-logo="http://u.meulogin.net:80/images/edeb2bea22b86124259fef522de69a74.png" group-title="VARIEDADES E MUSICAIS",Discovery TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/723
+#EXTINF:-1 tvg-id="146" tvg-name="Discovery TLC HD" tvg-logo="http://ux.minhatela.vip:80/images/edeb2bea22b86124259fef522de69a74.png" group-title="VARIEDADES E MUSICAIS",Discovery TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/389
+#EXTINF:-1 tvg-id="146" tvg-name="Discovery TLC SD" tvg-logo="http://u.meulogin.net:80/images/edeb2bea22b86124259fef522de69a74.png" group-title="VARIEDADES E MUSICAIS",Discovery TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/390
+#EXTINF:-1 tvg-id="136" tvg-name="Discovery Turbo 4K" tvg-logo="http://ux.minhatela.vip:80/images/19be119bdc4a08de33cb443c5f72f5c9.png" group-title="4K",Discovery Turbo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19300
+#EXTINF:-1 tvg-id="136" tvg-name="Discovery Turbo FHD" tvg-logo="http://ux.minhatela.vip:80/images/19be119bdc4a08de33cb443c5f72f5c9.png" group-title="DOCUMENTARIOS",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/724
+#EXTINF:-1 tvg-id="136" tvg-name="Discovery Turbo HD" tvg-logo="http://ux.minhatela.vip:80/images/19be119bdc4a08de33cb443c5f72f5c9.png" group-title="DOCUMENTARIOS",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/391
+#EXTINF:-1 tvg-id="136" tvg-name="Discovery Turbo SD" tvg-logo="http://u.meulogin.net:80/images/19be119bdc4a08de33cb443c5f72f5c9.png" group-title="DOCUMENTARIOS",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/392
+#EXTINF:-1 tvg-id="138" tvg-name="Discovery World 4K" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="4K",Discovery World 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19301
+#EXTINF:-1 tvg-id="138" tvg-name="Discovery World FHD" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="DOCUMENTARIOS",Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/725
+#EXTINF:-1 tvg-id="138" tvg-name="Discovery World HD" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="DOCUMENTARIOS",Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/393
+#EXTINF:-1 tvg-id="138" tvg-name="Discovery World SD" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="DOCUMENTARIOS",Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/394
+#EXTINF:-1 tvg-id="76" tvg-name="Disney Channel 4K" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png" group-title="4K",Disney Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19302
+#EXTINF:-1 tvg-id="76" tvg-name="Disney Channel FHD" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png" group-title="INFANTIL",Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/726
+#EXTINF:-1 tvg-id="76" tvg-name="Disney Channel HD" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png" group-title="INFANTIL",Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/395
+#EXTINF:-1 tvg-id="76" tvg-name="Disney Channel SD" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png" group-title="INFANTIL",Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/396
+#EXTINF:-1 tvg-id="77" tvg-name="Disney Junior 4K" tvg-logo="http://u.meulogin.net:80/images/9a35d3d10e7169e74011bd13ffe9121e.png" group-title="4K",Disney Junior 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19303
+#EXTINF:-1 tvg-id="77" tvg-name="Disney Junior FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a35d3d10e7169e74011bd13ffe9121e.png" group-title="INFANTIL",Disney Junior FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/727
+#EXTINF:-1 tvg-id="77" tvg-name="Disney Junior HD" tvg-logo="http://u.meulogin.net:80/images/9a35d3d10e7169e74011bd13ffe9121e.png" group-title="INFANTIL",Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/397
+#EXTINF:-1 tvg-id="77" tvg-name="Disney Junior SD" tvg-logo="http://u.meulogin.net:80/images/9a35d3d10e7169e74011bd13ffe9121e.png" group-title="INFANTIL",Disney Junior SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/398
+#EXTINF:-1 tvg-id="78" tvg-name="Disney XD FHD" tvg-logo="http://u.meulogin.net:80/images/27254a9e9c9000444092f5f284209baa.png" group-title="INFANTIL",Disney XD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/728
+#EXTINF:-1 tvg-id="78" tvg-name="Disney XD HD" tvg-logo="http://ux.minhatela.vip:80/images/267fc4f5d8e703aab0ec649dd0cabbe4.png" group-title="INFANTIL",Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/399
+#EXTINF:-1 tvg-id="78" tvg-name="Disney XD SD" tvg-logo="http://u.meulogin.net:80/images/267fc4f5d8e703aab0ec649dd0cabbe4.png" group-title="INFANTIL",Disney XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/400
+#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="Dog TV FHD" tvg-logo="http://u.meulogin.net:80/images/5ae660ee8f961c6775cc522677d38812.png" group-title="DOCUMENTARIOS",Dog TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/52230
+#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="Dog TV HD" tvg-logo="http://u.meulogin.net:80/images/5ae660ee8f961c6775cc522677d38812.png" group-title="DOCUMENTARIOS",Dog TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/401
+#EXTINF:-1 tvg-id="" tvg-name="Dora Aventureira" tvg-logo="https://i.ibb.co/rcKcPnk/24hDoraAventureira.png" group-title="24 HORAS",Dora Aventureira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69020
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL TV FHD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",DORCEL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/829
+#EXTINF:-1 tvg-id="" tvg-name="Doug" tvg-logo="https://i.ibb.co/v121968/24hDoug.png" group-title="24 HORAS",Doug
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69021
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="https://i.ibb.co/G7bcYbY/24hDragonBall.png" group-title="24 HORAS",Dragon Ball
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69022
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://i.ibb.co/x3BdRwx/24hDBS.png" group-title="24 HORAS",Dragon Ball Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69023
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://i.ibb.co/S5x2Vfh/24hDBZ.png" group-title="24 HORAS",Dragon Ball Z
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69024
+#EXTINF:-1 tvg-id="96" tvg-name="E! 4K" tvg-logo="http://ux.minhatela.vip:80/images/c8708fe55ef859a01e78e994081da865.png" group-title="4K",E! 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19304
+#EXTINF:-1 tvg-id="96" tvg-name="E! FHD" tvg-logo="http://u.meulogin.net:80/images/c8708fe55ef859a01e78e994081da865.png" group-title="VARIEDADES E MUSICAIS",E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/729
+#EXTINF:-1 tvg-id="96" tvg-name="E! HD" tvg-logo="http://ux.minhatela.vip:80/images/c8708fe55ef859a01e78e994081da865.png" group-title="VARIEDADES E MUSICAIS",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/402
+#EXTINF:-1 tvg-id="96" tvg-name="E! SD" tvg-logo="http://u.meulogin.net:80/images/c8708fe55ef859a01e78e994081da865.png" group-title="VARIEDADES E MUSICAIS",E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/403
+#EXTINF:-1 tvg-id="" tvg-name="Escolinha do Professor Raimundo" tvg-logo="http://img.kudaplay.com/1591294369_escolinhaprofessorraimundoposter.png" group-title="24 HORAS",Escolinha do Professor Raimundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69025
+#EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 4K" tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="4K",ESPN 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19305
+#EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 FHD" tvg-logo="http://u.meulogin.net:80/images/cc48e426d6ab61da2fd9968525485ca0.png" group-title="ESPORTES",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/730
+#EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 HD" tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="ESPORTES",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/404
+#EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 SD" tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="ESPORTES",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/405
+#EXTINF:-1 tvg-id="51" tvg-name="ESPN 4K" tvg-logo="http://ux.minhatela.vip:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="4K",ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/250
+#EXTINF:-1 tvg-id="52" tvg-name="ESPN Brasil 4K" tvg-logo="http://ux.minhatela.vip:80/images/bba257fc058a306683a358acfdcb1134.png" group-title="4K",ESPN Brasil 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19306
+#EXTINF:-1 tvg-id="52" tvg-name="ESPN Brasil FHD" tvg-logo="http://u.meulogin.net:80/images/bba257fc058a306683a358acfdcb1134.png" group-title="ESPORTES",ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/731
+#EXTINF:-1 tvg-id="52" tvg-name="ESPN Brasil HD" tvg-logo="http://ux.minhatela.vip:80/images/bba257fc058a306683a358acfdcb1134.png" group-title="ESPORTES",ESPN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/406
+#EXTINF:-1 tvg-id="52" tvg-name="ESPN Brasil SD" tvg-logo="http://u.meulogin.net:80/images/bba257fc058a306683a358acfdcb1134.png" group-title="ESPORTES",ESPN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/407
+#EXTINF:-1 tvg-id="54" tvg-name="ESPN Extra 4K" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="4K",ESPN Extra 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19307
+#EXTINF:-1 tvg-id="54" tvg-name="ESPN Extra FHD" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="ESPORTES",ESPN Extra FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/408
+#EXTINF:-1 tvg-id="54" tvg-name="ESPN Extra HD" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="ESPORTES",ESPN Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/409
+#EXTINF:-1 tvg-id="54" tvg-name="ESPN Extra SD" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="ESPORTES",ESPN Extra SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19632
+#EXTINF:-1 tvg-id="51" tvg-name="ESPN FHD" tvg-logo="http://u.meulogin.net:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="ESPORTES",ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/732
+#EXTINF:-1 tvg-id="51" tvg-name="ESPN HD" tvg-logo="http://ux.minhatela.vip:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="ESPORTES",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/410
+#EXTINF:-1 tvg-id="51" tvg-name="ESPN SD" tvg-logo="http://u.meulogin.net:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="ESPORTES",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/411
+#EXTINF:-1 tvg-id="" tvg-name="Esta*dio TN*T Sp*or*ts 3 HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Esta*dio TN*T Sp*or*ts 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/42248
+#EXTINF:-1 tvg-id="" tvg-name="Esta*dio TN*T Spo*rts 2 HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Esta*dio TN*T Spo*rts 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/42246
+#EXTINF:-1 tvg-id="" tvg-name="Estadio T*NT Sp*orts 1 HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Estadio T*NT Sp*orts 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/42247
+#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="Estadio TNT Sports 4 HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Estadio TNT Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/418
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://i.ibb.co/sQN5zGk/24hEAPEAC.png" group-title="24 HORAS",Eu a Patroa e as Crianças
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69026
+#EXTINF:-1 tvg-id="" tvg-name="Faisca e Fumaça" tvg-logo="http://img.kudaplay.com/1591294369_faiscaefumacaposter.png" group-title="24 HORAS",Faisca e Fumaça
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69027
+#EXTINF:-1 tvg-id="29" tvg-name="Film & Art HD" tvg-logo="http://u.meulogin.net:80/images/ea84b20d99b06f12fbbebae4328b8088.png" group-title="FILMES E SERIES",Film & Art HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/420
+#EXTINF:-1 tvg-id="29" tvg-name="Film & Art SD" tvg-logo="http://u.meulogin.net:80/images/ea84b20d99b06f12fbbebae4328b8088.png" group-title="FILMES E SERIES",Film & Art SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/65253
+#EXTINF:-1 tvg-id="97" tvg-name="Fish TV 4K" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/fishtv.png" group-title="4K",Fish TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19310
+#EXTINF:-1 tvg-id="97" tvg-name="Fish TV FHD" tvg-logo="http://u.meulogin.net:80/images/0c11ae9278cec4657bdd4d3e04fbd41c.png" group-title="ESPORTES",Fish TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/421
+#EXTINF:-1 tvg-id="97" tvg-name="Fish TV HD" tvg-logo="http://ux.minhatela.vip:80/images/0c11ae9278cec4657bdd4d3e04fbd41c.png" group-title="ESPORTES",Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/422
+#EXTINF:-1 tvg-id="97" tvg-name="Fish TV SD" tvg-logo="http://ux.minhatela.vip:80/images/0c11ae9278cec4657bdd4d3e04fbd41c.png" group-title="ESPORTES",Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19634
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV+ *" tvg-logo="http://u.meulogin.net:80/images/1edb38382f208f4335e005bc0f165bd8.png" group-title="ESPORTES",FLA TV+ *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/423
+#EXTINF:-1 tvg-id="44" tvg-name="Food Network 4K" tvg-logo="http://ux.minhatela.vip:80/images/446e91a141776eba9d2d63cc90396e11.png" group-title="4K",Food Network 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19311
+#EXTINF:-1 tvg-id="44" tvg-name="Food Network FHD" tvg-logo="http://u.meulogin.net:80/images/446e91a141776eba9d2d63cc90396e11.png" group-title="VARIEDADES E MUSICAIS",Food Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/733
+#EXTINF:-1 tvg-id="44" tvg-name="Food Network HD" tvg-logo="http://ux.minhatela.vip:80/images/446e91a141776eba9d2d63cc90396e11.png" group-title="VARIEDADES E MUSICAIS",Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/424
+#EXTINF:-1 tvg-id="44" tvg-name="Food Network SD" tvg-logo="http://u.meulogin.net:80/images/446e91a141776eba9d2d63cc90396e11.png" group-title="VARIEDADES E MUSICAIS",Food Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/425
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atomica" tvg-logo="https://i.ibb.co/K7bnwQn/24hFormigaAtomica.png" group-title="24 HORAS",Formiga Atomica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69028
+#EXTINF:-1 tvg-id="56" tvg-name="Fox Sports 2 4K" tvg-logo="http://ux.minhatela.vip:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png" group-title="4K",Fox Sports 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/251
+#EXTINF:-1 tvg-id="56" tvg-name="Fox Sports 2 FHD" tvg-logo="http://u.meulogin.net:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png" group-title="ESPORTES",Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/734
+#EXTINF:-1 tvg-id="56" tvg-name="Fox Sports 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png" group-title="ESPORTES",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/426
+#EXTINF:-1 tvg-id="56" tvg-name="Fox Sports 2 SD" tvg-logo="http://u.meulogin.net:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png" group-title="ESPORTES",Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/427
+#EXTINF:-1 tvg-id="55" tvg-name="Fox Sports 4K" tvg-logo="http://ux.minhatela.vip:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="4K",Fox Sports 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/252
+#EXTINF:-1 tvg-id="55" tvg-name="Fox Sports FHD" tvg-logo="http://u.meulogin.net:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="ESPORTES",Fox Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/735
+#EXTINF:-1 tvg-id="55" tvg-name="Fox Sports HD" tvg-logo="http://ux.minhatela.vip:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="ESPORTES",Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/428
+#EXTINF:-1 tvg-id="55" tvg-name="Fox Sports SD" tvg-logo="http://u.meulogin.net:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="ESPORTES",Fox Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/429
+#EXTINF:-1 tvg-id="98" tvg-name="Futura FHD" tvg-logo="https://i.ibb.co/H7NWYNB/B-Futura-SD.png" group-title="ABERTOS",Futura FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/65215
+#EXTINF:-1 tvg-id="98" tvg-name="Futura HD" tvg-logo="https://i.ibb.co/WxGgFrw/B-Futura-HD.png" group-title="ABERTOS",Futura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64277
+#EXTINF:-1 tvg-id="98" tvg-name="Futura SD" tvg-logo="https://i.ibb.co/H7NWYNB/B-Futura-SD.png" group-title="ABERTOS",Futura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64276
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://i.ibb.co/cF1QRZB/24hFuturama.png" group-title="24 HORAS",Futurama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69029
+#EXTINF:-1 tvg-id="23" tvg-name="FX 4K" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png" group-title="4K",FX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19315
+#EXTINF:-1 tvg-id="23" tvg-name="FX FHD" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png" group-title="FILMES E SERIES",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/736
+#EXTINF:-1 tvg-id="23" tvg-name="FX HD" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png" group-title="FILMES E SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/430
+#EXTINF:-1 tvg-id="23" tvg-name="FX SD" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png" group-title="FILMES E SERIES",FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/431
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="http://img.kudaplay.com/1591363059_galinhapintadinhaposter.png" group-title="24 HORAS",Galinha Pintadinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69030
+#EXTINF:-1 tvg-id="" tvg-name="Garfield" tvg-logo="https://i.ibb.co/BsmvbL5/24hGarfield.png" group-title="24 HORAS",Garfield
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69031
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Brasilia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/738
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/433
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Brasilia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/434
+#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br" tvg-name="Globo Centro America Cuiaba FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Centro America Cuiaba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/435
+#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br" tvg-name="Globo Centro America Cuiabá HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Centro America Cuiabá HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/436
+#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br" tvg-name="Globo Centro America Cuiabá SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Centro America Cuiabá SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19788
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/437
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/438
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/439
+#EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="Globo EPTV Ribeirao Preto FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19727
+#EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/440
+#EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/441
+#EXTINF:-1 tvg-id="EPTVCentralHD.br" tvg-name="Globo EPTV Sao Carlos HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Sao Carlos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/442
+#EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Sul de Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/443
+#EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/444
+#EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Sul de Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/445
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Grande Minas SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter Grande Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64278
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo Inter TV Cabugi Natal FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV Cabugi Natal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/447
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo Inter TV Cabugi Natal HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV Cabugi Natal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/448
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo Inter TV Cabugi Natal SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV Cabugi Natal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19730
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV Serra Mar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/453
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo InterTV Alto Litoral FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo InterTV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/455
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Minas FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/740
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Minas HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/457
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Minas SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/458
+#EXTINF:-1 tvg-id="156" tvg-name="Globo News FHD" tvg-logo="http://u.meulogin.net:80/images/cbccda3bc673694741ed8ef7e54f6950.png" group-title="NOTICIAS",Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/741
+#EXTINF:-1 tvg-id="156" tvg-name="Globo News HD" tvg-logo="http://u.meulogin.net:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/459
+#EXTINF:-1 tvg-id="156" tvg-name="Globo News SD" tvg-logo="http://u.meulogin.net:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/460
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/742
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/461
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Nordeste SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/462
+#EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="Globo NSC Blumenau FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Blumenau FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/743
+#EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="Globo NSC Blumenau HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Blumenau HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/463
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Blumenau SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Blumenau SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64299
+#EXTINF:-1 tvg-id="NSCTVCriciuma" tvg-name="Globo NSC Criciúma FHD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Criciúma FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/746
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Criciúma SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Criciúma SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64300
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="Globo NSC Florianopolis FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Florianopolis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/464
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="Globo NSC Florianopolis HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Florianopolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/465
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="Globo NSC Florianopolis SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Florianopolis SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/466
+#EXTINF:-1 tvg-id="NSCTVJoinvilleHD.br" tvg-name="Globo NSC Joinville FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Joinville FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/747
+#EXTINF:-1 tvg-id="NSCTVJoinvilleHD.br" tvg-name="Globo NSC Joinville HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Joinville HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/467
+#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS Porto Alegre FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Porto Alegre FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/749
+#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Porto Alegre HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/471
+#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS Porto Alegre SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Porto Alegre SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/472
+#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazonica Manaus SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazonica Manaus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/751
+#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/474
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/752
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/475
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/476
+#EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="Globo RJ TV Rio Sul FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RJ TV Rio Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/477
+#EXTINF:-1 tvg-id="RPCuritiba" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Curitiba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/753
+#EXTINF:-1 tvg-id="RPCuritiba" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/479
+#EXTINF:-1 tvg-id="RPCuritiba" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Curitiba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/480
+#EXTINF:-1 tvg-id="RPCMaringa" tvg-name="Globo RPC Maringa HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/482
+#EXTINF:-1 tvg-id="RPCMaringa" tvg-name="Globo RPC Maringá FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Maringá FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/755
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringá SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Maringá SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64302
+#EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="Globo Sergipe FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Sergipe FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/757
+#EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="Globo Sergipe HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/485
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/758
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/486
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/487
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Acre HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Acre HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64280
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Acre SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Acre SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64279
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhaguera FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Anhaguera FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64282
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhaguera HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Anhaguera HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64283
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhaguera SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Anhaguera SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64281
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca PE FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Asa Branca PE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/759
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Bahia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/488
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/489
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia Santa Cruz FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Bahia Santa Cruz FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/490
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/491
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64285
+#EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="Globo TV Cabo Branco HD (Paraíba)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Cabo Branco HD (Paraíba)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/492
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Cabo Branco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64284
+#EXTINF:-1 tvg-id="Globo Teresina" tvg-name="Globo TV Clube FHD (Piaui)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Clube FHD (Piaui)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/760
+#EXTINF:-1 tvg-id="Globo Teresina" tvg-name="Globo TV Clube HD (Piaui)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Clube HD (Piaui)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/493
+#EXTINF:-1 tvg-id="Globo Teresina" tvg-name="Globo TV Clube SD* (Piaui)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Clube SD* (Piaui)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/494
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Costa Branca HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Costa Branca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64287
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Costa Branca SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Costa Branca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64286
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV EPTV Central S Carlos FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV EPTV Central S Carlos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64289
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV EPTV Central S Carlos SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV EPTV Central S Carlos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64288
+#EXTINF:-1 tvg-id="Tvfronteira.br" tvg-name="Globo TV Fronteira HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Fronteira HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19751
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Fronteira SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Fronteira SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64291
+#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/497
+#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/498
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="Globo TV Gazeta ES FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta ES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/761
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="Globo TV Gazeta ES HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/499
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta ES SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta ES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64292
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/500
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Inter Grande Minas FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Inter Grande Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64293
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Inter Grande Minas HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Inter Grande Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64294
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo TV Inter Serra Mar FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Inter Serra Mar FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64296
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo TV Inter Serra Mar SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Inter Serra Mar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64295
+#EXTINF:-1 tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal  HD (Belém)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Liberal  HD (Belém)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/504
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal FHD (Belém)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Liberal FHD (Belém)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64297
+#EXTINF:-1 tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal SD (Belém)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Liberal SD (Belém)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19756
+#EXTINF:-1 tvg-id="TVSaoLuisHD" tvg-name="Globo TV Mirante FHD (São Luís)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Mirante FHD (São Luís)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/764
+#EXTINF:-1 tvg-id="TVSaoLuisHD" tvg-name="Globo TV Mirante HD (São Luís)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Mirante HD (São Luís)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/505
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SD (São Luís)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Mirante SD (São Luís)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64298
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV NSC Joinville SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV NSC Joinville SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64301
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Rio Sul SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64303
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Roraima HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Roraima HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64307
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Roraima SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Roraima SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64306
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64308
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Sergipe SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64309
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem Bauru FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Bauru FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/508
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem Bauru HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Bauru HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/509
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Bauru SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Bauru SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64310
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV TEM Itapetininga FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64312
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="Globo TV Tem Itapetininga HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Itapetininga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/510
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV TEM Itapetininga SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64311
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Tem Sao Jose do Rio Preto FHD" tvg-logo="" group-title="GLOBO",Globo TV Tem Sao Jose do Rio Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19768
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Tem Sao Jose do Rio Preto HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Sao Jose do Rio Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/511
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sao Jose do Rio Preto SD" tvg-logo="" group-title="GLOBO",Globo TV Tem Sao Jose do Rio Preto SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64313
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Sorocaba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19770
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/512
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Sorocaba SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV TEM Sorocaba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64314
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="Globo TV Tribuna Santos FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tribuna Santos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19772
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tribuna Santos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/513
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19773
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda SJC HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Vanguarda SJC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64316
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda SJC SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Vanguarda SJC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64315
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda Taubate" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Vanguarda Taubate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64317
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Cariri FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Verdes Mares Cariri FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64319
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Cariri HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Verdes Mares Cariri HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64320
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Cariri SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Verdes Mares Cariri SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64318
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="Globo TV Verdes Mares Fortaleza FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Verdes Mares Fortaleza FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19776
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Verdes Mares Fortaleza HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/515
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="Globo TV Verdes Mares Fortaleza SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Verdes Mares Fortaleza SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19777
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV",Globo TV EPTV Central S Carlos HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV",Globo TV EPTV Central S Carlos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64290
+#EXTINF:-1 tvg-id="79" tvg-name="Gloob 4K" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png" group-title="4K",Gloob 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41581
+#EXTINF:-1 tvg-id="79" tvg-name="Gloob FHD" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png" group-title="INFANTIL",Gloob FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/766
+#EXTINF:-1 tvg-id="79" tvg-name="Gloob HD" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png" group-title="INFANTIL",Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/516
+#EXTINF:-1 tvg-id="79" tvg-name="Gloob SD" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png" group-title="INFANTIL",Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/517
+#EXTINF:-1 tvg-id="80" tvg-name="Gloobinho FHD" tvg-logo="http://u.meulogin.net:80/images/918911a351d5b29b741b68282ba16536.png" group-title="INFANTIL",Gloobinho FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/56183
+#EXTINF:-1 tvg-id="80" tvg-name="Gloobinho HD" tvg-logo="http://u.meulogin.net:80/images/918911a351d5b29b741b68282ba16536.png" group-title="INFANTIL",Gloobinho HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/518
+#EXTINF:-1 tvg-id="80" tvg-name="Gloobinho SD" tvg-logo="http://u.meulogin.net:80/images/918911a351d5b29b741b68282ba16536.png" group-title="INFANTIL",Gloobinho SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/54614
+#EXTINF:-1 tvg-id="99" tvg-name="GNT 4K" tvg-logo="http://u.meulogin.net:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png" group-title="4K",GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41582
+#EXTINF:-1 tvg-id="99" tvg-name="GNT FHD" tvg-logo="http://u.meulogin.net:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png" group-title="VARIEDADES E MUSICAIS",GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/767
+#EXTINF:-1 tvg-id="99" tvg-name="GNT HD" tvg-logo="http://ux.minhatela.vip:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png" group-title="VARIEDADES E MUSICAIS",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/519
+#EXTINF:-1 tvg-id="99" tvg-name="GNT SD" tvg-logo="http://u.meulogin.net:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png" group-title="VARIEDADES E MUSICAIS",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/520
+#EXTINF:-1 tvg-id="139" tvg-name="H2 4K" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png" group-title="4K",H2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19318
+#EXTINF:-1 tvg-id="139" tvg-name="H2 FHD" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png" group-title="DOCUMENTARIOS",H2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/768
+#EXTINF:-1 tvg-id="139" tvg-name="H2 HD" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png" group-title="DOCUMENTARIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/522
+#EXTINF:-1 tvg-id="139" tvg-name="H2 SD" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png" group-title="DOCUMENTARIOS",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/523
+#EXTINF:-1 tvg-id="5" tvg-name="HBO 2 FHD" tvg-logo="http://u.meulogin.net:80/images/9abd0aec96762a58ec0ed3eb84dfa72a.png" group-title="HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/769
+#EXTINF:-1 tvg-id="5" tvg-name="HBO 2 HD" tvg-logo="http://u.meulogin.net:80/images/9abd0aec96762a58ec0ed3eb84dfa72a.png" group-title="HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/524
+#EXTINF:-1 tvg-id="5" tvg-name="HBO 2 SD" tvg-logo="http://u.meulogin.net:80/images/9abd0aec96762a58ec0ed3eb84dfa72a.png" group-title="HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/525
+#EXTINF:-1 tvg-id="4" tvg-name="HBO 4K" tvg-logo="http://ux.minhatela.vip:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="4K",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/255
+#EXTINF:-1 tvg-id="6" tvg-name="Hbo Family 4K" tvg-logo="http://ux.minhatela.vip:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png" group-title="4K",Hbo Family 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41583
+#EXTINF:-1 tvg-id="6" tvg-name="HBO Family FHD" tvg-logo="http://u.meulogin.net:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png" group-title="HBO",HBO Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/770
+#EXTINF:-1 tvg-id="6" tvg-name="HBO Family HD" tvg-logo="http://ux.minhatela.vip:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png" group-title="HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/526
+#EXTINF:-1 tvg-id="6" tvg-name="HBO Family SD" tvg-logo="http://u.meulogin.net:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png" group-title="HBO",HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/527
+#EXTINF:-1 tvg-id="4" tvg-name="HBO FHD" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="HBO",HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/771
+#EXTINF:-1 tvg-id="4" tvg-name="HBO HD" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/528
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD LEG" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="LEGENDADOS",HBO HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64321
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png" group-title="HBO MAX",HBO MAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/49353
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png" group-title="HBO MAX",HBO MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/49354
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png" group-title="HBO MAX",HBO MAX 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/68167
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png" group-title="HBO MAX",HBO MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/68168
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 5" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png" group-title="HBO MAX",HBO MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/68169
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 6" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png" group-title="HBO MAX",HBO MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/68170
+#EXTINF:-1 tvg-id="9" tvg-name="HBO Mundi 4K" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="4K",HBO Mundi 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41584
+#EXTINF:-1 tvg-id="9" tvg-name="HBO Mundi FHD" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="HBO",HBO Mundi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/772
+#EXTINF:-1 tvg-id="9" tvg-name="HBO Mundi HD" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="HBO",HBO Mundi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/529
+#EXTINF:-1 tvg-id="9" tvg-name="HBO Mundi SD" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="HBO",HBO Mundi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/530
+#EXTINF:-1 tvg-id="7" tvg-name="HBO Plus 4K" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png" group-title="4K",HBO Plus 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41585
+#EXTINF:-1 tvg-id="7" tvg-name="HBO Plus FHD" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png" group-title="HBO",HBO Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64322
+#EXTINF:-1 tvg-id="7" tvg-name="HBO Plus*e HD" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png" group-title="HBO",HBO Plus*e HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/531
+#EXTINF:-1 tvg-id="7" tvg-name="HBO Plus*e SD" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png" group-title="HBO",HBO Plus*e SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/532
+#EXTINF:-1 tvg-id="11" tvg-name="HBO Pop 4K" tvg-logo="http://ux.minhatela.vip:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png" group-title="4K",HBO Pop 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41586
+#EXTINF:-1 tvg-id="11" tvg-name="HBO Pop FHD" tvg-logo="http://u.meulogin.net:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png" group-title="HBO",HBO Pop FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/773
+#EXTINF:-1 tvg-id="11" tvg-name="HBO Pop HD" tvg-logo="http://ux.minhatela.vip:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png" group-title="HBO",HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/533
+#EXTINF:-1 tvg-id="11" tvg-name="HBO Pop SD" tvg-logo="http://u.meulogin.net:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png" group-title="HBO",HBO Pop SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/534
+#EXTINF:-1 tvg-id="4" tvg-name="HBO SD" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/535
+#EXTINF:-1 tvg-id="8" tvg-name="HBO Signature 4K" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="4K",HBO Signature 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41587
+#EXTINF:-1 tvg-id="8" tvg-name="HBO Signature FHD" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="HBO",HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/774
+#EXTINF:-1 tvg-id="8" tvg-name="HBO Signature HD" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="HBO",HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/536
+#EXTINF:-1 tvg-id="8" tvg-name="HBO Signature SD" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="HBO",HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/537
+#EXTINF:-1 tvg-id="10" tvg-name="HBO Xtreme 4K" tvg-logo="http://ux.minhatela.vip:80/images/227c5a7767e2742104de1c193474174b.png" group-title="4K",HBO Xtreme 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/256
+#EXTINF:-1 tvg-id="10" tvg-name="HBO Xtreme FHD" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png" group-title="HBO",HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/775
+#EXTINF:-1 tvg-id="10" tvg-name="HBO Xtreme HD" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png" group-title="HBO",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/538
+#EXTINF:-1 tvg-id="10" tvg-name="HBO Xtreme SD" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png" group-title="HBO",HBO Xtreme SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/539
+#EXTINF:-1 tvg-id="7" tvg-name="HBO+ FHD" tvg-logo="http://u.meulogin.net:80/images/befde0d60872178095d9d53615baceb1.png" group-title="HBO",HBO+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/776
+#EXTINF:-1 tvg-id="7" tvg-name="HBO+ HD" tvg-logo="http://u.meulogin.net:80/images/befde0d60872178095d9d53615baceb1.png" group-title="HBO",HBO+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/540
+#EXTINF:-1 tvg-id="" tvg-name="He Man" tvg-logo="http://img.kudaplay.com/1591363057_hemanposter.png" group-title="24 HORAS",He Man
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69032
+#EXTINF:-1 tvg-id="141" tvg-name="History Channel 4K" tvg-logo="http://u.meulogin.net:80/images/abf325e23244585e942b2b69cbb7f49c.png" group-title="4K",History Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19317
+#EXTINF:-1 tvg-id="141" tvg-name="History Channel FHD" tvg-logo="http://u.meulogin.net:80/images/abf325e23244585e942b2b69cbb7f49c.png" group-title="DOCUMENTARIOS",History Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/778
+#EXTINF:-1 tvg-id="141" tvg-name="History Channel HD" tvg-logo="http://u.meulogin.net:80/images/abf325e23244585e942b2b69cbb7f49c.png" group-title="DOCUMENTARIOS",History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/544
+#EXTINF:-1 tvg-id="141" tvg-name="History Channel SD" tvg-logo="http://u.meulogin.net:80/images/abf325e23244585e942b2b69cbb7f49c.png" group-title="DOCUMENTARIOS",History Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/545
+#EXTINF:-1 tvg-id="" tvg-name="Homem Aranha" tvg-logo="http://img.kudaplay.com/1591363058_homemaranhaposter.png" group-title="24 HORAS",Homem Aranha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69033
+#EXTINF:-1 tvg-id="" tvg-name="I-Sat FHD" tvg-logo="https://i.ibb.co/zQt0vHf/B-ISAT-FHD.png" group-title="ABERTOS",I-Sat FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64324
+#EXTINF:-1 tvg-id="" tvg-name="I-Sat HD" tvg-logo="https://i.ibb.co/S0LdvsV/B-ISAT-HD.png" group-title="ABERTOS",I-Sat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64325
+#EXTINF:-1 tvg-id="" tvg-name="I-Sat SD" tvg-logo="https://i.ibb.co/nsjrnWw/B-ISAT-SD.png" group-title="ABERTOS",I-Sat SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64323
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Mundial do Poder de Deus" tvg-logo="" group-title="RELIGIOSOS",Igreja Mundial do Poder de Deus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/44696
+#EXTINF:-1 tvg-id="" tvg-name="Irmão do Jorel" tvg-logo="http://img.kudaplay.com/1591363058_irmaodojorelposter.png" group-title="24 HORAS",Irmão do Jorel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69034
+#EXTINF:-1 tvg-id="" tvg-name="Jhony Quest" tvg-logo="" group-title="24 HORAS",Jhony Quest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69035
+#EXTINF:-1 tvg-id="" tvg-name="Jojozinho" tvg-logo="https://i.ibb.co/0fvRVYC/24hJoJo.png" group-title="24 HORAS",Jojozinho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69036
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News FHD" tvg-logo="http://masterfull.ga:80/images/b27c106d5bf2a83df462388613ed0570.png" group-title="NOTICIAS",Jovem Pan News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/61982
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD" tvg-logo="http://masterfull.ga:80/images/b27c106d5bf2a83df462388613ed0570.png" group-title="NOTICIAS",Jovem Pan News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/61983
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados" tvg-logo="http://img.kudaplay.com/1591363072_largadosepeladosposter.png" group-title="24 HORAS",Largados e Pelados
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69037
+#EXTINF:-1 tvg-id="34" tvg-name="Lifetime 4K" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png" group-title="4K",Lifetime 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19319
+#EXTINF:-1 tvg-id="34" tvg-name="Lifetime FHD" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png" group-title="VARIEDADES E MUSICAIS",Lifetime FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/779
+#EXTINF:-1 tvg-id="34" tvg-name="Lifetime HD" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png" group-title="VARIEDADES E MUSICAIS",Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/547
+#EXTINF:-1 tvg-id="34" tvg-name="Lifetime SD" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png" group-title="VARIEDADES E MUSICAIS",Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/548
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça" tvg-logo="https://i.ibb.co/bW8Hyc3/24hLDJ.png" group-title="24 HORAS",Liga da Justiça
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69038
+#EXTINF:-1 tvg-id="160" tvg-name="Loading HD" tvg-logo="http://u.meulogin.net:80/images/67d2f3a20356ea90c304fed9989f2e2e.png" group-title="INFANTIL",Loading HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/549
+#EXTINF:-1 tvg-id="161" tvg-name="Loading SD" tvg-logo="http://u.meulogin.net:80/images/67d2f3a20356ea90c304fed9989f2e2e.png" group-title="INFANTIL",Loading SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64326
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha" tvg-logo="http://img.kudaplay.com/1591363071_luluzinhapng.png" group-title="24 HORAS",Luluzinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69039
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar" tvg-logo="https://i.ibb.co/VN9YYFf/24hMadagascar.png" group-title="24 HORAS",Madagascar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69040
+#EXTINF:-1 tvg-id="41" tvg-name="Mais na Tela FHD" tvg-logo="http://u.meulogin.net:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png" group-title="VARIEDADES E MUSICAIS",Mais na Tela FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/780
+#EXTINF:-1 tvg-id="41" tvg-name="Mais na Tela HD" tvg-logo="http://ux.minhatela.vip:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png" group-title="VARIEDADES E MUSICAIS",Mais na Tela HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/550
+#EXTINF:-1 tvg-id="41" tvg-name="Mais na Tela SD" tvg-logo="http://u.meulogin.net:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png" group-title="VARIEDADES E MUSICAIS",Mais na Tela SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/551
+#EXTINF:-1 tvg-id="" tvg-name="Marsha e o Urso" tvg-logo="http://img.kudaplay.com/1591363071_marshaeoursoposter.png" group-title="24 HORAS",Marsha e o Urso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69041
+#EXTINF:-1 tvg-id="12" tvg-name="Megapix 4K" tvg-logo="http://ux.minhatela.vip:80/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="4K",Megapix 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/257
+#EXTINF:-1 tvg-id="12" tvg-name="Megapix FHD" tvg-logo="http://u.meulogin.net:80/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="FILMES E SERIES",Megapix FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/781
+#EXTINF:-1 tvg-id="12" tvg-name="Megapix HD" tvg-logo="http://u.meulogin.net:80/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="FILMES E SERIES",Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/552
+#EXTINF:-1 tvg-id="12" tvg-name="Megapix SD" tvg-logo="http://u.meulogin.net:80/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="FILMES E SERIES",Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/553
+#EXTINF:-1 tvg-id="" tvg-name="Meu AmigaoZão" tvg-logo="http://img.kudaplay.com/1591363071_meuamigaozaoposter.png" group-title="24 HORAS",Meu AmigaoZão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69042
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse" tvg-logo="http://img.kudaplay.com/1591363072_mickeymouseposter.png" group-title="24 HORAS",Mickey Mouse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69043
+#EXTINF:-1 tvg-id="125" tvg-name="MTV FHD" tvg-logo="http://u.meulogin.net:80/images/50a6b417bc08ed6f3e27a8ce0f3fdec2.png" group-title="VARIEDADES E MUSICAIS",MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/782
+#EXTINF:-1 tvg-id="125" tvg-name="MTV HD" tvg-logo="http://u.meulogin.net:80/images/50a6b417bc08ed6f3e27a8ce0f3fdec2.png" group-title="VARIEDADES E MUSICAIS",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/554
+#EXTINF:-1 tvg-id="125" tvg-name="MTV SD" tvg-logo="http://u.meulogin.net:80/images/50a6b417bc08ed6f3e27a8ce0f3fdec2.png" group-title="VARIEDADES E MUSICAIS",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/556
+#EXTINF:-1 tvg-id="101" tvg-name="Multishow 4K" tvg-logo="http://ux.minhatela.vip:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png" group-title="4K",Multishow 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/258
+#EXTINF:-1 tvg-id="101" tvg-name="Multishow FHD" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png" group-title="VARIEDADES E MUSICAIS",Multishow FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/784
+#EXTINF:-1 tvg-id="101" tvg-name="Multishow HD" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png" group-title="VARIEDADES E MUSICAIS",Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/557
+#EXTINF:-1 tvg-id="101" tvg-name="Multishow SD" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png" group-title="VARIEDADES E MUSICAIS",Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/558
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Bita" tvg-logo="http://img.kudaplay.com/1591372077_mundobitaposter.png" group-title="24 HORAS",Mundo Bita
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69044
+#EXTINF:-1 tvg-id="130" tvg-name="Music Box Brazil FHD" tvg-logo="http://u.meulogin.net:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="VARIEDADES E MUSICAIS",Music Box Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64328
+#EXTINF:-1 tvg-id="130" tvg-name="Music Box Brazil HD" tvg-logo="http://u.meulogin.net:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="VARIEDADES E MUSICAIS",Music Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/559
+#EXTINF:-1 tvg-id="130" tvg-name="Music Box Brazil SD" tvg-logo="http://u.meulogin.net:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="VARIEDADES E MUSICAIS",Music Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64327
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="http://img.kudaplay.com/1591372075_narutoposter.png" group-title="24 HORAS",Naruto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69045
+#EXTINF:-1 tvg-id="81" tvg-name="Nat Geo Kids FHD" tvg-logo="http://u.meulogin.net:80/images/c7dcb0d665453767c4b4977f07fe82a6.png" group-title="INFANTIL",Nat Geo Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/785
+#EXTINF:-1 tvg-id="81" tvg-name="Nat Geo Kids HD" tvg-logo="http://u.meulogin.net:80/images/c7dcb0d665453767c4b4977f07fe82a6.png" group-title="INFANTIL",Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/562
+#EXTINF:-1 tvg-id="81" tvg-name="Nat Geo Kids SD" tvg-logo="http://u.meulogin.net:80/images/c7dcb0d665453767c4b4977f07fe82a6.png" group-title="INFANTIL",Nat Geo Kids SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/563
+#EXTINF:-1 tvg-id="143" tvg-name="Nat Geo Wild 4K" tvg-logo="http://ux.minhatela.vip:80/images/e89de640698165d5cb5490b4bdadf495.png" group-title="4K",Nat Geo Wild 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19323
+#EXTINF:-1 tvg-id="143" tvg-name="NatGeo Wild FHD" tvg-logo="http://u.meulogin.net:80/images/e89de640698165d5cb5490b4bdadf495.png" group-title="DOCUMENTARIOS",NatGeo Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/786
+#EXTINF:-1 tvg-id="143" tvg-name="NatGeo Wild HD" tvg-logo="http://ux.minhatela.vip:80/images/e89de640698165d5cb5490b4bdadf495.png" group-title="DOCUMENTARIOS",NatGeo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/564
+#EXTINF:-1 tvg-id="143" tvg-name="NatGeo Wild SD" tvg-logo="http://u.meulogin.net:80/images/e89de640698165d5cb5490b4bdadf495.png" group-title="DOCUMENTARIOS",NatGeo Wild SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/565
+#EXTINF:-1 tvg-id="144" tvg-name="National Geographic 4K" tvg-logo="http://ux.minhatela.vip:80/images/f6e577e5efa19bd847bc4087337b9d61.png" group-title="4K",National Geographic 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/259
+#EXTINF:-1 tvg-id="144" tvg-name="National Geographic FHD" tvg-logo="http://u.meulogin.net:80/images/d1dc15b978656f52134ba0a9540af0cb.png" group-title="DOCUMENTARIOS",National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/787
+#EXTINF:-1 tvg-id="144" tvg-name="National Geographic HD" tvg-logo="http://u.meulogin.net:80/images/d1dc15b978656f52134ba0a9540af0cb.png" group-title="DOCUMENTARIOS",National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/566
+#EXTINF:-1 tvg-id="144" tvg-name="National Geographic SD" tvg-logo="http://u.meulogin.net:80/images/d1dc15b978656f52134ba0a9540af0cb.png" group-title="DOCUMENTARIOS",National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/567
+#EXTINF:-1 tvg-id="102" tvg-name="NHK FHD" tvg-logo="http://masterfull.ga:80/images/c31cc776d78b3ade62769030714f4da6.png" group-title="NOTICIAS",NHK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/66667
+#EXTINF:-1 tvg-id="82" tvg-name="Nick Jr FHD" tvg-logo="http://u.meulogin.net:80/images/5d98bc2fcb21bae6299efc6491539f9b.png" group-title="INFANTIL",Nick Jr FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/788
+#EXTINF:-1 tvg-id="82" tvg-name="Nick JR HD" tvg-logo="http://ux.minhatela.vip:80/images/5d98bc2fcb21bae6299efc6491539f9b.png" group-title="INFANTIL",Nick JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/568
+#EXTINF:-1 tvg-id="82" tvg-name="Nick Jr SD" tvg-logo="http://u.meulogin.net:80/images/5d98bc2fcb21bae6299efc6491539f9b.png" group-title="INFANTIL",Nick Jr SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/569
+#EXTINF:-1 tvg-id="83" tvg-name="Nicklodeon 4k" tvg-logo="http://u.meulogin.net:80/images/0275de523815a58abb800d3e1c4a649a.png" group-title="4K",Nicklodeon 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19324
+#EXTINF:-1 tvg-id="83" tvg-name="Nicklodeon FHD" tvg-logo="http://u.meulogin.net:80/images/0275de523815a58abb800d3e1c4a649a.png" group-title="INFANTIL",Nicklodeon FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/789
+#EXTINF:-1 tvg-id="83" tvg-name="Nicklodeon HD" tvg-logo="http://u.meulogin.net:80/images/0275de523815a58abb800d3e1c4a649a.png" group-title="INFANTIL",Nicklodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/570
+#EXTINF:-1 tvg-id="83" tvg-name="Nicklodeon SD" tvg-logo="http://u.meulogin.net:80/images/0275de523815a58abb800d3e1c4a649a.png" group-title="INFANTIL",Nicklodeon SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/571
+#EXTINF:-1 tvg-id="162" tvg-name="Novo Tempo FHD" tvg-logo="http://u.meulogin.net:80/images/5f9d7b16010d60033fc71b3e2c2633bd.png" group-title="RELIGIOSOS",Novo Tempo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64331
+#EXTINF:-1 tvg-id="161" tvg-name="Novo Tempo HD" tvg-logo="http://u.meulogin.net:80/images/5f9d7b16010d60033fc71b3e2c2633bd.png" group-title="RELIGIOSOS",Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/573
+#EXTINF:-1 tvg-id="162" tvg-name="Novo Tempo SD" tvg-logo="http://u.meulogin.net:80/images/5f9d7b16010d60033fc71b3e2c2633bd.png" group-title="RELIGIOSOS",Novo Tempo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64330
+#EXTINF:-1 tvg-id="" tvg-name="O Show do Zé Colmeia" tvg-logo="https://i.ibb.co/bQbWcNM/24hZeColmeia.png" group-title="24 HORAS",O Show do Zé Colmeia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69046
+#EXTINF:-1 tvg-id="57" tvg-name="OFF 4K" tvg-logo="http://u.meulogin.net:80/images/5d5bc34de4ad4d134f910c50c2cce0d2.jpg" group-title="4K",OFF 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41590
+#EXTINF:-1 tvg-id="57" tvg-name="Off FHD" tvg-logo="http://u.meulogin.net:80/images/5d5bc34de4ad4d134f910c50c2cce0d2.jpg" group-title="ESPORTES",Off FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/790
+#EXTINF:-1 tvg-id="57" tvg-name="Off HD" tvg-logo="http://ux.minhatela.vip:80/images/871de9f7a31d3eb9e5d565b72b05bc0c.png" group-title="ESPORTES",Off HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/574
+#EXTINF:-1 tvg-id="57" tvg-name="Off SD" tvg-logo="http://u.meulogin.net:80/images/5d5bc34de4ad4d134f910c50c2cce0d2.jpg" group-title="ESPORTES",Off SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/575
+#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones" tvg-logo="http://img.kudaplay.com/1591372077_osflintstonesposter.png" group-title="24 HORAS",Os Flintstones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69047
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="http://img.kudaplay.com/1591391424_ossimpsonsposter.png" group-title="24 HORAS",Os Simpsons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69049
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões" tvg-logo="http://img.kudaplay.com/1591391423_ostrapalhoesposter.png" group-title="24 HORAS",Os Trapalhões
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69050
+#EXTINF:-1 tvg-id="" tvg-name="Papaya Bull" tvg-logo="https://i.ibb.co/jZ8SvgL/24hPapayaBull.png" group-title="24 HORAS",Papaya Bull
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69051
+#EXTINF:-1 tvg-id="13" tvg-name="Paramount 4K" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png" group-title="4K",Paramount 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19326
+#EXTINF:-1 tvg-id="13" tvg-name="Paramount Channel FHD" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png" group-title="FILMES E SERIES",Paramount Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/791
+#EXTINF:-1 tvg-id="13" tvg-name="Paramount Channel HD" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png" group-title="FILMES E SERIES",Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/576
+#EXTINF:-1 tvg-id="13" tvg-name="Paramount Channel SD" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png" group-title="FILMES E SERIES",Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/577
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="" group-title="24 HORAS",Patrulha Canina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69053
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="http://img.kudaplay.com/1591388689_peppapigposter.png" group-title="24 HORAS",Peppa Pig
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69056
+#EXTINF:-1 tvg-id="" tvg-name="Pintinho Amarelinho" tvg-logo="https://i.ibb.co/CH4X33P/24hPintinhoAmarelinho.png" group-title="24 HORAS",Pintinho Amarelinho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69058
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY TV FHD" tvg-logo="http://ux.minhatela.vip:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",PLAYBOY TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/832
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY TV HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",PLAYBOY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/833
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy TV SD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Playboy TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64334
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PlayTV FHD" tvg-logo="https://i.ibb.co/HnFtd78/B-Play-TV-FHD.png" group-title="VARIEDADES E MUSICAIS",PlayTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64333
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PlayTV SD" tvg-logo="https://i.ibb.co/MfHB9G5/B-Play-TV-SD.png" group-title="VARIEDADES E MUSICAIS",PlayTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64332
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV" tvg-logo="https://i.ibb.co/yWpp4JS/B-Polishop-SD.png" group-title="ABERTOS",Polishop TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64335
+#EXTINF:-1 tvg-id="" tvg-name="Popeye" tvg-logo="http://img.kudaplay.com/1591388690_popeyeposter.png" group-title="24 HORAS",Popeye
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69059
+#EXTINF:-1 tvg-id="59" tvg-name="Premiere 2 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41591
+#EXTINF:-1 tvg-id="59" tvg-name="Premiere 2 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/792
+#EXTINF:-1 tvg-id="59" tvg-name="Premiere 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/580
+#EXTINF:-1 tvg-id="59" tvg-name="Premiere 2 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/581
+#EXTINF:-1 tvg-id="60" tvg-name="Premiere 3 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41592
+#EXTINF:-1 tvg-id="60" tvg-name="Premiere 3 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/793
+#EXTINF:-1 tvg-id="60" tvg-name="Premiere 3 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/582
+#EXTINF:-1 tvg-id="60" tvg-name="Premiere 3 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/583
+#EXTINF:-1 tvg-id="61" tvg-name="Premiere 4 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41593
+#EXTINF:-1 tvg-id="61" tvg-name="Premiere 4 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/794
+#EXTINF:-1 tvg-id="61" tvg-name="Premiere 4 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/584
+#EXTINF:-1 tvg-id="61" tvg-name="Premiere 4 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/585
+#EXTINF:-1 tvg-id="62" tvg-name="Premiere 5 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 5 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41594
+#EXTINF:-1 tvg-id="62" tvg-name="Premiere 5 FHD" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/795
+#EXTINF:-1 tvg-id="62" tvg-name="Premiere 5 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/586
+#EXTINF:-1 tvg-id="62" tvg-name="Premiere 5 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/587
+#EXTINF:-1 tvg-id="63" tvg-name="Premiere 6 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 6 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41595
+#EXTINF:-1 tvg-id="63" tvg-name="Premiere 6 FHD" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/796
+#EXTINF:-1 tvg-id="63" tvg-name="Premiere 6 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/588
+#EXTINF:-1 tvg-id="63" tvg-name="Premiere 6 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/589
+#EXTINF:-1 tvg-id="64" tvg-name="Premiere 7 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 7 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41596
+#EXTINF:-1 tvg-id="64" tvg-name="Premiere 7 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19337
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/590
+#EXTINF:-1 tvg-id="64" tvg-name="Premiere 7 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/591
+#EXTINF:-1 tvg-id="65" tvg-name="Premiere 8 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19339
+#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes 4K" tvg-logo="http://ux.minhatela.vip:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere Clubes 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/260
+#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes FHD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/797
+#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes HD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/593
+#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/594
+#EXTINF:-1 tvg-id="129" tvg-name="Prime Box Brazil FHD" tvg-logo="https://i.ibb.co/yQy43Mv/B-Primebox-Brazil-FHD.png" group-title="VARIEDADES E MUSICAIS",Prime Box Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64336
+#EXTINF:-1 tvg-id="129" tvg-name="Prime Box Brazil HD" tvg-logo="https://i.ibb.co/QDJ44sj/B-Primebox-Brazil-HD.png" group-title="VARIEDADES E MUSICAIS",Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/596
+#EXTINF:-1 tvg-id="129" tvg-name="Prime Box Brazil SD" tvg-logo="https://i.ibb.co/TmXhf9F/B-Primebox-Brazil-SD.png" group-title="VARIEDADES E MUSICAIS",Prime Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64337
+#EXTINF:-1 tvg-id="162" tvg-name="Record 4k" tvg-logo="http://u.meulogin.net:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="4K",Record 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/60867
+#EXTINF:-1 tvg-id="163" tvg-name="Record Amazonas SD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Amazonas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64341
+#EXTINF:-1 tvg-id="163" tvg-name="Record Atalaia HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Atalaia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64375
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="Record Bahia HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/598
+#EXTINF:-1 tvg-id="163" tvg-name="Record Bahia SD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64342
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="Record Brasilia HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/599
+#EXTINF:-1 tvg-id="163" tvg-name="Record Brasilia SD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Brasilia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64343
+#EXTINF:-1 tvg-id="163" tvg-name="Record Campinas HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/65254
+#EXTINF:-1 tvg-id="163" tvg-name="Record GO SD" tvg-logo="https://i.ibb.co/XXNHSvp/B-Record-GO-SD.png" group-title="RECORD",Record GO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64344
+#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="Record MG HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/602
+#EXTINF:-1 tvg-id="163" tvg-name="Record MG SD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record MG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64346
+#EXTINF:-1 tvg-id="163" tvg-name="Record News FHD" tvg-logo="http://u.meulogin.net:80/images/9ee967f2452b07e39c9063bc28d77cf5.png" group-title="NOTICIAS",Record News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/798
+#EXTINF:-1 tvg-id="163" tvg-name="Record News HD" tvg-logo="http://u.meulogin.net:80/images/9ee967f2452b07e39c9063bc28d77cf5.png" group-title="NOTICIAS",Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/603
+#EXTINF:-1 tvg-id="163" tvg-name="Record News SD" tvg-logo="http://u.meulogin.net:80/images/9ee967f2452b07e39c9063bc28d77cf5.png" group-title="NOTICIAS",Record News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/604
+#EXTINF:-1 tvg-id="163" tvg-name="Record PA HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record PA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64348
+#EXTINF:-1 tvg-id="163" tvg-name="Record PA SD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record PA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64347
+#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="Record Parana FHD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Parana FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/605
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="Record RJ HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/606
+#EXTINF:-1 tvg-id="163" tvg-name="Record RJ SD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64349
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="Record RS HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/607
+#EXTINF:-1 tvg-id="163" tvg-name="Record RS SD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record RS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64350
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record SP 4K" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="4K",Record SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/261
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record SP FHD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/799
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record SP HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/609
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record SP SD" tvg-logo="http://u.meulogin.net:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/612
+#EXTINF:-1 tvg-id="174" tvg-name="Rede Brasil de Comunicação FHD" tvg-logo="https://i.ibb.co/ZBjNhBt/B-Rede-Brasil-FHD.png" group-title="ABERTOS",Rede Brasil de Comunicação FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64352
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil de Comunicação HD" tvg-logo="https://i.ibb.co/Zf1CDV1/B-Rede-Brasil-HD.png" group-title="ABERTOS",Rede Brasil de Comunicação HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/614
+#EXTINF:-1 tvg-id="174" tvg-name="Rede Brasil de Comunicação SD" tvg-logo="https://i.ibb.co/FJBC2cb/B-Rede-Brasil-SD.png" group-title="ABERTOS",Rede Brasil de Comunicação SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64351
+#EXTINF:-1 tvg-id="109" tvg-name="Rede Super" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="RELIGIOSOS",Rede Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/14601
+#EXTINF:-1 tvg-id="165" tvg-name="Rede Vida HD" tvg-logo="https://i.ibb.co/bPft47G/B-Rede-Vida-HD.png" group-title="RELIGIOSOS",Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/618
+#EXTINF:-1 tvg-id="26" tvg-name="Rede Vida SD" tvg-logo="https://i.ibb.co/DbxkJCP/B-Rede-Vida-SD.png" group-title="RELIGIOSOS",Rede Vida SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64353
+#EXTINF:-1 tvg-id="26" tvg-name="RedeTV! 4K" tvg-logo="http://ux.minhatela.vip:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="4K",RedeTV! 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/262
+#EXTINF:-1 tvg-id="26" tvg-name="RedeTV! FHD" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="ABERTOS",RedeTV! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/800
+#EXTINF:-1 tvg-id="26" tvg-name="RedeTV! HD" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="ABERTOS",RedeTV! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/619
+#EXTINF:-1 tvg-id="164" tvg-name="RedeTv! MG HD" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="ABERTOS",RedeTv! MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/54618
+#EXTINF:-1 tvg-id="164" tvg-name="RedeTV! MG SD" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="ABERTOS",RedeTV! MG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/54617
+#EXTINF:-1 tvg-id="26" tvg-name="RedeTV! SD" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="ABERTOS",RedeTV! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/620
+#EXTINF:-1 tvg-id="" tvg-name="Rick And Morty" tvg-logo="http://img.kudaplay.com/1591388699_rickemortyposter.png" group-title="24 HORAS",Rick And Morty
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69060
+#EXTINF:-1 tvg-id="108" tvg-name="RIT" tvg-logo="https://i.ibb.co/hWW4B2H/B-RIT-SD.png" group-title="RELIGIOSOS",RIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64340
+#EXTINF:-1 tvg-id="" tvg-name="Roary" tvg-logo="https://i.ibb.co/PhXJyVj/24hRoary.png" group-title="24 HORAS",Roary
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69061
+#EXTINF:-1 tvg-id="" tvg-name="Sabor e Arte FHD" tvg-logo="https://i.ibb.co/ZB5sYtb/BSaborArteFHD.png" group-title="VARIEDADES E MUSICAIS",Sabor e Arte FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69076
+#EXTINF:-1 tvg-id="" tvg-name="Sabor e Arte HD" tvg-logo="https://i.ibb.co/GMGj8YF/BSaborArteHD.png" group-title="VARIEDADES E MUSICAIS",Sabor e Arte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69077
+#EXTINF:-1 tvg-id="SBT São Paulo HD" tvg-name="SBT ES 4K" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="4K",SBT ES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/263
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT MG HD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/623
+#EXTINF:-1 tvg-id="" tvg-name="SBT MG SD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT MG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/54613
+#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ HD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/625
+#EXTINF:-1 tvg-id="SBT São Paulo HD" tvg-name="SBT SP FHD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/801
+#EXTINF:-1 tvg-id="SBT São Paulo HD" tvg-name="SBT SP HD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/627
+#EXTINF:-1 tvg-id="SBT São Paulo HD" tvg-name="SBT SP SD" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/628
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEX HOT FHD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",SEX HOT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/20811
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE FHD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",SEX PRIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/20810
+#EXTINF:-1 tvg-id="Sexprive.br" tvg-name="Sex Prive HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Sex Prive HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/834
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="Sex Treme HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Sex Treme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/835
+#EXTINF:-1 tvg-id="" tvg-name="Sexprive SD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Sexprive SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64354
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot FHD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Sexy Hot FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64357
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Sexy Hot HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/836
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot SD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Sexy Hot SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64356
+#EXTINF:-1 tvg-id="113" tvg-name="Shoptime HD" tvg-logo="http://ux.minhatela.vip:80/images/d9add58676b4a10aafdad99b4eecc03d.png" group-title="ABERTOS",Shoptime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/629
+#EXTINF:-1 tvg-id="" tvg-name="Show da Luna" tvg-logo="https://i.ibb.co/KjP2Dnq/24hShowdaLuna.png" group-title="24 HORAS",Show da Luna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69062
+#EXTINF:-1 tvg-id="" tvg-name="Sitio do Pica Pau Amarelo" tvg-logo="http://img.kudaplay.com/1591388698_sitiodopicapauamareloposter.png" group-title="24 HORAS",Sitio do Pica Pau Amarelo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69063
+#EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="Smithsonian Channel HD" tvg-logo="http://u.meulogin.net:80/images/9455c2c65bafa41c219c166b57ad641e.png" group-title="DOCUMENTARIOS",Smithsonian Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/630
+#EXTINF:-1 tvg-id="35" tvg-name="Sony 4K" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png" group-title="4K",Sony 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19327
+#EXTINF:-1 tvg-id="35" tvg-name="Sony FHD" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png" group-title="FILMES E SERIES",Sony FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/802
+#EXTINF:-1 tvg-id="35" tvg-name="Sony HD" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png" group-title="FILMES E SERIES",Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/631
+#EXTINF:-1 tvg-id="35" tvg-name="Sony SD" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png" group-title="FILMES E SERIES",Sony SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/632
+#EXTINF:-1 tvg-id="14" tvg-name="Space 4K" tvg-logo="http://ux.minhatela.vip:80/images/267179ed310eb39b8b734131262b2cee.png" group-title="4K",Space 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/264
+#EXTINF:-1 tvg-id="14" tvg-name="Space FHD" tvg-logo="http://u.meulogin.net:80/images/30dc3e62f46c6470d0e9e12c457dafb5.png" group-title="FILMES E SERIES",Space FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/803
+#EXTINF:-1 tvg-id="14" tvg-name="Space HD" tvg-logo="http://u.meulogin.net:80/images/267179ed310eb39b8b734131262b2cee.png" group-title="FILMES E SERIES",Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/633
+#EXTINF:-1 tvg-id="14" tvg-name="Space SD" tvg-logo="http://u.meulogin.net:80/images/267179ed310eb39b8b734131262b2cee.png" group-title="FILMES E SERIES",Space SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/634
+#EXTINF:-1 tvg-id="68" tvg-name="Sportv 2 4K" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="4K",Sportv 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41597
+#EXTINF:-1 tvg-id="68" tvg-name="SporTV 2 FHD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/804
+#EXTINF:-1 tvg-id="68" tvg-name="SporTV 2 HD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/635
+#EXTINF:-1 tvg-id="68" tvg-name="SporTV 2 SD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/636
+#EXTINF:-1 tvg-id="69" tvg-name="Sportv 3 4K" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="4K",Sportv 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41598
+#EXTINF:-1 tvg-id="69" tvg-name="SporTV 3 FHD" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="ESPORTES",SporTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/805
+#EXTINF:-1 tvg-id="69" tvg-name="SporTV 3 HD" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="ESPORTES",SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/637
+#EXTINF:-1 tvg-id="69" tvg-name="SporTV 3 SD" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="ESPORTES",SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/638
+#EXTINF:-1 tvg-id="67" tvg-name="SporTV 4K" tvg-logo="http://ux.minhatela.vip:80/images/f2e8afb10bd1acf52dc881b99da1489f.png" group-title="4K",SporTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/265
+#EXTINF:-1 tvg-id="67" tvg-name="SporTV FHD" tvg-logo="http://u.meulogin.net:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/806
+#EXTINF:-1 tvg-id="67" tvg-name="SporTV HD" tvg-logo="http://ux.minhatela.vip:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/639
+#EXTINF:-1 tvg-id="67" tvg-name="SporTV SD" tvg-logo="http://u.meulogin.net:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/640
+#EXTINF:-1 tvg-id="" tvg-name="Star +" tvg-logo="https://i.imgur.com/RAkAoj7.png" group-title="STAR+",Star +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/45564
+#EXTINF:-1 tvg-id="" tvg-name="Star + 2" tvg-logo="https://i.imgur.com/RAkAoj7.png" group-title="STAR+",Star + 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/61801
+#EXTINF:-1 tvg-id="" tvg-name="Star + 3" tvg-logo="https://i.imgur.com/RAkAoj7.png" group-title="STAR+",Star + 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/61802
+#EXTINF:-1 tvg-id="" tvg-name="Star + 4" tvg-logo="https://i.imgur.com/RAkAoj7.png" group-title="STAR+",Star + 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/65216
+#EXTINF:-1 tvg-id="30" tvg-name="Star Channel 4K" tvg-logo="http://ux.minhatela.vip:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="4K",Star Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/266
+#EXTINF:-1 tvg-id="30" tvg-name="Star Channel FHD" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="FILMES E SERIES",Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/807
+#EXTINF:-1 tvg-id="30" tvg-name="Star Channel HD" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="FILMES E SERIES",Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/641
+#EXTINF:-1 tvg-id="30" tvg-name="Star Channel SD" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="FILMES E SERIES",Star Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/642
+#EXTINF:-1 tvg-id="42" tvg-name="Star Hits 1 4K" tvg-logo="http://ux.minhatela.vip:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="4K",Star Hits 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/21420
+#EXTINF:-1 tvg-id="42" tvg-name="Star Hits 1 FHD" tvg-logo="http://ux.minhatela.vip:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="FILMES E SERIES",Star Hits 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/808
+#EXTINF:-1 tvg-id="42" tvg-name="Star Hits 1 HD" tvg-logo="http://ux.minhatela.vip:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="FILMES E SERIES",Star Hits 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/643
+#EXTINF:-1 tvg-id="42" tvg-name="Star Hits 1 SD" tvg-logo="http://u.meulogin.net:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="FILMES E SERIES",Star Hits 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/644
+#EXTINF:-1 tvg-id="43" tvg-name="Star hits 2 4K" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="4K",Star hits 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/21421
+#EXTINF:-1 tvg-id="43" tvg-name="Star Hits 2 FHD" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="FILMES E SERIES",Star Hits 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/809
+#EXTINF:-1 tvg-id="43" tvg-name="Star Hits 2 HD" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="FILMES E SERIES",Star Hits 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/645
+#EXTINF:-1 tvg-id="43" tvg-name="Star Hits 2 SD" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="FILMES E SERIES",Star Hits 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/646
+#EXTINF:-1 tvg-id="31" tvg-name="Star Life 4K" tvg-logo="http://ux.minhatela.vip:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="4K",Star Life 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19312
+#EXTINF:-1 tvg-id="31" tvg-name="Star Life FHD" tvg-logo="http://u.meulogin.net:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="FILMES E SERIES",Star Life FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/810
+#EXTINF:-1 tvg-id="31" tvg-name="Star Life HD" tvg-logo="http://ux.minhatela.vip:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="FILMES E SERIES",Star Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/647
+#EXTINF:-1 tvg-id="31" tvg-name="Star Life SD" tvg-logo="http://u.meulogin.net:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="FILMES E SERIES",Star Life SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/648
+#EXTINF:-1 tvg-id="24" tvg-name="Studio Universal 4K" tvg-logo="http://u.meulogin.net:80/images/61492ddb9c6fb371d7f786c84ee588d0.png" group-title="4K",Studio Universal 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41599
+#EXTINF:-1 tvg-id="24" tvg-name="Studio Universal FHD" tvg-logo="http://u.meulogin.net:80/images/add33a420e9921e9fbe66169fb009128.png" group-title="FILMES E SERIES",Studio Universal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/811
+#EXTINF:-1 tvg-id="24" tvg-name="Studio Universal HD" tvg-logo="http://u.meulogin.net:80/images/61492ddb9c6fb371d7f786c84ee588d0.png" group-title="FILMES E SERIES",Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/649
+#EXTINF:-1 tvg-id="24" tvg-name="Studio Universal SD" tvg-logo="http://u.meulogin.net:80/images/61492ddb9c6fb371d7f786c84ee588d0.png" group-title="FILMES E SERIES",Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/650
+#EXTINF:-1 tvg-id="36" tvg-name="Syfy 4K" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png" group-title="4K",Syfy 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41600
+#EXTINF:-1 tvg-id="36" tvg-name="Syfy FHD" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png" group-title="FILMES E SERIES",Syfy FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/812
+#EXTINF:-1 tvg-id="36" tvg-name="SyFy HD" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png" group-title="FILMES E SERIES",SyFy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/651
+#EXTINF:-1 tvg-id="36" tvg-name="SyFy SD" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png" group-title="FILMES E SERIES",SyFy SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/652
+#EXTINF:-1 tvg-id="" tvg-name="T*N*T Spo*rt*s Seleções Europeias" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",T*N*T Spo*rt*s Seleções Europeias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64274
+#EXTINF:-1 tvg-id="" tvg-name="T*N*T Sports Cortes" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",T*N*T Sports Cortes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64275
+#EXTINF:-1 tvg-id="" tvg-name="T*NT Sp*o*rts Melhores Momentos HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",T*NT Sp*o*rts Melhores Momentos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64273
+#EXTINF:-1 tvg-id="" tvg-name="Tartarugas Ninja" tvg-logo="https://i.ibb.co/LJb30Bc/24hTartarugaNinja.png" group-title="24 HORAS",Tartarugas Ninja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69064
+#EXTINF:-1 tvg-id="37" tvg-name="TBS 4K" tvg-logo="http://u.meulogin.net:80/images/f00d9127016f3c34cf22afc4a4eae7bd.jpg" group-title="4K",TBS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19328
+#EXTINF:-1 tvg-id="37" tvg-name="TBS FHD" tvg-logo="https://i.ibb.co/LNFnsgM/B-TBS-FHD.png" group-title="FILMES E SERIES",TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/653
+#EXTINF:-1 tvg-id="37" tvg-name="TBS HD" tvg-logo="https://i.ibb.co/BPC13qx/B-TBS-HD.png" group-title="FILMES E SERIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/813
+#EXTINF:-1 tvg-id="37" tvg-name="TBS SD" tvg-logo="https://i.ibb.co/PzKGTBx/B-TBS-SD.png" group-title="FILMES E SERIES",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64358
+#EXTINF:-1 tvg-id="15" tvg-name="TCM FHD" tvg-logo="https://i.ibb.co/wMtJRmQ/B-TCM-FHD.png" group-title="FILMES E SERIES",TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64360
+#EXTINF:-1 tvg-id="15" tvg-name="TCM HD" tvg-logo="https://i.ibb.co/1MRtSbm/B-TCM-HD.png" group-title="FILMES E SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/654
+#EXTINF:-1 tvg-id="15" tvg-name="TCM SD" tvg-logo="https://i.ibb.co/BtY80bt/B-TCM-SD.png" group-title="FILMES E SERIES",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64359
+#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action 4K" tvg-logo="http://ux.minhatela.vip:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="4K",Telecine Action 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41601
+#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action FHD" tvg-logo="http://ux.minhatela.vip:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="TELECINE",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/814
+#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action HD" tvg-logo="http://ux.minhatela.vip:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="TELECINE",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/655
+#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action SD" tvg-logo="http://u.meulogin.net:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="TELECINE",Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/656
+#EXTINF:-1 tvg-id="17" tvg-name="Telecine Cult 4K" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png" group-title="4K",Telecine Cult 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41602
+#EXTINF:-1 tvg-id="17" tvg-name="Telecine Cult FHD" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png" group-title="TELECINE",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/815
+#EXTINF:-1 tvg-id="17" tvg-name="Telecine Cult HD" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png" group-title="TELECINE",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/657
+#EXTINF:-1 tvg-id="17" tvg-name="Telecine Cult SD" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png" group-title="TELECINE",Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/658
+#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun 4K" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="4K",Telecine Fun 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41603
+#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun FHD" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="TELECINE",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/816
+#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun HD" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="TELECINE",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/659
+#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun SD" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="TELECINE",Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/660
+#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca 4K" tvg-logo="http://ux.minhatela.vip:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png" group-title="4K",Telecine Pipoca 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/267
+#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca FHD" tvg-logo="http://ux.minhatela.vip:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png" group-title="TELECINE",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/817
+#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca HD" tvg-logo="http://u.meulogin.net:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png" group-title="TELECINE",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/661
+#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca SD" tvg-logo="http://u.meulogin.net:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png" group-title="TELECINE",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/662
+#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium 4K" tvg-logo="http://ux.minhatela.vip:80/images/b45df2815747ba583672be0e407f5a07.png" group-title="4K",Telecine Premium 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/268
+#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium FHD" tvg-logo="http://u.meulogin.net:80/images/f6f542945adeeaaf53783391000edead.png" group-title="TELECINE",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/818
+#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium HD" tvg-logo="http://u.meulogin.net:80/images/f6f542945adeeaaf53783391000edead.png" group-title="TELECINE",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/663
+#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium SD" tvg-logo="http://u.meulogin.net:80/images/f6f542945adeeaaf53783391000edead.png" group-title="TELECINE",Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/664
+#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch 4K" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png" group-title="4K",Telecine Touch 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19950
+#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch FHD" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png" group-title="TELECINE",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/819
+#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch HD" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png" group-title="TELECINE",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/665
+#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch SD" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png" group-title="TELECINE",Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/666
+#EXTINF:-1 tvg-id="115" tvg-name="Terra Viva HD" tvg-logo="https://i.ibb.co/hgQ78dN/B-Terra-Viva-SD.png" group-title="ABERTOS",Terra Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64372
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="https://i.ibb.co/ZWzxMKY/24hThundercats.png" group-title="24 HORAS",Thundercats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69065
+#EXTINF:-1 tvg-id="" tvg-name="Timao e Pumba" tvg-logo="http://img.kudaplay.com/1591388698_timaoepumbaposter.png" group-title="24 HORAS",Timao e Pumba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69066
+#EXTINF:-1 tvg-id="146" tvg-name="TLC 4K" tvg-logo="http://ux.minhatela.vip:80/images/edeb2bea22b86124259fef522de69a74.png" group-title="4K",TLC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19329
+#EXTINF:-1 tvg-id="22" tvg-name="TNT 4K" tvg-logo="http://ux.minhatela.vip:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="4K",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/269
+#EXTINF:-1 tvg-id="22" tvg-name="TNT FHD" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="FILMES E SERIES",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/820
+#EXTINF:-1 tvg-id="22" tvg-name="TNT HD" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="FILMES E SERIES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/667
+#EXTINF:-1 tvg-id="22" tvg-name="TNT SD" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="FILMES E SERIES",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/668
+#EXTINF:-1 tvg-id="38" tvg-name="TNT Series 4K" tvg-logo="http://ux.minhatela.vip:80/images/a347f34dbd0370084fcc2fe0b8132c56.png" group-title="4K",TNT Series 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/270
+#EXTINF:-1 tvg-id="38" tvg-name="TNT Series FHD" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png" group-title="FILMES E SERIES",TNT Series FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/821
+#EXTINF:-1 tvg-id="38" tvg-name="TNT Series HD" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png" group-title="FILMES E SERIES",TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/669
+#EXTINF:-1 tvg-id="38" tvg-name="TNT Series SD" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png" group-title="FILMES E SERIES",TNT Series SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/670
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="http://u.meulogin.net:80/images/65211d200018fea1505f15a9eac521f7.png" group-title="TNT SPORTS",TNT Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/671
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="http://img.kudaplay.com/1591388699_todomundoodeiaochrisposter.png" group-title="24 HORAS",Todo Mundo Odeia o Chris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69067
+#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry" tvg-logo="http://img.kudaplay.com/1591388708_tomejerryposter.png" group-title="24 HORAS",Tom e Jerry
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69068
+#EXTINF:-1 tvg-id="84" tvg-name="Tooncast HD" tvg-logo="http://u.meulogin.net:80/images/758eb084cc0ebe959efb38e35aec43e8.png" group-title="INFANTIL",Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/672
+#EXTINF:-1 tvg-id="84" tvg-name="Tooncast SD" tvg-logo="http://u.meulogin.net:80/images/758eb084cc0ebe959efb38e35aec43e8.png" group-title="INFANTIL",Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/673
+#EXTINF:-1 tvg-id="131" tvg-name="Travel Box Brazil FHD" tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel.png" group-title="VARIEDADES E MUSICAIS",Travel Box Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/65251
+#EXTINF:-1 tvg-id="131" tvg-name="Travel Box Brazil HD" tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel.png" group-title="VARIEDADES E MUSICAIS",Travel Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19286
+#EXTINF:-1 tvg-id="131" tvg-name="Travel Box Brazil SD" tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel.png" group-title="VARIEDADES E MUSICAIS",Travel Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/65252
+#EXTINF:-1 tvg-id="87" tvg-name="TruTV HD" tvg-logo="http://u.meulogin.net:80/images/f97e9ad5a0e99e1ed61ce5643db27e01.png" group-title="VARIEDADES E MUSICAIS",TruTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/674
+#EXTINF:-1 tvg-id="87" tvg-name="Trutv SD" tvg-logo="http://u.meulogin.net:80/images/f97e9ad5a0e99e1ed61ce5643db27e01.png" group-title="VARIEDADES E MUSICAIS",Trutv SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64373
+#EXTINF:-1 tvg-id="167" tvg-name="TV Aparecida HD" tvg-logo="https://i.ibb.co/tLfz8fb/B-TV-Aparecida-HD.png" group-title="RELIGIOSOS",TV Aparecida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/676
+#EXTINF:-1 tvg-id="168" tvg-name="TV Aparecida SD" tvg-logo="https://i.ibb.co/7jG0GZn/B-TV-Aparecida-SD.png" group-title="RELIGIOSOS",TV Aparecida SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64361
+#EXTINF:-1 tvg-id="169" tvg-name="TV Brasil FHD" tvg-logo="https://i.ibb.co/f4kccZ8/B-TV-Brasil-FHD.png" group-title="ABERTOS",TV Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64363
+#EXTINF:-1 tvg-id="168" tvg-name="TV Brasil HD" tvg-logo="https://i.ibb.co/7YwBN32/B-TV-Brasil-HD.png" group-title="ABERTOS",TV Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/677
+#EXTINF:-1 tvg-id="169" tvg-name="TV Brasil SD" tvg-logo="https://i.ibb.co/Zfgw57c/B-TV-Brasil-SD.png" group-title="ABERTOS",TV Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64362
+#EXTINF:-1 tvg-id="116" tvg-name="TV Camara HD" tvg-logo="https://i.ibb.co/48NnMwC/B-TVCamara-HD.png" group-title="ABERTOS",TV Camara HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64365
+#EXTINF:-1 tvg-id="116" tvg-name="TV Camara SD" tvg-logo="https://i.ibb.co/CQSyjzC/B-TVCamara-SD.png" group-title="ABERTOS",TV Camara SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64364
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diario FHD" tvg-logo="https://i.ibb.co/JrHq9sX/B-TVDiario-FHD.png" group-title="ABERTOS",TV Diario FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64367
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diario HD" tvg-logo="https://i.ibb.co/7JFH5cL/B-TVDiario-HD.png" group-title="ABERTOS",TV Diario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64368
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola HD" tvg-logo="http://u.meulogin.net:80/images/73760808cbdea58038b546ec7872b26a.png" group-title="ABERTOS",TV Escola HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/679
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="RELIGIOSOS",TV Pai Eterno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/14600
+#EXTINF:-1 tvg-id="85" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://u.meulogin.net:80/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="INFANTIL",TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/683
+#EXTINF:-1 tvg-id="85" tvg-name="TV Ra Tim Bum SD" tvg-logo="http://u.meulogin.net:80/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="ABERTOS",TV Ra Tim Bum SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19627
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV Senado FHD" tvg-logo="https://i.ibb.co/tLF7n2j/B-TVSenado-FHD.png" group-title="ABERTOS",TV Senado FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64370
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV Senado HD" tvg-logo="https://i.ibb.co/s3cLbxW/B-TVSenado-HD.png" group-title="ABERTOS",TV Senado HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/64371
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://i.ibb.co/YWCTbb2/24hUMNP.png" group-title="24 HORAS",Um Maluco no Pedaço
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69069
+#EXTINF:-1 tvg-id="39" tvg-name="Universal Channel 4K" tvg-logo="http://u.meulogin.net:80/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="4K",Universal Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/41604
+#EXTINF:-1 tvg-id="39" tvg-name="Universal Channel FHD" tvg-logo="http://u.meulogin.net:80/images/8e77b75b27acf222c411c50da8fb9162.png" group-title="FILMES E SERIES",Universal Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/823
+#EXTINF:-1 tvg-id="39" tvg-name="Universal Channel HD" tvg-logo="http://u.meulogin.net:80/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="FILMES E SERIES",Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/685
+#EXTINF:-1 tvg-id="39" tvg-name="Universal Channel SD" tvg-logo="http://u.meulogin.net:80/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="FILMES E SERIES",Universal Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/686
+#EXTINF:-1 tvg-id="" tvg-name="Ursinho Charley" tvg-logo="https://i.ibb.co/HDk3KHb/24hUrsinhoCharley.png" group-title="24 HORAS",Ursinho Charley
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69070
+#EXTINF:-1 tvg-id="" tvg-name="Ursinhos Carinhosos" tvg-logo="https://i.ibb.co/4MSmYD9/24hUrsinhosCarinhosos.png" group-title="24 HORAS",Ursinhos Carinhosos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69071
+#EXTINF:-1 tvg-id="Venus.br" tvg-name="VENUS HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",VENUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/837
+#EXTINF:-1 tvg-id="Venus.br" tvg-name="Venus SD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Venus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/838
+#EXTINF:-1 tvg-id="124" tvg-name="Viva 4K" tvg-logo="http://ux.minhatela.vip:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png" group-title="4K",Viva 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/52003
+#EXTINF:-1 tvg-id="124" tvg-name="Viva FHD" tvg-logo="http://ux.minhatela.vip:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png" group-title="VARIEDADES E MUSICAIS",Viva FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/824
+#EXTINF:-1 tvg-id="124" tvg-name="Viva HD" tvg-logo="http://u.meulogin.net:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png" group-title="VARIEDADES E MUSICAIS",Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/689
+#EXTINF:-1 tvg-id="124" tvg-name="Viva SD" tvg-logo="http://u.meulogin.net:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png" group-title="VARIEDADES E MUSICAIS",Viva SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/690
+#EXTINF:-1 tvg-id="40" tvg-name="Warner Channel 4K" tvg-logo="http://u.meulogin.net:80/images/c46d8895130447a7ba41bac313a1fc1a.png" group-title="4K",Warner Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/21422
+#EXTINF:-1 tvg-id="40" tvg-name="Warner Channel FHD" tvg-logo="http://u.meulogin.net:80/images/32f9f91b9c8ef876b0ddd60939e659a4.png" group-title="FILMES E SERIES",Warner Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/825
+#EXTINF:-1 tvg-id="40" tvg-name="Warner Channel HD" tvg-logo="http://u.meulogin.net:80/images/c46d8895130447a7ba41bac313a1fc1a.png" group-title="FILMES E SERIES",Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/691
+#EXTINF:-1 tvg-id="40" tvg-name="Warner Channel SD" tvg-logo="http://u.meulogin.net:80/images/c46d8895130447a7ba41bac313a1fc1a.png" group-title="FILMES E SERIES",Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/692
+#EXTINF:-1 tvg-id="71" tvg-name="Woohoo 4K" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg" group-title="4K",Woohoo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/19332
+#EXTINF:-1 tvg-id="71" tvg-name="Woohoo FHD" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg" group-title="VARIEDADES E MUSICAIS",Woohoo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/826
+#EXTINF:-1 tvg-id="71" tvg-name="Woohoo HD" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg" group-title="VARIEDADES E MUSICAIS",Woohoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/693
+#EXTINF:-1 tvg-id="71" tvg-name="Woohoo SD" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg" group-title="VARIEDADES E MUSICAIS",Woohoo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/694
+#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="http://img.kudaplay.com/1591388708_xmenposter.png" group-title="24 HORAS",X-Men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69072
+#EXTINF:-1 tvg-id="" tvg-name="Xena" tvg-logo="https://i.ibb.co/MnjJkZn/24hXena.png" group-title="24 HORAS",Xena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69073
+#EXTINF:-1 tvg-id="" tvg-name="Xuxa Só para Baixinhos" tvg-logo="https://i.ibb.co/RSRxpM3/24hXSPB.png" group-title="24 HORAS",Xuxa Só para Baixinhos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://51.81.245.64:80/cristiano/123456/69074
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
  
