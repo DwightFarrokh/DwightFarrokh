@@ -7,912 +7,2485 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LIS
 
 
 
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/855992
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/855994
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/855996
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/855998
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856000
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856002
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856004
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856006
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856008
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856010
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856012
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856014
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856016
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856018
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856020
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856022
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856024
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856026
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856038
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856040
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856042
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856045
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856047
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATHER SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856049
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATHER HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856051
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856053
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856055
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856057
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856059
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856062
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856064
-#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856066
-#EXTINF:-1 tvg-id="ID - Investigação Discovery" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856068
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856077
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856078
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856079
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856080
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856081
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856082
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856083
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856085
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856087
-#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="ARTE 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="CANAIS FILMES",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856090
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856094
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856096
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="CANAIS FILMES",FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856100
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="CANAIS FILMES",FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856104
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="CANAIS FILMES",FOX PREMIUM 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856106
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="CANAIS FILMES",FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856109
-#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="CANAIS FILMES",FOX PREMIUM 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856111
-#EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856113
-#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856115
-#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856117
-#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856119
-#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856121
-#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856123
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856125
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856127
-#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856133
-#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856135
-#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856137
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-57-canal-studio-universal.png" group-title="CANAIS FILMES",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856140
-#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856146
-#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856148
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="CANAIS FILMES",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856154
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856161
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856163
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856165
-#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT SÉRIES SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856167
-#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT SÉRIES HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856169
-#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="UNIVERSAL TV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856172
-#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="UNIVERSAL TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856174
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856177
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856179
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND SPORTS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856182
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856184
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856187
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856189
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856191
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856230
-#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SPORTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856232
-#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856234
-#EXTINF:-1 tvg-id="SporTV2 HD" tvg-name="SPORTV 2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856236
-#EXTINF:-1 tvg-id="SporTV2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856238
-#EXTINF:-1 tvg-id="SporTV2 HD" tvg-name="SPORTV 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856240
-#EXTINF:-1 tvg-id="Sportv 3 HD" tvg-name="SPORTV 3 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE",SPORTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856242
-#EXTINF:-1 tvg-id="Sportv 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856244
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856247
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856249
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856251
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856253
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856255
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856257
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856259
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856261
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856263
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856265
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856267
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856270
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856272
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856276
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856279
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856283
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856285
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856287
-#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS DOCUMENTÁRIO",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856290
-#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856293
-#EXTINF:-1 tvg-id="The History Channel HD" tvg-name="HISTORY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856295
-#EXTINF:-1 tvg-id="History 2 HD" tvg-name="H2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",H2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856298
-#EXTINF:-1 tvg-id="History 2 HD" tvg-name="H2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856300
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856303
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856305
-#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NATGEO WILD SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="CANAIS DOCUMENTÁRIO",NATGEO WILD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856308
-#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NATGEO WILD HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="CANAIS DOCUMENTÁRIO",NATGEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856310
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856313
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856315
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856317
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 SD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856319
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856321
-#EXTINF:-1 tvg-id="HBO2 HD" tvg-name="HBO 2 FHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856323
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856325
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856327
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856329
-#EXTINF:-1 tvg-id="HBO MUNDI HD" tvg-name="HBO MUNDI HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856332
-#EXTINF:-1 tvg-id="HBO MUNDI HD" tvg-name="HBO MUNDI FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856334
-#EXTINF:-1 tvg-id="HBO POP HD" tvg-name="HBO POP SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856339
-#EXTINF:-1 tvg-id="HBO POP HD" tvg-name="HBO POP HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856341
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856345
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856347
-#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856349
-#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856351
-#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856353
-#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856355
-#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856356
-#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856357
-#EXTINF:-1 tvg-id="Rede Amazônica Manaus HD" tvg-name="GLOBO AMAZÔNICA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rede_am.png" group-title="GLOBOS SAO PAULO ",GLOBO AMAZÔNICA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856358
-#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="GLOBO BAHIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BAHIA",GLOBO BAHIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856362
-#EXTINF:-1 tvg-id="TV Bahia HD" tvg-name="GLOBO BAHIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BAHIA",GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856364
-#EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BRASILIA",GLOBO BRASÍLIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856370
-#EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BRASILIA",GLOBO BRASÍLIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856372
-#EXTINF:-1 tvg-id="TV Centro América Cuiabá" tvg-name="GLOBO CUiABÁ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png" group-title="GLOBOS CUIABA",GLOBO CUiABÁ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856375
-#EXTINF:-1 tvg-id="EPTV HD Campinas" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856376
-#EXTINF:-1 tvg-id="EPTV HD Campinas" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856378
-#EXTINF:-1 tvg-id="EPTV Ribeirão Preto" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV RIBEIRÃO PRETO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856381
-#EXTINF:-1 tvg-id="EPTV São Carlos" tvg-name="GLOBO EPTV SÃO CARLOS" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV SÃO CARLOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856383
-#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO FORTALEZA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CEARA",GLOBO FORTALEZA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856384
-#EXTINF:-1 tvg-id="TV Verdes Mares HD Fortaleza" tvg-name="GLOBO FORTALEZA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CEARA",GLOBO FORTALEZA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856385
-#EXTINF:-1 tvg-id="TV Anhanguera Goiânia HD" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS GOIAIS",GLOBO GOIÂNIA - TV ANHANGUERA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856386
-#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO GRANDE DO NORTE",GLOBO INTER TV CABUGI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856387
-#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MINAS GERAIS",GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856388
-#EXTINF:-1 tvg-id="Globo HD Minas" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MINAS GERAIS",GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856390
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS SD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856393
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856395
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS FHD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856397
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PERNAMBUCO",GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856403
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC BLUMENAU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856406
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC JOINVILLE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856407
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC TV HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856408
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO GRANDE DO SUL",GLOBO RBS TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856412
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV 4K" tvg-logo="http://vipeiptv.com:25461/images/58ee6d7920593d3b04d173d68717b778.png" group-title="GLOBOS RIO GRANDE DO SUL",GLOBO RBS TV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856413
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856417
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856419
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856421
-#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CURITIBA",GLOBO RPC CURITIBA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856423
-#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP SDD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO SP SDD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856426
-#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856428
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO TV MORENA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856431
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856433
-#EXTINF:-1 tvg-id="TV Tem Bauru" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM BAURU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856434
-#EXTINF:-1 tvg-id="Rádio Globo RJ" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856436
-#EXTINF:-1 tvg-id="TV Tem Sorocaba" tvg-name="GLOBO TV TEM SJRP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM SJRP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856438
-#EXTINF:-1 tvg-id="TV Tem Sorocaba" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM SOROCABA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856439
-#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="GLOBO TV TRIBUNA" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TRIBUNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856440
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV VANGUARDA SJC" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png" group-title="GLOBOS SAO PAULO ",GLOBO TV VANGUARDA SJC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856441
-#EXTINF:-1 tvg-id="TV Liberal HD Belém" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PARA",GLOBO TV LIBERAL BELEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856456
-#EXTINF:-1 tvg-id="Band News HD" tvg-name="BAND NEWS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856483
-#EXTINF:-1 tvg-id="Band News HD" tvg-name="BAND NEWS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856485
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856488
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856490
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856492
-#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTICIAS",RECORD NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856503
-#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS",BAND SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856507
-#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND HD" tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/Band-Logo-1.png" group-title="CANAIS ABERTOS",BAND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856509
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856515
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD BH HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856519
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD DF HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD DF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856521
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD RS HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856522
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD SP HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856523
-#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="REDE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS ABERTOS",REDE VIDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856524
-#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="REDETV!" tvg-logo="http://imguol.com/blogs/31/files/2015/12/redetv1.png" group-title="CANAIS ABERTOS",REDETV!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856525
-#EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="http://www.portaldemidia.ufms.br/wp-content/uploads/2016/04/LOGO_RIT1.png" group-title="CANAIS ABERTOS",RIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856526
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS ABERTOS",SBT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856527
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS ABERTOS",SBT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856529
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD BELEM" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BELEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856533
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD MINAS SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD MINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856537
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD RS SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD RS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856541
-#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV CÂMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS ABERTOS",TV CÂMARA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856554
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="CANAIS ABERTOS",TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856555
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY HD" tvg-logo="http://vipeiptv.com:25461/images/2cfaec21dea9935fac8177867adde7a7.png" group-title="ADULTO",XXX: PLAYBOY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856558
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="BOOMERANG" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL",BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856580
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="BOOMERANG HD" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL",BOOMERANG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856582
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856585
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856587
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856590
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856592
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856595
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856597
-#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856600
-#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856602
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD SD" tvg-logo="https://www.logolynx.com/images/logolynx/s_a8/a8352d07ba7106c58d6485dcdc06c4df.png" group-title="CANAIS INFANTIL",DISNEY XD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856605
-#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png" group-title="CANAIS INFANTIL",GLOOB SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856609
-#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png" group-title="CANAIS INFANTIL",GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856611
-#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="NICK JR. SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIL",NICK JR. SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856620
-#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="NICK JR. HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIL",NICK JR. HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856622
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="CANAIS INFANTIL",NICKELODEON SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856625
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="CANAIS INFANTIL",NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856627
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="CANAIS INFANTIL",TOONCAST SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856631
-#EXTINF:-1 tvg-id="TV Rá Tim Bum HD" tvg-name="TV RÁ-TIM-BUM SD" tvg-logo="http://vipeiptv.com:25461/images/a767a5d1c07ee94c45d2e34689e4ad79.png" group-title="CANAIS INFANTIL",TV RÁ-TIM-BUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856635
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="CANAIS INFANTIL",ZOOMOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856639
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856640
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856642
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="BIS FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856644
-#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="CANAL BRASIL HD" tvg-logo="https://pt.wikipedia.org/wiki/Canal_Brasil#/media/Ficheiro:CanalBrasil_logos_700px_0-03.png" group-title="CANAIS ENTRETENIMENTO",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856652
-#EXTINF:-1 tvg-id="Canal Sony" tvg-name="CANAL SONY SD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856653
-#EXTINF:-1 tvg-id="Canal Sony" tvg-name="CANAL SONY HD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856654
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856655
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856656
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856657
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856659
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856661
-#EXTINF:-1 tvg-id="E! HD" tvg-name="E! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS ENTRETENIMENTO",E! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856663
-#EXTINF:-1 tvg-id="E! HD" tvg-name="E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS ENTRETENIMENTO",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856665
-#EXTINF:-1 tvg-id="Fish TV HD" tvg-name="FISH TV HD" tvg-logo="http://vipeiptv.com:25461/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS ENTRETENIMENTO",FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856669
-#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856672
-#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856674
-#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856676
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="FOX LIFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856678
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856680
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856682
-#EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS ENTRETENIMENTO",FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856684
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT SD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856685
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856687
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT FHD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856689
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856691
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856693
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856696
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856698
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856701
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856703
-#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856706
-#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856709
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD" tvg-logo="http://vipeiptv.com:25461/images/63908e498ca1528f5f47fa918926ad04.jpg" group-title="CANAIS ENTRETENIMENTO",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856714
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://vipeiptv.com:25461/images/63908e498ca1528f5f47fa918926ad04.jpg" group-title="CANAIS ENTRETENIMENTO",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856716
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856732
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856734
-#EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856736
-#EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856738
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856741
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856743
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="TV CABO BRANCO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="GLOBOS PARAIBA",TV CABO BRANCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856807
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="TV CABO BRANCO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PARAIBA",TV CABO BRANCO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856808
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA ²" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856823
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA  HD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856824
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856825
-#EXTINF:-1 tvg-id="TV Novo Tempo HD" tvg-name="NOVO TEMPO ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",NOVO TEMPO ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856826
-#EXTINF:-1 tvg-id="TV Novo Tempo HD" tvg-name="NOVO TEMPO HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",NOVO TEMPO HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856827
-#EXTINF:-1 tvg-id="Pai Eterno HD" tvg-name="PAI ETERNO SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuNu57GZV92MZ605i7iyD-tGJl4u6RtPyfhw&usqp=CAU" group-title="RELIGIÃO",PAI ETERNO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856828
-#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="REDE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIÃO",REDE VIDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856829
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856830
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856831
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856832
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="RELIGIÃO",TV EVANGELIZAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856833
-#EXTINF:-1 tvg-id="TV Novo Tempo HD" tvg-name="TV NOVO TEMPO  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",TV NOVO TEMPO  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856834
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/856845
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sextreme.png" group-title="ADULTO",XXX: SEXTREME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/863553
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/venus.png" group-title="ADULTO",XXX: VENUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/863558
-#EXTINF:-1 tvg-id="" tvg-name="Religioso 1" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/estampa-evangelica-png-2-Transparent-Images.png" group-title="RELIGIÃO",Religioso 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925549
-#EXTINF:-1 tvg-id="" tvg-name="religioso 2" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/estampa-evangelica-png-2-Transparent-Images.png" group-title="RELIGIÃO",religioso 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925550
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="PN 1 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn.png" group-title="ESPORTE",PN 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925553
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="PN 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn.png" group-title="ESPORTE",PN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925555
-#EXTINF:-1 tvg-id="ESPN2 HD" tvg-name="PN 2 SD" tvg-logo="http://vipeiptv.com:25461/images/23c114bed848b2e2e48b0c6176bfb394.png" group-title="ESPORTE",PN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925558
-#EXTINF:-1 tvg-id="ESPN2 HD" tvg-name="PN 2 HD" tvg-logo="http://vipeiptv.com:25461/images/23c114bed848b2e2e48b0c6176bfb394.png" group-title="ESPORTE",PN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925560
-#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="PN BRASIL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn.png" group-title="ESPORTE",PN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925563
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="PN BRASIL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn.png" group-title="ESPORTE",PN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925565
-#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="PN EXTRA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espnextra.png" group-title="ESPORTE",PN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925569
-#EXTINF:-1 tvg-id="FOX Sports HD" tvg-name="SPORTS 1 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports.png" group-title="ESPORTE",SPORTS 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925572
-#EXTINF:-1 tvg-id="FOX Sports HD" tvg-name="SPORTS 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports.png" group-title="ESPORTE",SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925574
-#EXTINF:-1 tvg-id="FOX Sports HD" tvg-name="SPORTS 1 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports.png" group-title="ESPORTE",SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925576
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="SPORTS 2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports2.png" group-title="ESPORTE",SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925578
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="SPORTS 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports2.png" group-title="ESPORTE",SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925580
-#EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="PROGRAMAS 24 HORAS",24H TRAPALHOES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925583
-#EXTINF:-1 tvg-id="" tvg-name="24hs 101 Dálmatas" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs 101 Dálmatas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931296
-#EXTINF:-1 tvg-id="" tvg-name="24hs 3 Palavrinhas" tvg-logo="http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="DESENHOS 24 HORAS",24hs 3 Palavrinhas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931297
-#EXTINF:-1 tvg-id="" tvg-name="24hs A Formiga Atômica" tvg-logo="http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="DESENHOS 24 HORAS",24hs A Formiga Atômica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931299
-#EXTINF:-1 tvg-id="" tvg-name="24hs A GRANDE FAMILIA" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A GRANDE FAMILIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931300
-#EXTINF:-1 tvg-id="" tvg-name="24hs A Mansão Foster Para Amigos Imaginários" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Mansão Foster Para Amigos Imaginários
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931301
-#EXTINF:-1 tvg-id="" tvg-name="24hs A Pantera Cor de Rosa" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Pantera Cor de Rosa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931302
-#EXTINF:-1 tvg-id="" tvg-name="24hs A Patrulha Canina" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Patrulha Canina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931303
-#EXTINF:-1 tvg-id="" tvg-name="24hs A Vaca e o Frango" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Vaca e o Frango
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931304
-#EXTINF:-1 tvg-id="" tvg-name="24hs Aladdin" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Aladdin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931305
-#EXTINF:-1 tvg-id="" tvg-name="24hs Animaniacs" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Animaniacs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931306
-#EXTINF:-1 tvg-id="" tvg-name="24hs As Aventuras de Tintin" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Aventuras de Tintin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931307
-#EXTINF:-1 tvg-id="" tvg-name="24hs As Meninas Super Poderosas" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Meninas Super Poderosas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931308
-#EXTINF:-1 tvg-id="" tvg-name="24hs As Visões de Raven" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Visões de Raven
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931310
-#EXTINF:-1 tvg-id="" tvg-name="24hs AUTHENTIC GAMES" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs AUTHENTIC GAMES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931311
-#EXTINF:-1 tvg-id="" tvg-name="24hs Avatar a Lenda de Aang" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Avatar a Lenda de Aang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931312
-#EXTINF:-1 tvg-id="" tvg-name="24hs Baby Looney Tunes" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Baby Looney Tunes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931313
-#EXTINF:-1 tvg-id="" tvg-name="24hs BACKARDIGANS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BACKARDIGANS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931314
-#EXTINF:-1 tvg-id="" tvg-name="24hs Ben 10" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ben 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931315
-#EXTINF:-1 tvg-id="" tvg-name="24hs Ben 10 Omniverse" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ben 10 Omniverse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931316
-#EXTINF:-1 tvg-id="" tvg-name="24hs Bob Esponja" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Bob Esponja
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931318
-#EXTINF:-1 tvg-id="" tvg-name="24hs BOB O CONSTRUTOR" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOB O CONSTRUTOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931319
-#EXTINF:-1 tvg-id="" tvg-name="24hs BOB O TREM" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOB O TREM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931320
-#EXTINF:-1 tvg-id="" tvg-name="24hs Bob Zoom" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Bob Zoom
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931321
-#EXTINF:-1 tvg-id="" tvg-name="24hs Boku no Hero Academia" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Boku no Hero Academia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931322
-#EXTINF:-1 tvg-id="" tvg-name="24hs BOOBA" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOOBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931323
-#EXTINF:-1 tvg-id="" tvg-name="24hs Brooklyn Nine-Nine" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs Brooklyn Nine-Nine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931325
-#EXTINF:-1 tvg-id="" tvg-name="24hs Cadillacs e Dinossauros" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Cadillacs e Dinossauros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931326
-#EXTINF:-1 tvg-id="" tvg-name="24hs CAILLOU" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CAILLOU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931327
-#EXTINF:-1 tvg-id="" tvg-name="24hs Chapolin Colorado" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Chapolin Colorado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931333
-#EXTINF:-1 tvg-id="" tvg-name="24hs CHAVES do 8" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CHAVES do 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931334
-#EXTINF:-1 tvg-id="" tvg-name="24hs Chaves em desenho animado" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Chaves em desenho animado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931335
-#EXTINF:-1 tvg-id="" tvg-name="24hs Como Eu Conheci Sua Mãe" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs Como Eu Conheci Sua Mãe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931336
-#EXTINF:-1 tvg-id="" tvg-name="24hs CORAGEM, O CÃO COVARDE" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CORAGEM, O CÃO COVARDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931337
-#EXTINF:-1 tvg-id="" tvg-name="24hs Corrida Maluca" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Corrida Maluca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931338
-#EXTINF:-1 tvg-id="" tvg-name="24hs CUT THE HOPE" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CUT THE HOPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931339
-#EXTINF:-1 tvg-id="" tvg-name="24hs De Volta para o Futuro" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs De Volta para o Futuro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931340
-#EXTINF:-1 tvg-id="" tvg-name="24hs Detetives do Prédio Azul" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Detetives do Prédio Azul
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931341
-#EXTINF:-1 tvg-id="" tvg-name="24hs DIGIMON" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs DIGIMON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931342
-#EXTINF:-1 tvg-id="" tvg-name="24hs Dora a Aventureira" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Dora a Aventureira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931343
-#EXTINF:-1 tvg-id="" tvg-name="24hs Dragon Ball Super" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Dragon Ball Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931344
-#EXTINF:-1 tvg-id="" tvg-name="24hs Drake & Josh" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Drake & Josh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931345
-#EXTINF:-1 tvg-id="" tvg-name="24hs Du, Dudu e Edu" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Du, Dudu e Edu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931346
-#EXTINF:-1 tvg-id="" tvg-name="24hs Duck Dodgers" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Duck Dodgers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931347
-#EXTINF:-1 tvg-id="" tvg-name="24hs EU A PATROA E AS CRIANÇAS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs EU A PATROA E AS CRIANÇAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931349
-#EXTINF:-1 tvg-id="" tvg-name="24hs Flash" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Flash
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931350
-#EXTINF:-1 tvg-id="" tvg-name="24hs Flash Gordon" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Flash Gordon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931351
-#EXTINF:-1 tvg-id="" tvg-name="24hs FLINTSTONES" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs FLINTSTONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931352
-#EXTINF:-1 tvg-id="" tvg-name="24hs Fly o pequeno guerreiro" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Fly o pequeno guerreiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931353
-#EXTINF:-1 tvg-id="" tvg-name="24hs Freakazoid!" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Freakazoid!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931354
-#EXTINF:-1 tvg-id="" tvg-name="24hs FullMetal Alchemist" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs FullMetal Alchemist
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931355
-#EXTINF:-1 tvg-id="" tvg-name="24hs Homem Aranha" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Homem Aranha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931358
-#EXTINF:-1 tvg-id="" tvg-name="24hs Hércules" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Hércules
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931360
-#EXTINF:-1 tvg-id="" tvg-name="24hs Jackie Chan e Amigos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Jackie Chan e Amigos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931361
-#EXTINF:-1 tvg-id="" tvg-name="24hs KENAN E KEL" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs KENAN E KEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931362
-#EXTINF:-1 tvg-id="" tvg-name="24hs Little Angel" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Little Angel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931363
-#EXTINF:-1 tvg-id="" tvg-name="24hs Medabots" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Medabots
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931364
-#EXTINF:-1 tvg-id="" tvg-name="24hs Mega Man" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mega Man
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931365
-#EXTINF:-1 tvg-id="" tvg-name="24hs Mickey Mouse" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mickey Mouse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931367
-#EXTINF:-1 tvg-id="" tvg-name="24hs Miraculous Ladybug" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Miraculous Ladybug
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931368
-#EXTINF:-1 tvg-id="" tvg-name="24hs Mortal Kombat" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mortal Kombat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931369
-#EXTINF:-1 tvg-id="" tvg-name="24hs Mucha Lucha" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mucha Lucha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931371
-#EXTINF:-1 tvg-id="" tvg-name="24hs Mundo Bita" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mundo Bita
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931372
-#EXTINF:-1 tvg-id="" tvg-name="24hs Naruto" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Naruto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931373
-#EXTINF:-1 tvg-id="" tvg-name="24hs O Laboratório de Dexter" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Laboratório de Dexter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931376
-#EXTINF:-1 tvg-id="" tvg-name="24hs O Mundo de Beakman" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Mundo de Beakman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931377
-#EXTINF:-1 tvg-id="" tvg-name="24hs O Máskara" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Máskara
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931378
-#EXTINF:-1 tvg-id="" tvg-name="24hs os Cavaleiros do Zodíaco" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs os Cavaleiros do Zodíaco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931379
-#EXTINF:-1 tvg-id="" tvg-name="24hs Os Flintstones" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Flintstones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931380
-#EXTINF:-1 tvg-id="" tvg-name="24hs Os Padrinhos Mágicos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Padrinhos Mágicos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931381
-#EXTINF:-1 tvg-id="" tvg-name="24hs Os Super Patos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Super Patos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931383
-#EXTINF:-1 tvg-id="" tvg-name="24hs Os Vingadores" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Vingadores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931384
-#EXTINF:-1 tvg-id="" tvg-name="24hs Papa Léguas" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Papa Léguas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931385
-#EXTINF:-1 tvg-id="" tvg-name="24hs Patati e Patatá" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Patati e Patatá
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931386
-#EXTINF:-1 tvg-id="" tvg-name="24hs Peppa Pig" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Peppa Pig
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931387
-#EXTINF:-1 tvg-id="" tvg-name="24hs Pernalonga e seus amigos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pernalonga e seus amigos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931388
-#EXTINF:-1 tvg-id="" tvg-name="24hs Pica Pau" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pica Pau
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931389
-#EXTINF:-1 tvg-id="" tvg-name="24hs Pocoyo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pocoyo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931391
-#EXTINF:-1 tvg-id="" tvg-name="24hs POKEMOM MANICRAFT" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs POKEMOM MANICRAFT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931392
-#EXTINF:-1 tvg-id="" tvg-name="24hs RICK E MORTY" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs RICK E MORTY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931394
-#EXTINF:-1 tvg-id="" tvg-name="24hs Sailor Moon" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Sailor Moon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931395
-#EXTINF:-1 tvg-id="" tvg-name="24hs Samurai Warriors" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Samurai Warriors
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931396
-#EXTINF:-1 tvg-id="" tvg-name="24hs SCOOBY DOO" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs SCOOBY DOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931397
-#EXTINF:-1 tvg-id="" tvg-name="24hs South Park" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs South Park
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931398
-#EXTINF:-1 tvg-id="" tvg-name="24hs Steven Universo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Steven Universo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931399
-#EXTINF:-1 tvg-id="" tvg-name="24hs Super Choque" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Super Choque
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931400
-#EXTINF:-1 tvg-id="" tvg-name="24hs Taz Mania" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Taz Mania
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931401
-#EXTINF:-1 tvg-id="" tvg-name="24hs Thundercats" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Thundercats
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931402
-#EXTINF:-1 tvg-id="" tvg-name="24hs Timão e Pumba" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Timão e Pumba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931403
-#EXTINF:-1 tvg-id="" tvg-name="24hs TODO MUNDO ODEIA O CHRIS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs TODO MUNDO ODEIA O CHRIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931404
-#EXTINF:-1 tvg-id="" tvg-name="24hs TROLLS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs TROLLS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931406
-#EXTINF:-1 tvg-id="" tvg-name="24hs Três Espiãs Demais" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Três Espiãs Demais
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931407
-#EXTINF:-1 tvg-id="" tvg-name="24hs Turma da Mônica" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Turma da Mônica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931408
-#EXTINF:-1 tvg-id="" tvg-name="24hs Turma da Pateta" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Turma da Pateta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931409
-#EXTINF:-1 tvg-id="" tvg-name="24hs Uma família da pesada" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Uma família da pesada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931410
-#EXTINF:-1 tvg-id="" tvg-name="24hs Ursinhos Carinhosos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ursinhos Carinhosos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931411
-#EXTINF:-1 tvg-id="" tvg-name="24hs X-men" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs X-men
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931412
-#EXTINF:-1 tvg-id="" tvg-name="24hs Zé Colméia" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Zé Colméia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931413
-#EXTINF:-1 tvg-id="" tvg-name="24hs Um Maluco no Pedaço" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Um Maluco no Pedaço
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931415
-#EXTINF:-1 tvg-id="" tvg-name="24hs Escolinha do Professor Raimundo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs Escolinha do Professor Raimundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953392
-#EXTINF:-1 tvg-id="" tvg-name="24hs THE WALKING DEAD" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs THE WALKING DEAD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953393
-#EXTINF:-1 tvg-id="" tvg-name="24hs Vai que Cola" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Vai que Cola
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953394
-#EXTINF:-1 tvg-id="" tvg-name="24hs Arqueiro Verde" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Arqueiro Verde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953395
-#EXTINF:-1 tvg-id="" tvg-name="24hs Fate" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Fate
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953396
-#EXTINF:-1 tvg-id="" tvg-name="24hs Vikings" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Vikings
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953397
-#EXTINF:-1 tvg-id="" tvg-name="24hs Big Bang Theory" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Big Bang Theory
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953398
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="ESPORTE",TNT SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956421
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="ESPORTE",TNT SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956422
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="ESPORTE",TNT SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956423
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="ESPORTE",TNT SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956424
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="ESPORTE",TNT SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956425
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="COPA LIBERTADORES",CONMEBOL 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956448
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD" tvg-logo="http://vipeiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png" group-title="COPA LIBERTADORES",CONMEBOL 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956449
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD" tvg-logo="http://vipeiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png" group-title="COPA LIBERTADORES",CONMEBOL 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956450
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 HD" tvg-logo="http://vipeiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png" group-title="COPA LIBERTADORES",CONMEBOL 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956451
-#EXTINF:-1 tvg-id="" tvg-name="24H ALF O E.TEIMOSO VIP" tvg-logo="https://i.imgur.com/S28ccjG.png" group-title="DESENHOS 24 HORAS",24H ALF O E.TEIMOSO VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956467
-#EXTINF:-1 tvg-id="" tvg-name="24H AS AVENTURAS DE TOM & JERRY VIP" tvg-logo="https://i.pinimg.com/originals/46/88/90/468890c2e5317f3b59792457b4330acd.png" group-title="DESENHOS 24 HORAS",24H AS AVENTURAS DE TOM & JERRY VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956471
-#EXTINF:-1 tvg-id="" tvg-name="24H AVATAR A LENDA DE KORA H265 VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_de_Avatar_la_leyenda_de_Aang.png" group-title="DESENHOS 24 HORAS",24H AVATAR A LENDA DE KORA H265 VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956473
-#EXTINF:-1 tvg-id="" tvg-name="24H BABY LOONEY TUNES VIP" tvg-logo="https://w7.pngwing.com/pngs/283/647/png-transparent-diaper-infant-looney-tunes-changing-tables-disposable-baby-looney-tunes-food-computer-wallpaper-looney.png" group-title="DESENHOS 24 HORAS",24H BABY LOONEY TUNES VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956474
-#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="DESENHOS 24 HORAS",24H BEN 10 VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956477
-#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 OMNIVERSE VIP" tvg-logo="https://seeklogo.com/images/B/ben-10-omniverse-logo-9459526B49-seeklogo.com.png" group-title="DESENHOS 24 HORAS",24H BEN 10 OMNIVERSE VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956478
-#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA T01 A 04 VIP" tvg-logo="https://2.bp.blogspot.com/-KPWQFOwORaQ/WIiCSCxIgXI/AAAAAAAAJeA/nmRNjSGzfgUO6v7DGRDPQmdDZD5Goc6eQCLcB/s1600/logo_bob_esponja.png" group-title="DESENHOS 24 HORAS",24H BOB ESPONJA T01 A 04 VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956480
-#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO CAVERNA VIP" tvg-logo="https://3.bp.blogspot.com/-nkrpAaQPwxA/VG1XH2MUXtI/AAAAAAAAh7A/FqXNJGcIU6Y/s1600/capit%C3%A3o-caverna-em-png-queroimagem-cei%C3%A7a-crispim-02.png" group-title="DESENHOS 24 HORAS",24H CAPITÃO CAVERNA VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956487
-#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO PLANETA VIP" tvg-logo="https://www.nicepng.com/png/full/826-8263081_capito-planeta-logo-png.png" group-title="DESENHOS 24 HORAS",24H CAPITÃO PLANETA VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956488
-#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CAVALO DE FOGO VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956490
-#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CAVERNA DO DRAGÃO VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956491
-#EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM O CÃO COVARDE VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CORAGEM O CÃO COVARDE VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956497
-#EXTINF:-1 tvg-id="" tvg-name="24H DIGIMON VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DIGIMON VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956502
-#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE & JOSH VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DRAKE & JOSH VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956517
-#EXTINF:-1 tvg-id="" tvg-name="24H DUCK DODGERS VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DUCK DODGERS VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956518
-#EXTINF:-1 tvg-id="" tvg-name="24H DUCK TALES CLÁSSICO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DUCK TALES CLÁSSICO VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956519
-#EXTINF:-1 tvg-id="" tvg-name="24H FLY O PEQUENO GUERREIRO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H FLY O PEQUENO GUERREIRO VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956521
-#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA MINI VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H GALINHA PINTADINHA MINI VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956528
-#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H GATO FELIX VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956529
-#EXTINF:-1 tvg-id="" tvg-name="24H HE-MAN VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H HE-MAN VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956530
-#EXTINF:-1 tvg-id="" tvg-name="24H JASPION VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H JASPION VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956531
-#EXTINF:-1 tvg-id="" tvg-name="24H MUNDO BITA VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H MUNDO BITA VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956537
-#EXTINF:-1 tvg-id="" tvg-name="24H NARUTO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H NARUTO VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956538
-#EXTINF:-1 tvg-id="" tvg-name="24H O INCRÍVEL MUNDO DE GUMBALL VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H O INCRÍVEL MUNDO DE GUMBALL VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956540
-#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DO GARFIELD VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H O SHOW DO GARFIELD VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956543
-#EXTINF:-1 tvg-id="" tvg-name="24H OS CAÇA FANTASMA DESENHO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H OS CAÇA FANTASMA DESENHO VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956549
-#EXTINF:-1 tvg-id="" tvg-name="24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956553
-#EXTINF:-1 tvg-id="" tvg-name="24H OS RONI VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H OS RONI VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956554
-#EXTINF:-1 tvg-id="" tvg-name="24H PATO DONALD VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H PATO DONALD VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956561
-#EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H PICA- PAU VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956567
-#EXTINF:-1 tvg-id="" tvg-name="24H PINK E O CEREBRO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H PINK E O CEREBRO VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956569
-#EXTINF:-1 tvg-id="" tvg-name="24H POPEYE VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H POPEYE VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956571
-#EXTINF:-1 tvg-id="" tvg-name="24H SITIO DO PICA PAU AMARELO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SITIO DO PICA PAU AMARELO VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956578
-#EXTINF:-1 tvg-id="" tvg-name="24H SUPER CHOQUE VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SUPER CHOQUE VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956580
-#EXTINF:-1 tvg-id="" tvg-name="24H SUPERAMIGOS VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SUPERAMIGOS VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956581
-#EXTINF:-1 tvg-id="" tvg-name="24H SUPERCAMPEÕES VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SUPERCAMPEÕES VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956582
-#EXTINF:-1 tvg-id="" tvg-name="24H TRÊS ESPIÃS DEMAIS VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H TRÊS ESPIÃS DEMAIS VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956586
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Ação" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Ação
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956729
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Comedia" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956730
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Drama" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956731
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Faroeste" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Faroeste
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956732
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Ficção" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Ficção
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956733
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY POLICIAL" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY POLICIAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956734
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC TV CHAPECO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/961715
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CRICIUMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC TV CRICIUMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/961716
-#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO PORTO VELHO" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="GLOBOS RONDONIA",GLOBO PORTO VELHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/961717
-#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="GLOBOS PARANA",GLOBO RPC FOZ DO IGUACU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/961722
-#EXTINF:-1 tvg-id="RPC TV Curitiba" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="GLOBOS PARANA",GLOBO RPC MARINGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/961723
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAM PRINCIPAL ESQUENTA" tvg-logo="" group-title="BBB 22",BBB 2022 CAM PRINCIPAL ESQUENTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10072482|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2821|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047305|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054705|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD°" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD°
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10035332|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4913|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054704|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047304|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/345|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054723|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HDᴮᴿ" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2823|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ SD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4860|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ SD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054722|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5556|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054757|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD²" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/7171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/341|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054756|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4893|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054790|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD²" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6555|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA SD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2829|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA SD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054789|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE HD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5292|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE HD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054750|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE SD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5782|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE SD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054749|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS H265" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027001|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5595|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054787|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD²" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9002|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS SD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4864|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS SD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054786|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRAO PRETO HD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRAO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6558|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO HD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054781|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO SD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054780|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4863|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV SAO CARLOS HD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV SAO CARLOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050088|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS HD*" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054784|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS SD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5549|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS SD*" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054783|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV ARARAQUARA SD" tvg-logo="https://i.imgur.com/GzUN9fv.png" group-title="GLOBOS",GB EPTV ARARAQUARA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6557|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES HD" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049608|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES HD*" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054684|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES SD*" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054683|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO HD" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9599|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO HD*" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054645|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO SD" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4856|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO SD*" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054644|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA HD" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049101|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA HD*" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054648|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA SD" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049100|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA SD*" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054647|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU HD*" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054651|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU HD" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050084|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU SD" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4857|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU SD*" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054650|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA HD" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050086|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA HD*" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054642|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA SD" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/317|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA SD*" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054641|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE HD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049116|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE HD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054633|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE SD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049115|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE SD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054632|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA P. PRUDENTE HD" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA P. PRUDENTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049107|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA PRESIDENTE PRUDENTE HD*" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA PRESIDENTE PRUDENTE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054681|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA P. PRUDENTE SD" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA P. PRUDENTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049106|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA PRESIDENTE PRUDENTE SD*" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA PRESIDENTE PRUDENTE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054680|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC BLUMENAU HD" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC BLUMENAU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11227|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV BLUMENAU HD*" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC TV BLUMENAU HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054747|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV BLUMENAU SD*" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC TV BLUMENAU SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054746|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC BLUMENAU SD" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC BLUMENAU SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11226|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO HD*" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054744|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049032|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO SD*" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054743|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO HD" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049031|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CRICIUMA HD" tvg-logo="https://i.imgur.com/TReP1JD.png" group-title="GLOBOS",GB NSC TV CRICIUMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049049|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CRICIUMA SD" tvg-logo="https://i.imgur.com/TReP1JD.png" group-title="GLOBOS",GB NSC TV CRICIUMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049048|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CENTRO-OESTE HD" tvg-logo="https://i.imgur.com/aKD6sgd.png" group-title="GLOBOS",GB NSC TV CENTRO-OESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049046|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CENTRO-OESTE SD" tvg-logo="https://i.imgur.com/aKD6sgd.png" group-title="GLOBOS",GB NSC TV CENTRO-OESTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049045|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS HD" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6269|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS HD*" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054741|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS SD" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6559|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS SD*" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054740|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscjoinville.br" tvg-name="GB NSC JOINVILLE HD" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11221|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC JOINVILLE HD*" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054738|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscjoinville.br" tvg-name="GB NSC JOINVILLE SD" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11220|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC JOINVILLE SD*" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054737|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2777|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PORTO ALEGRE HD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PORTO ALEGRE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054729|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PORTO ALEGRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/321|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PORTO ALEGRE SD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PORTO ALEGRE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054728|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS CAXIAS DO SUL HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS CAXIAS DO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11224|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV CAXIAS DO SUL HD*" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB RBS TV CAXIAS DO SUL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054735|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS CAXIAS DO SUL SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS CAXIAS DO SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11223|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV CAXIAS DO SUL SD*" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB RBS TV CAXIAS DO SUL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054734|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11218|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS HD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054732|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11217|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS SD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054731|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV SANTA MARIA HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV SANTA MARIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049043|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV SANTA MARIA SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV SANTA MARIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049042|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054720|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6561|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4793|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054719|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049029|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049028|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054717|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054716|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10035642|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10035643|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054714|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054713|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049040|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049039|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054708|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054707|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049034|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049033|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054711|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054710|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA GOIANIA HD" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA GOIANIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6562|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA HD*" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054702|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA GOIANIA SD" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA GOIANIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6563|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA SD*" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054701|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11233|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054763|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11232|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054762|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11236|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11235|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054766|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054765|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO ARAXA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO ARAXA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049058|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO ARAXA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO ARAXA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049057|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV ARAXÁ HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ARAXÁ HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054772|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV ARAXÁ SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ARAXÁ SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054771|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO JUIZ DE FORA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO JUIZ DE FORA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054669|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO JUIZ DE FORA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO JUIZ DE FORA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049055|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO JUIZ DE FORA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO JUIZ DE FORA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054668|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO JUIZ DE FORA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO JUIZ DE FORA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049054|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERLANDIA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERLANDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049113|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERLANDIA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERLANDIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049112|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049061|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049060|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054778|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054777|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS HD" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050082|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS HD*" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054639|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS SD*" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054638|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS SD" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4859|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS SD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6552|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL HD" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11212|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL HD*" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054657|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL SD*" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054656|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL SD" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11211|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11239|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11238|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054775|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054774|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11230|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvserramar.br " tvg-name="GB INTER TV SERRA MAR SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11229|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054760|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054759|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITÓRIA HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITÓRIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10048873|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA HD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITORIA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054672|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA SD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITORIA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054671|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITÓRIA SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITÓRIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9516|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL ES HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9514|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054769|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054768|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5780|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO HD*" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054693|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO HD" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11215|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO SD" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11214|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO SD*" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054692|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA HD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5853|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA HD*" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054696|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5777|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA SD*" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054695|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SANTA CRUZ HD" tvg-logo="https://i.imgur.com/kQpiuPs.png" group-title="GLOBOS",GB TV SANTA CRUZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11209|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SANTA CRUZ SD" tvg-logo="https://i.imgur.com/kQpiuPs.png" group-title="GLOBOS",GB TV SANTA CRUZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11208|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS HD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9591|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS HD*" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054663|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS SD*" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054662|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS SD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9590|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054654|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054653|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9513|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9654|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS HD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054678|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9656|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS SD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054677|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9517|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054687|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9519|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054686|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA CAMPO GRANDE HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA CAMPO GRANDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9588|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054660|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054659|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA CAMPO GRANDE SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA CAMPO GRANDE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9587|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049052|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL HD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054675|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL SD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054674|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049051|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049037|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049036|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054699|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054698|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA CUIABA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA CUIABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049122|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA CUIABA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA CUIABA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6564|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054690|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054689|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA MANAUS HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049118|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS HD*" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054726|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS SD*" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054725|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS  SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5779|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA BOA VISTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049104|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA BOA VISTA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049103|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA PORTO VELHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049110|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA PORTO VELHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049109|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RedeamazonicaRioBranco.br" tvg-name="GB TV REDE AMAZONICA RIO BRANCO" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA RIO BRANCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049610|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM HD" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049120|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM HD*" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054666|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM SD*" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054665|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM SD" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5778|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FORTALEZA HD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049124|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES HD*" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054629|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB VERDES MARES SD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB VERDES MARES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5776|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES SD*" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054628|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB PETROLINA TV GRANDE RIO" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB PETROLINA TV GRANDE RIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/19487|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PASSO FUNDO HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PASSO FUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050094|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PASSO FUNDO SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PASSO FUNDO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050093|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC LONDRINA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC LONDRINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050091|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC LONDRINA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC LONDRINA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050090|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S. J. DOS CAMPOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050080|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES CARIRI HD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES CARIRI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050078|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES CARIRI SD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES CARIRI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050077|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MACAPA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050075|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MACAPA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050074|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CASCAVEL HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CASCAVEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050072|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CASCAVEL SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CASCAVEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050071|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050069|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE COCAIS HD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE COCAIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050067|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE COCAIS SD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE COCAIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050066|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050064|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERABA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERABA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050063|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUBAE HD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUBAE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050061|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUBAE SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUBAE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050060|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUDOESTE HD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUDOESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050058|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUDOESTE SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUDOESTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050057|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVGlobo.us" tvg-name="GB USA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6500|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVGlobo.us" tvg-name="GB USA HD²" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB USA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10041637|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/336|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD*" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054409|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVCidade.br" tvg-name="RECORDTV TV CIDADE HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV TV CIDADE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055100|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD²" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/8939|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD³" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5098|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVCidade.br" tvg-name="RECORDTV TV CIDADE SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV TV CIDADE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055099|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/337|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD*" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054408|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV SDᴮᴿ" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047247|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD²" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10036717|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054430|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054429|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SAO JOSE DO RIO PRETO HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV SAO JOSE DO RIO PRETO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054412|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SAO JOSE DO RIO PRETO SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV SAO JOSE DO RIO PRETO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054411|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ HD" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027008|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ HD*" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054418|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ SD" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027009|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ SD*" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054417|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR RJ HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054433|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR RJ SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054432|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG HD" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9821|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG HD*" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054420|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG SD" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9822|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG SD*" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054419|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO HD" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027007|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO HD*" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054436|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO SD" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027006|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO SD*" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054435|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF HD" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10640|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF HD*" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054439|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF SD" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10636|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF SD*" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054438|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RIC MARINGA" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RIC MARINGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10050303|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS HD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10642|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054415|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054414|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10643|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV CAMPINAS SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027003|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BA HD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/19413|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BA SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/19414|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM HD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027004|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054441|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027005|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054440|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RN TV TROPICAL" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RN TV TROPICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027012|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV ATALAIA" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV ATALAIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040632|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4895|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD*" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055014|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HDᴮᴿ" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9032|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4132|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD*" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055009|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SDᴮᴿ" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047349|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS SD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027013|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND CAMPINAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10028093|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/330|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD*" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054394|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HDᴮᴿ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/16849|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4079|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD*" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054393|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SDᴮᴿ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047241|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU BAHIA" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TV ARATU BAHIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/331|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Stbrio.br" tvg-name="SBT RJ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027018|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Stbrio.br" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049869|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="SBT PR" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT PR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049867|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVTambau.br" tvg-name="SBT TAMBAU PARAIBA" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TAMBAU PARAIBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027016|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVAlterosa.br" tvg-name="SBT TV ALTEROSA MG" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TV ALTEROSA MG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027017|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MA" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT MA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/20529|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV JANGADEIRO CE HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TV JANGADEIRO CE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/19714|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/335|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD²" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5142|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD³" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17140|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! SD" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5143|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! SDᴮᴿ" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047243|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV SP HD*" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054402|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV SP SD*" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054401|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027022|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054885|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054884|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2741|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9615|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD*" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054800|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5600|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD*" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054799|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SDᴮᴿ" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047308|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4914|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP SD" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027024|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SDᴮᴿ" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047212|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA HD" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17263|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO HD*" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055096|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO SD*" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055095|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA SD" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FORTALEZA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/19716|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055104|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055103|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/311|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD*" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054940|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD*" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054939|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://i.imgur.com/n8IaDTk.png" group-title="ABERTOS",CANAL RURAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10666|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Terraviva.br " tvg-name="TERRA VIVA SD" tvg-logo="https://i.imgur.com/cXcAe0X.png" group-title="ABERTOS",TERRA VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/313|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS HD*" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055045|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS SD*" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055044|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA SD" tvg-logo="https://i.imgur.com/Cij9z59.png" group-title="ABERTOS",TV CAMARA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9603|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD*" tvg-logo="https://i.imgur.com/bfPF8YG.png" group-title="ABERTOS",TV JUSTICA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055090|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="https://i.imgur.com/bfPF8YG.png" group-title="ABERTOS",TV JUSTICA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5495|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD*" tvg-logo="https://i.imgur.com/dKHM5oa.png" group-title="ABERTOS",TV SENADO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055080|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD" tvg-logo="https://i.imgur.com/dKHM5oa.png" group-title="ABERTOS",TV SENADO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9602|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV O POVO SD*" tvg-logo="https://i.imgur.com/VJbgxbW.png" group-title="ABERTOS",TV O POVO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055085|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV O POVO CEARA" tvg-logo="https://i.imgur.com/VJbgxbW.png" group-title="ABERTOS",TV O POVO CEARA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/19715|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIAO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="ABERTOS",TV UNIAO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055077|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIAO SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="ABERTOS",TV UNIAO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055076|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="NBR SD*" tvg-logo="" group-title="ABERTOS",NBR SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054502|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="SHOPTIME SD*" tvg-logo="https://i.imgur.com/6EIEbfb.png" group-title="ABERTOS",SHOPTIME SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054390|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV ASSEMBLEIA" tvg-logo="https://i.imgur.com/6r7nE8t.png" group-title="ABERTOS",TV ASSEMBLEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068473|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV JOCKEY" tvg-logo="https://i.imgur.com/CtWY8iT.png" group-title="ABERTOS",TV JOCKEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068471|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TELESUR" tvg-logo="https://i.imgur.com/0IVvUgm.png" group-title="ABERTOS",TELESUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068465|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/3fwlRmX.png" group-title="ABERTOS",SESC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068464|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN TV" tvg-logo="https://i.imgur.com/8yuZBex.png" group-title="ABERTOS",URBAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068451|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="COM BRASIL SD" tvg-logo="https://i.imgur.com/m4iSuAz.png" group-title="ABERTOS",COM BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068447|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/177|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD*" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054368|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HDᴮᴿ" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4899|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD³" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/16847|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/176|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD*" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054367|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/172|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD*" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054376|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4900|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD*" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054375|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/167|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HDᴮᴿ" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17104|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD*" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054372|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD*" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054371|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/166|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/164|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD*" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054804|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HDᴮᴿ" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/8992|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD³" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2835|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/163|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD*" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054803|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SDᴮᴿ" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047310|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/161|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD*" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054808|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17143|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/160|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD*" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054807|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047309|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/154|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD*" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054830|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17131|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5371|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD*" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054829|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SDᴮᴿ" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047320|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/148|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD*" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054836|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4962|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/153|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD*" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054835|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047324|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/151|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD*" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054827|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HDᴮᴿ" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2843|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/150|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD*" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054826|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SDᴮᴿ" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047323|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5396|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD*" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054824|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HDᴮᴿ" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17092|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5397|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD*" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054823|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA SDᴮᴿ" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047322|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/155|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD*" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055011|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HDᴮᴿ" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17138|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD*" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055010|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/156|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/141|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD*" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054490|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD*" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054489|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/140|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SDᴮᴿ" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047250|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fishtv.br " tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5947|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD*" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054816|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/138|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD*" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054815|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SDᴮᴿ" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047319|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/201|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD*" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054917|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD²" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4911|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/202|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD*" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054916|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE SDᴮᴿ" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047337|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054468|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4905|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17107|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054467|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/179|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/197|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054465|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4902|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2788|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054464|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/198|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/196|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054462|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4903|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17110|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054461|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/195|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/193|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054459|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4904|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17109|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054458|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2786|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/190|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054456|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17108|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5717|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054455|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/189|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4991|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054453|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17155|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054452|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/187|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4990|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054450|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17154|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054449|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/185|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 8 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054448|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/8944|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055199|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055198|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055197|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055196|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055195|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055194|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055193|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055192|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055191|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055190|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055189|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055188|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055187|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 8 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055186|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068908|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1*" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 1*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068955|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068956|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 2*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069193|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068957|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 3*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069194|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068958|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 4*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069195|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069196|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069197|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 1" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068959|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 2" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068960|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 3" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068961|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 4" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068962|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 5" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068963|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 6" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068964|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068971|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068970|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068969|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 1" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068968|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10053461|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD²" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054030|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10053462|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1²" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 1²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054031|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10053463|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2²" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054032|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 3" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10053464|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10053465|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 5" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10053466|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 6" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10053467|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="LIBERTADORES FACEBOOK" tvg-logo="https://i.imgur.com/tGv3Q3b.png" group-title="ESPORTES ESPECIAIS",LIBERTADORES FACEBOOK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/20216|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049945|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054909|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054908|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049946|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054905|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054904|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049947|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054901|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054900|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054897|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054896|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10049948|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069229|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069228|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069227|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069226|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069225|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069224|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069223|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069222|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069221|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069220|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 11" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069219|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 12" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069218|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 13" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069217|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 14" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069216|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11625|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/16564|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11623|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/11624|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/16565|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 6" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047538|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 1" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/19686|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 1²" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 1²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027027|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 HD*" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054889|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2²" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10046639|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 SD*" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054888|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 3" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/19688|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 3²" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 3²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10046640|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 HD" tvg-logo="https://i.imgur.com/2pHJ2L1.png" group-title="ESPORTES ESPECIAIS",LIGA FUTSAL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055535|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD" tvg-logo="https://i.imgur.com/2pHJ2L1.png" group-title="ESPORTES ESPECIAIS",LIGA FUTSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055534|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="GloboEsporte.br" tvg-name="GB ESPORTE.COM" tvg-logo="https://i.imgur.com/FNKDHPO.png" group-title="ESPORTES ESPECIAIS",GB ESPORTE.COM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027028|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/287|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054298|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HDᴮᴿ" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17101|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD LEG" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9549|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD [LEG]*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054297|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/286|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054296|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SDᴮᴿ" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047228|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD LEG" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9548|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD [LEG]*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054295|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/296|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054326|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HDᴮᴿ" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17103|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD [LEG]*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054325|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD LEG" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9555|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/295|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054324|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="TC ACTION SDᴮᴿ" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047234|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD LEG" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9554|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD [LEG]*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054323|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/290|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054305|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD LEG" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9551|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD [LEG]*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054304|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HDᴮᴿ" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5441|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2754|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054303|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SDᴮᴿ" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047226|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD [LEG]*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054302|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/293|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054312|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HDᴮᴿ" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17102|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD LEG" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9553|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD [LEG]*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="CANAIS LEGENDADOS",TC FUN HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054311|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/292|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054310|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SDᴮᴿ" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047232|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD [LEG]*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="CANAIS LEGENDADOS",TC FUN SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054309|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/284|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054291|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HDᴮᴿ" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17100|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD LEG" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9547|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD [LEG]*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054290|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD LEG" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9546|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD [LEG]*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054288|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054289|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SDᴮᴿ" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047224|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4791|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054319|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HDᴮᴿ" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17153|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD [LEG]*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054318|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD LEG" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10033189|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/281|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054317|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SDᴮᴿ" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047230|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD [LEG]" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10033190|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD [LEG]*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054316|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/244|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054534|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HDᴮᴿ" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17117|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD LEG" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9539|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD [LEG]*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054533|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/245|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054532|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SDᴮᴿ" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047268|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD LEG" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9538|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/208|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055073|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HDᴮᴿ" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17097|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055072|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/209|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD [LEG]*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054531|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2763|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD*" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054339|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HDᴮᴿ" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17047|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/218|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD*" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054338|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL SDᴮᴿ" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047206|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2762|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD*" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054335|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HDᴮᴿ" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17046|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/216|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD*" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054334|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2871|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD*" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054944|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HDᴮᴿ" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040736|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD*" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054943|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/298|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/273|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054597|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HDᴮᴿ" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/16741|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD LEG" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9561|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD [LEG]*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054596|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4768|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054581|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="HBO SDᴮᴿ" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047292|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD LEG" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9558|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD [LEG]*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054580|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/279|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054606|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17123|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047296|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054605|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4099|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/270|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054612|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HDᴮᴿ" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17121|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD LEG" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9560|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD [LEG]*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054611|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/269|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054610|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="HBO+ SDᴮᴿ" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047282|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD LEG" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9559|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD [LEG]*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054609|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/276|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054602|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HDᴮᴿ" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17122|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SDᴮᴿ" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047294|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054601|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/275|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/267|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054576|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HDᴮᴿ" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17142|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SDᴮᴿ" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047286|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054574|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5601|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD [LEG]*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="CANAIS LEGENDADOS",HBO SIGNATURE HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054575|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD [LEG]*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="CANAIS LEGENDADOS",HBO SIGNATURE SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054573|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4827|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054592|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HDᴮᴿ" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4766|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/240|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054590|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SDᴮᴿ" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047290|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD [LEG]*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054591|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD LEG" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9556|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD [LEG]*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054589|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5043|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054585|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD LEG" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9541|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD [LEG]*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054584|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD [LEG]*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054582|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/235|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054583|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP SDᴮᴿ" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047288|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD LEG" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9540|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4828|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054569|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HDᴮᴿ" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4767|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/239|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054567|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SDᴮᴿ" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047284|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD [LEG]*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054568|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD LEG" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9557|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD [LEG]*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054566|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD*" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055049|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HDᴮᴿ" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17070|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/299|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD*" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055048|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SDᴮᴿ" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047356|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5477|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD*" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055041|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HDᴮᴿ" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/7511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5298|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD*" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055040|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="AMC SDᴮᴿ" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047354|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/231|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HDᴮᴿ" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17148|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055027|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD LEG" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9565|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD [LEG]*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055026|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/232|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SDᴮᴿ" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047350|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055025|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD LEG" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9564|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/210|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054935|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HDᴮᴿ" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2869|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD LEG" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9568|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD [LEG]*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054934|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/212|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054933|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SDᴮᴿ" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047344|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD LEG" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9569|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4825|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD*" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054925|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HDᴮᴿ" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/3751|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/230|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD*" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054924|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SDᴮᴿ" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047340|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2861|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD*" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054913|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HDᴮᴿ" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17065|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD*" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054912|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/97|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/256|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054363|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD²" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17128|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD LEG" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9563|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD [LEG]*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054362|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/255|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054361|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SDᴮᴿ" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047316|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD LEG" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9562|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/250|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD*" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054343|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD²" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17127|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/251|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD*" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054342|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SDᴮᴿ" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047315|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/257|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054356|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD²" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17130|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027042|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054354|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SDᴮᴿ" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047313|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD [LEG]*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="CANAIS LEGENDADOS",STAR HITS HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054355|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD [LEG]*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="CANAIS LEGENDADOS",STAR HITS SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054353|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/3293|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054349|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD²" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17129|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027043|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054347|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047311|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD [LEG]*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="CANAIS LEGENDADOS",STAR HITS 2 HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054348|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD [LEG]*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="CANAIS LEGENDADOS",STAR HITS 2 SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054346|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/247|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054795|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HDᴮᴿ" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17125|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD LEG" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9543|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD [LEG]*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054794|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4551|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054793|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SDᴮᴿ" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047307|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD LEG" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9542|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD [LEG]*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054792|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="LIKE HD*" tvg-logo="https://t2.tudocdn.net/332966?w=660&h=371" group-title="FILMES E SERIES",LIKE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054543|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="LIKE SD*" tvg-logo="https://t2.tudocdn.net/332966?w=660&h=371" group-title="FILMES E SERIES",LIKE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054542|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/228|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD*" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054482|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HDᴮᴿ" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17112|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/227|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD*" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054481|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SDᴮᴿ" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047248|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/223|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054382|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HDᴮᴿ" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17106|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD LEG" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9537|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD [LEG]*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054381|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/224|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054380|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SDᴮᴿ" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047239|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD LEG" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9536|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD [LEG]*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054379|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/220|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054331|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HDᴮᴿ" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17139|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/221|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054330|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="TBS SDᴮᴿ" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047236|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027045|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027044|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/214|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/263|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055129|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HDᴮᴿ" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17099|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD LEG" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9545|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD [LEG]*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055128|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/262|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055127|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SDᴮᴿ" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047216|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD LEG" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9544|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD [LEG]*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055126|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/260|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055122|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HDᴮᴿ" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17098|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD LEG" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9535|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD [LEG]*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055121|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/259|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055120|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SDᴮᴿ" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SÉRIES SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047218|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD LEG" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9534|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD [LEG]*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054360|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/241|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055059|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HDᴮᴿ" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17095|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/242|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055057|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SDᴮᴿ" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047202|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="BORA FILMES" tvg-logo="https://i.imgur.com/gThX6oE.png" group-title="FILMES E SERIES",BORA FILMES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068461|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="ENTRETENDO" tvg-logo="blob:https://imgur.com/70749d25-a9ea-417b-bdf0-e0dc3b253b6b" group-title="FILMES E SERIES",ENTRETENDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068460|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN SERIES" tvg-logo="https://i.imgur.com/q9gspGR.png" group-title="FILMES E SERIES",URBAN SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068452|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN MOVIES" tvg-logo="https://i.imgur.com/pzICgZj.png" group-title="FILMES E SERIES",URBAN MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068448|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD LEG" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9533|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD [LEG]*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055058|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD LEG" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9532|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD [LEG]*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055056|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/126|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD*" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054857|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17134|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/125|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD*" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054856|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SDᴮᴿ" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047331|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2848|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD*" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054840|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD²" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5829|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/69|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD*" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054839|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="E! SDᴮᴿ" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047326|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD*" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="VARIEDADES",FASHION TV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054820|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV SD*" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="VARIEDADES",FASHION TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054819|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HDᴮᴿ" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17091|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2841|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD*" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054812|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/71|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD*" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054811|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SDᴮᴿ" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047317|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/82|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054617|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HDᴮᴿ" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17124|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/81|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054616|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SDᴮᴿ" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047300|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5475|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD*" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054563|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HDᴮᴿ" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17167|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2859|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD*" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054562|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SDᴮᴿ" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047280|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH HD" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/130|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH HD*" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054877|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME &AMP; HEALTH HDᴮᴿ" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME &AMP; HEALTH HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17136|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH SD" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/129|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH SD*" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054876|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH SDᴮᴿ" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047276|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5059|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD*" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054547|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD²" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17162|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/72|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD*" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054546|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SDᴮᴿ" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047272|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="LOADING SD" tvg-logo="https://s2.glbimg.com/_SNU4hVO0E9cVNXK0ShgwJ_E73c=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg" group-title="VARIEDADES",LOADING SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10052808|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="LOADING HD" tvg-logo="https://s2.glbimg.com/_SNU4hVO0E9cVNXK0ShgwJ_E73c=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg" group-title="VARIEDADES",LOADING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10052807|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HD" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2820|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HD*" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054539|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HDᴮᴿ" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17163|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SD" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/204|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SD*" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054538|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SDᴮᴿ" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047270|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="POLISHOP TV" tvg-logo="https://i.imgur.com/f0hwRtr.png" group-title="VARIEDADES",POLISHOP TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17471|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2747|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD*" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054285|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HDᴮᴿ" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17045|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/76|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD*" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054284|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SDᴮᴿ" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047220|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/79|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD*" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055064|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HDᴮᴿ" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17096|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/78|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD*" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055063|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SDᴮᴿ" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047204|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4775|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD*" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055053|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/136|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD*" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055052|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO SDᴮᴿ" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV HD" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",TRUTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9640|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV SD" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",TRUTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/74|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL HD*" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055112|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL SD*" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055111|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="ChefTV.br" tvg-name="CHEF TV" tvg-logo="https://i.imgur.com/zDPxnZ2.png" group-title="VARIEDADES",CHEF TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10041058|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TVT" tvg-logo="https://i.imgur.com/u4g6IK5.png" group-title="VARIEDADES",TVT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068468|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="REDE MOSAICO" tvg-logo="https://i.imgur.com/jm1oFRv.png" group-title="VARIEDADES",REDE MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068463|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="HELLO TV" tvg-logo="https://i.imgur.com/a05f24i.png" group-title="VARIEDADES",HELLO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068462|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="INSPIRE" tvg-logo="https://i.imgur.com/9uuDZgn.png" group-title="VARIEDADES",INSPIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068459|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="UP CHANNEL" tvg-logo="https://i.imgur.com/xrwb33s.png" group-title="VARIEDADES",UP CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068458|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="YES LIFE" tvg-logo="https://i.imgur.com/MdqGKyj.png" group-title="VARIEDADES",YES LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068457|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="CLUBINHO FUN" tvg-logo="https://i.imgur.com/8lye0UQ.png" group-title="VARIEDADES",CLUBINHO FUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068456|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/93|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD*" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054520|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HDᴮᴿ" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17116|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/92|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD*" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054519|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SDᴮᴿ" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047264|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HDᴮᴿ" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047348|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4955|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD*" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054961|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/99|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD*" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054960|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SDᴮᴿ" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047347|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4957|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD*" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054528|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HDᴮᴿ" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17051|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/86|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD*" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054523|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SDᴮᴿ" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047266|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9626|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD*" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054525|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD*" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054524|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9625|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9630|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL HD*" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054516|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9631|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SD*" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054515|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SDᴮᴿ" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047262|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/90|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL HD*" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054445|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2779|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD*" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054444|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA HD*" tvg-logo="https://i.imgur.com/Fo0MRfB.png" group-title="MUSICAIS",TRACE BRAZUCA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055116|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA SD*" tvg-logo="https://i.imgur.com/Fo0MRfB.png" group-title="MUSICAIS",TRACE BRAZUCA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055115|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD*" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055068|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 SD*" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055067|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2733|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 SD" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9644|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGAHITS SD" tvg-logo="https://i.imgur.com/5YaNijo.png" group-title="MUSICAIS",VH1 MEGAHITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/88|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="KRONE HIT" tvg-logo="https://i.imgur.com/I7KFxxz.png" group-title="MUSICAIS",KRONE HIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17519|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="https://i.imgur.com/ljv0Gag.png" group-title="MUSICAIS",M2O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17515|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/116|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD*" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055037|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HDᴮᴿ" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5825|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/117|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD*" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055036|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SDᴮᴿ" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047352|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/109|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY HD*" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054551|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD²" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17118|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/108|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY SD*" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054550|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY SD°" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY SD°
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10035609|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGATION DISCOVERY SDᴮᴿ" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047274|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/133|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD*" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054873|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HDᴮᴿ" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17137|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/132|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD*" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054872|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SDᴮᴿ" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047335|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5476|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD*" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054865|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HDᴮᴿ" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17166|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/120|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD*" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054864|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SDᴮᴿ" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047333|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER HD" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/127|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER HD*" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054861|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER HDᴮᴿ" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17135|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER SD" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/7526|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER SD*" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054860|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="THEATER SDᴮᴿ" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047222|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD HD" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/123|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD HD*" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054853|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD HD²" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17133|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SD*" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054852|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SDᴮᴿ" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047198|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SD" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/7529|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/106|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD*" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054508|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HDᴮᴿ" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17114|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/105|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD*" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054507|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SDᴮᴿ" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047258|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/103|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD*" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054504|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HDᴮᴿ" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17115|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/102|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD*" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054503|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SDᴮᴿ" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047260|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD [LEG]*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054932|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN CHANNEL HD" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/16953|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN HD*" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054387|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN SD*" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054386|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN CHANNEL SD" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/16952|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/112|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054555|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HDᴮᴿ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17119|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/111|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054554|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SDᴮᴿ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047278|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/115|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD*" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054559|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HDᴮᴿ" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17120|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/114|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD*" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054558|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SDᴮᴿ" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047298|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN DOCS" tvg-logo="https://i.imgur.com/NPbgP5i.png" group-title="DOCUMENTÁRIOS",URBAN DOCS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068449|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5474|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9606|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD*" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5054|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD*" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054880|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="CURTA! SDᴮᴿ" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047336|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5843|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD*" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055017|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HDᴮᴿ" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10048417|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/20|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD*" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055016|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027034|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD*" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054921|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HDᴮᴿ" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10041070|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027035|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SD*" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054920|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SDᴮᴿ" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047338|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS HD" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2826|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS HD*" tvg-logo="" group-title="NOTICIAS",GB NEWS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054753|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS HD²" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17164|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS SD*" tvg-logo="" group-title="NOTICIAS",GB NEWS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054752|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS SD" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/18|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027046|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD*" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054501|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5057|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2776|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD²" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/6272|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/23|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS FHD" tvg-logo="" group-title="NOTICIAS",JOVEN PAN NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069818|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS HD" tvg-logo="" group-title="NOTICIAS",JOVEN PAN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069819|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS SD" tvg-logo="" group-title="NOTICIAS",JOVEN PAN NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10069820|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL" tvg-logo="https://i.imgur.com/dlVzYjF.png" group-title="NOTICIAS",CNN INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068467|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL" tvg-logo="https://i.imgur.com/WO1u81j.png" group-title="NOTICIAS",CNN ESPANHOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068466|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="24H NEWS" tvg-logo="https://i.imgur.com/oCeQ4cE.png" group-title="NOTICIAS",24H NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068455|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068472|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4885|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD*" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055023|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4789|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5827|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD*" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054956|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HDᴮᴿ" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17040|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/60|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD*" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054955|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SDᴮᴿ" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047345|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD*" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055033|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD*" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055032|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/63|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD*" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054929|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HDᴮᴿ" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17067|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/62|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SDᴮᴿ" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047342|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD*" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054928|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4826|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD*" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054869|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HDᴮᴿ" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17063|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/46|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD*" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054868|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SDᴮᴿ" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047334|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2852|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD*" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054849|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HDᴮᴿ" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17061|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/58|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD*" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054848|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SDᴮᴿ" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047329|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5645|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD*" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054845|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HDᴮᴿ" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5293|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/56|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD*" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054844|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR SDᴮᴿ" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047327|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2850|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD*" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054843|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5949|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2819|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD*" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054625|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HDᴮᴿ" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17056|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD*" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054620|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/44|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5346|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD*" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054622|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD²" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10051240|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD*" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054621|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5347|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4692|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD*" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054512|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HDᴮᴿ" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17050|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD*" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4561|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SDᴮᴿ" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047256|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4886|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054498|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HDᴮᴿ" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17048|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054497|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/50|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SDᴮᴿ" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047254|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5045|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. HD*" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054494|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HDᴮᴿ" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17157|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/52|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. SD*" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054493|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR. SDᴮᴿ" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047252|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.imgur.com/lVGMsUB.png" group-title="INFANTIS",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027051|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://i.imgur.com/lVGMsUB.png" group-title="INFANTIS",TOONCAST SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/48|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/4889|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD*" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055082|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/41|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD*" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055081|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ TIM BUM SDᴮᴿ" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RÁ TIM BUM SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047208|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/pGDfA60.png" group-title="INFANTIS",ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5455|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://i.imgur.com/pGDfA60.png" group-title="INFANTIS",ZOOMOO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17470|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN KIDS" tvg-logo="https://i.imgur.com/SX0z1xA.png" group-title="INFANTIS",URBAN KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068450|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://1.bp.blogspot.com/-U3fsGZ-SE_c/WiCugPVFHbI/AAAAAAAABhs/nx9-SDkBz2QokcBhowgqg1V0VbpDJ0yyQCLcBGAs/s1600/cancao%2Bnova.png" group-title="RELIGIOSOS",CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/3290|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="https://1.bp.blogspot.com/-U3fsGZ-SE_c/WiCugPVFHbI/AAAAAAAABhs/nx9-SDkBz2QokcBhowgqg1V0VbpDJ0yyQCLcBGAs/s1600/cancao%2Bnova.png" group-title="RELIGIOSOS",CANCAO NOVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/39|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REVE VIDA HD" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REVE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10027052|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054398|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redevida.br " tvg-name="REDE VIDA SD" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5326|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054397|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SDᴮᴿ" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047245|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/30|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD*" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055108|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/9601|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD*" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055107|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SDᴮᴿ" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047214|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17222|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD*" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055087|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5528|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO SD*" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055086|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO SDᴮᴿ" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047210|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RedeSuperdeTelevisao.br" tvg-name="REDE SUPER" tvg-logo="https://1.bp.blogspot.com/-YLgPjsha_so/WiCujYAMQgI/AAAAAAAABic/WTSE_KVtYcwHVZPkJ31-yzOZm_K5XU-tACLcBGAs/s1600/redesuper.png" group-title="RELIGIOSOS",REDE SUPER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/3009|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="REDE SECULO 21" tvg-logo="https://3.bp.blogspot.com/-4njtu0KtPAo/WiCuiwxKWpI/AAAAAAAABiY/ACBuJxZ4zEc_wYSTJWNBYL48YrdP90aqgCLcBGAs/s1600/redes21.png" group-title="RELIGIOSOS",REDE SECULO 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10501|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="GOSPEL MOVIES TELEVISION" tvg-logo="https://1.bp.blogspot.com/-xwl7gNUuZb4/WiC6cR9JqpI/AAAAAAAABjA/kp58eLyroa4KinQWVzjP-BZ-xgy9ZQ59wCLcBGAs/s1600/gospelmoviestv.png" group-title="RELIGIOSOS",GOSPEL MOVIES TELEVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/7120|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="PAI ETERNO HD*" tvg-logo="" group-title="RELIGIOSOS",PAI ETERNO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054486|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="PAI ETERNO SD*" tvg-logo="" group-title="RELIGIOSOS",PAI ETERNO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054485|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="TV PAI ETERNO" tvg-logo="https://1.bp.blogspot.com/-_s2hWWtHsa8/XQmJqe-QwOI/AAAAAAAADbo/xtf28hoeMC8WOfTI0VwGhdB2kwA9L09DACLcBGAs/s1600/paieterno.png" group-title="RELIGIOSOS",TV PAI ETERNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/17468|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS HD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054636|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS SD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054635|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://4.bp.blogspot.com/-J5PZsLbzgKI/WiCujergCXI/AAAAAAAABik/O36tiCGRhMYwu0TemqdWyXtGM1D1YjlOQCLcBGAs/s1600/tvevangelizar.png" group-title="RELIGIOSOS",TV EVANGELIZAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/5154|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV GIDEOES SD" tvg-logo="https://1.bp.blogspot.com/-5jR61nGcM-s/WiCukwOCGLI/AAAAAAAABis/POopI65Bo7oEmlgsQh4AvHz1-xL7kA-VgCLcBGAs/s1600/tvgideoes.png" group-title="RELIGIOSOS",TV GIDEOES SD
+https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1771625136_b1296000|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT TV SD*" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="RELIGIOSOS",RIT TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054396|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE" tvg-logo="https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/boa_vontade_tv_img_2974.png" group-title="RELIGIOSOS",BOA VONTADE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10045958|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE TV SD*" tvg-logo="https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/boa_vontade_tv_img_2974.png" group-title="RELIGIOSOS",BOA VONTADE TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054959|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TOP TV" tvg-logo="https://i.imgur.com/e6f2y3I.png" group-title="ABERTOS",TOP TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10033372|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="SHOPTIME" tvg-logo="https://i.imgur.com/6EIEbfb.png" group-title="ABERTOS",SHOPTIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10035262|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cnt.br" tvg-name="CNT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnt.png" group-title="RELIGIOSOS",CNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10035610|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV PARAIBA TV CORREIO" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV PARAIBA TV CORREIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10035810|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="IHOP - INTERNATIONAL HOUSE OF PRAYER" tvg-logo="https://asburyseminary.edu/wp-content/uploads/allen-ihop-logo.png" group-title="RELIGIOSOS",IHOP - INTERNATIONAL HOUSE OF PRAYER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040643|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="HOPE CHANNEL" tvg-logo="https://www.pinclipart.com/picdir/middle/212-2124941_no-logo-hope-channel-logo-clipart.png" group-title="RELIGIOSOS",HOPE CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040644|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV GIDEÕES" tvg-logo="https://1.bp.blogspot.com/-5jR61nGcM-s/WiCukwOCGLI/AAAAAAAABis/POopI65Bo7oEmlgsQh4AvHz1-xL7kA-VgCLcBGAs/s1600/tvgideoes.png" group-title="RELIGIOSOS",TV GIDEÕES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040645|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV FRONTEIRA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d8099da82838b73a3ad4504826890a4.png" group-title="RELIGIOSOS",TV FRONTEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040651|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV SEMEAR" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53d91293b5c5cef84ac28e3894b4a20e.png" group-title="RELIGIOSOS",TV SEMEAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040654|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV OURO NEGRO" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc56623a8cbf2f45d462cf93fc540de7.png" group-title="RELIGIOSOS",TV OURO NEGRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040657|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="CBN TV USA" tvg-logo="https://i.imgur.com/5ktl8fr.png" group-title="RELIGIOSOS",CBN TV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040658|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV AVIVANDO NACOES" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0579c7a5ad75d73104244131bfb40921.png" group-title="RELIGIOSOS",TV AVIVANDO NACOES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040660|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="CANAL PROMESSAS" tvg-logo="https://i.imgur.com/NB9XAh2.png" group-title="RELIGIOSOS",CANAL PROMESSAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040661|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="https://i.imgur.com/xrYfQQt.png" group-title="RELIGIOSOS",REDE GENESIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068469|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV PROMESSAS" tvg-logo="https://i.imgur.com/iJTVd8C.png" group-title="RELIGIOSOS",TV PROMESSAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068454|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV MUNDO MAIOR" tvg-logo="https://i.imgur.com/soNbKzq.png" group-title="RELIGIOSOS",TV MUNDO MAIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10068470|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 01" tvg-logo="https://i.imgur.com/aATUQ1w.png" group-title="FILMES E SERIES",CINE SKY 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040586|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 02" tvg-logo="https://i.imgur.com/YsDNlCf.png" group-title="FILMES E SERIES",CINE SKY 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040587|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 03" tvg-logo="https://i.imgur.com/4zmdnPd.png" group-title="FILMES E SERIES",CINE SKY 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040588|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 04" tvg-logo="https://i.imgur.com/bYYFK6x.png" group-title="FILMES E SERIES",CINE SKY 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040589|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 05" tvg-logo="https://i.imgur.com/6vlgLhZ.png" group-title="FILMES E SERIES",CINE SKY 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040590|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 07" tvg-logo="https://i.imgur.com/ewj25kK.png" group-title="FILMES E SERIES",CINE SKY 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040592|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 08" tvg-logo="https://i.imgur.com/2jg8sW2.png" group-title="FILMES E SERIES",CINE SKY 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040593|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 09" tvg-logo="https://i.imgur.com/jGwdaQw.png" group-title="FILMES E SERIES",CINE SKY 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10040594|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV ITAPOAN HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV ITAPOAN HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054428|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV ITAPOAN SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV ITAPOAN SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054427|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV LITORAL/VALE DO PARAIBA HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV LITORAL/VALE DO PARAIBA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054425|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV LITORAL/VALE DO PARAIBA SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV LITORAL/VALE DO PARAIBA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054424|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV MANAUS HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV MANAUS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054423|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV MANAUS SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV MANAUS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10054422|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV PORTUGAL" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/1717|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD [LEG]*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055119|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD [LEG]*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10055024|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 
 
 
