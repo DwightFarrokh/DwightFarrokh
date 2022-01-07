@@ -11,7 +11,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LIS
 #EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAM PRINCIPAL ESQUENTA" tvg-logo="" group-title="BBB 22",BBB 2022 CAM PRINCIPAL ESQUENTA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/live/ctt7812120t/ctt12120s/10072482.ts|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/2821|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/live/ctt7812120t/ctt12120s/2821.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HDᴮᴿ
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://dnsgox.com:80/ctt7812120t/ctt12120s/10047305|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD*
