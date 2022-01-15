@@ -5,10 +5,9 @@
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_3.m3u8|Origin=https://jovempan.com.br|Referer=https://jovempan.com.br
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ngt.png" group-title="Variedades", NGT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AQUECIMENTO BBB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="REALITY",AQUECIMENTO BBB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn1.mg99.xyz/dirceu/102030/895014
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 02 PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPA DO NORDESTE 02 PPV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/812699
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 01 PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPA DO NORDESTE 01 PPV
