@@ -10,2719 +10,2719 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LIS
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 02 PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPA DO NORDESTE 02 PPV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/812699
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/812699
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 01 PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPA DO NORDESTE 01 PPV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/812698
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/812698
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 03 PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPA DO NORDESTE 03 PPV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/812700
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/812700
 #EXTINF:-1 tvg-id="Record News SD" tvg-name="RECORD NEWS FHD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814792
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814792
 #EXTINF:-1 tvg-id="Record News SD" tvg-name="RECORD NEWS HD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814793
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814793
 #EXTINF:-1 tvg-id="Record News SD" tvg-name="RECORD NEWS SD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814794
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814794
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="CANAIS | ESPORTES",COMBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814612
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814612
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="CANAIS | ESPORTES",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814613
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814613
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="CANAIS | ESPORTES",COMBATE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814614
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814614
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814807
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814807
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814810
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814810
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814811
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814811
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814812
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814812
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="CANAIS | ESPORTES",SPORTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814813
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814813
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="CANAIS | ESPORTES",SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814814
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814814
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="CANAIS | ESPORTES",SPORTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814815
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814815
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814808
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814808
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814809
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814809
 #EXTINF:-1 tvg-id="Band News SD" tvg-name="BAND NEWS FHD" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814594
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814594
 #EXTINF:-1 tvg-id="Band News SD" tvg-name="BAND NEWS HD" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814595
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814595
 #EXTINF:-1 tvg-id="Band News SD" tvg-name="BAND NEWS SD" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814596
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814596
 #EXTINF:-1 tvg-id="CNN Brasil SD" tvg-name="CNN BRASIL FHD" tvg-logo="http://printv.esy.es/server/CNN%20Brasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814607
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814607
 #EXTINF:-1 tvg-id="CNN Brasil SD" tvg-name="CNN BRASIL SD" tvg-logo="http://printv.esy.es/server/CNN%20Brasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814609
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814609
 #EXTINF:-1 tvg-id="CNN Brasil SD" tvg-name="CNN BRASIL HD" tvg-logo="http://printv.esy.es/server/CNN%20Brasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814608
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814608
 #EXTINF:-1 tvg-id="Globo News SD" tvg-name="GLOBO NEWS SD" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814893
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814893
 #EXTINF:-1 tvg-id="Globo News SD" tvg-name="GLOBO NEWS HD" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814892
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814892
 #EXTINF:-1 tvg-id="" tvg-name="IDEAL TV HD" tvg-logo="http://printv.esy.es/server/Ideal%20TV.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",IDEAL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814735
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814735
 #EXTINF:-1 tvg-id="Rede Super SD" tvg-name="REDE SUPER FHD" tvg-logo="http://printv.esy.es/server/Rede%20Super.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",REDE SUPER FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814799
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814799
 #EXTINF:-1 tvg-id="Rede Vida SD" tvg-name="REDE VIDA FHD" tvg-logo="http://a5.vc/0hM" group-title="CANAIS | ABERTOS / RELIGIOSOS",REDE VIDA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814800
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814800
 #EXTINF:-1 tvg-id="Rede Vida SD" tvg-name="REDE VIDA HD" tvg-logo="http://a5.vc/0hM" group-title="CANAIS | ABERTOS / RELIGIOSOS",REDE VIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814801
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814801
 #EXTINF:-1 tvg-id="Rede Vida SD" tvg-name="REDE VIDA SD" tvg-logo="http://a5.vc/0hM" group-title="CANAIS | ABERTOS / RELIGIOSOS",REDE VIDA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814802
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814802
 #EXTINF:-1 tvg-id="" tvg-name="RIT TV" tvg-logo="http://printv.esy.es/server/RIT.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",RIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814803
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814803
 #EXTINF:-1 tvg-id="TV Aparecida SD" tvg-name="TV APARECIDA HD" tvg-logo="http://a5.vc/RbB" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV APARECIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814844
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814844
 #EXTINF:-1 tvg-id="" tvg-name="TV Igreja Mundial" tvg-logo="http://printv.esy.es/server/IMPD%20TV.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV Igreja Mundial
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814845
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814845
 #EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://printv.esy.es/server/TV%20Pai%20Eterno.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV PAI ETERNO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814846
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814846
 #EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM FHD" tvg-logo="http://printv.esy.es/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="CANAIS | INFANTIS ",TV RA TIM BUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814847
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814847
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA HD" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814957
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814957
 #EXTINF:-1 tvg-id="Futura SD" tvg-name="FUTURA HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814958
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814958
 #EXTINF:-1 tvg-id="Futura SD" tvg-name="FUTURA FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",FUTURA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814959
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814959
 #EXTINF:-1 tvg-id="Rede TV SD" tvg-name="REDE TV FHD" tvg-logo="http://printv.esy.es/server/Rede%20TV%21.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",REDE TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814960
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814960
 #EXTINF:-1 tvg-id="Rede TV SD" tvg-name="REDE TV HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814961
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814961
 #EXTINF:-1 tvg-id="Rede Brasil SD" tvg-name="TV BRASIL  FHD" tvg-logo="http://printv.esy.es/server/TV%20Brasill.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV BRASIL  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814963
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814963
 #EXTINF:-1 tvg-id="Rede Brasil SD" tvg-name="TV BRASIL HD" tvg-logo="http://printv.esy.es/server/TV%20Brasill.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814964
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814964
 #EXTINF:-1 tvg-id="Rede Brasil SD" tvg-name="TV BRASIL SD" tvg-logo="http://printv.esy.es/server/TV%20Brasill.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814965
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814965
 #EXTINF:-1 tvg-id="" tvg-name="Tv Camara" tvg-logo="http://printv.esy.es/server/TV%20C%C3%A2mara.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",Tv Camara
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814966
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814966
 #EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="CANAIS | FILMES & SÉRIES ",CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814989
 #EXTINF:-1 tvg-id="" tvg-name="Boa Vontade TV" tvg-logo="http://printv.esy.es/server/Boa%20Vontade%20TV.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",Boa Vontade TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814990
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814990
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="CANAIS | FILMES & SÉRIES ",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814991
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814991
 #EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV GAZETA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814992
 #EXTINF:-1 tvg-id="Canal do Boi SD" tvg-name="CANAL DO BOI" tvg-logo="http://printv.esy.es/server/Canal%20do%20Boi.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",CANAL DO BOI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814993
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814993
 #EXTINF:-1 tvg-id="Rede TV SD" tvg-name="REDE TV SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",REDE TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814962
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814962
 #EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL HD" tvg-logo="http://printv.esy.es/server/Agro%20Canal.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",AGRO CANAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814997
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814997
 #EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA HD" tvg-logo="http://printv.esy.es/server/Terra%20Viva.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TERRA VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814998
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814998
 #EXTINF:-1 tvg-id="Curta SD" tvg-name="CULTURA HD" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814999
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814999
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA FHD" tvg-logo="http://printv.esy.es/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",CANCAO NOVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814994
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814994
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="http://printv.esy.es/server/TV%20Senado.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV SENADO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815061
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815061
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="CANAIS | INFANTIS ",DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814630
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814630
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="CANAIS | INFANTIS ",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814631
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814631
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="CANAIS | INFANTIS ",DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814632
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814632
 #EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="CANAIS | INFANTIS ",DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814648
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814648
 #EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="CANAIS | INFANTIS ",DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814649
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814649
 #EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="CANAIS | INFANTIS ",DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814650
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814650
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="CANAIS | INFANTIS ",NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814746
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814746
 #EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E FHD" tvg-logo="http://printv.esy.es/server/A%26E.png" group-title="CANAIS | FILMES & SÉRIES ",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814459
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814459
 #EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E HD" tvg-logo="http://printv.esy.es/server/A%26E.png" group-title="CANAIS | FILMES & SÉRIES ",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814460
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814460
 #EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E SD" tvg-logo="http://printv.esy.es/server/A%26E.png" group-title="CANAIS | FILMES & SÉRIES ",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814461
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814461
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="CANAIS | FILMES & SÉRIES ",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814462
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814462
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="CANAIS | FILMES & SÉRIES ",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814463
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814463
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="CANAIS | FILMES & SÉRIES ",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814464
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814464
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://i.ibb.co/mGnFWJd/TELECINE-FUN.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814824
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814824
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://i.ibb.co/4YFDJg9/TELECINE-PIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814825
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814825
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.ibb.co/4YFDJg9/TELECINE-PIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814826
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814826
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.ibb.co/4YFDJg9/TELECINE-PIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814827
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814827
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://i.ibb.co/cTbxPJ2/TELECINE-PREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814828
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814828
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.ibb.co/cTbxPJ2/TELECINE-PREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814829
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814829
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.ibb.co/cTbxPJ2/TELECINE-PREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814830
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814830
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://i.ibb.co/Yd5vLn7/TELECINE-TOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814831
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814831
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.ibb.co/Yd5vLn7/TELECINE-TOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814832
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814832
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.ibb.co/mGnFWJd/TELECINE-FUN.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814823
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814823
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://i.ibb.co/1ZQxqkh/TELECINE-ACTION.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814816
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814816
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.ibb.co/1ZQxqkh/TELECINE-ACTION.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814817
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814817
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://i.ibb.co/1ZQxqkh/TELECINE-ACTION.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814818
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814818
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://i.ibb.co/L5CL2hy/TELECINE-CULT.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814819
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814819
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.ibb.co/L5CL2hy/TELECINE-CULT.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814820
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814820
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://i.ibb.co/L5CL2hy/TELECINE-CULT.png" group-title="CANAIS | TELECINE",TELECINE CULT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814821
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814821
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://i.ibb.co/mGnFWJd/TELECINE-FUN.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814822
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814822
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.ibb.co/Yd5vLn7/TELECINE-TOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814833
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814833
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://printv.esy.es/server/HBO%20Family.png" group-title="CANAIS | HBO",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814706
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814706
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://printv.esy.es/server/HBO%20Family.png" group-title="CANAIS | HBO",HBO FAMILY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814707
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814707
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="CANAIS | HBO",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814708
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814708
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="CANAIS | HBO",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814709
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814709
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://printv.esy.es/server/HBO%20Mundi.png" group-title="CANAIS | HBO",HBO MUNDI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814710
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814710
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://printv.esy.es/server/HBO%20Mundi.png" group-title="CANAIS | HBO",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814711
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814711
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="http://printv.esy.es/server/HBO%20Mundi.png" group-title="CANAIS | HBO",HBO MUNDI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814712
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814712
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="CANAIS | HBO",HBO PLUS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814713
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814713
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="CANAIS | HBO",HBO PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814714
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814714
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://printv.esy.es/server/HBO%20Family.png" group-title="CANAIS | HBO",HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814705
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814705
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="http://printv.esy.es/server/HBO%20Plus.png" group-title="CANAIS | HBO",HBO PLUS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814715
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814715
 #EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP FHD" tvg-logo="http://printv.esy.es/server/HBO%20Pop.png" group-title="CANAIS | HBO",HBO POP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814716
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814716
 #EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP HD" tvg-logo="http://printv.esy.es/server/HBO%20Pop.png" group-title="CANAIS | HBO",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814717
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814717
 #EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP SD" tvg-logo="http://printv.esy.es/server/HBO%20Pop.png" group-title="CANAIS | HBO",HBO POP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814718
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814718
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="CANAIS | HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814719
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814719
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://printv.esy.es/server/HBO%20Signature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814720
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://printv.esy.es/server/HBO%20Signature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814721
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814721
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://printv.esy.es/server/HBO%20Signature.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814722
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814722
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://printv.esy.es/server/HBO%20Xtreme.png" group-title="CANAIS | HBO",HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814723
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814723
 #EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="HBO Xtreme HD" tvg-logo="http://printv.esy.es/server/HBO%20Xtreme.png" group-title="CANAIS | HBO",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814724
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814724
 #EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="HBO Xtreme SD" tvg-logo="http://printv.esy.es/server/HBO%20Xtreme.png" group-title="CANAIS | HBO",HBO Xtreme SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814725
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814725
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV FHD" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="CANAIS | INFANTIS ",BABY TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814591
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814591
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="CANAIS | INFANTIS ",BABY TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814592
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814592
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="CANAIS | INFANTIS ",BABY TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814593
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814593
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="CANAIS | INFANTIS ",BOOMERANG SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814602
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814602
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="CANAIS | INFANTIS ",BOOMERANG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814601
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814601
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="CANAIS | INFANTIS ",BOOMERANG FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814600
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814600
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR FHD" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="CANAIS | INFANTIS ",DISNEY JR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814651
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814651
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD" tvg-logo="http://printv.esy.es/server/Disney%20XD.png" group-title="CANAIS | INFANTIS ",DISNEY XD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814654
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814654
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="CANAIS | INFANTIS ",DISNEY JR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814653
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814653
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="CANAIS | INFANTIS ",DISNEY JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814652
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814652
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="CANAIS | INFANTIS ",GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814691
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814691
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="CANAIS | INFANTIS ",GLOOB FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814690
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814690
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="CANAIS | INFANTIS ",GLOOBINHO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814695
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814695
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="CANAIS | INFANTIS ",GLOOBINHO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814694
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814694
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="CANAIS | INFANTIS ",GLOOBINHO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814693
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814693
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="CANAIS | INFANTIS ",GLOOB SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814692
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814692
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="http://printv.esy.es/server/Nick.png" group-title="CANAIS | INFANTIS ",NICKELODEON SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814758
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814758
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://printv.esy.es/server/Nick.png" group-title="CANAIS | INFANTIS ",NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814757
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814757
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="http://printv.esy.es/server/Nick.png" group-title="CANAIS | INFANTIS ",NICKELODEON FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814756
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814756
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="http://printv.esy.es/server/Nick%20Jr..png" group-title="CANAIS | INFANTIS ",NICK JR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814755
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814755
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://printv.esy.es/server/Nick%20Jr..png" group-title="CANAIS | INFANTIS ",NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814754
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814754
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="http://printv.esy.es/server/Nick%20Jr..png" group-title="CANAIS | INFANTIS ",NICK JR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814753
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814753
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="CANAIS | INFANTIS ",NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814745
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814745
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS FHD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="CANAIS | INFANTIS ",NATGEO KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814744
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814744
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="CANAIS | INFANTIS ",TOONCAST SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814841
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814841
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="CANAIS | INFANTIS ",TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814840
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814840
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="CANAIS | INFANTIS ",TOONCAST FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814839
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814839
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS ",ZOOMOO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814862
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814862
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS ",ZOOMOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814861
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814861
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS ",ZOOMO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814860
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814860
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO 2 FHD" tvg-logo="http://printv.esy.es/server/HBO%202.png" group-title="CANAIS | HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814702
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814702
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO 2 HD" tvg-logo="http://printv.esy.es/server/HBO%202.png" group-title="CANAIS | HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814703
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814703
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO 2 SD" tvg-logo="http://printv.esy.es/server/HBO%202.png" group-title="CANAIS | HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814704
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814704
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814465
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814465
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814588
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814588
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814589
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814589
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="http://printv.esy.es/server/Arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814590
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814590
 #EXTINF:-1 tvg-id="Curta SD" tvg-name="CURTA HD" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="CANAIS | FILMES & SÉRIES ",CURTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814618
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814618
 #EXTINF:-1 tvg-id="Curta SD" tvg-name="CURTA SD" tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="CANAIS | FILMES & SÉRIES ",CURTA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814619
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814619
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://printv.esy.es/server/Comedy%20Central.png" group-title="CANAIS | FILMES & SÉRIES ",COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814616
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814616
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://printv.esy.es/server/Comedy%20Central.png" group-title="CANAIS | FILMES & SÉRIES ",COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814615
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814615
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment.png" group-title="CANAIS | VARIEDADES",E! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814657
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814657
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment.png" group-title="CANAIS | VARIEDADES",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814658
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814658
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://printv.esy.es/server/E%21%20Entertainment.png" group-title="CANAIS | VARIEDADES",E! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814659
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814659
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="CANAIS | MUSICAS",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814599
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814599
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="CANAIS | MUSICAS",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814598
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814598
 #EXTINF:-1 tvg-id="Example" tvg-name="BIS FHD" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="CANAIS | MUSICAS",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814597
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814597
 #EXTINF:-1 tvg-id="MTV SD" tvg-name="MTV LIVE HD" tvg-logo="http://printv.esy.es/server/MTV%20Live.png" group-title="CANAIS | MUSICAS",MTV LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814738
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814738
 #EXTINF:-1 tvg-id="MTV SD" tvg-name="MTV HD" tvg-logo="http://printv.esy.es/server/MTV.png" group-title="CANAIS | MUSICAS",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814737
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814737
 #EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV FHD" tvg-logo="http://printv.esy.es/server/MTV.png" group-title="CANAIS | MUSICAS",MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814736
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814736
 #EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX SD" tvg-logo="http://printv.esy.es/server/Music%20Box%20Brazil.png" group-title="CANAIS | MUSICAS",MUSIC BOX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814743
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814743
 #EXTINF:-1 tvg-id="Multishow SD" tvg-name="MULTISHOW SD" tvg-logo="http://printv.esy.es/server/Multishow.png" group-title="CANAIS | MUSICAS",MULTISHOW SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814742
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814742
 #EXTINF:-1 tvg-id="Multishow SD" tvg-name="MULTISHOW HD" tvg-logo="http://printv.esy.es/server/Multishow.png" group-title="CANAIS | MUSICAS",MULTISHOW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814741
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814741
 #EXTINF:-1 tvg-id="Multishow SD" tvg-name="MULTISHOW FHD" tvg-logo="http://printv.esy.es/server/Multishow.png" group-title="CANAIS | MUSICAS",MULTISHOW FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814740
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814740
 #EXTINF:-1 tvg-id="MTV SD" tvg-name="MTV SD" tvg-logo="http://printv.esy.es/server/MTV.png" group-title="CANAIS | MUSICAS",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814739
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814739
 #EXTINF:-1 tvg-id="Prime Box Brazil SD" tvg-name="PRIME BOX BRASIL SD" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil.png" group-title="CANAIS | MUSICAS",PRIME BOX BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814787
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814787
 #EXTINF:-1 tvg-id="Prime Box Brazil SD" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil.png" group-title="CANAIS | MUSICAS",PRIME BOX BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814786
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814786
 #EXTINF:-1 tvg-id="Prime Box Brazil SD" tvg-name="PRIME BOX BRASIL FHD" tvg-logo="http://printv.esy.es/server/Prime%20Box%20Brazil.png" group-title="CANAIS | MUSICAS",PRIME BOX BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814785
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814785
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 HD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814764
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814764
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 SD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814765
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814765
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814775
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814775
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814774
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814774
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814773
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814773
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814772
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814772
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814771
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814771
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814770
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814770
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814769
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814769
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814768
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814768
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814767
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814767
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814766
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814766
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814784
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814784
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814783
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814783
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814782
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814782
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814781
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814781
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814780
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814780
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814779
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814779
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814778
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814778
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814777
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814777
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814776
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814776
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://printv.esy.es/server/GNT.png" group-title="CANAIS | VARIEDADES",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814697
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814697
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://printv.esy.es/server/GNT.png" group-title="CANAIS | VARIEDADES",GNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814698
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814698
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://printv.esy.es/server/GNT.png" group-title="CANAIS | VARIEDADES",GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814696
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814696
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="CANAIS | VARIEDADES",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814728
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814728
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="CANAIS | VARIEDADES",HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814727
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814727
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV SD" tvg-logo="http://printv.esy.es/server/HGTV.png" group-title="CANAIS | VARIEDADES",HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814726
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814726
 #EXTINF:-1 tvg-id="TruTV SD" tvg-name="TRU TV HD" tvg-logo="http://printv.esy.es/server/Tru%20TV.png" group-title="CANAIS | VARIEDADES",TRU TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814842
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814842
 #EXTINF:-1 tvg-id="TruTV SD" tvg-name="TRU TV SD" tvg-logo="http://printv.esy.es/server/Tru%20TV.png" group-title="CANAIS | VARIEDADES",TRU TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814843
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814843
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="CANAIS | VARIEDADES",VIVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814855
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814855
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="CANAIS | VARIEDADES",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814854
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814854
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="CANAIS | VARIEDADES",VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814853
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814853
 #EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="CANAL BRASIL FHD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="CANAIS | FILMES & SÉRIES ",CANAL BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815002
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815002
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",DAZN 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814621
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814621
 #EXTINF:-1 tvg-id="Cancao Nova SD" tvg-name="Canção Nova HD" tvg-logo="http://printv.esy.es/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",Canção Nova HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814603
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814603
 #EXTINF:-1 tvg-id="" tvg-name="EVANGELIZAR FHD" tvg-logo="http://printv.esy.es/server/TV%20Evangelizar.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",EVANGELIZAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814675
 #EXTINF:-1 tvg-id="" tvg-name="EVANGELIZAR HD" tvg-logo="http://printv.esy.es/server/TV%20Evangelizar.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",EVANGELIZAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814676
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814676
 #EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS FHD" tvg-logo="http://printv.esy.es/server/Rede%20G%C3%AAnesis.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",REDE GENESIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814798
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814798
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://printv.esy.es/server/Comedy%20Central.png" group-title="CANAIS | FILMES & SÉRIES ",COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814617
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814617
 #EXTINF:-1 tvg-id="" tvg-name="STAR +" tvg-logo="https://logospng.org/wp-content/uploads/star-plus.png" group-title=" CANAIS | Star+HBO Max",STAR +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815035
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815035
 #EXTINF:-1 tvg-id="" tvg-name="STAR+" tvg-logo="https://logospng.org/wp-content/uploads/star-plus.png" group-title=" CANAIS | Star+HBO Max",STAR+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815034
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815034
 #EXTINF:-1 tvg-id="" tvg-name="STAR + 3 HD" tvg-logo="https://logospng.org/wp-content/uploads/star-plus.png" group-title=" CANAIS | Star+HBO Max",STAR + 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815033
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815033
 #EXTINF:-1 tvg-id="" tvg-name="STAR + 2 HD" tvg-logo="https://logospng.org/wp-content/uploads/star-plus.png" group-title=" CANAIS | Star+HBO Max",STAR + 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815032
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815032
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 HD *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1599px-HBO_Max_Logo_Old.svg.png" group-title=" CANAIS | Star+HBO Max",HBO MAX 03 HD *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815025
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815025
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1599px-HBO_Max_Logo_Old.svg.png" group-title=" CANAIS | Star+HBO Max",HBO MAX 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815024
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815024
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/HBO_Max_Logo_Old.svg/1599px-HBO_Max_Logo_Old.svg.png" group-title=" CANAIS | Star+HBO Max",HBO MAX 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815023
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815023
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="http://printv.esy.es/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="CANAIS | INFANTIS ",TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814848
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814848
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="http://printv.esy.es/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="CANAIS | INFANTIS ",TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814849
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814849
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="CANAIS | ESPORTES",WOOHOO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814856
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814856
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="CANAIS | ESPORTES",WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814857
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814857
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="CANAIS | ESPORTES",WOOHOO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814858
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814858
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="CANAIS | ESPORTES",OFF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814760
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814760
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="CANAIS | ESPORTES",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814761
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814761
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://printv.esy.es/server/Canal%20Off.png" group-title="CANAIS | ESPORTES",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814762
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814762
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815005
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815005
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815004
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815004
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815003
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815003
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814863
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814863
 #EXTINF:-1 tvg-id="Globo News SD" tvg-name="GLOBO NEWS FHD" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814891
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814891
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815064
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815064
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815063
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815063
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD" tvg-logo="http://printv.esy.es/server/Mais%20na%20Tela.png" group-title="CANAIS | VARIEDADES",MAIS NA TELA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814950
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814950
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HD" tvg-logo="http://printv.esy.es/server/Mais%20na%20Tela.png" group-title="CANAIS | VARIEDADES",MAIS NA TELA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814951
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SD" tvg-logo="http://printv.esy.es/server/Mais%20na%20Tela.png" group-title="CANAIS | VARIEDADES",MAIS NA TELA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/814952
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/814952
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815030
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815030
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="http://printv.esy.es/server/Premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815031
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815031
 #EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN FHD" tvg-logo="http://printv.esy.es/server/AXN.png" group-title="CANAIS | FILMES & SÉRIES ",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815169
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815169
 #EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN HD" tvg-logo="http://printv.esy.es/server/AXN.png" group-title="CANAIS | FILMES & SÉRIES ",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815170
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815170
 #EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN SD" tvg-logo="http://printv.esy.es/server/AXN.png" group-title="CANAIS | FILMES & SÉRIES ",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815171
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815171
 #EXTINF:-1 tvg-id="Cinemax SD" tvg-name="CINEMAX FHD" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="CANAIS | FILMES & SÉRIES ",CINEMAX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815172
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815172
 #EXTINF:-1 tvg-id="Cinemax SD" tvg-name="CINEMAX HD" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="CANAIS | FILMES & SÉRIES ",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815173
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815173
 #EXTINF:-1 tvg-id="Cinemax SD" tvg-name="CINEMAX SD" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="CANAIS | FILMES & SÉRIES ",CINEMAX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815174
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815174
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="http://printv.esy.es/server/Sony.png" group-title="CANAIS | FILMES & SÉRIES ",SONY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815187
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815187
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FHD" tvg-logo="http://printv.esy.es/server/Sony.png" group-title="CANAIS | FILMES & SÉRIES ",SONY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815186
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815186
 #EXTINF:-1 tvg-id="Paramount SD" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",PARAMOUNT CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815185
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815185
 #EXTINF:-1 tvg-id="Paramount SD" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815184
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815184
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",PARAMOUNT CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815183
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815183
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://printv.esy.es/server/Megapix.png" group-title="CANAIS | FILMES & SÉRIES ",MEGAPIX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815182
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815182
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://printv.esy.es/server/Megapix.png" group-title="CANAIS | FILMES & SÉRIES ",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815181
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815181
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://printv.esy.es/server/Megapix.png" group-title="CANAIS | FILMES & SÉRIES ",MEGAPIX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815180
 #EXTINF:-1 tvg-id="Lifetime SD" tvg-name="LIFETIME SD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815179
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815179
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://printv.esy.es/server/Lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815178
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815178
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY SD" tvg-logo="http://printv.esy.es/server/Sony.png" group-title="CANAIS | FILMES & SÉRIES ",SONY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815188
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815188
 #EXTINF:-1 tvg-id="Space SD" tvg-name="SPACE SD" tvg-logo="http://printv.esy.es/server/Space.png" group-title="CANAIS | FILMES & SÉRIES ",SPACE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815191
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815191
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://printv.esy.es/server/Space.png" group-title="CANAIS | FILMES & SÉRIES ",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815190
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815190
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://printv.esy.es/server/Space.png" group-title="CANAIS | FILMES & SÉRIES ",SPACE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815189
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815189
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://printv.esy.es/server/Syfy.png" group-title="CANAIS | FILMES & SÉRIES ",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815208
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815208
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="http://printv.esy.es/server/Syfy.png" group-title="CANAIS | FILMES & SÉRIES ",SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815207
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815207
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://printv.esy.es/server/Studio%20Universal.png" group-title="CANAIS | FILMES & SÉRIES ",STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815206
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815206
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://printv.esy.es/server/Studio%20Universal.png" group-title="CANAIS | FILMES & SÉRIES ",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815205
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815205
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://printv.esy.es/server/Studio%20Universal.png" group-title="CANAIS | FILMES & SÉRIES ",STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815204
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815204
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://printv.esy.es/server/TNT.png" group-title="CANAIS | FILMES & SÉRIES ",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815217
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815217
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://printv.esy.es/server/TNT.png" group-title="CANAIS | FILMES & SÉRIES ",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815216
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815216
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://printv.esy.es/server/TCM.png" group-title="CANAIS | FILMES & SÉRIES ",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815215
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815215
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://printv.esy.es/server/TCM.png" group-title="CANAIS | FILMES & SÉRIES ",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815214
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815214
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="http://printv.esy.es/server/TCM.png" group-title="CANAIS | FILMES & SÉRIES ",TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815213
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815213
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="http://printv.esy.es/server/TBS.png" group-title="CANAIS | FILMES & SÉRIES ",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815212
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815212
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://printv.esy.es/server/TBS.png" group-title="CANAIS | FILMES & SÉRIES ",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815211
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815211
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="http://printv.esy.es/server/TBS.png" group-title="CANAIS | FILMES & SÉRIES ",TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815210
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815210
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="http://printv.esy.es/server/Syfy.png" group-title="CANAIS | FILMES & SÉRIES ",SYFY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815209
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815209
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://printv.esy.es/server/Warner%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",WARNER CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815225
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815225
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://printv.esy.es/server/Universal%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",UNIVERSAL CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815224
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815224
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://printv.esy.es/server/Universal%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815223
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815223
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://printv.esy.es/server/Universal%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",UNIVERSAL CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815222
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815222
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="http://printv.esy.es/server/TNT%20S%C3%A9ries.png" group-title="CANAIS | FILMES & SÉRIES ",TNT SERIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815221
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815221
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://printv.esy.es/server/TNT%20S%C3%A9ries.png" group-title="CANAIS | FILMES & SÉRIES ",TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815220
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815220
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="http://printv.esy.es/server/TNT%20S%C3%A9ries.png" group-title="CANAIS | FILMES & SÉRIES ",TNT SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815219
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815219
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://printv.esy.es/server/TNT.png" group-title="CANAIS | FILMES & SÉRIES ",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815218
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815218
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://printv.esy.es/server/Warner%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815227
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815227
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://printv.esy.es/server/Warner%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815226
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815226
 #EXTINF:-1 tvg-id="Star Hits 2 HD" tvg-name="STAR HITS 2 SD" tvg-logo="http://printv.esy.es/server/Star%20Hits%202.png" group-title="CANAIS | FILMES & SÉRIES ",STAR HITS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815200
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815200
 #EXTINF:-1 tvg-id="Star Hits 2 HD" tvg-name="STAR HITS 2 HD" tvg-logo="http://printv.esy.es/server/Star%20Hits%202.png" group-title="CANAIS | FILMES & SÉRIES ",STAR HITS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815199
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815199
 #EXTINF:-1 tvg-id="Star Hits 2 SD" tvg-name="STAR HITS 2 FHD" tvg-logo="http://printv.esy.es/server/Star%20Hits%202.png" group-title="CANAIS | FILMES & SÉRIES ",STAR HITS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815198
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815198
 #EXTINF:-1 tvg-id="Star Hits 1 SD" tvg-name="STAR HITS 1 SD" tvg-logo="http://printv.esy.es/server/Star%20Hits.png" group-title="CANAIS | FILMES & SÉRIES ",STAR HITS 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815197
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815197
 #EXTINF:-1 tvg-id="Star Hits 1 SD" tvg-name="STAR HITS 1 HD" tvg-logo="http://printv.esy.es/server/Star%20Hits.png" group-title="CANAIS | FILMES & SÉRIES ",STAR HITS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815196
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815196
 #EXTINF:-1 tvg-id="Star Hits 1 SD" tvg-name="STAR HITS 1 FHD" tvg-logo="http://printv.esy.es/server/Star%20Hits.png" group-title="CANAIS | FILMES & SÉRIES ",STAR HITS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815195
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815195
 #EXTINF:-1 tvg-id="Star Channel SD" tvg-name="STAR CHANNEL SD" tvg-logo="http://printv.esy.es/server/Star%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",STAR CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815194
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815194
 #EXTINF:-1 tvg-id="Star Channel SD" tvg-name="STAR CHANNEL HD" tvg-logo="http://printv.esy.es/server/Star%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815193
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815193
 #EXTINF:-1 tvg-id="Star Channel SD" tvg-name="STAR CHANNEL FHD" tvg-logo="http://printv.esy.es/server/Star%20Channel.png" group-title="CANAIS | FILMES & SÉRIES ",STAR CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815192
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815192
 #EXTINF:-1 tvg-id="Star Life SD" tvg-name="STAR LIFE SD" tvg-logo="http://printv.esy.es/server/Star%20Life.png" group-title="CANAIS | FILMES & SÉRIES ",STAR LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815203
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815203
 #EXTINF:-1 tvg-id="Star Life SD" tvg-name="STAR LIFE HD" tvg-logo="http://printv.esy.es/server/Star%20Life.png" group-title="CANAIS | FILMES & SÉRIES ",STAR LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815202
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815202
 #EXTINF:-1 tvg-id="Star Life SD" tvg-name="STAR LIFE  FHD" tvg-logo="http://printv.esy.es/server/Star%20Life.png" group-title="CANAIS | FILMES & SÉRIES ",STAR LIFE  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815201
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815201
 #EXTINF:-1 tvg-id="" tvg-name="NHK HD" tvg-logo="http://printv.esy.es/server/NHK.png" group-title="CANAIS | NOTÍCIAS",NHK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/815062
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/815062
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO ACRE RIO BRANCO HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO ACRE RIO BRANCO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819967
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819967
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO ACRE RIO BRANCO SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO ACRE RIO BRANCO SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819968
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819968
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO AMAPA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO AMAPA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819969
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819969
 #EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="GLOBO AMAPA SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO AMAPA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819970
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819970
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BELEM HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO BELEM HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819971
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819971
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BELEM SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO BELEM SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819972
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819972
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819973
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819973
 #EXTINF:-1 tvg-id="Globo Brasilia SD" tvg-name="GLOBO BRASILIA SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819974
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819974
 #EXTINF:-1 tvg-id="Globo Nordeste SD" tvg-name="GLOBO CEARA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO CEARA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819975
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819975
 #EXTINF:-1 tvg-id="Globo Aracaju" tvg-name="GLOBO CEARA SD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO CEARA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819976
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819976
 #EXTINF:-1 tvg-id="Globo Eptv Campinas SD" tvg-name="GLOBO EPTV CAMPINAS HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819979
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819979
 #EXTINF:-1 tvg-id="Globo Eptv Campinas SD" tvg-name="GLOBO EPTV CAMPINAS SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819980
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819980
 #EXTINF:-1 tvg-id="Globo Eptv Ribeirao Preto SD" tvg-name="GLOBO EPTV RIBEIR PRETO HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIR PRETO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819981
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819981
 #EXTINF:-1 tvg-id="Globo EPTV São Carlos SD" tvg-name="GLOBO EPTV RIBEIR PRETO SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIR PRETO SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819982
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819982
 #EXTINF:-1 tvg-id="Globo EPTV São Carlos SD" tvg-name="GLOBO EPTV S CARLOS SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV S CARLOS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819983
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819983
 #EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="GLOBO FLORIANOPOLIS SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO FLORIANOPOLIS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819984
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819984
 #EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="GLOBO FLORIANOLIS HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO FLORIANOLIS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819985
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819985
 #EXTINF:-1 tvg-id="Globo Brasilia SD" tvg-name="GLOBO MARANHAO HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO MARANHAO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819986
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819986
 #EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="GLOBO CURITIBA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO CURITIBA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819977
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819977
 #EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="GLOBO CURITIBA SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO CURITIBA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819978
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819978
 #EXTINF:-1 tvg-id="Globo Minas SD" tvg-name="GLOBO MINAS HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819988
 #EXTINF:-1 tvg-id="Globo Minas SD" tvg-name="GLOBO MINAS SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO MINAS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819989
 #EXTINF:-1 tvg-id="Globo Natal" tvg-name="GLOBO NATAL HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NATAL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819990
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819990
 #EXTINF:-1 tvg-id="Globo Natal" tvg-name="GLOBO NATAL SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NATAL SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819991
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819991
 #EXTINF:-1 tvg-id="Globo Nordeste SD" tvg-name="GLOBO NORDESTE HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819996
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819996
 #EXTINF:-1 tvg-id="Globo Nordeste SD" tvg-name="GLOBO NORDESTE SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819997
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819997
 #EXTINF:-1 tvg-id="Globo Aracaju" tvg-name="GLOBO PERNAMBUCO HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO PERNAMBUCO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819998
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819998
 #EXTINF:-1 tvg-id="Globo Natal" tvg-name="GLOBO PERNAMBUCO SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO PERNAMBUCO SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819999
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819999
 #EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre SD" tvg-name="GLOBO PORTO ALEGRE HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO PORTO ALEGRE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820000
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO MARANHAO SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO MARANHAO SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/819987
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/819987
 #EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre SD" tvg-name="GLOBO PORTO ALEGRE SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO PORTO ALEGRE SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820001
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820001
 #EXTINF:-1 tvg-id="Globo TV Rede Amazonica Porto Velho SD" tvg-name="GLOBO REDE AMAZICA MANAUS HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZICA MANAUS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820002
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820002
 #EXTINF:-1 tvg-id="Globo TV Rede Amazonica Porto Velho HD" tvg-name="GLOBO REDE AMAZICA MANAUS SD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZICA MANAUS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820003
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820003
 #EXTINF:-1 tvg-id="Globo RJ SD" tvg-name="GLOBO RIO HD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820004
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820004
 #EXTINF:-1 tvg-id="Globo RJ SD" tvg-name="GLOBO RIO SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RIO SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820005
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820005
 #EXTINF:-1 tvg-id="Globo Brasilia SD" tvg-name="GLOBO RONDONIA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RONDONIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820006
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820006
 #EXTINF:-1 tvg-id="Globo Brasilia SD" tvg-name="GLOBO RONDONIA SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RONDONIA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820007
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820007
 #EXTINF:-1 tvg-id="Globo Centro America Cuiaba SD" tvg-name="GLOBO RORAIMA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RORAIMA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820008
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820008
 #EXTINF:-1 tvg-id="Globo Brasilia SD" tvg-name="GLOBO RORAIMA SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RORAIMA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820009
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820009
 #EXTINF:-1 tvg-id="Globo SP SD" tvg-name="GLOBO SJRP FHD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO SJRP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820010
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820010
 #EXTINF:-1 tvg-id="Globo SP SD" tvg-name="GLOBO SP FHD H265 " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO SP FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820012
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820012
 #EXTINF:-1 tvg-id="Globo SP SD" tvg-name="GLOBO SP FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO SP FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820013
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820013
 #EXTINF:-1 tvg-id="Globo SP SD" tvg-name="GLOBO SP HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO SP HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820014
 #EXTINF:-1 tvg-id="Globo SP SD" tvg-name="GLOBO SP SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO SP SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820015
 #EXTINF:-1 tvg-id="Globo TV Gazeta Alagoas SD" tvg-name="GLOBO TV ANHANGUERA GOIANIA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA GOIANIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820016
 #EXTINF:-1 tvg-id="Globo TV Gazeta Alagoas SD" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA GOIANIA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820017
 #EXTINF:-1 tvg-id="Globo Bahia SD" tvg-name="GLOBO TV BAHIA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820018
 #EXTINF:-1 tvg-id="Globo Bahia SD" tvg-name="GLOBO TV BAHIA SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820019
 #EXTINF:-1 tvg-id="Globo Bauru SD" tvg-name="GLOBO TV TEM BAURU HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820020
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820020
 #EXTINF:-1 tvg-id="Globo SP SD" tvg-name="GLOBO SJRP HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO SJRP HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820011
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820011
 #EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto SD" tvg-name="GLOBO TV TEM BAURU SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820021
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820021
 #EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto SD" tvg-name="GLOBO TV TEM SJRP SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SJRP SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820022
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820022
 #EXTINF:-1 tvg-id="Globo Sorocaba SD" tvg-name="GLOBO TV TEM SOROCABA SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820023
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820023
 #EXTINF:-1 tvg-id="Globo TV Tribuna Santos SD" tvg-name="GLOBO TV TRIBUNA SANTOS SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA SANTOS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820024
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820024
 #EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza SD" tvg-name="GLOBO TV VERDES MARES SD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820025
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820025
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO VITÓRIA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO VITÓRIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820026
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820026
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO VITÓRIA SD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO VITÓRIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820027
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820027
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BELO HORIZONTE FHD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO BELO HORIZONTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820029
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820029
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BELO HORIZONTE HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO BELO HORIZONTE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820030
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820030
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820031
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820031
 #EXTINF:-1 tvg-id="Globo Centro America Cuiaba SD" tvg-name="GLOBO CENTRO AMERICA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO CENTRO AMERICA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820033
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820033
 #EXTINF:-1 tvg-id="Globo Eptv Campinas SD" tvg-name="GLOBO EPTV CAMPINAS FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820034
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820034
 #EXTINF:-1 tvg-id="Globo Eptv Campinas SD" tvg-name="GLOBO EPTV CAMPINAS HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820035
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820035
 #EXTINF:-1 tvg-id="Globo Eptv Ribeirao Preto SD" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820036
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820036
 #EXTINF:-1 tvg-id="Globo Eptv Ribeirao Preto SD" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820037
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820037
 #EXTINF:-1 tvg-id="Globo EPTV Sul de Minas SD" tvg-name="GLOBO EPTV SUL DE MINAS FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820038
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820038
 #EXTINF:-1 tvg-id="Globo EPTV Sul de Minas SD" tvg-name="GLOBO EPTV SUL DE MINAS HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820039
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820039
 #EXTINF:-1 tvg-id="Globo Inter Tv Alto Litoral SD" tvg-name="GLOBO INTER TV ALTO LITORAL FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO INTER TV ALTO LITORAL FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820040
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820040
 #EXTINF:-1 tvg-id="Globo Inter Tv Alto Litoral SD" tvg-name="GLOBO INTER TV ALTO LITORAL HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO INTER TV ALTO LITORAL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820041
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820041
 #EXTINF:-1 tvg-id="Globo Centro America Cuiaba SD" tvg-name="GLOBO CENTRO AMERICA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO CENTRO AMERICA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820032
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820032
 #EXTINF:-1 tvg-id="Globo Inter TV Cabugi SD" tvg-name="GLOBO INTER TV CABUGI FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820042
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820042
 #EXTINF:-1 tvg-id="Globo Inter TV Cabugi SD" tvg-name="GLOBO INTER TV CABUGI HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820043
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820043
 #EXTINF:-1 tvg-id="Globo Inter Tv Alto Litoral SD" tvg-name="GLOBO INTER TV DOS VALES FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO INTER TV DOS VALES FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820044
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820044
 #EXTINF:-1 tvg-id="Globo Inter TV Alto Litoral SD" tvg-name="GLOBO INTER TV DOS VALES HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO INTER TV DOS VALES HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820045
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820045
 #EXTINF:-1 tvg-id="Globo Inter TV Grande Minas SD" tvg-name="GLOBO INTER TV GRANDE MINAS MG FHD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO INTER TV GRANDE MINAS MG FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820046
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820046
 #EXTINF:-1 tvg-id="Globo Inter TV Grande Minas SD" tvg-name="GLOBO INTER TV GRANDE MINAS MG HD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO INTER TV GRANDE MINAS MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820047
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820047
 #EXTINF:-1 tvg-id="Globo NSC TV Blumenau SD" tvg-name="GLOBO NSC BLUMENAU FHD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC BLUMENAU FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820048
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820048
 #EXTINF:-1 tvg-id="Globo NSC TV Blumenau SD" tvg-name="GLOBO NSC BLUMENAU HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC BLUMENAU HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820049
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820049
 #EXTINF:-1 tvg-id="NSCTVChapecoHD" tvg-name="GLOBO NSC CHAPECO FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC CHAPECO FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820050
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820050
 #EXTINF:-1 tvg-id="NSCTVChapecoHD" tvg-name="GLOBO NSC CHAPECO HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC CHAPECO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820051
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820051
 #EXTINF:-1 tvg-id="Globo NSC TV Criciuma SD" tvg-name="GLOBO NSC CRICIUMA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC CRICIUMA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820053
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820053
 #EXTINF:-1 tvg-id="Globo NSC TV JoinVille SD" tvg-name="GLOBO NSC JOINVILLE FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC JOINVILLE FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820054
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820054
 #EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis SD" tvg-name="GLOBO NSC TV FLORIANOPOLIS FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC TV FLORIANOPOLIS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820056
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820056
 #EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis SD" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC TV FLORIANOPOLIS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820057
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820057
 #EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre SD" tvg-name="GLOBO RBS PORTO ALEGRE FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS PORTO ALEGRE FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820058
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820058
 #EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre SD" tvg-name="GLOBO RBS PORTO ALEGRE HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS PORTO ALEGRE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820059
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820059
 #EXTINF:-1 tvg-id="Globo RBS TV Caxias do Sul SD" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS DO SUL FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820060
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820060
 #EXTINF:-1 tvg-id="Globo RBS TV Caxias do Sul SD" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS DO SUL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820061
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820061
 #EXTINF:-1 tvg-id="Globo NSC TV Criciuma SD" tvg-name="GLOBO NSC CRICIUMA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO NSC CRICIUMA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820052
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820052
 #EXTINF:-1 tvg-id="Globo RBS TV Passo Fundo SD" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PASSO FUNDO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820062
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820062
 #EXTINF:-1 tvg-id="Globo RBS TV Passo Fundo SD" tvg-name="GLOBO RBS TV PASSO FUNDO HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PASSO FUNDO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820063
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820063
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PELOTAS FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820064
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820064
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS TV PELOTAS HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820065
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820065
 #EXTINF:-1 tvg-id="Globo TV Rede Amazonica Porto Velho SD" tvg-name="GLOBO REDE AMAZONICA RONDONIA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA RONDONIA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820066
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820066
 #EXTINF:-1 tvg-id="Rede Amazonica SD" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA RONDONIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820067
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820067
 #EXTINF:-1 tvg-id="Globo RJ SD" tvg-name="GLOBO RJ FHD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820068
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820068
 #EXTINF:-1 tvg-id="Globo RJ SD" tvg-name="GLOBO RJ HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RJ HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820069
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820069
 #EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="GLOBO RPC CURITIBA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820070
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820070
 #EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="GLOBO RPC CURITIBA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820071
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820071
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="GLOBO RPC FOZ DO IGUACU FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC FOZ DO IGUACU FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820072
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820072
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="GLOBO RPC FOZ DO IGUACU HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC FOZ DO IGUACU HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820073
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820073
 #EXTINF:-1 tvg-id="Globo RPC Maringa SD" tvg-name="GLOBO RPC MARINGA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC MARINGA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820074
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820074
 #EXTINF:-1 tvg-id="Globo RPC Maringa SD" tvg-name="GLOBO RPC MARINGA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC MARINGA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820075
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820075
 #EXTINF:-1 tvg-id="Globo RPC TV Paranavai SD" tvg-name="GLOBO RPC PARANAVAI FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAVAI FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820076
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820076
 #EXTINF:-1 tvg-id="Globo RPC TV Paranavai SD" tvg-name="GLOBO RPC PARANAVAI HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAVAI HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820077
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820077
 #EXTINF:-1 tvg-id="Globo RPC TV Ponta Grossa SD" tvg-name="GLOBO RPC TV PONTA GROSSA FHD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC TV PONTA GROSSA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820078
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820078
 #EXTINF:-1 tvg-id="Globo RPC TV Ponta Grossa SD" tvg-name="GLOBO RPC TV PONTA GROSSA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO RPC TV PONTA GROSSA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820079
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820079
 #EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="GLOBO TV ALAGOAS FHD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV ALAGOAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820080
 #EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="GLOBO TV ALAGOAS HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV ALAGOAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820081
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820081
 #EXTINF:-1 tvg-id="Globo TV Anhanguera SD" tvg-name="GLOBO TV ANHANGUERA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820082
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820082
 #EXTINF:-1 tvg-id="Globo Bahia SD" tvg-name="GLOBO TV BAHIA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820083
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820083
 #EXTINF:-1 tvg-id="Globo Bahia SD" tvg-name="GLOBO TV BAHIA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820084
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820084
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="GLOBO TV DIARIO FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV DIARIO FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820085
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820085
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="GLOBO TV DIARIO HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV DIARIO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820086
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820086
 #EXTINF:-1 tvg-id="Globo TV Fronteira P. Prudente SD" tvg-name="GLOBO TV FRONTEIRA FHD (BR2)" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV FRONTEIRA FHD (BR2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820087
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820087
 #EXTINF:-1 tvg-id="Globo TV Fronteira P. Prudente SD" tvg-name="GLOBO TV FRONTEIRA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV FRONTEIRA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820088
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820088
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA SUL FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820089
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820089
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL HD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA SUL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820090
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820090
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO TV GAZETA VITORIA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA VITORIA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820091
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820091
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO TV GAZETA VITORIA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA VITORIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820092
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820092
 #EXTINF:-1 tvg-id="Globo TV Integracao Araxa SD" tvg-name="GLOBO TV INTEG. ARAXA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. ARAXA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820093
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820093
 #EXTINF:-1 tvg-id="Globo TV Integracao Araxa SD" tvg-name="GLOBO TV INTEG. ARAXA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. ARAXA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820094
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820094
 #EXTINF:-1 tvg-id="Globo TV Integracao Juiz de Fora SD" tvg-name="GLOBO TV INTEG. JUIZ DE FORA FHD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. JUIZ DE FORA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820095
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820095
 #EXTINF:-1 tvg-id="Globo TV Integracao Juiz de Fora SD" tvg-name="GLOBO TV INTEG. JUIZ DE FORA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV INTEG. JUIZ DE FORA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820096
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820096
 #EXTINF:-1 tvg-id="Globo TV Liberal Belem SD" tvg-name="GLOBO TV LIBERAL BELEM FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV LIBERAL BELEM FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820097
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820097
 #EXTINF:-1 tvg-id="Globo TV Morena SD" tvg-name="GLOBO TV MORENA FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820098
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820098
 #EXTINF:-1 tvg-id="Globo TV Morena SD" tvg-name="GLOBO TV MORENA HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820099
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820099
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO TV NORDESTE  FHD" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV NORDESTE  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820100
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO TV NORDESTE HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV NORDESTE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820101
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820101
 #EXTINF:-1 tvg-id="Globo TV Rio Sul SD" tvg-name="GLOBO TV RIO SUL FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820102
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820102
 #EXTINF:-1 tvg-id="Globo TV Rio Sul SD" tvg-name="GLOBO TV RIO SUL HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820103
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820103
 #EXTINF:-1 tvg-id="Globo Inter TV Serra Mar SD" tvg-name="GLOBO TV SERRA MAR FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV SERRA MAR FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820104
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820104
 #EXTINF:-1 tvg-id="Globo Inter TV Serra Mar SD" tvg-name="GLOBO TV SERRA MAR HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV SERRA MAR HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820105
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820105
 #EXTINF:-1 tvg-id="Globo Bauru SD" tvg-name="GLOBO TV TEM BAURU FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820106
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820106
 #EXTINF:-1 tvg-id="Globo Bauru SD" tvg-name="GLOBO TV TEM BAURU HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820107
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820107
 #EXTINF:-1 tvg-id="Globo Sorocaba SD" tvg-name="GLOBO TV TEM SOROCABA FHD (BR2)" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA FHD (BR2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820108
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820108
 #EXTINF:-1 tvg-id="Globo Sorocaba SD" tvg-name="GLOBO TV TEM SOROCABA HD (BR2)" tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA HD (BR2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820109
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820109
 #EXTINF:-1 tvg-id="Globo TV Tribuna Santos SD" tvg-name="GLOBO TV TRIBUNA SANTOS FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA SANTOS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820110
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820110
 #EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS FHD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV VANG. S.J. CAMPOS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820111
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820111
 #EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV VANG. S.J. CAMPOS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820112
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820112
 #EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate SD" tvg-name="GLOBO TV VANG. TAUBATE HD " tvg-logo="https://noahtv.club/canais/GLOBO.png" group-title="CANAIS | GLOBO",GLOBO TV VANG. TAUBATE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820113
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820113
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265 " tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820321
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820321
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD " tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820322
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820322
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD " tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820323
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820323
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD " tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820324
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820324
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD H265 " tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820325
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820325
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD " tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820326
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820326
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD " tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820327
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD " tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820328
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820328
 #EXTINF:-1 tvg-id="FX SD" tvg-name="FX SD " tvg-logo="http://printv.esy.es/server/FX.png" group-title="CANAIS | FILMES & SÉRIES ",FX SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820332
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820332
 #EXTINF:-1 tvg-id="FX SD" tvg-name="FX HD" tvg-logo="http://printv.esy.es/server/FX.png" group-title="CANAIS | FILMES & SÉRIES ",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820331
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820331
 #EXTINF:-1 tvg-id="FX SD" tvg-name="FX FHD " tvg-logo="http://printv.esy.es/server/FX.png" group-title="CANAIS | FILMES & SÉRIES ",FX FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820330
 #EXTINF:-1 tvg-id="FX SD" tvg-name="FX FHD H265 " tvg-logo="http://printv.esy.es/server/FX.png" group-title="CANAIS | FILMES & SÉRIES ",FX FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820329
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820329
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD " tvg-logo="http://printv.esy.es/server/Fish%20TV.png" group-title="CANAIS | ESPORTES",FISH TV FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820314
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD " tvg-logo="http://printv.esy.es/server/Fish%20TV.png" group-title="CANAIS | ESPORTES",FISH TV HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820315
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD " tvg-logo="http://printv.esy.es/server/Fish%20TV.png" group-title="CANAIS | ESPORTES",FISH TV SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820316
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265 " tvg-logo="http://printv.esy.es/server/Fish%20TV.png" group-title="CANAIS | ESPORTES",FISH TV FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820313
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820313
 #EXTINF:-1 tvg-id="Food Network SD" tvg-name="FOOD NETWORK FHD " tvg-logo="http://printv.esy.es/server/Food%20Network.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820318
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820318
 #EXTINF:-1 tvg-id="Food Network SD" tvg-name="FOOD NETWORK HD " tvg-logo="http://printv.esy.es/server/Food%20Network.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820319
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820319
 #EXTINF:-1 tvg-id="Food Network SD" tvg-name="FOOD NETWORK SD " tvg-logo="http://printv.esy.es/server/Food%20Network.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820320
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820320
 #EXTINF:-1 tvg-id="Food Network SD" tvg-name="FOOD NETWORK FHD H265 " tvg-logo="http://printv.esy.es/server/Food%20Network.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820317
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820317
 #EXTINF:-1 tvg-id="Cartoon Network SD" tvg-name="CARTOON NETWORK FHD " tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="CANAIS | INFANTIS ",CARTOON NETWORK FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820189
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820189
 #EXTINF:-1 tvg-id="Cartoon Network SD" tvg-name="CARTOON NETWORK HD " tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="CANAIS | INFANTIS ",CARTOON NETWORK HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820190
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820190
 #EXTINF:-1 tvg-id="Cartoon Network SD" tvg-name="CARTOON NETWORK SD " tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="CANAIS | INFANTIS ",CARTOON NETWORK SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820191
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820191
 #EXTINF:-1 tvg-id="Cartoon Network SD" tvg-name="CARTOON NETWORK FHD H265 " tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="CANAIS | INFANTIS ",CARTOON NETWORK FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820188
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820188
 #EXTINF:-1 tvg-id="film-arts" tvg-name="FILM&ARTS FHD H265 " tvg-logo="http://printv.esy.es/server/Film%26Arts.png" group-title="CANAIS | FILMES & SÉRIES ",FILM&ARTS FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820309
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820309
 #EXTINF:-1 tvg-id="film-arts" tvg-name="FILM&ARTS FHD " tvg-logo="http://printv.esy.es/server/Film%26Arts.png" group-title="CANAIS | FILMES & SÉRIES ",FILM&ARTS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820310
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820310
 #EXTINF:-1 tvg-id="film-arts" tvg-name="FILM&ARTS HD" tvg-logo="http://printv.esy.es/server/Film%26Arts.png" group-title="CANAIS | FILMES & SÉRIES ",FILM&ARTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820311
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820311
 #EXTINF:-1 tvg-id="film-arts" tvg-name="FILM&ARTS SD " tvg-logo="http://printv.esy.es/server/Film%26Arts.png" group-title="CANAIS | FILMES & SÉRIES ",FILM&ARTS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820312
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820312
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD " tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820298
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820298
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD " tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="CANAIS | ESPORTES",ESPN 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820299
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820299
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD " tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="CANAIS | ESPORTES",ESPN 2 SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820300
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820300
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265 " tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820289
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820289
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD " tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820290
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820290
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820291
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820291
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD " tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820292
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820292
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD H265 " tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="CANAIS | ESPORTES",ESPN FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820293
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820293
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD " tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="CANAIS | ESPORTES",ESPN FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820294
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820294
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD " tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="CANAIS | ESPORTES",ESPN HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820295
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820295
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD " tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="CANAIS | ESPORTES",ESPN SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820296
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820296
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD H265 " tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820297
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820297
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD " tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820288
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820288
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD H265 " tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820285
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820285
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD " tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820286
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820286
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD " tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820287
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820287
 #EXTINF:-1 tvg-id="Disney XD SD" tvg-name="DISNEY XD HD " tvg-logo="http://printv.esy.es/server/Disney%20XD.png" group-title="CANAIS | INFANTIS ",DISNEY XD HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820272
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820272
 #EXTINF:-1 tvg-id="Disney XD SD" tvg-name="DISNEY XD SD " tvg-logo="http://printv.esy.es/server/Disney%20XD.png" group-title="CANAIS | INFANTIS ",DISNEY XD SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820273
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820273
 #EXTINF:-1 tvg-id="Telecine Touch SD" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="https://i.ibb.co/Yd5vLn7/TELECINE-TOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820337
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820337
 #EXTINF:-1 tvg-id="" tvg-name="24H-101 DALMATAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-101 DALMATAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820338
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820338
 #EXTINF:-1 tvg-id="" tvg-name="24H-5 ALGUMA COISA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-5 ALGUMA COISA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820339
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820339
 #EXTINF:-1 tvg-id="" tvg-name="24H-A BRUXINHA SABRINA TEMPORADA 1" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A BRUXINHA SABRINA TEMPORADA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820340
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820340
 #EXTINF:-1 tvg-id="" tvg-name="24H-A CASA DA RAVEN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A CASA DA RAVEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820341
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820341
 #EXTINF:-1 tvg-id="" tvg-name="24H-A CASA DO MICKEY MOUSE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A CASA DO MICKEY MOUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820342
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820342
 #EXTINF:-1 tvg-id="" tvg-name="24H-A CEGONHA DA PERNA FINA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A CEGONHA DA PERNA FINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820343
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820343
 #EXTINF:-1 tvg-id="" tvg-name="24H-A COBRINHA AZUL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A COBRINHA AZUL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820344
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820344
 #EXTINF:-1 tvg-id="" tvg-name="24H-A COISA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A COISA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820345
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820345
 #EXTINF:-1 tvg-id="" tvg-name="24H-A CORRIDA ESPECIAL DO ZE COLMEIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A CORRIDA ESPECIAL DO ZE COLMEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820346
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820346
 #EXTINF:-1 tvg-id="" tvg-name="24H-A FAMILIA ADDAMS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A FAMILIA ADDAMS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820347
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820347
 #EXTINF:-1 tvg-id="" tvg-name="24H-A FAMILIA DRACULA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A FAMILIA DRACULA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820348
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820348
 #EXTINF:-1 tvg-id="" tvg-name="24H-A FEITICEIRA FACEIRA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A FEITICEIRA FACEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820349
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820349
 #EXTINF:-1 tvg-id="" tvg-name="24H-A FORMIGA ATOMICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A FORMIGA ATOMICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820350
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820350
 #EXTINF:-1 tvg-id="" tvg-name="24H-A FORMIGA E O TAMANDUA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A FORMIGA E O TAMANDUA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820351
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820351
 #EXTINF:-1 tvg-id="" tvg-name="24H-A GUARDA DO LEAO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A GUARDA DO LEAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820352
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820352
 #EXTINF:-1 tvg-id="" tvg-name="24H-A MANSAO FOSTER PARA AMIGOS IMAGINARIOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A MANSAO FOSTER PARA AMIGOS IMAGINARIOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820353
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820353
 #EXTINF:-1 tvg-id="" tvg-name="24H-A MUMIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A MUMIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820354
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820354
 #EXTINF:-1 tvg-id="" tvg-name="24H-A NOVA ESCOLA DO IMPERADOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A NOVA ESCOLA DO IMPERADOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820355
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820355
 #EXTINF:-1 tvg-id="" tvg-name="24H-A PEQUENA SEREIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A PEQUENA SEREIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820356
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820356
 #EXTINF:-1 tvg-id="" tvg-name="24H-A TURMA  DO ARCHIE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A TURMA  DO ARCHIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820357
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820357
 #EXTINF:-1 tvg-id="" tvg-name="24H-A TURMA DO ABOBRINHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A TURMA DO ABOBRINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820358
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820358
 #EXTINF:-1 tvg-id="" tvg-name="24H-A TURMA DO CHARLIE BROWN E SNOOPY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A TURMA DO CHARLIE BROWN E SNOOPY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820359
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820359
 #EXTINF:-1 tvg-id="" tvg-name="24H-A TURMA DO PATETA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A TURMA DO PATETA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820360
 #EXTINF:-1 tvg-id="" tvg-name="24H-A VACA E O FRANGO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A VACA E O FRANGO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820361
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820361
 #EXTINF:-1 tvg-id="" tvg-name="24H-A VIDA E AS AVENTURAS DE JUNIPER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A VIDA E AS AVENTURAS DE JUNIPER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820362
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820362
 #EXTINF:-1 tvg-id="" tvg-name="24H-A VIDA MODERNA DE ROCKO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-A VIDA MODERNA DE ROCKO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820363
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820363
 #EXTINF:-1 tvg-id="" tvg-name="24H-ACAMPAMENTO DO LAZLO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ACAMPAMENTO DO LAZLO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820364
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820364
 #EXTINF:-1 tvg-id="" tvg-name="24H-ACAMPAMENTO LAKEBOTTOM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ACAMPAMENTO LAKEBOTTOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820365
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820365
 #EXTINF:-1 tvg-id="" tvg-name="24H-AEON FLUX" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AEON FLUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820366
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820366
 #EXTINF:-1 tvg-id="" tvg-name="24H-ALADDIN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ALADDIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820367
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820367
 #EXTINF:-1 tvg-id="" tvg-name="24H-ALF O ETEIMOSO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ALF O ETEIMOSO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820368
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820368
 #EXTINF:-1 tvg-id="" tvg-name="24H-ANDY PANDA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ANDY PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820369
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820369
 #EXTINF:-1 tvg-id="" tvg-name="24H-ANIMANIACS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ANIMANIACS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820370
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820370
 #EXTINF:-1 tvg-id="" tvg-name="24H-ANTIGO TESTAMENTO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ANTIGO TESTAMENTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820371
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820371
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS AVENTURAS DE  TINTIN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS AVENTURAS DE  TINTIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820372
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820372
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS AVENTURAS DE BOB ESPONJA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS AVENTURAS DE BOB ESPONJA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820373
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820373
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS AVENTURAS DE JACKIE CHAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS AVENTURAS DE JACKIE CHAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820374
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820374
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS AVENTURAS DE SONIC" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS AVENTURAS DE SONIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820375
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820375
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS AVENTURAS DO URSINHO PUFF" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS AVENTURAS DO URSINHO PUFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820376
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820376
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS MENINAS SUPER PODEROSAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS MENINAS SUPER PODEROSAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820377
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820377
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS TARTARUGAS NINJAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS TARTARUGAS NINJAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820378
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820378
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS TERRIVEIS AVENTURAS DE BILLY E MANDY 24H" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS TERRIVEIS AVENTURAS DE BILLY E MANDY 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820379
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820379
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS TRAPALHADAS DE FLAPJACK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS TRAPALHADAS DE FLAPJACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820380
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820380
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS TRIGEMEAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS TRIGEMEAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820381
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820381
 #EXTINF:-1 tvg-id="" tvg-name="24H-AS VISOES DE RAVEN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AS VISOES DE RAVEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820382
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820382
 #EXTINF:-1 tvg-id="" tvg-name="24H-AVATAR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-AVATAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820383
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820383
 #EXTINF:-1 tvg-id="" tvg-name="24H-BABY LOONEY TUNES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BABY LOONEY TUNES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820384
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820384
 #EXTINF:-1 tvg-id="" tvg-name="24H-BACKYARDIGANS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BACKYARDIGANS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820385
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820385
 #EXTINF:-1 tvg-id="" tvg-name="24H-BAKUGAN BATTLE BRAWLERS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BAKUGAN BATTLE BRAWLERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820386
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820386
 #EXTINF:-1 tvg-id="" tvg-name="24H-BANAAS DE PIJAMA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BANAAS DE PIJAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820387
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820387
 #EXTINF:-1 tvg-id="" tvg-name="24H-BARNEY E SEUS AMIGOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BARNEY E SEUS AMIGOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820388
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820388
 #EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BATES MOTEL S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820389
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820389
 #EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BATES MOTEL S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820390
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820390
 #EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BATES MOTEL S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820391
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820391
 #EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BATES MOTEL S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820392
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820392
 #EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BATES MOTEL S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820393
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820393
 #EXTINF:-1 tvg-id="" tvg-name="24H-BATFNK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BATFNK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820394
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820394
 #EXTINF:-1 tvg-id="" tvg-name="24H-BATMAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BATMAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820395
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820395
 #EXTINF:-1 tvg-id="" tvg-name="24H-BATTLE FORCE  5" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BATTLE FORCE  5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820396
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820396
 #EXTINF:-1 tvg-id="" tvg-name="24H-BEAVIS A BUTT HEAD" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BEAVIS A BUTT HEAD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820397
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820397
 #EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BEN 10 OMNIVERSE S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820398
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820398
 #EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BEN 10 OMNIVERSE S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820399
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820399
 #EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BEN 10 OMNIVERSE S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820400
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820400
 #EXTINF:-1 tvg-id="" tvg-name="24H-BEN 10 OMNIVERSE S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BEN 10 OMNIVERSE S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820401
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820401
 #EXTINF:-1 tvg-id="" tvg-name="24H-BETTY ATOMICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BETTY ATOMICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820402
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820402
 #EXTINF:-1 tvg-id="" tvg-name="24H-BIBO PAI E  BOB FILHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BIBO PAI E  BOB FILHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820403
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820403
 #EXTINF:-1 tvg-id="" tvg-name="24H-BICUDO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BICUDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820404
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820404
 #EXTINF:-1 tvg-id="" tvg-name="24H-BLAYBLADE S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BLAYBLADE S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820405
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820405
 #EXTINF:-1 tvg-id="" tvg-name="24H-BLAYBLADE S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BLAYBLADE S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820406
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820406
 #EXTINF:-1 tvg-id="" tvg-name="24H-BLAYBLADE S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BLAYBLADE S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820407
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820407
 #EXTINF:-1 tvg-id="" tvg-name="24H-BLAYBLADE S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BLAYBLADE S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820408
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820408
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ESPONJA S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ESPONJA S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820409
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820409
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ESPONJA S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ESPONJA S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820410
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820410
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ESPONJA S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ESPONJA S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820411
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820411
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ESPONJA S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ESPONJA S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820412
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820412
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ESPONJA S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ESPONJA S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820413
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820413
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ESPONJA S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ESPONJA S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820414
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820414
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ESPONJA S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ESPONJA S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820415
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820415
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ESPONJA S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ESPONJA S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820416
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820416
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ESPONJA S09" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ESPONJA S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820417
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820417
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ESPONJA S10" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ESPONJA S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820418
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820418
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOB ZOOM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOB ZOOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820419
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820419
 #EXTINF:-1 tvg-id="" tvg-name="24H-BONECO ATOMICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BONECO ATOMICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820420
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820420
 #EXTINF:-1 tvg-id="" tvg-name="24H-BOOM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BOOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820421
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820421
 #EXTINF:-1 tvg-id="" tvg-name="24H-BRAVESTAR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BRAVESTAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820422
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820422
 #EXTINF:-1 tvg-id="" tvg-name="24H-BREAKING BAD S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BREAKING BAD S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820423
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820423
 #EXTINF:-1 tvg-id="" tvg-name="24H-BREAKING BAD S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BREAKING BAD S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820424
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820424
 #EXTINF:-1 tvg-id="" tvg-name="24H-BREAKING BAD S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BREAKING BAD S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820425
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820425
 #EXTINF:-1 tvg-id="" tvg-name="24H-BREAKING BAD S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BREAKING BAD S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820426
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820426
 #EXTINF:-1 tvg-id="" tvg-name="24H-BREAKING BAD S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BREAKING BAD S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820427
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820427
 #EXTINF:-1 tvg-id="" tvg-name="24H-BUCKY JIBAKU KUN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BUCKY JIBAKU KUN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820428
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820428
 #EXTINF:-1 tvg-id="" tvg-name="24H-BUZZ LIGHTYEAR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-BUZZ LIGHTYEAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820429
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820429
 #EXTINF:-1 tvg-id="" tvg-name="24H-CADILACS E DINOSSAUROS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CADILACS E DINOSSAUROS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820430
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820430
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAEZINHOS DO CANIL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAEZINHOS DO CANIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820431
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820431
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAMERAS ESCONDIDAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAMERAS ESCONDIDAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820432
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820432
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAMPEOES  DO SENDOKAI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAMPEOES  DO SENDOKAI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820433
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820433
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAOFIDENCIAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAOFIDENCIAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820434
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820434
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAPIT CAVERNA 24H" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAPIT CAVERNA 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820435
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820435
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAPITAO PLANETA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAPITAO PLANETA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820436
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820436
 #EXTINF:-1 tvg-id="" tvg-name="24H-CARANGOS E MOTOCAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CARANGOS E MOTOCAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820437
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820437
 #EXTINF:-1 tvg-id="" tvg-name="24H-CARD CAPTOR SAKURA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CARD CAPTOR SAKURA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820438
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820438
 #EXTINF:-1 tvg-id="" tvg-name="24H-CARETA E MUTRETA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CARETA E MUTRETA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820439
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820439
 #EXTINF:-1 tvg-id="" tvg-name="24H-CARMEN SANDIEGO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CARMEN SANDIEGO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820440
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820440
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAROLE E TUESDAY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAROLE E TUESDAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820441
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820441
 #EXTINF:-1 tvg-id="" tvg-name="24H-CARS TOON  AS GRANDES HISTORIAS DO MATE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CARS TOON  AS GRANDES HISTORIAS DO MATE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820442
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820442
 #EXTINF:-1 tvg-id="" tvg-name="24H-CASTELO RA TI BUM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CASTELO RA TI BUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820443
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820443
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820444
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820444
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820445
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820445
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820446
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820446
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820447
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820447
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820448
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820448
 #EXTINF:-1 tvg-id="" tvg-name="24H-CAVERNA DO DRAG" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CAVERNA DO DRAG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820449
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820449
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHANPOLIN COLORADO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHANPOLIN COLORADO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820450
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820450
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAPOLIN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAPOLIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820451
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820451
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHARLIE CHAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHARLIE CHAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820452
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820452
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820453
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820453
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES  DESENHO SEGUNDA TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES  DESENHO SEGUNDA TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820454
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820454
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES CLASSICO S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820455
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820455
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES CLASSICO S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820456
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820456
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES CLASSICO S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820457
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820457
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES CLASSICO S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820458
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820458
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES CLASSICO S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820459
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820459
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES CLASSICO S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820460
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820460
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES CLASSICO S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820461
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820461
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO PRIMEIRA TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES DESENHO PRIMEIRA TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820462
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820462
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO QUARTA TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES DESENHO QUARTA TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820463
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820463
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO TERCEIRA TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHAVES DESENHO TERCEIRA TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820464
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820464
 #EXTINF:-1 tvg-id="" tvg-name="24H-CHOWDER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CHOWDER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820465
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820465
 #EXTINF:-1 tvg-id="" tvg-name="24H-CIENCIA TODO DIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CIENCIA TODO DIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820466
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820466
 #EXTINF:-1 tvg-id="" tvg-name="24H-CLARENCIO O OTIMISTA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CLARENCIO O OTIMISTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820467
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820467
 #EXTINF:-1 tvg-id="" tvg-name="24H-CLASSICOS DA DISNEY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CLASSICOS DA DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820468
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820468
 #EXTINF:-1 tvg-id="" tvg-name="24H-CLIFFORD O GIGANTE CAO VERMELHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CLIFFORD O GIGANTE CAO VERMELHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820469
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820469
 #EXTINF:-1 tvg-id="" tvg-name="24H-CLUB DE CARROS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CLUB DE CARROS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820470
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820470
 #EXTINF:-1 tvg-id="" tvg-name="24H-COELHO RICOCHETE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-COELHO RICOCHETE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820471
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820471
 #EXTINF:-1 tvg-id="" tvg-name="24H-CORAGEM O CAO COVARDE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CORAGEM O CAO COVARDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820472
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820472
 #EXTINF:-1 tvg-id="" tvg-name="24H-CORRIDA MALUCA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CORRIDA MALUCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820473
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820473
 #EXTINF:-1 tvg-id="" tvg-name="24H-CURTAS METRAGENS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CURTAS METRAGENS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820474
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820474
 #EXTINF:-1 tvg-id="" tvg-name="24H-CYBERCHASE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-CYBERCHASE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820475
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820475
 #EXTINF:-1 tvg-id="" tvg-name="24H-DANNY PHANTOM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DANNY PHANTOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820476
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820476
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820477
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820477
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820478
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820478
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-ARROW S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-ARROW S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820479
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820479
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-ARROW S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-ARROW S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820480
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820480
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-ARROW S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-ARROW S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820481
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820481
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-ARROW S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-ARROW S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820482
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820482
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-ARROW S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-ARROW S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820483
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820483
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-ARROW S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-ARROW S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820484
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820484
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-ARROW S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-ARROW S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820485
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820485
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-CRONOLOGIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-CRONOLOGIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820486
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820486
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-DUOLOGIA MULHER MARAVILHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-DUOLOGIA MULHER MARAVILHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820487
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820487
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-ESQUADRAO SUICIDA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-ESQUADRAO SUICIDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820488
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820488
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-LEGENDS OF TOMORROW S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-LEGENDS OF TOMORROW S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820489
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820489
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-LEGENDS OF TOMORROW S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-LEGENDS OF TOMORROW S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820490
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820490
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-LEGENDS OF TOMORROW S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-LEGENDS OF TOMORROW S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820491
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820491
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-LEGENDS OF TOMORROW S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-LEGENDS OF TOMORROW S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820492
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820492
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-LEGENDS OF TOMORROW S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-LEGENDS OF TOMORROW S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820493
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820493
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-LIGA DA JUSTICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-LIGA DA JUSTICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820494
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820494
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-PENTALOGIA BATMAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-PENTALOGIA BATMAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820495
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820495
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-PENTALOGIA SUPERMAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-PENTALOGIA SUPERMAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820496
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820496
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-RAIO NEGRO S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-RAIO NEGRO S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820497
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820497
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-RAIO NEGRO S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-RAIO NEGRO S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820498
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820498
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-RAIO NEGRO S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-RAIO NEGRO S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820499
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820499
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-THE FLASH S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-THE FLASH S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820500
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820500
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-THE FLASH S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-THE FLASH S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820501
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820501
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-THE FLASH S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-THE FLASH S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820502
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820502
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-THE FLASH S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-THE FLASH S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820503
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820503
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-THE FLASH S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-THE FLASH S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820504
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820504
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-THE FLASH S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-THE FLASH S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820505
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820505
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-THE FLASH S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-THE FLASH S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820506
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-TITANS S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-TITANS S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820507
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820507
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-TITANS S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-TITANS S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820508
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820508
 #EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-TRILOGIA BATMAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DC COMICS-TRILOGIA BATMAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820509
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820509
 #EXTINF:-1 tvg-id="" tvg-name="24H-DE FERIAS COM O EX S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DE FERIAS COM O EX S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820510
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820510
 #EXTINF:-1 tvg-id="" tvg-name="24H-DE VOLTA PARA O FUTURO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DE VOLTA PARA O FUTURO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820511
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820511
 #EXTINF:-1 tvg-id="" tvg-name="24H-DEBY E LOID" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DEBY E LOID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820512
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820512
 #EXTINF:-1 tvg-id="" tvg-name="24H-DEFENSORES DA LEI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DEFENSORES DA LEI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820513
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820513
 #EXTINF:-1 tvg-id="" tvg-name="24H-DELVIN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DELVIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820514
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820514
 #EXTINF:-1 tvg-id="" tvg-name="24H-DENNIS THE MENACE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DENNIS THE MENACE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820515
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820515
 #EXTINF:-1 tvg-id="" tvg-name="24H-DESENHOS BIBLICOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DESENHOS BIBLICOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820516
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820516
 #EXTINF:-1 tvg-id="" tvg-name="24H-DIGIMON S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DIGIMON S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820517
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820517
 #EXTINF:-1 tvg-id="" tvg-name="24H-DIGIMON S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DIGIMON S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820518
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820518
 #EXTINF:-1 tvg-id="" tvg-name="24H-DIGMON S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DIGMON S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820519
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820519
 #EXTINF:-1 tvg-id="" tvg-name="24H-DIGMON S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DIGMON S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820520
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820520
 #EXTINF:-1 tvg-id="" tvg-name="24H-DIGMON S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DIGMON S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820521
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820521
 #EXTINF:-1 tvg-id="" tvg-name="24H-DINO BOY E O VALE PERDIDO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DINO BOY E O VALE PERDIDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820522
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820522
 #EXTINF:-1 tvg-id="" tvg-name="24H-DINOSSAURO REI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DINOSSAURO REI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820523
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820523
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820524
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820524
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820525
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820525
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820526
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820526
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820527
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820527
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820528
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820528
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820529
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820529
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820530
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820530
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820531
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820531
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S09" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820532
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820532
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S10" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820533
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820533
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S11" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820534
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820534
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S12" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOIS HOMENS E MEIO S12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820535
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820535
 #EXTINF:-1 tvg-id="" tvg-name="24H-DON DRACULA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DON DRACULA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820536
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820536
 #EXTINF:-1 tvg-id="" tvg-name="24H-DORA A AVENTUREIRA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DORA A AVENTUREIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820537
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820537
 #EXTINF:-1 tvg-id="" tvg-name="24H-DOUG" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DOUG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820538
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820538
 #EXTINF:-1 tvg-id="" tvg-name="24H-DR CALCA DIMENSIONAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DR CALCA DIMENSIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820539
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820539
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL CLASSICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820540
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820540
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL GT" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL GT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820541
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820541
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL SUPER DEUS DA DESTRUICAO BILLS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL SUPER DEUS DA DESTRUICAO BILLS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820542
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820542
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL SUPER FREEZA DOURADO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL SUPER FREEZA DOURADO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820543
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820543
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL SUPER SOBREVIVENCIA DO UNIVERSO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL SUPER SOBREVIVENCIA DO UNIVERSO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820544
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820544
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL SUPER TRUNKS DO FUTURO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL SUPER TRUNKS DO FUTURO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820545
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820545
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL SUPER UNIVERSO 6" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL SUPER UNIVERSO 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820546
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820546
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z SAGA DE MAJIN BOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL Z SAGA DE MAJIN BOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820547
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820547
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z SAGA DO GARLIC JR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL Z SAGA DO GARLIC JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820548
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820548
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z SAGA DOS ANDROIDES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL Z SAGA DOS ANDROIDES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820549
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820549
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z SAGA DOS SAIYAJIN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL Z SAGA DOS SAIYAJIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820550
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820550
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z SAGA FREEZA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL Z SAGA FREEZA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820551
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820551
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z TORNEIO DE OUTRO MUNDO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAGON BALL Z TORNEIO DE OUTRO MUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820552
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820552
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAKE E JOSH S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAKE E JOSH S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820553
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820553
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAKE E JOSH S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAKE E JOSH S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820554
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820554
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAKE E JOSH S03 24H" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAKE E JOSH S03 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820555
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820555
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAKE E JOSH S04 24H" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAKE E JOSH S04 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820556
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820556
 #EXTINF:-1 tvg-id="" tvg-name="24H-DRAMATURGIA PANICO NA TV" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DRAMATURGIA PANICO NA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820557
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820557
 #EXTINF:-1 tvg-id="" tvg-name="24H-DROPPY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DROPPY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820558
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820558
 #EXTINF:-1 tvg-id="" tvg-name="24H-DUCK DODGERS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DUCK DODGERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820559
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820559
 #EXTINF:-1 tvg-id="" tvg-name="24H-DUCKTALES OS CADORES DE AVENTURAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DUCKTALES OS CADORES DE AVENTURAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820560
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820560
 #EXTINF:-1 tvg-id="" tvg-name="24H-DUDLEY DO RIGHT OF THE MOUNTIES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DUDLEY DO RIGHT OF THE MOUNTIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820561
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820561
 #EXTINF:-1 tvg-id="" tvg-name="24H-DUELO XAOLIN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-DUELO XAOLIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820562
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820562
 #EXTINF:-1 tvg-id="" tvg-name="24H-E MAGIA CHARLIE BROWN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-E MAGIA CHARLIE BROWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820563
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820563
 #EXTINF:-1 tvg-id="" tvg-name="24H-E O LOBO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-E O LOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820564
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820564
 #EXTINF:-1 tvg-id="" tvg-name="24H-EDGAR E ELLEN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EDGAR E ELLEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820565
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820565
 #EXTINF:-1 tvg-id="" tvg-name="24H-EDU PRIMITIVO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EDU PRIMITIVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820566
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820566
 #EXTINF:-1 tvg-id="" tvg-name="24H-EEK THE CAT" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EEK THE CAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820567
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820567
 #EXTINF:-1 tvg-id="" tvg-name="24H-EL CHAPO S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EL CHAPO S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820568
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820568
 #EXTINF:-1 tvg-id="" tvg-name="24H-EL CHAPO S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EL CHAPO S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820569
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820569
 #EXTINF:-1 tvg-id="" tvg-name="24H-EL CHAPO S023" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EL CHAPO S023
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820570
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820570
 #EXTINF:-1 tvg-id="" tvg-name="24H-ENCRENCA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ENCRENCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820571
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820571
 #EXTINF:-1 tvg-id="" tvg-name="24H-ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ESCOLINHA DO PROFESSOR RAIMUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820572
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820572
 #EXTINF:-1 tvg-id="" tvg-name="24H-ESQUADRAO DE MARTE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ESQUADRAO DE MARTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820573
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820573
 #EXTINF:-1 tvg-id="" tvg-name="24H-ESQUADRAO DO TEMPO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ESQUADRAO DO TEMPO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820574
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820574
 #EXTINF:-1 tvg-id="" tvg-name="24H-ESQUILO SEM GRILO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ESQUILO SEM GRILO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820575
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820575
 #EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820576
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820576
 #EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820577
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820577
 #EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820578
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820578
 #EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820579
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820579
 #EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820580
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820580
 #EXTINF:-1 tvg-id="" tvg-name="24H-EU SOU O MAXIMO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-EU SOU O MAXIMO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820581
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820581
 #EXTINF:-1 tvg-id="" tvg-name="24H-FABULAS DA DISNEY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FABULAS DA DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820582
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820582
 #EXTINF:-1 tvg-id="" tvg-name="24H-FAISCA E FUMACA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FAISCA E FUMACA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820583
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820583
 #EXTINF:-1 tvg-id="" tvg-name="24H-FAMILIA DINOSSAURO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FAMILIA DINOSSAURO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820584
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820584
 #EXTINF:-1 tvg-id="" tvg-name="24H-FAMILIA URSO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FAMILIA URSO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820585
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820585
 #EXTINF:-1 tvg-id="" tvg-name="24H-FANTASMINHA LEGAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FANTASMINHA LEGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820586
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820586
 #EXTINF:-1 tvg-id="" tvg-name="24H-FATOS DESCONHECIDOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FATOS DESCONHECIDOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820587
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820587
 #EXTINF:-1 tvg-id="" tvg-name="24H-FATOS INSANOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FATOS INSANOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820588
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820588
 #EXTINF:-1 tvg-id="" tvg-name="24H-FILA DE PIADAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FILA DE PIADAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820589
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820589
 #EXTINF:-1 tvg-id="" tvg-name="24H-FITDANCE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FITDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820590
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820590
 #EXTINF:-1 tvg-id="" tvg-name="24H-FLASH GORDON" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FLASH GORDON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820591
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820591
 #EXTINF:-1 tvg-id="" tvg-name="24H-FLY O PEQUENO GUERREIRO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FLY O PEQUENO GUERREIRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820592
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820592
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRANKENSTEIN JUNIOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRANKENSTEIN JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820593
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820593
 #EXTINF:-1 tvg-id="" tvg-name="24H-FREAKAZOID" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FREAKAZOID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820594
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820594
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRIENDS S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820595
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820595
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRIENDS S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820596
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820596
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRIENDS S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820597
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820597
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRIENDS S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820598
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820598
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRIENDS S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820599
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820599
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRIENDS S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820600
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820600
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRIENDS S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820601
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820601
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRIENDS S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820602
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820602
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S09" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRIENDS S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820603
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820603
 #EXTINF:-1 tvg-id="" tvg-name="24H-FRIENDS S10" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FRIENDS S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820604
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820604
 #EXTINF:-1 tvg-id="" tvg-name="24H-FUTURAMA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-FUTURAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820605
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820605
 #EXTINF:-1 tvg-id="" tvg-name="24H-GALAXY RANGER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GALAXY RANGER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820606
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820606
 #EXTINF:-1 tvg-id="" tvg-name="24H-GALAXY TRIO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GALAXY TRIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820607
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820607
 #EXTINF:-1 tvg-id="" tvg-name="24H-GALINHA PINTADINHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GALINHA PINTADINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820608
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820608
 #EXTINF:-1 tvg-id="" tvg-name="24H-GAME OF THRONES S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GAME OF THRONES S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820609
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820609
 #EXTINF:-1 tvg-id="" tvg-name="24H-GAME OF THRONES S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GAME OF THRONES S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820610
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820610
 #EXTINF:-1 tvg-id="" tvg-name="24H-GAME OF THRONES S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GAME OF THRONES S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820611
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820611
 #EXTINF:-1 tvg-id="" tvg-name="24H-GAME OF THRONES S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GAME OF THRONES S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820612
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820612
 #EXTINF:-1 tvg-id="" tvg-name="24H-GAME OF THRONES S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GAME OF THRONES S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820613
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820613
 #EXTINF:-1 tvg-id="" tvg-name="24H-GAME OF THRONES S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GAME OF THRONES S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820614
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820614
 #EXTINF:-1 tvg-id="" tvg-name="24H-GAME OF THRONES S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GAME OF THRONES S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820615
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820615
 #EXTINF:-1 tvg-id="" tvg-name="24H-GAME OF THRONES S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GAME OF THRONES S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820616
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820616
 #EXTINF:-1 tvg-id="" tvg-name="24H-GARFIELD E SEUS AMIGOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GARFIELD E SEUS AMIGOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820617
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820617
 #EXTINF:-1 tvg-id="" tvg-name="24H-GASPARZIHO E SEUS AMIGOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GASPARZIHO E SEUS AMIGOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820618
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820618
 #EXTINF:-1 tvg-id="" tvg-name="24H-GASPARZINHO O FANTASMA ESPACIAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GASPARZINHO O FANTASMA ESPACIAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820619
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820619
 #EXTINF:-1 tvg-id="" tvg-name="24H-GATO DE BOTAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GATO DE BOTAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820620
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820620
 #EXTINF:-1 tvg-id="" tvg-name="24H-GATO FELIX" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GATO FELIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820621
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820621
 #EXTINF:-1 tvg-id="" tvg-name="24H-GENERETOR REX" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GENERETOR REX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820622
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820622
 #EXTINF:-1 tvg-id="" tvg-name="24H-GERSON ALBUQUERQUE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GERSON ALBUQUERQUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820623
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820623
 #EXTINF:-1 tvg-id="" tvg-name="24H-GO DIEGO GO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GO DIEGO GO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820624
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820624
 #EXTINF:-1 tvg-id="" tvg-name="24H-GUERREIRAS MAGICAS DE RAYEARTH" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GUERREIRAS MAGICAS DE RAYEARTH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820625
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820625
 #EXTINF:-1 tvg-id="" tvg-name="24H-GUERREIROS MISTICOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GUERREIROS MISTICOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820626
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820626
 #EXTINF:-1 tvg-id="" tvg-name="24H-GUNDAM WING" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-GUNDAM WING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820627
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820627
 #EXTINF:-1 tvg-id="" tvg-name="24H-HANTARO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HANTARO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820628
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820628
 #EXTINF:-1 tvg-id="" tvg-name="24H-HARVEY O ADVOGADO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HARVEY O ADVOGADO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820629
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820629
 #EXTINF:-1 tvg-id="" tvg-name="24H-HE-MAN 24H" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HE-MAN 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820630
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820630
 #EXTINF:-1 tvg-id="" tvg-name="24H-HELLO KITTY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HELLO KITTY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820631
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820631
 #EXTINF:-1 tvg-id="" tvg-name="24H-HERCULES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HERCULES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820632
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820632
 #EXTINF:-1 tvg-id="" tvg-name="24H-HERCULOIDES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HERCULOIDES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820633
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820633
 #EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HEY ARNOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820634
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820634
 #EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HEY ARNOLD S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820635
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820635
 #EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HEY ARNOLD S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820636
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820636
 #EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HEY ARNOLD S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820637
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820637
 #EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HEY ARNOLD S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820638
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820638
 #EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HEY ARNOLD S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820639
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820639
 #EXTINF:-1 tvg-id="" tvg-name="24H-HICKORY DICKORY DOCK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HICKORY DICKORY DOCK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820640
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820640
 #EXTINF:-1 tvg-id="" tvg-name="24H-HILDA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HILDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820641
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820641
 #EXTINF:-1 tvg-id="" tvg-name="24H-HISTORINHAS DE DRAGOES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HISTORINHAS DE DRAGOES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820642
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820642
 #EXTINF:-1 tvg-id="" tvg-name="24H-HO HO OLIMPICS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HO HO OLIMPICS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820643
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820643
 #EXTINF:-1 tvg-id="" tvg-name="24H-HOMEM ARANHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HOMEM ARANHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820644
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820644
 #EXTINF:-1 tvg-id="" tvg-name="24H-HOMEM DE FERRO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HOMEM DE FERRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820645
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820645
 #EXTINF:-1 tvg-id="" tvg-name="24H-HOMEM PASSARO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HOMEM PASSARO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820646
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820646
 #EXTINF:-1 tvg-id="" tvg-name="24H-HOMEN ARANHA ACAO SEM LIMITES S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HOMEN ARANHA ACAO SEM LIMITES S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820647
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820647
 #EXTINF:-1 tvg-id="" tvg-name="24H-HOMEN PASSARO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HOMEN PASSARO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820648
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820648
 #EXTINF:-1 tvg-id="" tvg-name="24H-HONG KONG FU" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-HONG KONG FU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820649
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820649
 #EXTINF:-1 tvg-id="" tvg-name="24H-ICARLY S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ICARLY S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820650
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820650
 #EXTINF:-1 tvg-id="" tvg-name="24H-ICARLY S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ICARLY S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820651
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820651
 #EXTINF:-1 tvg-id="" tvg-name="24H-ICARLY S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ICARLY S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820652
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820652
 #EXTINF:-1 tvg-id="" tvg-name="24H-ICARLY S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ICARLY S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820653
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820653
 #EXTINF:-1 tvg-id="" tvg-name="24H-ICARLY S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ICARLY S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820654
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820654
 #EXTINF:-1 tvg-id="" tvg-name="24H-ICARLY S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ICARLY S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820655
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820655
 #EXTINF:-1 tvg-id="" tvg-name="24H-ICARLY S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ICARLY S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820656
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820656
 #EXTINF:-1 tvg-id="" tvg-name="24H-ILHA DOS DESAFIOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ILHA DOS DESAFIOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820657
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820657
 #EXTINF:-1 tvg-id="" tvg-name="24H-INCRIVEL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-INCRIVEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820658
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820658
 #EXTINF:-1 tvg-id="" tvg-name="24H-INCRIVEL HULK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-INCRIVEL HULK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820659
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820659
 #EXTINF:-1 tvg-id="" tvg-name="24H-INCRIVEL MUNDO DE GUMBAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-INCRIVEL MUNDO DE GUMBAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820660
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820660
 #EXTINF:-1 tvg-id="" tvg-name="24H-INVASOR ZIM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-INVASOR ZIM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820661
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820661
 #EXTINF:-1 tvg-id="" tvg-name="24H-IRMAO DO JOREL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-IRMAO DO JOREL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820662
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820662
 #EXTINF:-1 tvg-id="" tvg-name="24H-JAKERS! AS AVENTURAS DE PIGGLEY WINKS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-JAKERS! AS AVENTURAS DE PIGGLEY WINKS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820663
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820663
 #EXTINF:-1 tvg-id="" tvg-name="24H-JAMBO O RUIVAO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-JAMBO O RUIVAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820664
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820664
 #EXTINF:-1 tvg-id="" tvg-name="24H-JASPION" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-JASPION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820665
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820665
 #EXTINF:-1 tvg-id="" tvg-name="24H-JEAM E AS HOLOGRAMAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-JEAM E AS HOLOGRAMAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820666
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820666
 #EXTINF:-1 tvg-id="" tvg-name="24H-JOAO GRANDAO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-JOAO GRANDAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820667
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820667
 #EXTINF:-1 tvg-id="" tvg-name="24H-JOHN LEITAO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-JOHN LEITAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820668
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820668
 #EXTINF:-1 tvg-id="" tvg-name="24H-JOHNNY BRAVO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-JOHNNY BRAVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820669
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820669
 #EXTINF:-1 tvg-id="" tvg-name="24H-JONNY QUEST" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-JONNY QUEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820670
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820670
 #EXTINF:-1 tvg-id="" tvg-name="24H-JOSIE E AS GATINHAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-JOSIE E AS GATINHAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820671
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820671
 #EXTINF:-1 tvg-id="" tvg-name="24H-JUBEI CHAN THE NINJA GIRL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-JUBEI CHAN THE NINJA GIRL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820672
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820672
 #EXTINF:-1 tvg-id="" tvg-name="24H-KAMEN RIDER  BLACK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-KAMEN RIDER  BLACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820673
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820673
 #EXTINF:-1 tvg-id="" tvg-name="24H-KENAN E KEL 1 TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-KENAN E KEL 1 TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820674
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820674
 #EXTINF:-1 tvg-id="" tvg-name="24H-KENAN E KEL 2 TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-KENAN E KEL 2 TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820675
 #EXTINF:-1 tvg-id="" tvg-name="24H-KENAN E KEL 3 TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-KENAN E KEL 3 TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820676
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820676
 #EXTINF:-1 tvg-id="" tvg-name="24H-KICK BUTTOWSKI UM PROJETO DE DUBL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-KICK BUTTOWSKI UM PROJETO DE DUBL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820677
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820677
 #EXTINF:-1 tvg-id="" tvg-name="24H-KIM POSSIBLE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-KIM POSSIBLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820678
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820678
 #EXTINF:-1 tvg-id="" tvg-name="24H-KIMBA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-KIMBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820679
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820679
 #EXTINF:-1 tvg-id="" tvg-name="24H-KND A TURMA DO BAIRRO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-KND A TURMA DO BAIRRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820680
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820680
 #EXTINF:-1 tvg-id="" tvg-name="24H-KONG FU PANDA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-KONG FU PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820681
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820681
 #EXTINF:-1 tvg-id="" tvg-name="24H-KONG REI DOS MACACOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-KONG REI DOS MACACOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820682
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820682
 #EXTINF:-1 tvg-id="" tvg-name="24H-LABORATORIO DE DEXTER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LABORATORIO DE DEXTER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820683
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820683
 #EXTINF:-1 tvg-id="" tvg-name="24H-LARGASDOS E PELADOS S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LARGASDOS E PELADOS S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820684
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820684
 #EXTINF:-1 tvg-id="" tvg-name="24H-LARGASDOS E PELADOS S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LARGASDOS E PELADOS S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820685
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820685
 #EXTINF:-1 tvg-id="" tvg-name="24H-LARGASDOS E PELADOS S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LARGASDOS E PELADOS S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820686
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820686
 #EXTINF:-1 tvg-id="" tvg-name="24H-LARGASDOS E PELADOS S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LARGASDOS E PELADOS S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820687
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820687
 #EXTINF:-1 tvg-id="" tvg-name="24H-LARVA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LARVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820688
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820688
 #EXTINF:-1 tvg-id="" tvg-name="24H-LAZYTOWN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LAZYTOWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820689
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820689
 #EXTINF:-1 tvg-id="" tvg-name="24H-LEAO DA MONTANHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LEAO DA MONTANHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820690
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820690
 #EXTINF:-1 tvg-id="" tvg-name="24H-LEO O CAMINHAO CURIOSO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LEO O CAMINHAO CURIOSO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820691
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820691
 #EXTINF:-1 tvg-id="" tvg-name="24H-LIGA DA JUSTI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LIGA DA JUSTI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820692
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820692
 #EXTINF:-1 tvg-id="" tvg-name="24H-LIGEIRINHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LIGEIRINHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820693
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820693
 #EXTINF:-1 tvg-id="" tvg-name="24H-LIL BUSH" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LIL BUSH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820694
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820694
 #EXTINF:-1 tvg-id="" tvg-name="24H-LILO E STITCH" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LILO E STITCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820695
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820695
 #EXTINF:-1 tvg-id="" tvg-name="24H-LIPPY E HARDY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LIPPY E HARDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820696
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820696
 #EXTINF:-1 tvg-id="" tvg-name="24H-LOONEY TUNES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LOONEY TUNES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820697
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820697
 #EXTINF:-1 tvg-id="" tvg-name="24H-LULA LELE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LULA LELE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820698
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820698
 #EXTINF:-1 tvg-id="" tvg-name="24H-LULUZINHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LULUZINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820699
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820699
 #EXTINF:-1 tvg-id="" tvg-name="24H-LUZINHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-LUZINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820700
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820700
 #EXTINF:-1 tvg-id="" tvg-name="24H-MADELINE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MADELINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820701
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820701
 #EXTINF:-1 tvg-id="" tvg-name="24H-MAGUILA O GORILA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MAGUILA O GORILA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820702
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820702
 #EXTINF:-1 tvg-id="" tvg-name="24H-MANDA CHUVA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MANDA CHUVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820703
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820703
 #EXTINF:-1 tvg-id="" tvg-name="24H-MANUAL DO  NED" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MANUAL DO  NED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820704
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820704
 #EXTINF:-1 tvg-id="" tvg-name="24H-MAQUINAS VOADORAS DICK VIGARISTA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MAQUINAS VOADORAS DICK VIGARISTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820705
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820705
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARCELINO PAO E VINHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARCELINO PAO E VINHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820706
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820706
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARSUPILAMUS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARSUPILAMUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820707
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820707
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARTIN MYSTERY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARTIN MYSTERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820708
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820708
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL -ORDEM CRONOLOGICA 01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL -ORDEM CRONOLOGICA 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820709
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820709
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL DESENHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL DESENHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820710
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820710
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL- AGENTS DA S.H.I.E.L.D S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL- AGENTS DA S.H.I.E.L.D S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820711
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820711
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL- LUKE CAGE S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL- LUKE CAGE S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820712
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820712
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-AGENTS DA S.H.I.E.L.D S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-AGENTS DA S.H.I.E.L.D S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820713
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820713
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-AGENTS DA S.H.I.E.L.D S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-AGENTS DA S.H.I.E.L.D S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820714
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820714
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-AGENTS DA S.H.I.E.L.D S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-AGENTS DA S.H.I.E.L.D S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820715
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820715
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-AGENTS DA S.H.I.E.L.D S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-AGENTS DA S.H.I.E.L.D S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820716
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820716
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-AGENTS DA S.H.I.E.L.D S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-AGENTS DA S.H.I.E.L.D S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820717
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820717
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-CAPITAO AMERICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-CAPITAO AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820718
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820718
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-CLASSICOS DA MARVEL 1" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-CLASSICOS DA MARVEL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820719
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820719
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-CLASSICOS DA MARVEL 2" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-CLASSICOS DA MARVEL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820720
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-DEFENSORES S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-DEFENSORES S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820721
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820721
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-DEMOLIDOR S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-DEMOLIDOR S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820722
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820722
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-DEMOLIDOR S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-DEMOLIDOR S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820723
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820723
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-DEMOLIDOR S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-DEMOLIDOR S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820724
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820724
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-DUOLOGIA HOMEM ARANHA E ESPETACULAR HOMEM ARANHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-DUOLOGIA HOMEM ARANHA E ESPETACULAR HOMEM ARANHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820725
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820725
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FALCAO E SOLDADO INVERNAL S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-FALCAO E SOLDADO INVERNAL S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820726
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820726
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 1" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-FILMES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820727
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820727
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 2" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-FILMES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820728
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820728
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-HOMEM DE FERRO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-HOMEM DE FERRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820729
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820729
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-INUMANOS S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-INUMANOS S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820730
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820730
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-JESSICA JONES S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-JESSICA JONES S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820731
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820731
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-JESSICA JONES S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-JESSICA JONES S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820732
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820732
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-JESSICA JONES S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-JESSICA JONES S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820733
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820733
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-JUSTICEIRO  S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-JUSTICEIRO  S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820734
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820734
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-JUSTICEIRO S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-JUSTICEIRO S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820735
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820735
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-LEGIAO S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-LEGIAO S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820736
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820736
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-LEGIAO S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-LEGIAO S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820737
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820737
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-LENDAS DA MARVEL S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-LENDAS DA MARVEL S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820738
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820738
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-LUKE CAGE S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-LUKE CAGE S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820739
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820739
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-MANDALORIANO S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-MANDALORIANO S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820740
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820740
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-O LEGADO DE JUPITER S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-O LEGADO DE JUPITER S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820741
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820741
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-O MANDALORIANO S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-O MANDALORIANO S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820742
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820742
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-ORDEM CRONOLOGICA 02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-ORDEM CRONOLOGICA 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820743
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820743
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-PUNHO DE FERRO S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-PUNHO DE FERRO S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820744
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820744
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-PUNHO DE FERRO S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-PUNHO DE FERRO S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820745
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820745
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-QUARTETO FANTASTICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-QUARTETO FANTASTICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820746
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820746
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-THE GIFTED S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-THE GIFTED S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820747
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820747
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-THOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-THOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820748
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820748
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-TRILOGIA HOMEM-ARANHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-TRILOGIA HOMEM-ARANHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820749
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820749
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-VINGADORES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-VINGADORES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820750
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820750
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-WANDAVISION S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-WANDAVISION S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820751
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820751
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-X-MEN 1" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-X-MEN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820752
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820752
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-X-MEN 2" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MARVEL-X-MEN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820753
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820753
 #EXTINF:-1 tvg-id="" tvg-name="24H-MASTER TRASH E PANICO CHEF" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MASTER TRASH E PANICO CHEF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820754
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820754
 #EXTINF:-1 tvg-id="" tvg-name="24H-MATRACA E MATRICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MATRACA E MATRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820755
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820755
 #EXTINF:-1 tvg-id="" tvg-name="24H-MECANIMAIS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MECANIMAIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820756
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820756
 #EXTINF:-1 tvg-id="" tvg-name="24H-MEDABOT" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MEDABOT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820757
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820757
 #EXTINF:-1 tvg-id="" tvg-name="24H-MEGAMAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MEGAMAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820758
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820758
 #EXTINF:-1 tvg-id="" tvg-name="24H-MEGAS XLR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MEGAS XLR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820759
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820759
 #EXTINF:-1 tvg-id="" tvg-name="24H-MELHORES VIDEOS DO MUNDO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MELHORES VIDEOS DO MUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820760
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820760
 #EXTINF:-1 tvg-id="" tvg-name="24H-MEU MELHOR AMIGO E UM MACACO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MEU MELHOR AMIGO E UM MACACO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820761
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820761
 #EXTINF:-1 tvg-id="" tvg-name="24H-MEU TITIO AVO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MEU TITIO AVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820762
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820762
 #EXTINF:-1 tvg-id="" tvg-name="24H-MIB HOMENS DE PRETO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MIB HOMENS DE PRETO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820763
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820763
 #EXTINF:-1 tvg-id="" tvg-name="24H-MICKEY E DONALD" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MICKEY E DONALD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820764
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820764
 #EXTINF:-1 tvg-id="" tvg-name="24H-MIGTHOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MIGTHOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820765
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820765
 #EXTINF:-1 tvg-id="" tvg-name="24H-MINI FILMES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MINI FILMES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820766
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820766
 #EXTINF:-1 tvg-id="" tvg-name="24H-MINI POLEGAR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MINI POLEGAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820767
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820767
 #EXTINF:-1 tvg-id="" tvg-name="24H-MIRACULOUS AS AVENTURAS DE LADYBUG" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MIRACULOUS AS AVENTURAS DE LADYBUG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820768
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820768
 #EXTINF:-1 tvg-id="" tvg-name="24H-MISSION HILL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MISSION HILL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820769
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820769
 #EXTINF:-1 tvg-id="" tvg-name="24H-MISTER MAGOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MISTER MAGOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820770
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820770
 #EXTINF:-1 tvg-id="" tvg-name="24H-MIX REYNOLD" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MIX REYNOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820771
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820771
 #EXTINF:-1 tvg-id="" tvg-name="24H-MOBYDICK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MOBYDICK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820772
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820772
 #EXTINF:-1 tvg-id="" tvg-name="24H-MONSTER RANCHER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MONSTER RANCHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820773
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820773
 #EXTINF:-1 tvg-id="" tvg-name="24H-MORANGUINHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MORANGUINHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820774
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820774
 #EXTINF:-1 tvg-id="" tvg-name="24H-MORTAL KOMBAT" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MORTAL KOMBAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820775
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820775
 #EXTINF:-1 tvg-id="" tvg-name="24H-MOSQUETE MOSQUITO E MOSCADO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MOSQUETE MOSQUITO E MOSCADO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820776
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820776
 #EXTINF:-1 tvg-id="" tvg-name="24H-MR BEANS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MR BEANS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820777
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820777
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUCHA LUTA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUCHA LUTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820778
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820778
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUMIAS VIVAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUMIAS VIVAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820779
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820779
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUNDO BITA E OS ANIMAIS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUNDO BITA E OS ANIMAIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820780
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820780
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUSCULO TOTAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUSCULO TOTAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820781
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820781
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUSICA ELETRONICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUSICA ELETRONICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820782
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820782
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUSICA FORRO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUSICA FORRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820783
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820783
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUSICAS FUNK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUSICAS FUNK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820784
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820784
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUSICAS GOSPEL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUSICAS GOSPEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820785
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820785
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUSICAS PAGODE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUSICAS PAGODE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820786
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820786
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUSICAS POP" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUSICAS POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820787
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820787
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUSICAS POP NACIONAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUSICAS POP NACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820788
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820788
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUSICAS RAP" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUSICAS RAP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820789
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820789
 #EXTINF:-1 tvg-id="" tvg-name="24H-MUSICAS SERTANEJO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MUSICAS SERTANEJO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820790
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820790
 #EXTINF:-1 tvg-id="" tvg-name="24H-MY LITTLE PONY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-MY LITTLE PONY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820791
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820791
 #EXTINF:-1 tvg-id="" tvg-name="24H-NA CORREIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NA CORREIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820792
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820792
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARCOS S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARCOS S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820793
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820793
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARCOS S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARCOS S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820794
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820794
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARCOS S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARCOS S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820795
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820795
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARUTO CLASSICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820796
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820796
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARUTO CLASSICO S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820797
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820797
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARUTO CLASSICO S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820798
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820798
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARUTO CLASSICO S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820799
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820799
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARUTO CLASSICO S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820800
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820800
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARUTO CLASSICO S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820801
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820801
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARUTO CLASSICO S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820802
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820802
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARUTO CLASSICO S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820803
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820803
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARUTO CLASSICO S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820804
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820804
 #EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S09" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NARUTO CLASSICO S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820805
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820805
 #EXTINF:-1 tvg-id="" tvg-name="24H-NATUREZA S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NATUREZA S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820806
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820806
 #EXTINF:-1 tvg-id="" tvg-name="24H-NATUREZA S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NATUREZA S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820807
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820807
 #EXTINF:-1 tvg-id="" tvg-name="24H-NATUREZA S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NATUREZA S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820808
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820808
 #EXTINF:-1 tvg-id="" tvg-name="24H-NATUREZA S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NATUREZA S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820809
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820809
 #EXTINF:-1 tvg-id="" tvg-name="24H-NEON GENESIS EVANGELION" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NEON GENESIS EVANGELION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820810
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820810
 #EXTINF:-1 tvg-id="" tvg-name="24H-NOSSA TURMA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-NOSSA TURMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820811
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820811
 #EXTINF:-1 tvg-id="" tvg-name="24H-O CHEFINHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O CHEFINHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820812
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820812
 #EXTINF:-1 tvg-id="" tvg-name="24H-O FANTASMINHA  GALOPANTE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O FANTASMINHA  GALOPANTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820813
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820813
 #EXTINF:-1 tvg-id="" tvg-name="24H-O FANTASTICO MUNDO DE BOBBY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O FANTASTICO MUNDO DE BOBBY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820814
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820814
 #EXTINF:-1 tvg-id="" tvg-name="24H-O INSPETOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O INSPETOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820815
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820815
 #EXTINF:-1 tvg-id="" tvg-name="24H-O MASKARA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O MASKARA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820816
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820816
 #EXTINF:-1 tvg-id="" tvg-name="24H-O MASKARA SERIE ANIMADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O MASKARA SERIE ANIMADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820817
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820817
 #EXTINF:-1 tvg-id="" tvg-name="24H-O NOVO TESTAMENTO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O NOVO TESTAMENTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820818
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820818
 #EXTINF:-1 tvg-id="" tvg-name="24H-O ONIBUS MAGICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O ONIBUS MAGICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820819
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820819
 #EXTINF:-1 tvg-id="" tvg-name="24H-O PEQUENO PRINCIPE CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O PEQUENO PRINCIPE CLASSICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820820
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820820
 #EXTINF:-1 tvg-id="" tvg-name="24H-O PEQUENO SCOOBY DOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O PEQUENO SCOOBY DOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820821
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820821
 #EXTINF:-1 tvg-id="" tvg-name="24H-O PEQUENO URSO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O PEQUENO URSO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820822
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820822
 #EXTINF:-1 tvg-id="" tvg-name="24H-O PRINCIPE DRAGAO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O PRINCIPE DRAGAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820823
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820823
 #EXTINF:-1 tvg-id="" tvg-name="24H-O QUE HA DE NOVO SCOOBYDOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O QUE HA DE NOVO SCOOBYDOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820824
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820824
 #EXTINF:-1 tvg-id="" tvg-name="24H-O REI DO PEDA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O REI DO PEDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820825
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820825
 #EXTINF:-1 tvg-id="" tvg-name="24H-O SEGREDO ALEM DO JARDIM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O SEGREDO ALEM DO JARDIM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820826
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820826
 #EXTINF:-1 tvg-id="" tvg-name="24H-O SHOW DO SCOOBY DOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O SHOW DO SCOOBY DOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820827
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820827
 #EXTINF:-1 tvg-id="" tvg-name="24H-O VIRA LATA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O VIRA LATA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820828
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820828
 #EXTINF:-1 tvg-id="" tvg-name="24H-O XODO DA VOVO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-O XODO DA VOVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820829
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820829
 #EXTINF:-1 tvg-id="" tvg-name="24H-OCEANO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OCEANO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820830
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820830
 #EXTINF:-1 tvg-id="" tvg-name="24H-OGGY E AS BARATAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OGGY E AS BARATAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820831
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820831
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS ANIMAIS  DO BOSQUE VINTENS 242 H" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS ANIMAIS  DO BOSQUE VINTENS 242 H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820832
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820832
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS APUROS DE PENELOPE CHARMOSA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS APUROS DE PENELOPE CHARMOSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820833
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820833
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS BARBIXAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS BARBIXAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820834
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820834
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS CASTORES PIRADOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS CASTORES PIRADOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820835
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820835
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS FLINTSTONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820836
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820836
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS FLINTSTONES S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820837
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820837
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS FLINTSTONES S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820838
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820838
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS FLINTSTONES S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820839
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820839
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS FLINTSTONES S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820840
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820840
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS FLINTSTONES S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820841
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820841
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS FLINTSTONES S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820842
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820842
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS GARGULAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS GARGULAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820843
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820843
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS IMPOSSIVEIS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS IMPOSSIVEIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820844
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820844
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS JETSONS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS JETSONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820845
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820845
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS JORGES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS JORGES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820846
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820846
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS JOVENS TITANS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS JOVENS TITANS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820847
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820847
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS OBLONGS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS OBLONGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820848
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820848
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS PADRINHOS MAGICOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS PADRINHOS MAGICOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820849
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820849
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS PINGUINS DE MADAGASCAR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS PINGUINS DE MADAGASCAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820850
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820850
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SETE MONSTRINHOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SETE MONSTRINHOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820851
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820851
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820852
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820852
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820853
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820853
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820854
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820854
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820855
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820855
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820856
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820856
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820857
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820857
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820858
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820858
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820859
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820859
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S09" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820860
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820860
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S10" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820861
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820861
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S11" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820862
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820862
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S12" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820863
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820863
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S13" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820864
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820864
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S14" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820865
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820865
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S15" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820866
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820866
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S16" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820867
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820867
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S17" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820868
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820868
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S18" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820869
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820869
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S19" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820870
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820870
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S20" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820871
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820871
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S21" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820872
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820872
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S22" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S22
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820873
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820873
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S23" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820874
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820874
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S24" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820875
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820875
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S25" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820876
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820876
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S26" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S26
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820877
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820877
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S27" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S27
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820878
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820878
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S28" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SIMPSONS S28
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820879
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820879
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SUPER GLOBETROTTERS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SUPER GLOBETROTTERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820880
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820880
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS SUPER PATOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS SUPER PATOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820881
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820881
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS TRAPALHOES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS TRAPALHOES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820882
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820882
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS VALENTES COWBOYS DE MOO MESA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS VALENTES COWBOYS DE MOO MESA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820883
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820883
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS VERDADEIROS CA FANTASMAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS VERDADEIROS CA FANTASMAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820884
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820884
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS VIAJANTES DE MAYFLOWER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS VIAJANTES DE MAYFLOWER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820885
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820885
 #EXTINF:-1 tvg-id="" tvg-name="24H-OS VINGADORES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OS VINGADORES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820886
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820886
 #EXTINF:-1 tvg-id="" tvg-name="24H-OSWALDO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OSWALDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820887
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820887
 #EXTINF:-1 tvg-id="" tvg-name="24H-OVERMAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-OVERMAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820888
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820888
 #EXTINF:-1 tvg-id="" tvg-name="24H-PAGODE DA OFENSA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PAGODE DA OFENSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820889
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820889
 #EXTINF:-1 tvg-id="" tvg-name="24H-PANICO TROLL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PANICO TROLL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820890
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820890
 #EXTINF:-1 tvg-id="" tvg-name="24H-PANTERA COR DE ROSA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PANTERA COR DE ROSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820891
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820891
 #EXTINF:-1 tvg-id="" tvg-name="24H-PAPALEGUAS E COIOTE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PAPALEGUAS E COIOTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820892
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820892
 #EXTINF:-1 tvg-id="" tvg-name="24H-PARA RELAXAR E DORMIR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PARA RELAXAR E DORMIR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820893
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820893
 #EXTINF:-1 tvg-id="" tvg-name="24H-PARAFERNALHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PARAFERNALHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820894
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820894
 #EXTINF:-1 tvg-id="" tvg-name="24H-PARTOBA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PARTOBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820895
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820895
 #EXTINF:-1 tvg-id="" tvg-name="24H-PATLABOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PATLABOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820896
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820896
 #EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PATRULHA CANINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820897
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820897
 #EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PATRULHA CANINA S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820898
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820898
 #EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PATRULHA CANINA S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820899
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820899
 #EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA CANINA S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PATRULHA CANINA S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820900
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820900
 #EXTINF:-1 tvg-id="" tvg-name="24H-PATRULHA ESTELAR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PATRULHA ESTELAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820901
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820901
 #EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS DO SILVIO SANTOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PEGADINHAS DO SILVIO SANTOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820902
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820902
 #EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS JALALS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PEGADINHAS JALALS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820903
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820903
 #EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS JOAO KLEBER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PEGADINHAS JOAO KLEBER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820904
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820904
 #EXTINF:-1 tvg-id="" tvg-name="24H-PEPE LEGAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PEPE LEGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820905
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820905
 #EXTINF:-1 tvg-id="" tvg-name="24H-PEPPA PIG" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PEPPA PIG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820906
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820906
 #EXTINF:-1 tvg-id="" tvg-name="24H-PERDIDO NAS ESTRELAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PERDIDO NAS ESTRELAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820907
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820907
 #EXTINF:-1 tvg-id="" tvg-name="24H-PERDIDO NO ESPA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PERDIDO NO ESPA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820908
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820908
 #EXTINF:-1 tvg-id="" tvg-name="24H-PERNALONGA E SUA TURMA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PERNALONGA E SUA TURMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820909
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820909
 #EXTINF:-1 tvg-id="" tvg-name="24H-PETER POTAMUS E TICO MICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PETER POTAMUS E TICO MICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820910
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820910
 #EXTINF:-1 tvg-id="" tvg-name="24H-PHINEAS E FERB" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PHINEAS E FERB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820911
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820911
 #EXTINF:-1 tvg-id="" tvg-name="24H-PICA-PAU" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PICA-PAU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820912
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820912
 #EXTINF:-1 tvg-id="" tvg-name="24H-PICOLINO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PICOLINO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820913
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820913
 #EXTINF:-1 tvg-id="" tvg-name="24H-PINGU" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PINGU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820914
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820914
 #EXTINF:-1 tvg-id="" tvg-name="24H-PINKY E CEREBRO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PINKY E CEREBRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820915
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820915
 #EXTINF:-1 tvg-id="" tvg-name="24H-PLANET SURVIVAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PLANET SURVIVAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820916
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820916
 #EXTINF:-1 tvg-id="" tvg-name="24H-PLIC PLOC E CHUVISCO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PLIC PLOC E CHUVISCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820917
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820917
 #EXTINF:-1 tvg-id="" tvg-name="24H-POCOYO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POCOYO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820918
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820918
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820919
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820919
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820920
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820920
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820921
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820921
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820922
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820922
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820923
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820923
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820924
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820924
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820925
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820925
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820926
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820926
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820927
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820927
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S09" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820928
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820928
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S10" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820929
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820929
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S11" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820930
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820930
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S12" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820931
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820931
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S13" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820932
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820932
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S14" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POKEMON S14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820933
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820933
 #EXTINF:-1 tvg-id="" tvg-name="24H-POLEPOSITION" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POLEPOSITION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820934
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820934
 #EXTINF:-1 tvg-id="" tvg-name="24H-POLICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POLICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820935
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820935
 #EXTINF:-1 tvg-id="" tvg-name="24H-POPEYE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POPEYE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820936
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820936
 #EXTINF:-1 tvg-id="" tvg-name="24H-PORTAS DOS FUNDOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PORTAS DOS FUNDOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820937
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820937
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POWER RANGER CLASSICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820938
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820938
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER CLASSICO S01 AO S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POWER RANGER CLASSICO S01 AO S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820939
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820939
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER DINO THUNDER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POWER RANGER DINO THUNDER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820940
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820940
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER GALAXIA PERDIDA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POWER RANGER GALAXIA PERDIDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820941
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820941
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER NINJA STORM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POWER RANGER NINJA STORM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820942
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820942
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER SPD" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POWER RANGER SPD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820943
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820943
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGER ZEO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POWER RANGER ZEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820944
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820944
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER RANGERS TURBO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POWER RANGERS TURBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820945
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820945
 #EXTINF:-1 tvg-id="" tvg-name="24H-POWER STONE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-POWER STONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820946
 #EXTINF:-1 tvg-id="" tvg-name="24H-PROJETO ZETA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PROJETO ZETA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820947
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820947
 #EXTINF:-1 tvg-id="" tvg-name="24H-PUTZ A COISA TA FEIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-PUTZ A COISA TA FEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820948
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820948
 #EXTINF:-1 tvg-id="" tvg-name="24H-RABISCO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-RABISCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820949
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820949
 #EXTINF:-1 tvg-id="" tvg-name="24H-RAGNAROK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-RAGNAROK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820950
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820950
 #EXTINF:-1 tvg-id="" tvg-name="24H-RECRUTA ZERO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-RECRUTA ZERO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820951
 #EXTINF:-1 tvg-id="" tvg-name="24H-REDAKAI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-REDAKAI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820952
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820952
 #EXTINF:-1 tvg-id="" tvg-name="24H-REFUGIO MENTAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-REFUGIO MENTAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820953
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820953
 #EXTINF:-1 tvg-id="" tvg-name="24H-REI DO PEDACO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-REI DO PEDACO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820954
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820954
 #EXTINF:-1 tvg-id="" tvg-name="24H-REN E STIMPY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-REN E STIMPY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820955
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820955
 #EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 1 TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-RICK E MORTY 1 TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820956
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820956
 #EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 2 TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-RICK E MORTY 2 TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820957
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820957
 #EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 3 TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-RICK E MORTY 3 TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820958
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820958
 #EXTINF:-1 tvg-id="" tvg-name="24H-RICK E MORTY 4 TEMPORADA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-RICK E MORTY 4 TEMPORADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820959
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820959
 #EXTINF:-1 tvg-id="" tvg-name="24H-RIQUINHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-RIQUINHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820960
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820960
 #EXTINF:-1 tvg-id="" tvg-name="24H-ROCKET POWER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ROCKET POWER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820961
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820961
 #EXTINF:-1 tvg-id="" tvg-name="24H-SABADOS SECRETO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SABADOS SECRETO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820962
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820962
 #EXTINF:-1 tvg-id="" tvg-name="24H-SAGWA A GATINHA SIAMESA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SAGWA A GATINHA SIAMESA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820963
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820963
 #EXTINF:-1 tvg-id="" tvg-name="24H-SAI DE BAIXO S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SAI DE BAIXO S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820964
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820964
 #EXTINF:-1 tvg-id="" tvg-name="24H-SAI DE BAIXO S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SAI DE BAIXO S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820965
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820965
 #EXTINF:-1 tvg-id="" tvg-name="24H-SAI DE BAIXO S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SAI DE BAIXO S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820966
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820966
 #EXTINF:-1 tvg-id="" tvg-name="24H-SAI DE BAIXO S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SAI DE BAIXO S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820967
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820967
 #EXTINF:-1 tvg-id="" tvg-name="24H-SAI DE BAIXO S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SAI DE BAIXO S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820968
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820968
 #EXTINF:-1 tvg-id="" tvg-name="24H-SAIKI KUSUO NO PSI NAN REATIVADO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SAIKI KUSUO NO PSI NAN REATIVADO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820969
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820969
 #EXTINF:-1 tvg-id="" tvg-name="24H-SAMURAI CHAMPLOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SAMURAI CHAMPLOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820970
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820970
 #EXTINF:-1 tvg-id="" tvg-name="24H-SAMURAI WARRIOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SAMURAI WARRIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820971
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820971
 #EXTINF:-1 tvg-id="" tvg-name="24H-SHAMAN KING" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SHAMAN KING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820972
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820972
 #EXTINF:-1 tvg-id="" tvg-name="24H-SHAZZAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SHAZZAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820973
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820973
 #EXTINF:-1 tvg-id="" tvg-name="24H-SHE-RA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SHE-RA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820974
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820974
 #EXTINF:-1 tvg-id="" tvg-name="24H-SHINZO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SHINZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820975
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820975
 #EXTINF:-1 tvg-id="" tvg-name="24H-SHOW DA LUNA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SHOW DA LUNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820976
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820976
 #EXTINF:-1 tvg-id="" tvg-name="24H-SHURATO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SHURATO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820977
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820977
 #EXTINF:-1 tvg-id="" tvg-name="24H-SHURIKEN SCHOOL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SHURIKEN SCHOOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820978
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820978
 #EXTINF:-1 tvg-id="" tvg-name="24H-SILVERHAWKS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SILVERHAWKS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820979
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820979
 #EXTINF:-1 tvg-id="" tvg-name="24H-SITIO DO PICA PAU AMARELO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SITIO DO PICA PAU AMARELO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820980
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820980
 #EXTINF:-1 tvg-id="" tvg-name="24H-SLAM DUCK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SLAM DUCK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820981
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820981
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820982
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820982
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820983
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820983
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820984
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820984
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820985
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820985
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820986
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820986
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820987
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820987
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820988
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820989
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S09" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820990
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820990
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S10" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820991
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820991
 #EXTINF:-1 tvg-id="" tvg-name="24H-SNOOPY NO ESPA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SNOOPY NO ESPA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820992
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820993
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820993
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820994
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820994
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820995
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820995
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820996
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820996
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820997
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820997
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820998
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820998
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820999
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820999
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821000
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S09" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821001
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821001
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S10" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821002
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821002
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S11" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821003
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821003
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S12" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821004
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821004
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S13" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821005
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821005
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S14" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821006
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821006
 #EXTINF:-1 tvg-id="" tvg-name="24H-SONIC BOOM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SONIC BOOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821007
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821007
 #EXTINF:-1 tvg-id="" tvg-name="24H-SONIC X" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SONIC X
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821008
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821008
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821009
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821009
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK ESPECIAL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK ESPECIAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821010
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821010
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821011
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821011
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821012
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821012
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821013
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821013
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821014
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821015
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821016
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821017
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821018
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S09" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821019
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S10" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821020
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821020
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S11" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821021
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821021
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S12" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821022
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821022
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S13" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821023
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821023
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S14" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821024
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821024
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S15" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821025
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821025
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S16" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821026
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821026
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S17" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821027
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821027
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S18" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821028
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821028
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S19" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821029
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821029
 #EXTINF:-1 tvg-id="" tvg-name="24H-SOUTH PARK S20" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK S20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821030
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821030
 #EXTINF:-1 tvg-id="" tvg-name="24H-SPACE GHOST" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SPACE GHOST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821031
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821031
 #EXTINF:-1 tvg-id="" tvg-name="24H-SPACE GOOFS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SPACE GOOFS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821032
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821032
 #EXTINF:-1 tvg-id="" tvg-name="24H-SPEED RACER" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SPEED RACER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821033
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821033
 #EXTINF:-1 tvg-id="" tvg-name="24H-STEVE UNIVERSO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-STEVE UNIVERSO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821034
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821034
 #EXTINF:-1 tvg-id="" tvg-name="24H-SUPER AMIGOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SUPER AMIGOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821035
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821035
 #EXTINF:-1 tvg-id="" tvg-name="24H-SUPER CHOQUE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SUPER CHOQUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821036
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821036
 #EXTINF:-1 tvg-id="" tvg-name="24H-SUPER GALO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SUPER GALO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821037
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821037
 #EXTINF:-1 tvg-id="" tvg-name="24H-SUPER MARIO BROS 3" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SUPER MARIO BROS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821038
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821038
 #EXTINF:-1 tvg-id="" tvg-name="24H-SUPERMAN DESENHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SUPERMAN DESENHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821039
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821039
 #EXTINF:-1 tvg-id="" tvg-name="24H-SWAT KATS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-SWAT KATS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821040
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821040
 #EXTINF:-1 tvg-id="" tvg-name="24H-TARTARUGA TOUCHE E DUM DUM" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TARTARUGA TOUCHE E DUM DUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821041
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821041
 #EXTINF:-1 tvg-id="" tvg-name="24H-TARZAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TARZAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821042
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821042
 #EXTINF:-1 tvg-id="" tvg-name="24H-TARZAN CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TARZAN CLASSICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821043
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821043
 #EXTINF:-1 tvg-id="" tvg-name="24H-TAZ MANIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TAZ MANIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821044
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821044
 #EXTINF:-1 tvg-id="" tvg-name="24H-TEAM GALAXY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TEAM GALAXY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821045
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821045
 #EXTINF:-1 tvg-id="" tvg-name="24H-TELETUBBIES CLASSICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TELETUBBIES CLASSICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821046
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821046
 #EXTINF:-1 tvg-id="" tvg-name="24H-TELETUBBIES NOVO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TELETUBBIES NOVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821047
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821047
 #EXTINF:-1 tvg-id="" tvg-name="24H-TELETUBBIES STOP MOTION" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TELETUBBIES STOP MOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821048
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821048
 #EXTINF:-1 tvg-id="" tvg-name="24H-TENCHI MUYO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TENCHI MUYO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821049
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821049
 #EXTINF:-1 tvg-id="" tvg-name="24H-TESTE DE FIDELIDADE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TESTE DE FIDELIDADE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821050
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821050
 #EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821051
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821051
 #EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821052
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821052
 #EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821053
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821053
 #EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821054
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821054
 #EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821055
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821055
 #EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821056
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821056
 #EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821057
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821057
 #EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S08" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821058
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821058
 #EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S09" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821059
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821059
 #EXTINF:-1 tvg-id="" tvg-name="24H-THOMAS E SEUS AMIGOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THOMAS E SEUS AMIGOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821060
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821060
 #EXTINF:-1 tvg-id="" tvg-name="24H-THUNDERCATS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-THUNDERCATS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821061
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821061
 #EXTINF:-1 tvg-id="" tvg-name="24H-TIMAO E PUMBA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TIMAO E PUMBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821062
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821062
 #EXTINF:-1 tvg-id="" tvg-name="24H-TITA SIMBIONICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TITA SIMBIONICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821063
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821063
 #EXTINF:-1 tvg-id="" tvg-name="24H-TODO MUNDO ODEIA O CRIS S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TODO MUNDO ODEIA O CRIS S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821064
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821064
 #EXTINF:-1 tvg-id="" tvg-name="24H-TODO MUNDO ODEIA O CRIS S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TODO MUNDO ODEIA O CRIS S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821065
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821065
 #EXTINF:-1 tvg-id="" tvg-name="24H-TODO MUNDO ODEIA O CRIS S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TODO MUNDO ODEIA O CRIS S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821066
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821066
 #EXTINF:-1 tvg-id="" tvg-name="24H-TODO MUNDO ODEIA O CRIS S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TODO MUNDO ODEIA O CRIS S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821067
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821067
 #EXTINF:-1 tvg-id="" tvg-name="24H-TOM E JERRY" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TOM E JERRY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821068
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821068
 #EXTINF:-1 tvg-id="" tvg-name="24H-TOM SEM FREIO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TOM SEM FREIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821069
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821069
 #EXTINF:-1 tvg-id="" tvg-name="24H-TOPO GIGIO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TOPO GIGIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821070
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821070
 #EXTINF:-1 tvg-id="" tvg-name="24H-TOURADAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TOURADAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821071
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821071
 #EXTINF:-1 tvg-id="" tvg-name="24H-TR ESPI DEMAIS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TR ESPI DEMAIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821072
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821072
 #EXTINF:-1 tvg-id="" tvg-name="24H-TRANSFORMES" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TRANSFORMES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821073
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821073
 #EXTINF:-1 tvg-id="" tvg-name="24H-TRES ESPIAS DEMAIS S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TRES ESPIAS DEMAIS S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821074
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821074
 #EXTINF:-1 tvg-id="" tvg-name="24H-TRES ESPIAS DEMAIS S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TRES ESPIAS DEMAIS S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821075
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821075
 #EXTINF:-1 tvg-id="" tvg-name="24H-TRES ESPIAS DEMAIS S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TRES ESPIAS DEMAIS S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821076
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821076
 #EXTINF:-1 tvg-id="" tvg-name="24H-TRES ESPIAS DEMAIS S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TRES ESPIAS DEMAIS S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821077
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821077
 #EXTINF:-1 tvg-id="" tvg-name="24H-TRES ESPIAS DEMAIS S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TRES ESPIAS DEMAIS S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821078
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821078
 #EXTINF:-1 tvg-id="" tvg-name="24H-TUNEL DO TEMPO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TUNEL DO TEMPO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821079
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821079
 #EXTINF:-1 tvg-id="" tvg-name="24H-TURBOMAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TURBOMAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821080
 #EXTINF:-1 tvg-id="" tvg-name="24H-TURMA DA MONICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TURMA DA MONICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821081
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821081
 #EXTINF:-1 tvg-id="" tvg-name="24H-TUTUBARAO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TUTUBARAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821082
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821082
 #EXTINF:-1 tvg-id="" tvg-name="24H-TV QUACK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-TV QUACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821083
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821083
 #EXTINF:-1 tvg-id="" tvg-name="24H-ULTRAMAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ULTRAMAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821084
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821084
 #EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821085
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821085
 #EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821086
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821086
 #EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821087
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821087
 #EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821088
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821088
 #EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821089
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821089
 #EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821090
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821090
 #EXTINF:-1 tvg-id="" tvg-name="24H-URSINHO GUMMI" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-URSINHO GUMMI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821091
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821091
 #EXTINF:-1 tvg-id="" tvg-name="24H-URSINHOS CARINHOSOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-URSINHOS CARINHOSOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821092
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821092
 #EXTINF:-1 tvg-id="" tvg-name="24H-VALE DOS DINOSSAUROS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-VALE DOS DINOSSAUROS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821093
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821093
 #EXTINF:-1 tvg-id="" tvg-name="24H-VAMPIRINA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-VAMPIRINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821094
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821094
 #EXTINF:-1 tvg-id="" tvg-name="24H-VOCE NA TV" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-VOCE NA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821095
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821095
 #EXTINF:-1 tvg-id="" tvg-name="24H-VOCE SABIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-VOCE SABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821096
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821096
 #EXTINF:-1 tvg-id="" tvg-name="24H-WALLY GATOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-WALLY GATOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821097
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821097
 #EXTINF:-1 tvg-id="" tvg-name="24H-WEBBULLYING NA TV" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-WEBBULLYING NA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821098
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821098
 #EXTINF:-1 tvg-id="" tvg-name="24H-WINSPECTOR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-WINSPECTOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821099
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821099
 #EXTINF:-1 tvg-id="" tvg-name="24H-X MEN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-X MEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821100
 #EXTINF:-1 tvg-id="" tvg-name="24H-XUXA SO PARA BAIXINHOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-XUXA SO PARA BAIXINHOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821101
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821101
 #EXTINF:-1 tvg-id="SBT Brasília HD" tvg-name="SBT BRASILIA" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT BRASILIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821182
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821182
 #EXTINF:-1 tvg-id="SBT MS HD" tvg-name="SBT IMPERATRIZ MARANHAO" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT IMPERATRIZ MARANHAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821183
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821183
 #EXTINF:-1 tvg-id="SBT Brasília HD" tvg-name="SBT INTERIOR" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT INTERIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821184
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821184
 #EXTINF:-1 tvg-id="SBT Pará" tvg-name="SBT PARA" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT PARA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821185
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821185
 #EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT REDE MASSA" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT REDE MASSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821186
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821186
 #EXTINF:-1 tvg-id="SBT Rio" tvg-name="SBT RIO" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT RIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821187
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821187
 #EXTINF:-1 tvg-id="SBTRS.BR" tvg-name="SBT RS" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT RS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821188
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821188
 #EXTINF:-1 tvg-id="SBT Maceio" tvg-name="SBT SAO LUIZ MA" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT SAO LUIZ MA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821189
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821189
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SCC" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT SCC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821190
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821190
 #EXTINF:-1 tvg-id="SBTGoianiaTVSerraDourada.br" tvg-name="SBT SERRA DOURADA" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT SERRA DOURADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821191
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821191
 #EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT SP FHD H265 " tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT SP FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821192
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821192
 #EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT SP FHD " tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT SP FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821193
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821193
 #EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT SP HD " tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT SP HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821194
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821194
 #EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT SP SD" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821195
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821195
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT TV ARATU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821197
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821197
 #EXTINF:-1 tvg-id="SBTRS.BR" tvg-name="SBT TV DIFUSORA CAXIAS" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT TV DIFUSORA CAXIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821198
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821198
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT TV JORNAL RECIFE" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT TV JORNAL RECIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821199
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821199
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT TV TRIBUNA" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT TV TRIBUNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821200
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821200
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT VTV CAMPINAS" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT VTV CAMPINAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821201
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821201
 #EXTINF:-1 tvg-id="SBT São Paulo HD" tvg-name="SBT VTV CAMPINAS HD" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="CANAIS | BAND / RECORD / SBT",SBT VTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821202
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821202
 #EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA HD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD BAHIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821203
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821203
 #EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA SD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD BAHIA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821204
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821204
 #EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD BELEM HD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD BELEM HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821205
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821205
 #EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD BELEM SD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD BELEM SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821206
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821206
 #EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA HD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD BRASILIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821207
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821207
 #EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA SD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD BRASILIA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821208
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821208
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD CAMPINAS HD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD CAMPINAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821209
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821209
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD CAMPINAS SD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD CAMPINAS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821210
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821210
 #EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="RECORD GOIAS HD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD GOIAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821211
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821211
 #EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="RECORD GOIAS SD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD GOIAS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821212
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821212
 #EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD MANAUS HD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD MANAUS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821213
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821213
 #EXTINF:-1 tvg-id="RecordTV Tocantins" tvg-name="RECORD MANAUS SD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD MANAUS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821214
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821214
 #EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS HD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD MINAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821215
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821215
 #EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS SD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD MINAS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821216
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821216
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD " tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821217
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821217
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD " tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821218
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821218
 #EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RIO HD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD RIO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821219
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821219
 #EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RIO SD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD RIO SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821220
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821220
 #EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS HD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD RS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821221
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821221
 #EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS SD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD RS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821222
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821222
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP FHD H265 " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD SP FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821223
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821223
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP FHD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD SP FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821224
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821224
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP HD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD SP HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821225
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821225
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP SD " tvg-logo="http://printv.esy.es/server/Record.png" group-title="CANAIS | BAND / RECORD / SBT",RECORD SP SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821226
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821226
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL SD " tvg-logo="http://printv.esy.es/server/Rede%20Brasil.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",REDE BRASIL SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821227
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821227
 #EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND CAMPINAS FHD " tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="CANAIS | BAND / RECORD / SBT",BAND CAMPINAS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820141
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820141
 #EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND CAMPINAS SD " tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="CANAIS | BAND / RECORD / SBT",BAND CAMPINAS SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820142
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820142
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD H265 " tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="CANAIS | BAND / RECORD / SBT",BAND SP FHD H265 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820147
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820147
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="CANAIS | BAND / RECORD / SBT",BAND SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820148
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820148
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD " tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="CANAIS | BAND / RECORD / SBT",BAND SP HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820149
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820149
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD" tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="CANAIS | BAND / RECORD / SBT",BAND SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/820150
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/820150
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV '00 FHD H265" tvg-logo="http://printv.esy.es/server/MTV%2000s.png" group-title="CANAIS | MUSICAS",MTV '00 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821230
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821230
 #EXTINF:-1 tvg-id="" tvg-name="MTV '00 FHD " tvg-logo="http://printv.esy.es/server/MTV%2000s.png" group-title="CANAIS | MUSICAS",MTV '00 FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821231
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821231
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV '00 HD" tvg-logo="http://printv.esy.es/server/MTV%2000s.png" group-title="CANAIS | MUSICAS",MTV '00 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821232
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821232
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV '00 SD" tvg-logo="http://printv.esy.es/server/MTV%2000s.png" group-title="CANAIS | MUSICAS",MTV '00 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821233
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821233
 #EXTINF:-1 tvg-id="MTV LIVE HD" tvg-name="MTV LIVE HD " tvg-logo="http://printv.esy.es/server/MTV%20Live.png" group-title="CANAIS | MUSICAS",MTV LIVE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/813095
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/813095
 #EXTINF:-1 tvg-id="MTV LIVE FHD" tvg-name="MTV LIVE SD" tvg-logo="http://printv.esy.es/server/MTV%20Live.png" group-title="CANAIS | MUSICAS",MTV LIVE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/812991
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/812991
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU YU HAKUSHO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-YU YU HAKUSHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821234
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821234
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S01" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-YU-GI-OH S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821235
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821235
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S02" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-YU-GI-OH S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821236
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821236
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S03" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-YU-GI-OH S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821237
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821237
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S04" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-YU-GI-OH S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821238
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821238
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S05" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-YU-GI-OH S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821239
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821239
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S06" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-YU-GI-OH S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821240
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821240
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S07" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-YU-GI-OH S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821241
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821241
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZACK E CODY GEMEOS A BORDO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZACK E CODY GEMEOS A BORDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821242
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821242
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZATCH BELL" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZATCH BELL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821243
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821243
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZE BUSCAPE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZE BUSCAPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821244
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821244
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZE COLMEIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZE COLMEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821245
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821245
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZE PEQUENO DO PANICO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZE PEQUENO DO PANICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821246
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821246
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZILLION" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZILLION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821247
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821247
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZOBOOMAFOO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZOBOOMAFOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821248
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821248
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZOEY 101" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZOEY 101
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821249
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821249
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TORAL 2015" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZORRA TORAL 2015
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821250
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821250
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 1999" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZORRA TOTAL 1999
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821251
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821251
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2000" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZORRA TOTAL 2000
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821252
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821252
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2006" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZORRA TOTAL 2006
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821253
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821253
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2007" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZORRA TOTAL 2007
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821254
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821254
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2012" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZORRA TOTAL 2012
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821255
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821255
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2013" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZORRA TOTAL 2013
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821256
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821256
 #EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2014" tvg-logo="" group-title="CANAIS | 24 HORAS",24H-ZORRA TOTAL 2014
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821257
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821257
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821260
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821260
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",DAZN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821261
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821261
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",DAZN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821262
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821262
 #EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 1 FHD" tvg-logo="http://printv.esy.es/server/PPV.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",DUBAI SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821263
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821263
 #EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 2 FHD" tvg-logo="http://printv.esy.es/server/PPV.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",DUBAI SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821264
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD" tvg-logo="http://printv.esy.es/server/TNT%20Sports.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",ESTADIO TNT SPORT 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821265
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 HD" tvg-logo="http://printv.esy.es/server/TNT%20Sports.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",ESTADIO TNT SPORT 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821266
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821266
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 03 HD" tvg-logo="http://printv.esy.es/server/TNT%20Sports.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",ESTADIO TNT SPORT 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821267
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821267
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 04 HD" tvg-logo="http://printv.esy.es/server/TNT%20Sports.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",ESTADIO TNT SPORT 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821268
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821268
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 05 HD " tvg-logo="http://printv.esy.es/server/TNT%20Sports.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",ESTADIO TNT SPORT 05 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821269
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821269
 #EXTINF:-1 tvg-id="" tvg-name="APP EVENTOS 01" tvg-logo="http://printv.esy.es/server/PPV.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",APP EVENTOS 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821270
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821270
 #EXTINF:-1 tvg-id="" tvg-name="DW ESPANHOL SD" tvg-logo="http://printv.esy.es/server/Deutsche%20Welle.png" group-title="CANAIS | VARIEDADES",DW ESPANHOL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821271
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821271
 #EXTINF:-1 tvg-id="" tvg-name="LNF TV FUTSAL HD 01" tvg-logo="http://printv.esy.es/server/PPV.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",LNF TV FUTSAL HD 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821272
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821272
 #EXTINF:-1 tvg-id="" tvg-name="LNF TV FUSTAL HD 02" tvg-logo="http://printv.esy.es/server/PPV.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",LNF TV FUSTAL HD 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821273
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821273
 #EXTINF:-1 tvg-id="" tvg-name="NHK sd" tvg-logo="http://printv.esy.es/server/NHK.png" group-title="CANAIS | NOTÍCIAS",NHK sd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/812889
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/812889
 #EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL FHD" tvg-logo="http://printv.esy.es/server/PPV.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",ONEFOOTBALL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821274
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821274
 #EXTINF:-1 tvg-id="" tvg-name="POLISHOP SD" tvg-logo="http://printv.esy.es/server/Polishop.png" group-title="CANAIS | VARIEDADES",POLISHOP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/812941
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/812941
 #EXTINF:-1 tvg-id="" tvg-name="RAI HD" tvg-logo="http://printv.esy.es/server/Rai%20Italia.png" group-title="CANAIS | VARIEDADES",RAI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821275
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821275
 #EXTINF:-1 tvg-id="" tvg-name="RAI SD" tvg-logo="http://printv.esy.es/server/Rai%20Italia.png" group-title="CANAIS | VARIEDADES",RAI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821276
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821276
 #EXTINF:-1 tvg-id="" tvg-name="RBI SD" tvg-logo="http://printv.esy.es/server/RBI%20TV.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",RBI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821277
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821277
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV ESPÍRITO SANTO" tvg-logo="" group-title="CANAIS | ABERTOS / RELIGIOSOS",REDE TV ESPÍRITO SANTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821278
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821278
 #EXTINF:-1 tvg-id="" tvg-name="RIT SD " tvg-logo="http://printv.esy.es/server/RIT.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",RIT SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821279
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821279
 #EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL SD" tvg-logo="http://printv.esy.es/server/SIC%20Internacional.png" group-title="CANAIS | VARIEDADES",SIC INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821280
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821280
 #EXTINF:-1 tvg-id="" tvg-name="TV GUARULHOS HD" tvg-logo="" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV GUARULHOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821281
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821281
 #EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA HD" tvg-logo="http://printv.esy.es/server/TV%20Justi%C3%A7a.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV JUSTIÇA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821282
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821282
 #EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA SD" tvg-logo="http://printv.esy.es/server/TV%20Justi%C3%A7a.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV JUSTIÇA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821283
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821283
 #EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO FHD" tvg-logo="http://printv.esy.es/server/Novo%20Tempo.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV NOVO TEMPO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/812810
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/812810
 #EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD " tvg-logo="http://printv.esy.es/server/Novo%20Tempo.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV NOVO TEMPO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821284
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821284
 #EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO SD " tvg-logo="http://printv.esy.es/server/Novo%20Tempo.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV NOVO TEMPO SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821285
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821285
 #EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO FHD " tvg-logo="http://printv.esy.es/server/TV%20Pai%20Eterno.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV PAI ETERNO FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821286
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821286
 #EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="http://printv.esy.es/server/TV%20Pai%20Eterno.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV PAI ETERNO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821287
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821287
 #EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO SD" tvg-logo="http://printv.esy.es/server/TV%20Pai%20Eterno.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TV PAI ETERNO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821288
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821288
 #EXTINF:-1 tvg-id="" tvg-name="TV WA SD" tvg-logo="http://printv.esy.es/server/TV%20WA.png" group-title="CANAIS | VARIEDADES",TV WA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821289
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821289
 #EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE SD" tvg-logo="http://printv.esy.es/server/TV5Monde.png" group-title="CANAIS | VARIEDADES",TV5 MONDE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821290
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821290
 #EXTINF:-1 tvg-id="" tvg-name="TVE SD" tvg-logo="http://printv.esy.es/server/TVE.png" group-title="CANAIS | ABERTOS / RELIGIOSOS",TVE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://p2bin.jserven.com:80/101010/101010/821291
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://p2bin.jserven.com:80/101010/101010/821291
 
 
 
