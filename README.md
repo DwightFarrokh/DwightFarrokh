@@ -5,6 +5,8 @@
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_3.m3u8|Origin=https://jovempan.com.br|Referer=https://jovempan.com.br
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/KH4Ai8a.png" group-title="BRASIL",TV PANTANAL plugin://plugin.video.f4mTester/?stream=HLSRETRY;name=DWIGHT FARROKH;url=https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
 
 
 
