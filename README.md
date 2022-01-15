@@ -3766,7 +3766,7 @@ https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WNvxlJ8.png" group-title="BRASIL",ALPHA CHANNEL
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KH4Ai8a.png" group-title="BRASIL",TV PANTANAL
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+plugin://plugin.video.f4mTester/?stream=HLSRETRY;name=DWIGHT FARROKH;url=https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6VADL45.png" group-title="BRASIL",TV A PLATEIA
 https://stmv1.samcast.com.br/kamal9663/kamal9663/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TfmphYR.png" group-title="BRASIL",TV 3 VIA
