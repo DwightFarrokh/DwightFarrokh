@@ -10,4015 +10,4015 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LIS
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAM PRINCIPAL ESQUENTA" tvg-logo="" group-title="BBB 22",BBB 2022 CAM PRINCIPAL ESQUENTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072482.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072482.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM PRINCIPAL 1" tvg-logo="" group-title="BBB 22",BBB 22 CAM PRINCIPAL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072572.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072572.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM PRINCIPAL 2" tvg-logo="" group-title="BBB 22",BBB 22 CAM PRINCIPAL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072571.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072571.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM PRINCIPAL 3" tvg-logo="" group-title="BBB 22",BBB 22 CAM PRINCIPAL 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072570.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072570.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 1 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 1 OP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072569.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072569.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 1 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 1 OP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072568.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072568.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 1 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 1 OP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072567.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072567.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 2 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 2 OP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072566.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072566.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 2 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 2 OP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072565.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072565.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 2 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 2 OP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072564.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072564.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 3 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 3 OP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072563.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072563.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 3 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 3 OP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072562.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072562.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 3 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 3 OP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072561.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072561.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 4 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 4 OP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072560.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072560.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 4 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 4 OP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072559.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072559.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 4 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 4 OP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072558.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072558.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 5 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 5 OP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072557.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072557.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 5 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 5 OP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072556.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072556.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 5 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 5 OP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072555.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072555.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 6 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 6 OP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072554.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072554.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 6 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 6 OP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072553.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072553.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 6 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 6 OP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072552.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072552.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 7 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 7 OP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072551.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072551.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 7 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 7 OP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072550.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072550.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 7 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 7 OP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072549.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072549.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 8 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 8 OP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072548.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072548.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 8 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 8 OP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072547.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072547.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 8 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 8 OP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072546.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072546.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 9 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 9 OP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072545.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072545.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 9 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 9 OP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072544.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072544.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 9 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 9 OP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072543.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072543.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 10 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 10 OP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072542.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072542.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 10 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 10 OP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072541.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072541.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 10 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 10 OP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072540.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10072540.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6283.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6283.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047306.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047306.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054706.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054706.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD¹" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035331.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10035331.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD H265" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17298.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17298.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2821.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2821.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047305.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047305.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054705.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054705.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD°" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD°
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035332.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10035332.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4913.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4913.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054704.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054704.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047304.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047304.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5789.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5789.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054724.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054724.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD H265" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17299.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17299.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/345.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/345.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054723.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054723.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HDᴮᴿ" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2823.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2823.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ SD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4860.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4860.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ SD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054722.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054722.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4801.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4801.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054758.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054758.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD H265" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027000.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027000.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5556.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5556.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054757.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054757.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD²" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7171.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/7171.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/341.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/341.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054756.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054756.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9598.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9598.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054791.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054791.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4893.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4893.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054790.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054790.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD²" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6555.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6555.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA SD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2829.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2829.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA SD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054789.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054789.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5407.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5407.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054751.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054751.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD H265" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17275.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17275.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE HD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5292.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5292.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE HD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054750.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054750.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE SD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5782.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5782.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE SD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054749.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054749.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS FHD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9597.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9597.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS FHD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054788.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054788.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS H265" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027001.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027001.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5595.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5595.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054787.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054787.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD²" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9002.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9002.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS SD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4864.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4864.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS SD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054786.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054786.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRAO PRETO FHD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRAO PRETO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9824.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9824.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO FHD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054782.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054782.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRAO PRETO FHD H265" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRAO PRETO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17273.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17273.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRAO PRETO HD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRAO PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6558.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6558.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO HD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054781.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054781.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO SD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054780.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054780.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4863.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4863.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV SAO CARLOS FHD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV SAO CARLOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050089.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050089.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS FHD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054785.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054785.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV SAO CARLOS HD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV SAO CARLOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050088.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050088.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS HD*" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054784.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054784.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS SD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5549.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5549.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS SD*" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054783.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054783.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV ARARAQUARA SD" tvg-logo="https://i.imgur.com/GzUN9fv.png" group-title="GLOBOS",GB EPTV ARARAQUARA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6557.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6557.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES HD" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049608.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049608.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES FHD*" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054685.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054685.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES FHD" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049607.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049607.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES HD*" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054684.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054684.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES SD*" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054683.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054683.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO FHD" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9586.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9586.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO FHD*" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054646.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054646.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO HD" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9599.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9599.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO HD*" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054645.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054645.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO SD" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4856.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4856.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO SD*" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054644.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054644.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA FHD" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049102.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049102.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA FHD*" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054649.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054649.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA HD" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049101.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049101.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA HD*" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054648.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054648.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA SD" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049100.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049100.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA SD*" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054647.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054647.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU FHD" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050085.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050085.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU FHD*" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054652.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054652.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU HD*" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054651.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054651.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU HD" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050084.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050084.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU SD" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4857.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4857.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU SD*" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054650.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054650.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA FHD" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050087.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050087.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA FHD*" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054643.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054643.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA HD" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050086.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050086.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA HD*" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054642.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054642.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA SD" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/317.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/317.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA SD*" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054641.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054641.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE FHD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049117.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049117.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE FHD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054634.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054634.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE HD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049116.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049116.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE HD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054633.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054633.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE SD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049115.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049115.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE SD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054632.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054632.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA P. PRUDENTE FHD" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA P. PRUDENTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049108.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049108.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA PRESIDENTE PRUDENTE FHD*" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA PRESIDENTE PRUDENTE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054682.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054682.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA P. PRUDENTE HD" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA P. PRUDENTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049107.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049107.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA PRESIDENTE PRUDENTE HD*" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA PRESIDENTE PRUDENTE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054681.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054681.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA P. PRUDENTE SD" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA P. PRUDENTE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049106.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049106.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA PRESIDENTE PRUDENTE SD*" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA PRESIDENTE PRUDENTE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054680.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054680.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC BLUMENAU FHD" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC BLUMENAU FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11228.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11228.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV BLUMENAU FHD*" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC TV BLUMENAU FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054748.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054748.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC BLUMENAU HD" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC BLUMENAU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11227.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11227.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV BLUMENAU HD*" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC TV BLUMENAU HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054747.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054747.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV BLUMENAU SD*" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC TV BLUMENAU SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054746.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054746.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC BLUMENAU SD" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC BLUMENAU SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11226.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11226.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO FHD*" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054745.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054745.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO HD*" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054744.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054744.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049032.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049032.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO SD*" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054743.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054743.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO HD" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049031.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049031.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO FHD" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049030.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049030.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CRICIUMA FHD" tvg-logo="https://i.imgur.com/TReP1JD.png" group-title="GLOBOS",GB NSC TV CRICIUMA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049050.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049050.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CRICIUMA HD" tvg-logo="https://i.imgur.com/TReP1JD.png" group-title="GLOBOS",GB NSC TV CRICIUMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049049.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049049.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CRICIUMA SD" tvg-logo="https://i.imgur.com/TReP1JD.png" group-title="GLOBOS",GB NSC TV CRICIUMA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049048.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049048.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CENTRO-OESTE FHD" tvg-logo="https://i.imgur.com/aKD6sgd.png" group-title="GLOBOS",GB NSC TV CENTRO-OESTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049047.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049047.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CENTRO-OESTE HD" tvg-logo="https://i.imgur.com/aKD6sgd.png" group-title="GLOBOS",GB NSC TV CENTRO-OESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049046.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049046.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CENTRO-OESTE SD" tvg-logo="https://i.imgur.com/aKD6sgd.png" group-title="GLOBOS",GB NSC TV CENTRO-OESTE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049045.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049045.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS FHD" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9596.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9596.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS FHD*" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054742.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054742.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS HD" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6269.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6269.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS HD*" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054741.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054741.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS SD" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6559.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6559.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS SD*" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054740.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054740.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscjoinville.br " tvg-name="GB NSC JOINVILLE FHD" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11222.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11222.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC JOINVILLE FHD*" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054739.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054739.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscjoinville.br" tvg-name="GB NSC JOINVILLE HD" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11221.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11221.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC JOINVILLE HD*" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054738.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054738.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscjoinville.br" tvg-name="GB NSC JOINVILLE SD" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11220.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11220.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC JOINVILLE SD*" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054737.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054737.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE FHD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PORTO ALEGRE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9595.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9595.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PORTO ALEGRE FHD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PORTO ALEGRE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054730.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054730.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE FHD H265" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PORTO ALEGRE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027002.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027002.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2777.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2777.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PORTO ALEGRE HD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PORTO ALEGRE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054729.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054729.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PORTO ALEGRE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/321.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/321.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PORTO ALEGRE SD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PORTO ALEGRE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054728.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054728.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br " tvg-name="GB RBS CAXIAS DO SUL FHD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS CAXIAS DO SUL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11225.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11225.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV CAXIAS DO SUL FHD*" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB RBS TV CAXIAS DO SUL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054736.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054736.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS CAXIAS DO SUL HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS CAXIAS DO SUL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11224.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11224.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV CAXIAS DO SUL HD*" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB RBS TV CAXIAS DO SUL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054735.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054735.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS CAXIAS DO SUL SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS CAXIAS DO SUL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11223.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11223.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV CAXIAS DO SUL SD*" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB RBS TV CAXIAS DO SUL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054734.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054734.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS FHD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11219.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11219.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS FHD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054733.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054733.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11218.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11218.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS HD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054732.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054732.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11217.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11217.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS SD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054731.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054731.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV SANTA MARIA FHD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV SANTA MARIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049044.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049044.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV SANTA MARIA HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV SANTA MARIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049043.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049043.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV SANTA MARIA SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV SANTA MARIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049042.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049042.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9521.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9521.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA FHD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054721.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054721.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054720.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054720.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6561.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6561.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4793.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4793.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054719.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054719.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049029.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049029.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049028.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049028.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049027.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049027.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU FHD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054718.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054718.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054717.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054717.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054716.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054716.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035641.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10035641.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035642.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10035642.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035643.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10035643.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA FHD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054715.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054715.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054714.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054714.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054713.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054713.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049041.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049041.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049040.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049040.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049039.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049039.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA FHD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054709.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054709.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054708.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054708.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054707.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054707.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049035.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049035.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049034.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049034.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049033.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049033.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI FHD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054712.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054712.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054711.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054711.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054710.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054710.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA GOIANIA FHD" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA GOIANIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9594.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9594.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA FHD*" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054703.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054703.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA GOIANIA HD" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA GOIANIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6562.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6562.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA HD*" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054702.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054702.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA GOIANIA SD" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA GOIANIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6563.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6563.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA SD*" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054701.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054701.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS FHD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11234.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11234.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054764.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054764.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11233.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11233.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054763.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054763.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11232.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11232.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054762.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054762.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES FHD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11237.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11237.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11236.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11236.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11235.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11235.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054767.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054767.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054766.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054766.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054765.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054765.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO ARAXA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO ARAXA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049059.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049059.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO ARAXA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO ARAXA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049058.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049058.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO ARAXA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO ARAXA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049057.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049057.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV ARAXÁ FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ARAXÁ FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054773.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054773.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV ARAXÁ HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ARAXÁ HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054772.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054772.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV ARAXÁ SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ARAXÁ SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054771.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054771.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO JUIZ DE FORA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO JUIZ DE FORA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049056.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049056.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO JUIZ DE FORA FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO JUIZ DE FORA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054670.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054670.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO JUIZ DE FORA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO JUIZ DE FORA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054669.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054669.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO JUIZ DE FORA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO JUIZ DE FORA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049055.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049055.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO JUIZ DE FORA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO JUIZ DE FORA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054668.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054668.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO JUIZ DE FORA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO JUIZ DE FORA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049054.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049054.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERLANDIA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERLANDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049114.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049114.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERLANDIA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERLANDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049113.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049113.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERLANDIA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERLANDIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049112.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049112.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049062.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049062.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049061.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049061.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049060.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049060.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054779.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054779.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054778.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054778.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054777.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054777.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS FHD" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050083.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050083.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS FHD*" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054640.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054640.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS HD" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050082.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050082.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS HD*" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054639.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054639.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS SD*" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054638.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054638.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS SD" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4859.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4859.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS SD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6552.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6552.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL FHD" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11213.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11213.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL FHD*" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054658.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054658.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL HD" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11212.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11212.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL HD*" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054657.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054657.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL SD*" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054656.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054656.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL SD" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11211.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11211.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL FHD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11240.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11240.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11239.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11239.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11238.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11238.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054776.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054776.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054775.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054775.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054774.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054774.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR FHD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11231.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11231.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11230.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11230.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvserramar.br " tvg-name="GB INTER TV SERRA MAR SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11229.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11229.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054761.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054761.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054760.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054760.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054759.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054759.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA FHD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITORIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048874.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10048874.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA FHD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITORIA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054673.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054673.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITÓRIA HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITÓRIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048873.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10048873.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA HD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITORIA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054672.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054672.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA SD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITORIA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054671.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054671.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITÓRIA SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITÓRIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9516.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9516.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL ES FHD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL ES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9515.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9515.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL ES HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL ES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9514.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9514.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054770.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054770.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054769.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054769.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054768.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054768.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5780.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5780.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO FHD" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11216.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11216.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO FHD*" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054694.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054694.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO HD*" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054693.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054693.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO HD" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11215.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11215.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO SD" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11214.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11214.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO SD*" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054692.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054692.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA FHD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9593.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9593.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA HD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5853.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5853.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5777.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5777.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA FHD*" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054697.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054697.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA HD*" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054696.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054696.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA SD*" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054695.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054695.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SANTA CRUZ FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SANTA CRUZ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11210.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11210.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SANTA CRUZ HD" tvg-logo="https://i.imgur.com/kQpiuPs.png" group-title="GLOBOS",GB TV SANTA CRUZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11209.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11209.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SANTA CRUZ SD" tvg-logo="https://i.imgur.com/kQpiuPs.png" group-title="GLOBOS",GB TV SANTA CRUZ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11208.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11208.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS FHD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9592.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9592.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS FHD*" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054664.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054664.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS HD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9591.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9591.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS HD*" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054663.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054663.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS SD*" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054662.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054662.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS SD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9590.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9590.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9512.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9512.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054655.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054655.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9511.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9511.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054654.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054654.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054653.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054653.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9513.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9513.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS FHD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9655.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9655.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS FHD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054679.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054679.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9654.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9654.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS HD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054678.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054678.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9656.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9656.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS SD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054677.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054677.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9518.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9518.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054688.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054688.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9517.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9517.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054687.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054687.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9519.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9519.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054686.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054686.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA CAMPO GRANDE FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA CAMPO GRANDE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9589.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9589.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054661.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054661.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA CAMPO GRANDE HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA CAMPO GRANDE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9588.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9588.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054660.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054660.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054659.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054659.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA CAMPO GRANDE SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA CAMPO GRANDE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9587.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9587.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL FHD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049053.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049053.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL FHD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054676.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054676.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049052.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049052.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL HD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054675.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054675.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL SD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054674.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054674.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049051.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049051.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049038.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049038.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049037.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049037.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049036.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049036.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054700.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054700.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054699.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054699.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054698.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054698.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA CUIABA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA CUIABA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049123.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049123.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA CUIABA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA CUIABA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049122.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049122.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA CUIABA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA CUIABA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6564.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6564.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054691.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054691.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054690.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054690.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054689.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054689.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA MANAUS FHD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MANAUS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049119.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049119.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS FHD*" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054727.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054727.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA MANAUS HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MANAUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049118.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049118.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS HD*" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054726.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054726.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS SD*" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054725.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054725.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS  SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5779.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5779.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA FHD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA BOA VISTA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049105.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049105.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA BOA VISTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049104.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049104.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA BOA VISTA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049103.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049103.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO FHD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA PORTO VELHO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049111.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049111.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA PORTO VELHO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049110.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049110.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA PORTO VELHO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049109.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049109.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RedeamazonicaRioBranco.br" tvg-name="GB TV REDE AMAZONICA RIO BRANCO" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA RIO BRANCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049610.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049610.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RedeamazonicaRioBranco.br" tvg-name="GB TV REDE AMAZONICA RIO BRANCO FHD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA RIO BRANCO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049609.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049609.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM FHD" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049121.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049121.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM FHD*" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054667.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054667.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM HD" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049120.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049120.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM HD*" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054666.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054666.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM SD*" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054665.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054665.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM SD" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5778.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5778.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FORTALEZA FHD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES FORTALEZA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049125.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049125.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FHD*" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054631.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054631.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FHD H265*" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054630.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054630.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FORTALEZA HD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES FORTALEZA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049124.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049124.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES HD*" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054629.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054629.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB VERDES MARES FHD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB VERDES MARES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11250.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11250.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB VERDES MARES SD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB VERDES MARES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5776.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5776.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES SD*" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054628.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054628.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB PETROLINA TV GRANDE RIO" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB PETROLINA TV GRANDE RIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19487.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/19487.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PASSO FUNDO FHD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PASSO FUNDO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050095.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050095.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PASSO FUNDO HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PASSO FUNDO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050094.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050094.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PASSO FUNDO SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PASSO FUNDO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050093.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050093.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC LONDRINA FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC LONDRINA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050092.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050092.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC LONDRINA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC LONDRINA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050091.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050091.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC LONDRINA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC LONDRINA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050090.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050090.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S. J. DOS CAMPOS FHD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S. J. DOS CAMPOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050081.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050081.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS FHD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054637.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054637.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S. J. DOS CAMPOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050080.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050080.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES CARIRI FHD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES CARIRI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050079.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050079.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES CARIRI HD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES CARIRI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050078.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050078.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES CARIRI SD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES CARIRI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050077.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050077.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA FHD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MACAPA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050076.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050076.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MACAPA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050075.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050075.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MACAPA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050074.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050074.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CASCAVEL FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CASCAVEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050073.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050073.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CASCAVEL HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CASCAVEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050072.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050072.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CASCAVEL SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CASCAVEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050071.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050071.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL FHD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050070.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050070.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050069.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050069.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE COCAIS FHD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE COCAIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050068.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050068.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE COCAIS HD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE COCAIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050067.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050067.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE COCAIS SD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE COCAIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050066.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050066.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERABA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERABA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050065.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050065.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERABA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050064.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050064.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERABA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERABA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050063.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050063.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUBAE FHD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUBAE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050062.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050062.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUBAE HD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUBAE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050061.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050061.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUBAE SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUBAE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050060.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050060.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUDOESTE FHD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUDOESTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050059.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050059.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUDOESTE HD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUDOESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050058.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050058.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUDOESTE SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUDOESTE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050057.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050057.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVGlobo.us" tvg-name="GB USA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6500.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6500.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6306.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6306.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD*" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054410.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054410.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD²" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10036716.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10036716.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVCidade.br" tvg-name="RECORDTV TV CIDADE FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV TV CIDADE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055102.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055102.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD H265" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17023.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17023.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVCidade.br" tvg-name="RECORDTV TV CIDADE FHD H265*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV TV CIDADE FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055101.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055101.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/336.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/336.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD*" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054409.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054409.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVCidade.br" tvg-name="RECORDTV TV CIDADE HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV TV CIDADE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055100.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055100.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD²" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/8939.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/8939.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD³" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5098.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5098.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVCidade.br" tvg-name="RECORDTV TV CIDADE SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV TV CIDADE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055099.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055099.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/337.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/337.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD*" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054408.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054408.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="RECORDTV SDᴮᴿ" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047247.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047247.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD²" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10036717.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10036717.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR SP FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054431.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054431.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR SP HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054430.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054430.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR SP SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054429.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054429.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SAO JOSE DO RIO PRETO FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV SAO JOSE DO RIO PRETO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054413.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054413.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SAO JOSE DO RIO PRETO HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV SAO JOSE DO RIO PRETO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054412.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054412.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SAO JOSE DO RIO PRETO SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV SAO JOSE DO RIO PRETO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054411.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054411.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ HD" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027008.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027008.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ HD*" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054418.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054418.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ SD" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027009.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027009.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ SD*" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054417.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054417.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR RJ FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054434.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054434.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR RJ HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054433.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054433.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR RJ SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054432.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054432.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG FHD*" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054421.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054421.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG HD" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9821.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9821.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG HD*" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054420.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054420.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG SD" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9822.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9822.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG SD*" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054419.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054419.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO FHD*" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054437.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054437.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO HD" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027007.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027007.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO HD*" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054436.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054436.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO SD" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027006.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027006.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO SD*" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054435.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054435.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF HD" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10640.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10640.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF HD*" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054439.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054439.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF SD" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10636.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10636.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF SD*" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054438.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054438.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RIC MARINGA" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RIC MARINGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050303.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10050303.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054416.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054416.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS HD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10642.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10642.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054415.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054415.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054414.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054414.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10643.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10643.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV CAMPINAS SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027003.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027003.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BAHIA FHD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BAHIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10041072.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10041072.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BA HD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19413.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/19413.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BA SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19414.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/19414.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054442.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054442.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM HD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027004.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027004.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054441.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054441.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027005.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027005.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054440.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054440.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RN TV TROPICAL" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RN TV TROPICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027012.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027012.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV ATALAIA" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV ATALAIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040632.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040632.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6285.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6285.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD*" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SP FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055015.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055015.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHDᴮᴿ" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10036718.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10036718.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD H265" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17316.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17316.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4895.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4895.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD*" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SP HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055014.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055014.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HDᴮᴿ" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9032.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9032.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4132.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4132.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD*" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SP SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055009.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055009.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SDᴮᴿ" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047349.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047349.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS SD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND CAMPINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027013.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027013.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND CAMPINAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10028093.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10028093.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2957.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2957.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD*" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SP FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054395.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054395.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHDᴮᴿ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SP FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047242.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047242.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD H265" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4896.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4896.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/330.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/330.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD*" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SP HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054394.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054394.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HDᴮᴿ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16849.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16849.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4079.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4079.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD*" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SP SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054393.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054393.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SDᴮᴿ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047241.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047241.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU BAHIA" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TV ARATU BAHIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/331.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/331.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Stbrio.br" tvg-name="SBT RJ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027018.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027018.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Stbrio.br" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049869.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049869.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="SBT PR FHD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT PR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049868.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049868.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="SBT PR" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT PR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049867.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049867.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVTambau.br" tvg-name="SBT TAMBAU PARAIBA" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TAMBAU PARAIBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027016.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027016.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVAlterosa.br" tvg-name="SBT TV ALTEROSA MG" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TV ALTEROSA MG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027017.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027017.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MA" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT MA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/20529.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/20529.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV JANGADEIRO CE HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TV JANGADEIRO CE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19714.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/19714.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! FHD" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4898.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4898.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! FHDᴮᴿ" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047244.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047244.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! FHD¹" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! FHD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027020.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027020.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! FHD H265" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17270.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17270.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/335.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/335.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD²" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5142.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5142.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD³" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17140.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17140.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! SD" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5143.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5143.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! SDᴮᴿ" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047243.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047243.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV SP FHD*" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV SP FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054403.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054403.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV SP HD*" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV SP HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054402.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054402.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV SP SD*" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV SP SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054401.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054401.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027021.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027021.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054887.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054887.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD H265" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17265.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17265.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD H265*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054886.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054886.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027022.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027022.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054885.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054885.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054884.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054884.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2741.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2741.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9616.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9616.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD*" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054802.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054802.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD H265" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17369.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17369.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD H265*" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054801.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054801.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9615.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9615.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD*" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054800.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054800.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5600.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5600.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD*" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054799.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054799.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SDᴮᴿ" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047308.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047308.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP FHD" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027023.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027023.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA FHDᴮᴿ" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047213.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047213.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4914.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4914.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP SD" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027024.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027024.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SDᴮᴿ" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047212.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047212.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA FHD" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FORTALEZA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17262.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17262.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV DIARIO FHD*" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055098.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055098.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV DIARIO FHD H265*" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055097.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055097.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA HD" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FORTALEZA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17263.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17263.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO HD*" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055096.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055096.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO SD*" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055095.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055095.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA SD" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FORTALEZA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19716.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/19716.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL FHD*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055106.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055106.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL FHD H265*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055105.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055105.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055104.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055104.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055103.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055103.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/311.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/311.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHDᴮᴿ" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048418.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10048418.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHD*" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054942.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054942.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHD H265*" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054941.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054941.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD*" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054940.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054940.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD*" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054939.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054939.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10667.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10667.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://i.imgur.com/n8IaDTk.png" group-title="ABERTOS",CANAL RURAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10666.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10666.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Terraviva.br " tvg-name="TERRA VIVA SD" tvg-logo="https://i.imgur.com/cXcAe0X.png" group-title="ABERTOS",TERRA VIVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/313.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/313.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS FHD" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048876.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10048876.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS FHD*" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055047.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055047.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS FHD H265*" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055046.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055046.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS HD*" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055045.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055045.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS SD*" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055044.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055044.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA SD" tvg-logo="https://i.imgur.com/Cij9z59.png" group-title="ABERTOS",TV CAMARA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9603.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9603.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD*" tvg-logo="https://i.imgur.com/bfPF8YG.png" group-title="ABERTOS",TV JUSTICA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055090.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055090.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="https://i.imgur.com/bfPF8YG.png" group-title="ABERTOS",TV JUSTICA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5495.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5495.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD*" tvg-logo="https://i.imgur.com/dKHM5oa.png" group-title="ABERTOS",TV SENADO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055080.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055080.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD" tvg-logo="https://i.imgur.com/dKHM5oa.png" group-title="ABERTOS",TV SENADO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9602.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9602.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV O POVO SD*" tvg-logo="https://i.imgur.com/VJbgxbW.png" group-title="ABERTOS",TV O POVO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055085.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055085.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV O POVO CEARA" tvg-logo="https://i.imgur.com/VJbgxbW.png" group-title="ABERTOS",TV O POVO CEARA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19715.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/19715.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIAO FHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="ABERTOS",TV UNIAO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055079.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055079.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIAO FHD H265*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="ABERTOS",TV UNIAO FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055078.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055078.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIAO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="ABERTOS",TV UNIAO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055077.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055077.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIAO SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="ABERTOS",TV UNIAO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055076.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055076.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="NBR SD*" tvg-logo="" group-title="ABERTOS",NBR SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054502.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054502.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="SHOPTIME SD*" tvg-logo="https://i.imgur.com/6EIEbfb.png" group-title="ABERTOS",SHOPTIME SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054390.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054390.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV ASSEMBLEIA" tvg-logo="https://i.imgur.com/6r7nE8t.png" group-title="ABERTOS",TV ASSEMBLEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068473.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068473.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV JOCKEY" tvg-logo="https://i.imgur.com/CtWY8iT.png" group-title="ABERTOS",TV JOCKEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068471.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068471.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TELESUR" tvg-logo="https://i.imgur.com/0IVvUgm.png" group-title="ABERTOS",TELESUR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068465.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068465.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/3fwlRmX.png" group-title="ABERTOS",SESC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068464.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068464.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN TV" tvg-logo="https://i.imgur.com/8yuZBex.png" group-title="ABERTOS",URBAN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068451.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068451.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="COM BRASIL SD" tvg-logo="https://i.imgur.com/m4iSuAz.png" group-title="ABERTOS",COM BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068447.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068447.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4797.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4797.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD*" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054370.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054370.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHDᴮᴿ" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5784.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5784.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17335.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17335.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265*" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054369.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054369.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/177.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/177.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD*" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054368.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054368.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HDᴮᴿ" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4899.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4899.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD³" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16847.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16847.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/176.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/176.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD*" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054367.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054367.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5940.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5940.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD*" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054378.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054378.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17337.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17337.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265*" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054377.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054377.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/172.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/172.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD*" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054376.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054376.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4900.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4900.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/171.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/171.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD*" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054375.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054375.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6554.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6554.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD*" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054374.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054374.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17336.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17336.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265*" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054373.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054373.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/167.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/167.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HDᴮᴿ" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17104.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17104.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD*" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054372.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054372.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD*" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054371.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054371.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/166.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/166.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5775.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5775.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD²" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6288.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6288.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD*" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054806.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054806.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD H265" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17300.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17300.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD H265*" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054805.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054805.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/164.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/164.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD*" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054804.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054804.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HDᴮᴿ" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/8992.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/8992.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD³" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2835.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2835.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/163.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/163.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD*" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054803.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054803.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SDᴮᴿ" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047310.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047310.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2976.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2976.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD*" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054810.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054810.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17301.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17301.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265*" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054809.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054809.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/161.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/161.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD*" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054808.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054808.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17143.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17143.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/160.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/160.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD*" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054807.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054807.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047309.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047309.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6286.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6286.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD*" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054832.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054832.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHDᴮᴿ" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047321.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047321.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD H265" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17304.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17304.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD H265*" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054831.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054831.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/154.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/154.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD*" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054830.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054830.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17131.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17131.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5371.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5371.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD*" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054829.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054829.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SDᴮᴿ" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047320.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047320.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9610.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9610.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD*" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054838.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054838.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHDᴮᴿ" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047325.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047325.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD H265" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17376.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17376.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD H265*" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054837.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054837.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/148.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/148.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD*" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054836.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054836.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4962.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4962.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/153.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/153.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD*" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054835.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054835.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047324.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047324.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6287.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6287.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD*" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054828.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054828.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD²" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10038813.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10038813.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD H265" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17305.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17305.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD H265*" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054834.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054834.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/151.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/151.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD*" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054827.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054827.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HDᴮᴿ" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2843.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2843.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/150.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/150.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD*" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054826.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054826.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SDᴮᴿ" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047323.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047323.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9611.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9611.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD*" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054825.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054825.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17375.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17375.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265*" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054833.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054833.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5396.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5396.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD*" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054824.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054824.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HDᴮᴿ" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17092.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17092.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5397.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5397.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD*" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054823.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054823.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA SDᴮᴿ" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047322.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047322.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandsports.br " tvg-name="BAND SPORTS FHD" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9604.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9604.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD*" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055013.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055013.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17386.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17386.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD H265*" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055012.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055012.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/155.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/155.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD*" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055011.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055011.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HDᴮᴿ" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17138.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17138.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD*" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055010.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055010.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/156.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/156.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9633.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9633.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD*" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054492.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054492.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHDᴮᴿ" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047251.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047251.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD H265" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17347.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17347.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD H265*" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054491.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054491.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/141.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/141.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD*" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054490.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054490.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD*" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054489.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054489.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/140.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/140.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SDᴮᴿ" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047250.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047250.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9612.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9612.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD*" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054818.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054818.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17302.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17302.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265*" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054817.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054817.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fishtv.br " tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5947.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5947.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD*" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054816.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054816.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/138.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/138.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD*" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054815.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054815.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SDᴮᴿ" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047319.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047319.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5369.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5369.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD*" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054919.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054919.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD²" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17030.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17030.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD H265" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17379.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17379.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD H265*" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054918.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054918.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/201.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/201.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD*" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054917.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054917.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD²" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4911.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4911.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/202.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/202.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD*" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054916.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054916.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE SDᴮᴿ" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047337.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047337.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5761.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5761.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16704.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16704.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054470.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054470.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17342.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17342.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054469.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054469.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/200.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/200.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054468.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054468.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4905.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4905.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17107.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17107.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055200.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055200.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054467.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054467.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/179.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/179.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055199.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055199.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2961.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2961.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054466.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054466.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17345.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17345.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054476.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054476.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/197.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/197.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054465.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054465.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4902.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4902.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2788.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2788.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055198.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055198.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055197.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055197.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054464.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054464.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/198.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/198.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6279.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6279.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054463.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054463.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17344.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17344.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054475.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054475.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/196.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/196.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054462.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054462.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4903.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4903.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17110.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17110.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055196.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055196.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054461.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054461.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/195.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/195.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055195.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055195.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6280.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6280.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054460.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054460.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17291.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17291.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054474.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054474.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/193.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/193.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054459.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054459.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4904.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4904.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17109.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17109.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055194.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055194.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054458.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054458.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2786.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2786.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055193.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055193.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5718.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5718.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054457.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054457.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17343.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17343.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054473.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054473.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/190.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/190.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054456.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054456.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17108.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17108.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5717.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5717.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055192.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055192.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054455.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054455.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/189.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/189.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055191.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055191.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6281.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6281.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054454.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054454.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17290.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17290.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054472.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054472.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4991.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4991.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054453.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054453.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17155.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17155.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055190.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055190.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054452.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054452.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/187.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/187.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055189.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055189.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6282.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6282.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054451.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054451.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17289.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17289.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054471.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054471.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4990.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4990.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054450.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054450.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17154.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17154.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055188.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055188.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054449.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054449.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/185.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/185.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055187.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055187.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 8 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054448.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054448.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/8944.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/8944.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 8 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055186.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055186.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068908.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068908.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 1*" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 1*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068955.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068955.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068956.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068956.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 2*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 2*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069193.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069193.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068957.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068957.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 3*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 3*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069194.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069194.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068958.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068958.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 4*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 4*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069195.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069195.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069196.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069196.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069197.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069197.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 1" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068959.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068959.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 2" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068960.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068960.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 3" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068961.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068961.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 4" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068962.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068962.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 5" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068963.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068963.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 6" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068964.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068964.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 1" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068968.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068968.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068969.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068969.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068970.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068970.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068971.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068971.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 HD" tvg-logo="https://i.imgur.com/2pHJ2L1.png" group-title="ESPORTES ESPECIAIS",LIGA FUTSAL 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055535.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055535.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD" tvg-logo="https://i.imgur.com/2pHJ2L1.png" group-title="ESPORTES ESPECIAIS",LIGA FUTSAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055534.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055534.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="FURACAO TV" tvg-logo="https://i.imgur.com/VrykMfJ.png" group-title="ESPORTES ESPECIAIS",FURACAO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054895.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054895.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 FHD" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049950.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049950.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 FHD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054911.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054911.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 FHD H265*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054910.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054910.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049945.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049945.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054909.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054909.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054908.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054908.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 FHD" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049949.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049949.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 FHD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054907.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054907.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 FHD H265*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054906.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054906.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049946.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049946.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054905.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054905.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054904.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054904.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 FHD" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049951.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049951.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 FHD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054903.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054903.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 FHD H265*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054902.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054902.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049947.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049947.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054901.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054901.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054900.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054900.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 FHD" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049952.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049952.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 FHD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054899.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054899.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 FHD H265*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054898.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054898.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054897.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054897.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054896.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054896.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049948.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10049948.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069229.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069229.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069228.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069228.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069227.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069227.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069226.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069226.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069225.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069225.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069224.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069224.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069223.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069223.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069222.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069222.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069221.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069221.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069220.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069220.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 11" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069219.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069219.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 12" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069218.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069218.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 13" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069217.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069217.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 14" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069216.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069216.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 1" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19686.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/19686.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 1²" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 1²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027027.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027027.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 FHD*" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054891.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054891.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 FHD H265*" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054890.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054890.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 HD*" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054889.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054889.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2²" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10046639.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10046639.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 SD*" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054888.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054888.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 3" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19688.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/19688.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 3²" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 3²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10046640.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10046640.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053461.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10053461.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD²" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054030.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054030.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053462.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10053462.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1²" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 1²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054031.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054031.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053463.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10053463.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2²" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 2²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054032.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054032.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 3" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053464.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10053464.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053465.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10053465.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 5" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053466.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10053466.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 6" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053467.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10053467.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="LIBERTADORES FACEBOOK" tvg-logo="https://i.imgur.com/tGv3Q3b.png" group-title="ESPORTES ESPECIAIS",LIBERTADORES FACEBOOK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/20216.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/20216.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11625.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11625.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16564.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16564.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11623.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11623.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11624.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11624.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16565.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16565.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 6" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047538.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047538.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TVGlobo.us" tvg-name="GB USA HD²" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB USA HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10041637.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10041637.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="GloboEsporte.br" tvg-name="GB ESPORTE.COM" tvg-logo="https://i.imgur.com/FNKDHPO.png" group-title="ESPORTES ESPECIAIS",GB ESPORTE.COM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027028.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027028.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2752.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2752.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054301.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054301.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHDᴮᴿ" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047229.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047229.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD H265*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054299.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054299.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD H265" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17327.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17327.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/287.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/287.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054298.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054298.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HDᴮᴿ" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17101.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17101.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD [LEG]*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054300.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054300.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD LEG" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9549.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9549.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD [LEG]*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054297.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054297.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/286.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/286.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054296.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054296.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SDᴮᴿ" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047228.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047228.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD LEG" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9548.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9548.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD [LEG]*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054295.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054295.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2759.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2759.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054329.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054329.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHDᴮᴿ" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047235.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047235.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD H265" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17331.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17331.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD H265*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054327.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054327.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/296.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/296.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054326.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054326.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HDᴮᴿ" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17103.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17103.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD [LEG]*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054328.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054328.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD [LEG]*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054325.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054325.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD LEG" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9555.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9555.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/295.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/295.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054324.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054324.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="TC ACTION SDᴮᴿ" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047234.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047234.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD LEG" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9554.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9554.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD [LEG]*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054323.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054323.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2953.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2953.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054308.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054308.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHDᴮᴿ" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047227.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047227.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD H265" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17328.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17328.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD H265*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054306.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054306.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/290.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/290.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054305.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054305.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD [LEG]*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054307.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054307.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD LEG" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9551.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9551.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD [LEG]*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054304.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054304.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HDᴮᴿ" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5441.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5441.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2754.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2754.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054303.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054303.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SDᴮᴿ" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047226.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047226.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD [LEG]*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054302.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054302.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5944.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5944.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054315.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054315.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHDᴮᴿ" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047233.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047233.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD H265" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17329.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17329.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD H265*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054313.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054313.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/293.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/293.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054312.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054312.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HDᴮᴿ" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17102.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17102.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD [LEG]*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="CANAIS LEGENDADOS",TC FUN FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054314.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054314.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD LEG" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9553.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9553.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD [LEG]*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="CANAIS LEGENDADOS",TC FUN HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054311.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054311.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/292.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/292.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054310.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054310.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SDᴮᴿ" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047232.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047232.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD [LEG]*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="CANAIS LEGENDADOS",TC FUN SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054309.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054309.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5945.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5945.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054294.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054294.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHDᴮᴿ" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047225.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047225.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD H265" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17326.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17326.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD H265*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054292.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054292.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD [LEG]*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054293.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054293.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/284.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/284.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054291.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054291.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HDᴮᴿ" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17100.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17100.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD LEG" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9547.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9547.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD [LEG]*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054290.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054290.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/283.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/283.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD LEG" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9546.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9546.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD [LEG]*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054288.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054288.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054289.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054289.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SDᴮᴿ" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047224.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047224.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHDᴮᴿ" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047231.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047231.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5943.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5943.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054322.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054322.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD H265" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17330.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17330.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD H265*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054320.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054320.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4791.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4791.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054319.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054319.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HDᴮᴿ" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17153.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17153.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD [LEG]*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054321.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054321.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD [LEG]*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054318.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054318.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD LEG" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10033189.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10033189.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/281.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/281.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054317.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054317.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SDᴮᴿ" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047230.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047230.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD [LEG]" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10033190.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10033190.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD [LEG]*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054316.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054316.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9624.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9624.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054537.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054537.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHDᴮᴿ" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047269.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047269.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17354.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17354.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054535.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054535.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/244.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/244.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054534.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054534.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HDᴮᴿ" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17117.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17117.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD [LEG]*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054536.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054536.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD LEG" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9539.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9539.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD [LEG]*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054533.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054533.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/245.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/245.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054532.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054532.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SDᴮᴿ" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047268.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047268.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD LEG" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9538.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9538.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9642.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9642.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055075.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055075.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHDᴮᴿ" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047207.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047207.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD H265" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17322.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17322.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD H265*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055074.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055074.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/208.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/208.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055073.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055073.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HDᴮᴿ" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17097.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17097.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055072.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055072.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/209.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/209.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD [LEG]*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054531.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054531.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5909.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5909.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD*" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054341.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054341.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHDᴮᴿ" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047238.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047238.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17334.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17334.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265*" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054340.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054340.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2763.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2763.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD*" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054339.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054339.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HDᴮᴿ" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17047.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17047.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/218.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/218.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD*" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054338.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054338.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL SDᴮᴿ" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047206.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047206.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5908.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5908.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD*" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054337.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054337.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17333.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17333.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265*" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054336.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054336.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2762.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2762.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD*" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054335.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054335.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HDᴮᴿ" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17046.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17046.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/216.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/216.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD*" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054334.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054334.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD H265" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17383.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17383.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD H265*" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054945.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054945.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD*" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054946.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054946.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2871.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2871.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD*" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054944.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054944.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HDᴮᴿ" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040736.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040736.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD*" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054943.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054943.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/298.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/298.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5541.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5541.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054600.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054600.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHDᴮᴿ" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047293.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047293.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD H265" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17363.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17363.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD H265*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054598.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054598.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/273.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/273.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054597.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054597.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HDᴮᴿ" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16741.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16741.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD [LEG]*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054599.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054599.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD LEG" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9561.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9561.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD [LEG]*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054596.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054596.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4768.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4768.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054581.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054581.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="HBO SDᴮᴿ" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047292.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047292.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD LEG" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9558.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9558.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD [LEG]*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054580.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054580.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4769.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4769.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054608.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054608.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHDᴮᴿ" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047297.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047297.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17365.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17365.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054607.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054607.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/279.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/279.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054606.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054606.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17123.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17123.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047296.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047296.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054605.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054605.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4099.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4099.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9621.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9621.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054615.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054615.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHDᴮᴿ" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047283.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047283.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD H265" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2970.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2970.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD H265*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054613.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054613.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/270.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/270.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054612.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054612.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HDᴮᴿ" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17121.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17121.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD [LEG]*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054614.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054614.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD LEG" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9560.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9560.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD [LEG]*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054611.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054611.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/269.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/269.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054610.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054610.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="HBO+ SDᴮᴿ" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047282.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047282.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD LEG" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9559.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9559.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD [LEG]*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054609.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054609.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9620.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9620.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054604.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054604.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHDᴮᴿ" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047295.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047295.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD H265" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17364.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17364.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD H265*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054603.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054603.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/276.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/276.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054602.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054602.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HDᴮᴿ" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17122.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17122.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SDᴮᴿ" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047294.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047294.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054601.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054601.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/275.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/275.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9622.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9622.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054579.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054579.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHDᴮᴿ" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047287.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047287.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD H265" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17361.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17361.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD H265*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054577.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054577.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/267.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/267.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054576.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054576.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HDᴮᴿ" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17142.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17142.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SDᴮᴿ" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047286.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047286.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054574.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054574.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5601.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5601.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD [LEG]*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="CANAIS LEGENDADOS",HBO SIGNATURE FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054578.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054578.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD [LEG]*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="CANAIS LEGENDADOS",HBO SIGNATURE HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054575.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054575.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD [LEG]*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="CANAIS LEGENDADOS",HBO SIGNATURE SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054573.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054573.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5916.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5916.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054595.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054595.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHDᴮᴿ" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047291.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047291.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17357.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17357.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054593.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054593.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4827.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4827.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054592.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054592.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HDᴮᴿ" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4766.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4766.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/240.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/240.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054590.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054590.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SDᴮᴿ" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047290.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047290.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD [LEG]*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054594.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054594.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD [LEG]*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054591.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054591.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD LEG" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9556.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9556.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD [LEG]*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054589.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054589.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5914.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5914.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054588.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054588.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHDᴮᴿ" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047289.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047289.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17355.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17355.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054586.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054586.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5043.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5043.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054585.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054585.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD [LEG]*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054587.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054587.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD LEG" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9541.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9541.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD [LEG]*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054584.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054584.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD [LEG]*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054582.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054582.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/235.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/235.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054583.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054583.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="HBO POP SDᴮᴿ" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047288.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047288.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD LEG" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9540.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9540.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5915.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5915.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054572.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054572.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHDᴮᴿ" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047285.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047285.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17356.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17356.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054570.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054570.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4828.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4828.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054569.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054569.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HDᴮᴿ" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4767.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4767.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/239.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/239.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054567.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054567.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SDᴮᴿ" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047284.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047284.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD [LEG]*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054571.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054571.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD [LEG]*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054568.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054568.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD LEG" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9557.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9557.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD [LEG]*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054566.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054566.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5846.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5846.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD*" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055051.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055051.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHDᴮᴿ" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047357.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047357.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17318.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17318.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265*" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055050.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055050.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2881.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2881.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD*" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055049.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055049.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HDᴮᴿ" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17070.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17070.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/299.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/299.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD*" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055048.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055048.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SDᴮᴿ" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047356.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047356.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5847.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5847.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD*" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055043.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055043.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="AMC FHDᴮᴿ" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047355.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047355.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17317.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17317.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265*" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055042.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055042.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5477.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5477.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD*" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055041.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055041.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HDᴮᴿ" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7511.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/7511.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5298.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5298.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD*" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055040.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055040.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="AMC SDᴮᴿ" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047354.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047354.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5901.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5901.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHDᴮᴿ" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047351.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047351.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055030.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055030.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17388.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17388.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055028.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055028.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/231.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/231.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HDᴮᴿ" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17148.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17148.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055027.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055027.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD [LEG]*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055029.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055029.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD LEG" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9565.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9565.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD [LEG]*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055026.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055026.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/232.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/232.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SDᴮᴿ" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047350.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047350.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055025.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055025.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD LEG" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9564.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9564.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6890.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6890.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054938.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054938.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17382.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17382.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054936.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054936.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/210.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/210.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054935.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054935.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HDᴮᴿ" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2869.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2869.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD [LEG]*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054937.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054937.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD LEG" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9568.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9568.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD [LEG]*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054934.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054934.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/212.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/212.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054933.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054933.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SDᴮᴿ" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047344.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047344.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD LEG" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9569.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9569.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5929.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5929.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD*" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054927.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054927.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHDᴮᴿ" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047341.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047341.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17380.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17380.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265*" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054926.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054926.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4825.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4825.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD*" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054925.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054925.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HDᴮᴿ" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/3751.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/3751.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/230.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/230.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD*" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054924.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054924.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SDᴮᴿ" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047340.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047340.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9605.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9605.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD*" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054915.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054915.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17378.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17378.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265*" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054914.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054914.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2861.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2861.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD*" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054913.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054913.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HDᴮᴿ" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17065.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17065.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD*" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054912.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054912.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/97.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/97.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4932.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4932.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054366.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054366.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD²" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6284.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6284.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD H265" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17373.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17373.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD H265*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054364.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054364.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/256.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/256.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054363.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054363.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD²" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17128.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17128.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD [LEG]*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054365.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054365.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD LEG" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9563.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9563.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD [LEG]*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054362.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054362.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/255.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/255.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054361.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054361.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SDᴮᴿ" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047316.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047316.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD LEG" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9562.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9562.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9613.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9613.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD*" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054345.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054345.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD H265" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17372.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17372.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD H265*" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054344.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054344.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/250.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/250.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD*" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054343.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054343.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD²" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17127.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17127.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/251.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/251.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD*" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054342.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054342.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SDᴮᴿ" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047315.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047315.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9614.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9614.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054359.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054359.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHDᴮᴿ" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047314.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047314.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD H265" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17371.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17371.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD H265*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054357.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054357.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/257.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/257.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054356.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054356.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD²" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17130.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17130.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027042.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027042.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054354.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054354.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SDᴮᴿ" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047313.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047313.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD [LEG]*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="CANAIS LEGENDADOS",STAR HITS FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054358.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054358.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD [LEG]*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="CANAIS LEGENDADOS",STAR HITS HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054355.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054355.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD [LEG]*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="CANAIS LEGENDADOS",STAR HITS SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054353.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054353.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5890.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5890.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054352.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054352.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHDᴮᴿ" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047312.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047312.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD H265" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17370.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17370.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD H265*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054350.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054350.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/3293.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/3293.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054349.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054349.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD²" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17129.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17129.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027043.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027043.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054347.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054347.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047311.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047311.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD [LEG]*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="CANAIS LEGENDADOS",STAR HITS 2 FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054351.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054351.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD [LEG]*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="CANAIS LEGENDADOS",STAR HITS 2 HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054348.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054348.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD [LEG]*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="CANAIS LEGENDADOS",STAR HITS 2 SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054346.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054346.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9617.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9617.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054798.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054798.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17368.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17368.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054796.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054796.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/247.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/247.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054795.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054795.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HDᴮᴿ" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17125.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17125.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD LEG" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9543.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9543.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD [LEG]*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054797.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054797.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD [LEG]*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054794.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054794.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4551.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4551.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054793.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054793.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SDᴮᴿ" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047307.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047307.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD LEG" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9542.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9542.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD [LEG]*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054792.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054792.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="LIKE FHD*" tvg-logo="https://t2.tudocdn.net/332966?w=660&h=371" group-title="FILMES E SERIES",LIKE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054545.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054545.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="LIKE FHD H265*" tvg-logo="https://t2.tudocdn.net/332966?w=660&amp;h=371" group-title="FILMES E SERIES",LIKE FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054544.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054544.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="LIKE HD*" tvg-logo="https://t2.tudocdn.net/332966?w=660&h=371" group-title="FILMES E SERIES",LIKE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054543.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054543.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="LIKE SD*" tvg-logo="https://t2.tudocdn.net/332966?w=660&h=371" group-title="FILMES E SERIES",LIKE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054542.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054542.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9634.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9634.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD*" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054484.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054484.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHDᴮᴿ" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047249.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047249.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2962.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2962.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265*" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054483.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054483.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/228.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/228.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD*" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054482.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054482.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HDᴮᴿ" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17112.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17112.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/227.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/227.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD*" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054481.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054481.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SDᴮᴿ" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047248.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047248.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9636.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9636.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054385.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054385.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHDᴮᴿ" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047240.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047240.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17338.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17338.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054383.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054383.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/223.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/223.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054382.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054382.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HDᴮᴿ" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17106.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17106.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD [LEG]*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054384.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054384.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD LEG" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9537.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9537.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD [LEG]*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054381.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054381.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/224.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/224.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054380.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054380.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SDᴮᴿ" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047239.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047239.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD LEG" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9536.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9536.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD [LEG]*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054379.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054379.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9637.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9637.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054333.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054333.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHDᴮᴿ" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047237.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047237.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H265" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17332.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17332.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H265*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054332.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054332.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/220.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/220.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054331.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054331.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HDᴮᴿ" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17139.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17139.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/221.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/221.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054330.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054330.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="TBS SDᴮᴿ" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047236.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047236.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027045.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027045.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027044.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027044.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/214.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/214.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9638.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9638.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055132.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055132.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHDᴮᴿ" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047217.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047217.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17325.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17325.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055130.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055130.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/263.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/263.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055129.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055129.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HDᴮᴿ" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17099.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17099.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD [LEG]*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055131.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055131.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD LEG" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9545.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9545.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD [LEG]*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055128.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055128.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/262.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/262.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055127.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055127.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SDᴮᴿ" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047216.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047216.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD LEG" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9544.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9544.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD [LEG]*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055126.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055126.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9639.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9639.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055125.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055125.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES FHDᴮᴿ" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SÉRIES FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047219.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047219.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17324.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17324.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055123.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055123.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/260.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/260.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055122.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055122.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HDᴮᴿ" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17098.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17098.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD [LEG]*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055124.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055124.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD LEG" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9535.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9535.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD [LEG]*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055121.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055121.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/259.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/259.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055120.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055120.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SDᴮᴿ" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SÉRIES SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047218.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047218.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD LEG" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9534.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9534.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5848.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5848.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055062.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055062.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD [LEG]*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054360.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054360.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHDᴮᴿ" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047203.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047203.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD H265" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17319.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17319.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD H265*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055060.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055060.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/241.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/241.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055059.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055059.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HDᴮᴿ" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17095.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17095.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/242.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/242.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055057.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055057.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SDᴮᴿ" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047202.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047202.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="BORA FILMES" tvg-logo="https://i.imgur.com/gThX6oE.png" group-title="FILMES E SERIES",BORA FILMES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068461.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068461.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="ENTRETENDO" tvg-logo="blob:https://imgur.com/70749d25-a9ea-417b-bdf0-e0dc3b253b6b" group-title="FILMES E SERIES",ENTRETENDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068460.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068460.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD [LEG]*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER FHD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055061.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055061.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD LEG" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9533.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9533.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD [LEG]*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER HD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055058.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055058.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD LEG" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER SD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9532.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9532.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD [LEG]*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055056.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055056.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2756.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2756.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD*" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054859.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054859.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHDᴮᴿ" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047332.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047332.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD H265*" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054858.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054858.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD H265" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17310.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17310.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/126.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/126.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD*" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054857.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054857.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17134.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17134.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/125.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/125.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD*" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054856.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054856.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SDᴮᴿ" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047331.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047331.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5923.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5923.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD*" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054842.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054842.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD H265" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17306.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17306.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD H265*" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054841.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054841.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2848.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2848.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! HD*" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054840.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054840.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! HD²" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5829.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5829.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/69.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/69.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! SD*" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054839.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054839.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="E! SDᴮᴿ" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047326.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047326.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV FHD*" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="VARIEDADES",FASHION TV FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054822.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054822.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV FHD H265*" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="VARIEDADES",FASHION TV FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054821.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054821.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD*" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="VARIEDADES",FASHION TV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054820.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054820.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV SD*" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="VARIEDADES",FASHION TV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054819.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054819.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5922.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5922.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD*" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054814.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054814.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHDᴮᴿ" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047318.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047318.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17374.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17374.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265*" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054813.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054813.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HDᴮᴿ" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17091.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17091.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2841.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2841.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD*" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054812.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054812.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/71.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/71.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD*" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054811.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054811.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SDᴮᴿ" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047317.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047317.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9618.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9618.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054619.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054619.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHDᴮᴿ" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047301.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047301.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD H265" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2973.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2973.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD H265*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054618.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054618.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/82.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/82.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054617.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054617.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HDᴮᴿ" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17124.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17124.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/81.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/81.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054616.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054616.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SDᴮᴿ" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047300.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047300.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5927.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5927.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD*" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054565.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054565.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHDᴮᴿ" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047281.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047281.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD H265" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17315.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17315.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD H265*" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054564.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054564.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5475.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5475.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD*" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054563.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054563.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HDᴮᴿ" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17167.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17167.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2859.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2859.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD*" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054562.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054562.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SDᴮᴿ" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047280.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047280.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6544.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6544.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD*" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054879.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054879.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHDᴮᴿ" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047277.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047277.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD H265" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17314.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17314.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD H265*" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054878.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054878.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH HD" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/130.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/130.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH HD*" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054877.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054877.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME &AMP; HEALTH HDᴮᴿ" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME &AMP; HEALTH HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17136.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17136.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH SD" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/129.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/129.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH SD*" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054876.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054876.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH SDᴮᴿ" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047276.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047276.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5917.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5917.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD*" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054549.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054549.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHDᴮᴿ" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047273.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047273.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17359.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17359.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265*" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054548.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054548.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5059.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5059.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD*" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054547.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054547.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD²" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17162.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17162.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/72.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/72.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD*" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054546.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054546.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SDᴮᴿ" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047272.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047272.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="LOADING SD" tvg-logo="https://s2.glbimg.com/_SNU4hVO0E9cVNXK0ShgwJ_E73c=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg" group-title="VARIEDADES",LOADING SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10052808.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10052808.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="LOADING HD" tvg-logo="https://s2.glbimg.com/_SNU4hVO0E9cVNXK0ShgwJ_E73c=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg" group-title="VARIEDADES",LOADING HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10052807.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10052807.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="LOADING FHD" tvg-logo="https://s2.glbimg.com/_SNU4hVO0E9cVNXK0ShgwJ_E73c=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg" group-title="VARIEDADES",LOADING FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10052806.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10052806.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16671.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16671.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD*" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054541.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054541.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHDᴮᴿ" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047271.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047271.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD H265" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17358.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17358.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD H265*" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054540.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054540.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HD" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2820.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2820.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HD*" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054539.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054539.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HDᴮᴿ" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17163.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17163.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SD" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/204.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/204.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SD*" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054538.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054538.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SDᴮᴿ" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047270.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047270.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Polishop.br" tvg-name="POLISHOP TV" tvg-logo="https://i.imgur.com/f0hwRtr.png" group-title="VARIEDADES",POLISHOP TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17471.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17471.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5907.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5907.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD*" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054287.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054287.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHDᴮᴿ" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047221.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047221.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD H265" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17268.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17268.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD H265*" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054286.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054286.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2747.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2747.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD*" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054285.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054285.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HDᴮᴿ" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17045.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17045.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/76.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/76.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD*" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054284.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054284.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SDᴮᴿ" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047220.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047220.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16739.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16739.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD*" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055066.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055066.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHDᴮᴿ" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047205.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047205.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD H265" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17320.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17320.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD H265*" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055065.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055065.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/79.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/79.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD*" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055064.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055064.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HDᴮᴿ" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17096.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17096.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/78.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/78.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD*" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055063.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055063.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SDᴮᴿ" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047204.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047204.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9646.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9646.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD*" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055055.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055055.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHDᴮᴿ" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047201.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047201.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD H265" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027047.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027047.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD H265*" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055054.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055054.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4775.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4775.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD*" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055053.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055053.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/136.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/136.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD*" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055052.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055052.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="WOOHOO SDᴮᴿ" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047200.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047200.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV FHD" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",TRUTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9641.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9641.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV FHD H265" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",TRUTV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17267.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17267.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV HD" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",TRUTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9640.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9640.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV SD" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",TRUTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/74.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/74.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL FHD*" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055114.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055114.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL FHD H265" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17284.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17284.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL FHD H265*" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055113.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055113.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL HD*" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055112.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055112.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL SD*" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055111.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055111.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="ChefTV.br" tvg-name="CHEF TV" tvg-logo="https://i.imgur.com/zDPxnZ2.png" group-title="VARIEDADES",CHEF TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10041058.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10041058.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TVT" tvg-logo="https://i.imgur.com/u4g6IK5.png" group-title="VARIEDADES",TVT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068468.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068468.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="REDE MOSAICO" tvg-logo="https://i.imgur.com/jm1oFRv.png" group-title="VARIEDADES",REDE MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068463.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068463.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="HELLO TV" tvg-logo="https://i.imgur.com/a05f24i.png" group-title="VARIEDADES",HELLO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068462.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068462.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="INSPIRE" tvg-logo="https://i.imgur.com/9uuDZgn.png" group-title="VARIEDADES",INSPIRE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068459.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068459.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="UP CHANNEL" tvg-logo="https://i.imgur.com/xrwb33s.png" group-title="VARIEDADES",UP CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068458.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068458.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="YES LIFE" tvg-logo="https://i.imgur.com/MdqGKyj.png" group-title="VARIEDADES",YES LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068457.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068457.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="CLUBINHO FUN" tvg-logo="https://i.imgur.com/8lye0UQ.png" group-title="VARIEDADES",CLUBINHO FUN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068456.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068456.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9628.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9628.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD*" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054522.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054522.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHDᴮᴿ" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047265.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047265.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD H265" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17293.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17293.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD H265*" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054521.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054521.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/93.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/93.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD*" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054520.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054520.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HDᴮᴿ" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17116.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17116.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/92.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/92.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD*" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054519.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054519.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SDᴮᴿ" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047264.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047264.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/100.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/100.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD*" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054963.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054963.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HDᴮᴿ" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047348.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047348.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD H265" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17385.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17385.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD H265*" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054962.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054962.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4955.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4955.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD*" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054961.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054961.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/99.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/99.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD*" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054960.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054960.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SDᴮᴿ" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047347.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047347.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5913.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5913.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD*" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054530.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054530.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHDᴮᴿ" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047267.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047267.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD H265" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17353.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17353.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD H265*" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054529.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054529.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4957.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4957.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD*" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054528.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054528.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HDᴮᴿ" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17051.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17051.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/86.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/86.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD*" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054523.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054523.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SDᴮᴿ" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047266.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047266.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9627.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9627.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD*" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054527.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054527.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD H265*" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054526.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054526.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD H265" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17294.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17294.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9626.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9626.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD*" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054525.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054525.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD*" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054524.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054524.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9625.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9625.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9629.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9629.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD*" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054518.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054518.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHDᴮᴿ" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047263.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047263.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD H265" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17352.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17352.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD H265*" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054517.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054517.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9630.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9630.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL HD*" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054516.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054516.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9631.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9631.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SD*" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054515.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054515.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SDᴮᴿ" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047262.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047262.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL FHD" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9635.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9635.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL FHD*" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054447.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054447.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL FHD H265" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17340.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17340.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL FHD H265*" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054446.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054446.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/90.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/90.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL HD*" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054445.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054445.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2779.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2779.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD*" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054444.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054444.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA FHD*" tvg-logo="https://i.imgur.com/Fo0MRfB.png" group-title="MUSICAIS",TRACE BRAZUCA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055118.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055118.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA FHD H265*" tvg-logo="https://i.imgur.com/Fo0MRfB.png" group-title="MUSICAIS",TRACE BRAZUCA FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055117.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055117.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA HD*" tvg-logo="https://i.imgur.com/Fo0MRfB.png" group-title="MUSICAIS",TRACE BRAZUCA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055116.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055116.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA SD*" tvg-logo="https://i.imgur.com/Fo0MRfB.png" group-title="MUSICAIS",TRACE BRAZUCA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055115.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055115.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9645.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9645.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD*" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055070.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055070.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD H265*" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055069.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055069.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD*" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055068.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055068.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 SD*" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055067.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055067.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD H265" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17321.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17321.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2733.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2733.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 SD" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9644.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9644.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGAHITS SD" tvg-logo="https://i.imgur.com/5YaNijo.png" group-title="MUSICAIS",VH1 MEGAHITS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/88.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/88.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="KRONE HIT" tvg-logo="https://i.imgur.com/I7KFxxz.png" group-title="MUSICAIS",KRONE HIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17519.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17519.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="https://i.imgur.com/ljv0Gag.png" group-title="MUSICAIS",M2O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17515.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17515.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5902.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5902.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD*" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055039.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055039.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHDᴮᴿ" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047353.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047353.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17390.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17390.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265*" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055038.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055038.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/116.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/116.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD*" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055037.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055037.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HDᴮᴿ" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5825.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5825.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/117.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/117.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD*" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055036.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055036.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SDᴮᴿ" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047352.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047352.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9623.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9623.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY FHD*" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054553.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054553.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY FHDᴮᴿ" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047275.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047275.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD H265" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17295.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17295.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY FHD H265*" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054552.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054552.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/109.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/109.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY HD*" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054551.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054551.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD²" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17118.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17118.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/108.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/108.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY SD*" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054550.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054550.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY SD°" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY SD°
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035609.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10035609.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGATION DISCOVERY SDᴮᴿ" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047274.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047274.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5536.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5536.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD*" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054875.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054875.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD¹" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10041071.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10041071.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY FHD H265" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17279.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17279.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265*" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054874.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054874.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/133.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/133.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD*" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054873.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054873.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HDᴮᴿ" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17137.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17137.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/132.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/132.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD*" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054872.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054872.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SDᴮᴿ" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047335.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047335.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9608.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9608.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD*" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054867.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054867.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD H265*" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054866.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054866.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD H265" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17312.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17312.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5476.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5476.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD*" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054865.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054865.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HDᴮᴿ" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17166.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17166.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/120.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/120.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD*" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054864.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054864.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SDᴮᴿ" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047333.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047333.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER FHD" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9609.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9609.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER FHD*" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054863.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054863.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER FHDᴮᴿ" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047223.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047223.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER FHD H265" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17311.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17311.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER FHD H265*" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054862.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054862.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER HD" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/127.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/127.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER HD*" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054861.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054861.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER HDᴮᴿ" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17135.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17135.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER SD" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7526.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/7526.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER SD*" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054860.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054860.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="THEATER SDᴮᴿ" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047222.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047222.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHD" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6545.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6545.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHD*" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054855.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054855.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHDᴮᴿ" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047199.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047199.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHD H265" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17309.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17309.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHD H265*" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054854.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054854.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD HD" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/123.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/123.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD HD*" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054853.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054853.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD HD²" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17133.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17133.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SD*" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054852.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054852.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SDᴮᴿ" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047198.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047198.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SD" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7529.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/7529.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6541.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6541.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD*" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054510.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054510.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHDᴮᴿ" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047259.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047259.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD H265" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17350.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17350.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD H265*" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054509.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054509.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/106.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/106.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD*" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054508.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054508.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HDᴮᴿ" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17114.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17114.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/105.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/105.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD*" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054507.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054507.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SDᴮᴿ" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047258.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047258.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9632.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9632.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD*" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054506.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054506.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHDᴮᴿ" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047261.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047261.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD H265" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17351.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17351.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD H265*" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054505.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054505.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/103.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/103.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD*" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054504.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054504.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HDᴮᴿ" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17115.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17115.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/102.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/102.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD*" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054503.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054503.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SDᴮᴿ" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047260.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047260.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD [LEG]*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054932.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054932.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN CHANNEL FHD" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16954.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16954.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN FHD*" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054389.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054389.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN CHANNEL FHD H265" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17269.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17269.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN FHD H265*" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054388.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054388.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN CHANNEL HD" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16953.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16953.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN HD*" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054387.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054387.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN SD*" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054386.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054386.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN CHANNEL SD" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16952.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16952.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5762.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5762.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054557.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054557.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHDᴮᴿ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047279.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047279.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD H265" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17360.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17360.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD H265*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054556.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054556.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/112.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/112.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054555.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054555.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HDᴮᴿ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17119.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17119.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/111.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/111.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054554.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054554.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SDᴮᴿ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047278.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047278.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9619.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9619.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD*" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054561.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054561.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHDᴮᴿ" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047299.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047299.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD H265" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17296.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17296.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD H265*" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054560.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054560.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/115.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/115.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD*" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054559.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054559.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HDᴮᴿ" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17120.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17120.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/114.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/114.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD*" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054558.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054558.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SDᴮᴿ" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047298.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047298.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN DOCS" tvg-logo="https://i.imgur.com/NPbgP5i.png" group-title="DOCUMENTÁRIOS",URBAN DOCS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068449.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068449.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9647.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9647.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD*" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055035.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055035.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD H265" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17389.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17389.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD H265*" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055034.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055034.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5474.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5474.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9607.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9607.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD*" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054883.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054883.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD H265" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17377.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17377.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD H265*" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054882.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054882.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9606.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9606.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD*" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054881.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054881.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5054.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5054.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD*" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054880.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054880.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="CURTA! SDᴮᴿ" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047336.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047336.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4996.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4996.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD*" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055019.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055019.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHDᴮᴿ" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048416.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10048416.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17387.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17387.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265*" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055018.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055018.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5843.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5843.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD*" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055017.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055017.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HDᴮᴿ" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048417.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10048417.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/20.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/20.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD*" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055016.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055016.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027033.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027033.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD*" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054923.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054923.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHDᴮᴿ" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047339.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047339.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD H265" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027036.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027036.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD H265*" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054922.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054922.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027034.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027034.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD*" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054921.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054921.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HDᴮᴿ" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10041070.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10041070.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027035.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027035.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SD*" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054920.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054920.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SDᴮᴿ" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047338.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047338.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS FHD" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5920.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5920.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS FHD*" tvg-logo="" group-title="NOTICIAS",GB NEWS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054755.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054755.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS FHD H265" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17367.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17367.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS FHD H265*" tvg-logo="" group-title="NOTICIAS",GB NEWS FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054754.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054754.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS HD" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2826.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2826.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS HD*" tvg-logo="" group-title="NOTICIAS",GB NEWS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054753.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054753.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS HD²" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17164.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17164.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS SD*" tvg-logo="" group-title="NOTICIAS",GB NEWS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054752.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054752.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS SD" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/18.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/18.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027046.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027046.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD*" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054501.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054501.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5057.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5057.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7097.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/7097.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD H265" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17271.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17271.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD*" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10056229.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10056229.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2776.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2776.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD²" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6272.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/6272.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/23.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/23.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS FHD" tvg-logo="" group-title="NOTICIAS",JOVEN PAN NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069818.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069818.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS HD" tvg-logo="" group-title="NOTICIAS",JOVEN PAN NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069819.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069819.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS SD" tvg-logo="" group-title="NOTICIAS",JOVEN PAN NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069820.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10069820.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068472.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068472.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL" tvg-logo="https://i.imgur.com/dlVzYjF.png" group-title="NOTICIAS",CNN INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068467.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068467.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL" tvg-logo="https://i.imgur.com/WO1u81j.png" group-title="NOTICIAS",CNN ESPANHOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068466.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068466.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="24H NEWS" tvg-logo="https://i.imgur.com/oCeQ4cE.png" group-title="NOTICIAS",24H NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068455.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068455.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV FHD" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027048.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027048.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4885.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4885.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD*" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055023.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055023.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4789.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4789.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4130.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4130.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD*" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054958.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054958.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHDᴮᴿ" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047346.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047346.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD H265" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17384.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17384.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD H265*" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054957.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054957.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5827.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5827.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD*" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054956.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054956.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HDᴮᴿ" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17040.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17040.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/60.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/60.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD*" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054955.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054955.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SDᴮᴿ" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047345.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047345.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD*" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055033.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055033.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD*" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055032.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055032.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5930.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5930.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD*" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054931.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054931.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHDᴮᴿ" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047343.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047343.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17381.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17381.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265*" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054930.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054930.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/63.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/63.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD*" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054929.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054929.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HDᴮᴿ" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17067.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17067.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/62.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/62.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SDᴮᴿ" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047342.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047342.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD*" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054928.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054928.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5926.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5926.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD*" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054871.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054871.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD H265*" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054870.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054870.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD H265" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17313.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17313.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4826.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4826.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD*" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054869.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054869.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HDᴮᴿ" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17063.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17063.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/46.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/46.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD*" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054868.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054868.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SDᴮᴿ" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047334.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047334.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5924.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5924.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD*" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054851.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054851.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHDᴮᴿ" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047330.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047330.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17308.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17308.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265*" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054850.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054850.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2852.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2852.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD*" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054849.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054849.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HDᴮᴿ" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17061.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17061.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/58.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/58.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD*" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054848.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054848.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SDᴮᴿ" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047329.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047329.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5828.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5828.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD*" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054847.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054847.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHDᴮᴿ" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047328.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047328.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD H265" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17307.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17307.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD H265*" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054846.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054846.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5645.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5645.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD*" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054845.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054845.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HDᴮᴿ" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5293.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5293.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/56.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/56.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD*" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054844.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054844.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR SDᴮᴿ" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047327.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047327.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027049.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027049.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD H265" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17278.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17278.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2850.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2850.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD*" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054843.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054843.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5949.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5949.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5918.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5918.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD*" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054627.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054627.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD H265" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17366.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17366.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD H265*" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054626.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054626.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2819.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/2819.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD*" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054625.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054625.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HDᴮᴿ" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17056.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17056.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD*" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054620.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054620.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/44.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/44.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9202.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9202.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD H265" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17272.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17272.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD*" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054624.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054624.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD H265*" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054623.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054623.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5346.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5346.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD*" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054622.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054622.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD²" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10051240.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10051240.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD*" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054621.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054621.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5347.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5347.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5912.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5912.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHDᴮᴿ" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047257.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047257.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD*" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054514.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054514.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD H265*" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054513.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054513.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD H265" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17292.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17292.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4692.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4692.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD*" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054512.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054512.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HDᴮᴿ" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17050.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17050.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD*" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054511.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054511.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4561.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4561.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SDᴮᴿ" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047256.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047256.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5910.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5910.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054500.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054500.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHDᴮᴿ" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047255.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047255.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD H265" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17348.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17348.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD H265*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054499.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054499.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4886.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4886.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054498.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054498.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HDᴮᴿ" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17048.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17048.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054497.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054497.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/50.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/50.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SDᴮᴿ" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047254.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047254.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5911.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5911.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. FHD*" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054496.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054496.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. FHDᴮᴿ" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047253.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047253.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD H265" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17349.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17349.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. FHD H265*" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054495.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054495.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5045.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5045.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. HD*" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054494.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054494.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HDᴮᴿ" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR HDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17157.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17157.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/52.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/52.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. SD*" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054493.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054493.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR. SDᴮᴿ" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047252.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047252.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="https://i.imgur.com/lVGMsUB.png" group-title="INFANTIS",TOONCAST FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027050.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027050.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.imgur.com/lVGMsUB.png" group-title="INFANTIS",TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027051.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027051.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://i.imgur.com/lVGMsUB.png" group-title="INFANTIS",TOONCAST SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/48.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/48.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9643.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9643.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD*" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055084.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055084.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ TIM BUM FHDᴮᴿ" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RÁ TIM BUM FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047209.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047209.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD H265" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17323.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17323.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD H265*" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055083.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055083.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4889.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/4889.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD*" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055082.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055082.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/41.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/41.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD*" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055081.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055081.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ TIM BUM SDᴮᴿ" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RÁ TIM BUM SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047208.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047208.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/pGDfA60.png" group-title="INFANTIS",ZOOMOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5455.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5455.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://i.imgur.com/pGDfA60.png" group-title="INFANTIS",ZOOMOO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17470.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17470.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN KIDS" tvg-logo="https://i.imgur.com/SX0z1xA.png" group-title="INFANTIS",URBAN KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068450.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068450.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://1.bp.blogspot.com/-U3fsGZ-SE_c/WiCugPVFHbI/AAAAAAAABhs/nx9-SDkBz2QokcBhowgqg1V0VbpDJ0yyQCLcBGAs/s1600/cancao%2Bnova.png" group-title="RELIGIOSOS",CANÇÃO NOVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/3290.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/3290.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="https://1.bp.blogspot.com/-U3fsGZ-SE_c/WiCugPVFHbI/AAAAAAAABhs/nx9-SDkBz2QokcBhowgqg1V0VbpDJ0yyQCLcBGAs/s1600/cancao%2Bnova.png" group-title="RELIGIOSOS",CANCAO NOVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/39.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/39.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHD" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11248.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/11248.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHD*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054400.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054400.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHDᴮᴿ" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047246.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047246.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHD H265" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17339.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17339.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHD H265*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054399.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054399.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REVE VIDA HD" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REVE VIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027052.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10027052.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054398.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054398.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redevida.br " tvg-name="REDE VIDA SD" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5326.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5326.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054397.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054397.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SDᴮᴿ" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047245.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047245.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHD*" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055110.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055110.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHD" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16731.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/16731.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHDᴮᴿ" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047215.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047215.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHD H265*" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055109.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055109.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/30.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/30.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD*" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055108.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055108.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9601.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/9601.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD*" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055107.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055107.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SDᴮᴿ" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047214.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047214.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO FHD" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17223.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17223.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO FHD*" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055089.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055089.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO FHDᴮᴿ" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047211.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047211.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO FHD H265" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17283.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17283.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO FHD H265*" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055088.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055088.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17222.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17222.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD*" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055087.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055087.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5528.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5528.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO SD*" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055086.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055086.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO SDᴮᴿ" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SDᴮᴿ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047210.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10047210.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RedeSuperdeTelevisao.br" tvg-name="REDE SUPER" tvg-logo="https://1.bp.blogspot.com/-YLgPjsha_so/WiCujYAMQgI/AAAAAAAABic/WTSE_KVtYcwHVZPkJ31-yzOZm_K5XU-tACLcBGAs/s1600/redesuper.png" group-title="RELIGIOSOS",REDE SUPER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/3009.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/3009.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="REDE SECULO 21" tvg-logo="https://3.bp.blogspot.com/-4njtu0KtPAo/WiCuiwxKWpI/AAAAAAAABiY/ACBuJxZ4zEc_wYSTJWNBYL48YrdP90aqgCLcBGAs/s1600/redes21.png" group-title="RELIGIOSOS",REDE SECULO 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10501.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10501.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="GOSPEL MOVIES TELEVISION" tvg-logo="https://1.bp.blogspot.com/-xwl7gNUuZb4/WiC6cR9JqpI/AAAAAAAABjA/kp58eLyroa4KinQWVzjP-BZ-xgy9ZQ59wCLcBGAs/s1600/gospelmoviestv.png" group-title="RELIGIOSOS",GOSPEL MOVIES TELEVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7120.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/7120.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="PAI ETERNO FHD*" tvg-logo="" group-title="RELIGIOSOS",PAI ETERNO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054488.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054488.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="PAI ETERNO FHD H265*" tvg-logo="" group-title="RELIGIOSOS",PAI ETERNO FHD H265*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054487.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054487.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="PAI ETERNO HD*" tvg-logo="" group-title="RELIGIOSOS",PAI ETERNO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054486.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054486.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="PAI ETERNO SD*" tvg-logo="" group-title="RELIGIOSOS",PAI ETERNO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054485.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054485.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="TV PAI ETERNO" tvg-logo="https://1.bp.blogspot.com/-_s2hWWtHsa8/XQmJqe-QwOI/AAAAAAAADbo/xtf28hoeMC8WOfTI0VwGhdB2kwA9L09DACLcBGAs/s1600/paieterno.png" group-title="RELIGIOSOS",TV PAI ETERNO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17468.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/17468.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS HD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054636.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054636.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS SD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054635.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054635.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://4.bp.blogspot.com/-J5PZsLbzgKI/WiCujergCXI/AAAAAAAABik/O36tiCGRhMYwu0TemqdWyXtGM1D1YjlOQCLcBGAs/s1600/tvevangelizar.png" group-title="RELIGIOSOS",TV EVANGELIZAR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5154.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/5154.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV GIDEOES SD" tvg-logo="https://1.bp.blogspot.com/-5jR61nGcM-s/WiCukwOCGLI/AAAAAAAABis/POopI65Bo7oEmlgsQh4AvHz1-xL7kA-VgCLcBGAs/s1600/tvgideoes.png" group-title="RELIGIOSOS",TV GIDEOES SD
-https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1771625136_b1296000.ts
+https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1771625136_b1296000.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT TV SD*" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="RELIGIOSOS",RIT TV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054396.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054396.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE" tvg-logo="https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/boa_vontade_tv_img_2974.png" group-title="RELIGIOSOS",BOA VONTADE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10045958.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10045958.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE TV SD*" tvg-logo="https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/boa_vontade_tv_img_2974.png" group-title="RELIGIOSOS",BOA VONTADE TV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054959.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054959.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TOP TV" tvg-logo="https://i.imgur.com/e6f2y3I.png" group-title="ABERTOS",TOP TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10033372.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10033372.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="SHOPTIME" tvg-logo="https://i.imgur.com/6EIEbfb.png" group-title="ABERTOS",SHOPTIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035262.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10035262.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Cnt.br" tvg-name="CNT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnt.png" group-title="RELIGIOSOS",CNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035610.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10035610.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV PARAIBA TV CORREIO" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV PARAIBA TV CORREIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035810.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10035810.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="IHOP - INTERNATIONAL HOUSE OF PRAYER" tvg-logo="https://asburyseminary.edu/wp-content/uploads/allen-ihop-logo.png" group-title="RELIGIOSOS",IHOP - INTERNATIONAL HOUSE OF PRAYER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040643.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040643.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="HOPE CHANNEL" tvg-logo="https://www.pinclipart.com/picdir/middle/212-2124941_no-logo-hope-channel-logo-clipart.png" group-title="RELIGIOSOS",HOPE CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040644.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040644.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV GIDEÕES" tvg-logo="https://1.bp.blogspot.com/-5jR61nGcM-s/WiCukwOCGLI/AAAAAAAABis/POopI65Bo7oEmlgsQh4AvHz1-xL7kA-VgCLcBGAs/s1600/tvgideoes.png" group-title="RELIGIOSOS",TV GIDEÕES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040645.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040645.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV FRONTEIRA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d8099da82838b73a3ad4504826890a4.png" group-title="RELIGIOSOS",TV FRONTEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040651.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040651.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV SEMEAR" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53d91293b5c5cef84ac28e3894b4a20e.png" group-title="RELIGIOSOS",TV SEMEAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040654.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040654.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV OURO NEGRO" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc56623a8cbf2f45d462cf93fc540de7.png" group-title="RELIGIOSOS",TV OURO NEGRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040657.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040657.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="CBN TV USA" tvg-logo="https://i.imgur.com/5ktl8fr.png" group-title="RELIGIOSOS",CBN TV USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040658.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040658.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV AVIVANDO NACOES" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0579c7a5ad75d73104244131bfb40921.png" group-title="RELIGIOSOS",TV AVIVANDO NACOES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040660.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040660.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="CANAL PROMESSAS" tvg-logo="https://i.imgur.com/NB9XAh2.png" group-title="RELIGIOSOS",CANAL PROMESSAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040661.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040661.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV MUNDO MAIOR" tvg-logo="https://i.imgur.com/soNbKzq.png" group-title="RELIGIOSOS",TV MUNDO MAIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068470.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068470.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="https://i.imgur.com/xrYfQQt.png" group-title="RELIGIOSOS",REDE GENESIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068469.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068469.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV PROMESSAS" tvg-logo="https://i.imgur.com/iJTVd8C.png" group-title="RELIGIOSOS",TV PROMESSAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068454.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068454.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN SERIES" tvg-logo="https://i.imgur.com/q9gspGR.png" group-title="FILMES E SERIES",URBAN SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068452.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068452.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN MOVIES" tvg-logo="https://i.imgur.com/pzICgZj.png" group-title="FILMES E SERIES",URBAN MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068448.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10068448.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 01" tvg-logo="https://i.imgur.com/aATUQ1w.png" group-title="FILMES E SERIES",CINE SKY 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040586.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040586.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 02" tvg-logo="https://i.imgur.com/YsDNlCf.png" group-title="FILMES E SERIES",CINE SKY 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040587.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040587.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 03" tvg-logo="https://i.imgur.com/4zmdnPd.png" group-title="FILMES E SERIES",CINE SKY 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040588.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040588.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 04" tvg-logo="https://i.imgur.com/bYYFK6x.png" group-title="FILMES E SERIES",CINE SKY 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040589.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040589.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 05" tvg-logo="https://i.imgur.com/6vlgLhZ.png" group-title="FILMES E SERIES",CINE SKY 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040590.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040590.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 07" tvg-logo="https://i.imgur.com/ewj25kK.png" group-title="FILMES E SERIES",CINE SKY 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040592.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040592.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 08" tvg-logo="https://i.imgur.com/2jg8sW2.png" group-title="FILMES E SERIES",CINE SKY 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040593.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040593.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 09" tvg-logo="https://i.imgur.com/jGwdaQw.png" group-title="FILMES E SERIES",CINE SKY 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040594.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10040594.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV ITAPOAN HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV ITAPOAN HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054428.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054428.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV ITAPOAN SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV ITAPOAN SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054427.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054427.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV LITORAL/VALE DO PARAIBA FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV LITORAL/VALE DO PARAIBA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054426.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054426.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV LITORAL/VALE DO PARAIBA HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV LITORAL/VALE DO PARAIBA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054425.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054425.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV LITORAL/VALE DO PARAIBA SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV LITORAL/VALE DO PARAIBA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054424.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054424.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV MANAUS HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV MANAUS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054423.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054423.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV MANAUS SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV MANAUS SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054422.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10054422.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="" tvg-name="RECORDTV PORTUGAL" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/1717.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/1717.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD [LEG]*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055119.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055119.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD [LEG]*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN SD [LEG]*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055024.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://viutudo.com:80/live/wagner63312/fet921851stv/10055024.ts|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 
 
 
