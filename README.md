@@ -5,1668 +5,4035 @@
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_3.m3u8|Origin=https://jovempan.com.br|Referer=https://jovempan.com.br
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AQUECIMENTO BBB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="REALITY",AQUECIMENTO BBB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn1.mg99.xyz/dirceu/102030/895014
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAM PRINCIPAL ESQUENTA" tvg-logo="" group-title="BBB 22",BBB 2022 CAM PRINCIPAL ESQUENTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072482.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM PRINCIPAL 1" tvg-logo="" group-title="BBB 22",BBB 22 CAM PRINCIPAL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072572.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM PRINCIPAL 2" tvg-logo="" group-title="BBB 22",BBB 22 CAM PRINCIPAL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072571.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM PRINCIPAL 3" tvg-logo="" group-title="BBB 22",BBB 22 CAM PRINCIPAL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072570.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 1 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 1 OP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072569.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 1 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 1 OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072568.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 1 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 1 OP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072567.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 2 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 2 OP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072566.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 2 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 2 OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072565.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 2 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 2 OP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072564.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 3 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 3 OP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072563.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 3 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 3 OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072562.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 3 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 3 OP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072561.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 4 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 4 OP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072560.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 4 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 4 OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072559.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 4 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 4 OP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072558.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 5 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 5 OP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072557.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 5 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 5 OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072556.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 5 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 5 OP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072555.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 6 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 6 OP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072554.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 6 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 6 OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072553.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 6 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 6 OP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072552.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 7 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 7 OP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072551.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 7 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 7 OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072550.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 7 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 7 OP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072549.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 8 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 8 OP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072548.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 8 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 8 OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072547.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 8 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 8 OP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072546.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 9 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 9 OP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072545.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 9 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 9 OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072544.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 9 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 9 OP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072543.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 10 OP1" tvg-logo="" group-title="BBB 22",BBB 22 CAM 10 OP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072542.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 10 OP2" tvg-logo="" group-title="BBB 22",BBB 22 CAM 10 OP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072541.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 CAM 10 OP3" tvg-logo="" group-title="BBB 22",BBB 22 CAM 10 OP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10072540.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6283.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047306.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054706.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD¹" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035331.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD H265" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17298.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2821.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047305.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054705.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP HD°" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP HD°
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035332.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4913.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SD*" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054704.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP SDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047304.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5789.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054724.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ FHD H265" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17299.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/345.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054723.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ HDᴮᴿ" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2823.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ SD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4860.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GB RJ SD*" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="GLOBOS",GB RJ SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054722.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4801.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054758.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS FHD H265" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027000.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5556.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054757.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS HD²" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7171.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/341.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GB MINAS SD*" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="GLOBOS",GB MINAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054756.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9598.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054791.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4893.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054790.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD²" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6555.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA SD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2829.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA SD*" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="GLOBOS",GB BRASILIA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054789.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5407.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054751.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE FHD H265" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17275.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE HD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5292.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE HD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054750.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE SD" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5782.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB NORDESTE SD*" tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="GLOBOS",GB NORDESTE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054749.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS FHD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9597.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS FHD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054788.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS H265" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027001.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5595.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054787.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS HD²" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9002.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS SD" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4864.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CAMPINAS SD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CAMPINAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054786.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRAO PRETO FHD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRAO PRETO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9824.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO FHD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054782.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRAO PRETO FHD H265" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRAO PRETO FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17273.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRAO PRETO HD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRAO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6558.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO HD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054781.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO SD*" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054780.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.imgur.com/fi5xkF1.png" group-title="GLOBOS",GB EPTV RIBEIRÃO PRETO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4863.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV SAO CARLOS FHD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV SAO CARLOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050089.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS FHD*" tvg-logo="https://i.imgur.com/BmiSnNM.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054785.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV SAO CARLOS HD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV SAO CARLOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050088.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS HD*" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054784.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS SD" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5549.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV CENTRAL SAO CARLOS SD*" tvg-logo="https://i.imgur.com/uvSuNCs.png" group-title="GLOBOS",GB EPTV CENTRAL SAO CARLOS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054783.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB EPTV ARARAQUARA SD" tvg-logo="https://i.imgur.com/GzUN9fv.png" group-title="GLOBOS",GB EPTV ARARAQUARA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6557.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES HD" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049608.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES FHD*" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054685.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES FHD" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049607.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES HD*" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054684.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV DIARIO MOGI DAS CRUZES SD*" tvg-logo="https://i.imgur.com/oUjhZMC.png" group-title="GLOBOS",GB TV DIARIO MOGI DAS CRUZES SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054683.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO FHD" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9586.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO FHD*" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054646.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO HD" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9599.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO HD*" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054645.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO SD" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4856.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM S. J. RIO PRETO SD*" tvg-logo="https://i.imgur.com/ztKzqAr.png" group-title="GLOBOS",GB TV TEM S. J. RIO PRETO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054644.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA FHD" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049102.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA FHD*" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054649.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA HD" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049101.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA HD*" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054648.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA SD" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049100.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM ITAPETININGA SD*" tvg-logo="https://i.imgur.com/XnbsTh8.png" group-title="GLOBOS",GB TV TEM ITAPETININGA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054647.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU FHD" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050085.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU FHD*" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054652.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU HD*" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054651.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU HD" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050084.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU SD" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4857.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM BAURU SD*" tvg-logo="https://i.imgur.com/VIGjba1.png" group-title="GLOBOS",GB TV TEM BAURU SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054650.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA FHD" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050087.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA FHD*" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054643.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA HD" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050086.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA HD*" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054642.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA SD" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/317.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TEM SOROCABA SD*" tvg-logo="https://i.imgur.com/QkfZBTm.png" group-title="GLOBOS",GB TV TEM SOROCABA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054641.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE FHD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049117.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE FHD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054634.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE HD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049116.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE HD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054633.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE SD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049115.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA TAUBATE SD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA TAUBATE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054632.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA P. PRUDENTE FHD" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA P. PRUDENTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049108.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA PRESIDENTE PRUDENTE FHD*" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA PRESIDENTE PRUDENTE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054682.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA P. PRUDENTE HD" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA P. PRUDENTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049107.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA PRESIDENTE PRUDENTE HD*" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA PRESIDENTE PRUDENTE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054681.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA P. PRUDENTE SD" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA P. PRUDENTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049106.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV FRONTEIRA PRESIDENTE PRUDENTE SD*" tvg-logo="https://i.imgur.com/QNz7aBR.png" group-title="GLOBOS",GB TV FRONTEIRA PRESIDENTE PRUDENTE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054680.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC BLUMENAU FHD" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC BLUMENAU FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11228.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV BLUMENAU FHD*" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC TV BLUMENAU FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054748.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC BLUMENAU HD" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC BLUMENAU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11227.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV BLUMENAU HD*" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC TV BLUMENAU HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054747.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV BLUMENAU SD*" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC TV BLUMENAU SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054746.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC BLUMENAU SD" tvg-logo="https://i.imgur.com/xWt4jME.png" group-title="GLOBOS",GB NSC BLUMENAU SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11226.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO FHD*" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054745.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO HD*" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054744.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049032.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO SD*" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054743.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO HD" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049031.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC TV CHAPECO FHD" tvg-logo="https://i.imgur.com/qwOuyhD.png" group-title="GLOBOS",GB NSC TV CHAPECO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049030.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CRICIUMA FHD" tvg-logo="https://i.imgur.com/TReP1JD.png" group-title="GLOBOS",GB NSC TV CRICIUMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049050.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CRICIUMA HD" tvg-logo="https://i.imgur.com/TReP1JD.png" group-title="GLOBOS",GB NSC TV CRICIUMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049049.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CRICIUMA SD" tvg-logo="https://i.imgur.com/TReP1JD.png" group-title="GLOBOS",GB NSC TV CRICIUMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049048.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CENTRO-OESTE FHD" tvg-logo="https://i.imgur.com/aKD6sgd.png" group-title="GLOBOS",GB NSC TV CENTRO-OESTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049047.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CENTRO-OESTE HD" tvg-logo="https://i.imgur.com/aKD6sgd.png" group-title="GLOBOS",GB NSC TV CENTRO-OESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049046.ts
+#EXTINF:-1 tvg-id="Globonscbluemenau.br" tvg-name="GB NSC TV CENTRO-OESTE SD" tvg-logo="https://i.imgur.com/aKD6sgd.png" group-title="GLOBOS",GB NSC TV CENTRO-OESTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049045.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS FHD" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9596.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS FHD*" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054742.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS HD" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6269.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS HD*" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054741.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS SD" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6559.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC FLORIANOPOLIS SD*" tvg-logo="https://i.imgur.com/XQH5nQb.png" group-title="GLOBOS",GB NSC FLORIANOPOLIS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054740.ts
+#EXTINF:-1 tvg-id="Globonscjoinville.br " tvg-name="GB NSC JOINVILLE FHD" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11222.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC JOINVILLE FHD*" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054739.ts
+#EXTINF:-1 tvg-id="Globonscjoinville.br" tvg-name="GB NSC JOINVILLE HD" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11221.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC JOINVILLE HD*" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054738.ts
+#EXTINF:-1 tvg-id="Globonscjoinville.br" tvg-name="GB NSC JOINVILLE SD" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11220.ts
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GB NSC JOINVILLE SD*" tvg-logo="https://i.imgur.com/6UlqHRe.png" group-title="GLOBOS",GB NSC JOINVILLE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054737.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE FHD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PORTO ALEGRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9595.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PORTO ALEGRE FHD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PORTO ALEGRE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054730.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE FHD H265" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PORTO ALEGRE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027002.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2777.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PORTO ALEGRE HD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PORTO ALEGRE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054729.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PORTO ALEGRE SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PORTO ALEGRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/321.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PORTO ALEGRE SD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PORTO ALEGRE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054728.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br " tvg-name="GB RBS CAXIAS DO SUL FHD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS CAXIAS DO SUL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11225.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV CAXIAS DO SUL FHD*" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB RBS TV CAXIAS DO SUL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054736.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS CAXIAS DO SUL HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS CAXIAS DO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11224.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV CAXIAS DO SUL HD*" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB RBS TV CAXIAS DO SUL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054735.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS CAXIAS DO SUL SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS CAXIAS DO SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11223.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV CAXIAS DO SUL SD*" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB RBS TV CAXIAS DO SUL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054734.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS FHD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11219.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS FHD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054733.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11218.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS HD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054732.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11217.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS PELOTAS SD*" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS PELOTAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054731.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV SANTA MARIA FHD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV SANTA MARIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049044.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV SANTA MARIA HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV SANTA MARIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049043.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV SANTA MARIA SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV SANTA MARIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049042.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9521.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA FHD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054721.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054720.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6561.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4793.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CURITIBA SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CURITIBA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054719.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049029.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049028.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049027.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU FHD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054718.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054717.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC FOZ DO IGUACU SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC FOZ DO IGUACU SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054716.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035641.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035642.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035643.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA FHD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054715.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054714.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC MARINGA SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC MARINGA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054713.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049041.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049040.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049039.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA FHD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054709.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054708.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PONTA GROSSA SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PONTA GROSSA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054707.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049035.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049034.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049033.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI FHD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054712.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI HD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054711.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC TV PARANAVAI SD*" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC TV PARANAVAI SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054710.ts
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA GOIANIA FHD" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA GOIANIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9594.ts
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA FHD*" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054703.ts
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA GOIANIA HD" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA GOIANIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6562.ts
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA HD*" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054702.ts
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA GOIANIA SD" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA GOIANIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6563.ts
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GB TV ANHANGUERA SD*" tvg-logo="https://i.imgur.com/yiYVELk.png" group-title="GLOBOS",GB TV ANHANGUERA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054701.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS FHD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11234.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054764.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11233.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054763.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11232.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV GRANDE MINAS SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV GRANDE MINAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054762.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES FHD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11237.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11236.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11235.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054767.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054766.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV DOS VALES SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV DOS VALES SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054765.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO ARAXA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO ARAXA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049059.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO ARAXA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO ARAXA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049058.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO ARAXA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO ARAXA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049057.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV ARAXÁ FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ARAXÁ FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054773.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV ARAXÁ HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ARAXÁ HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054772.ts
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GB INTER TV ARAXÁ SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ARAXÁ SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054771.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO JUIZ DE FORA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO JUIZ DE FORA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049056.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO JUIZ DE FORA FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO JUIZ DE FORA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054670.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO JUIZ DE FORA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO JUIZ DE FORA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054669.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO JUIZ DE FORA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO JUIZ DE FORA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049055.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO JUIZ DE FORA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO JUIZ DE FORA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054668.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRAÇÃO JUIZ DE FORA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRAÇÃO JUIZ DE FORA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049054.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERLANDIA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERLANDIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049114.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERLANDIA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERLANDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049113.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERLANDIA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERLANDIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049112.ts
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049062.ts
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049061.ts
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049060.ts
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054779.ts
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054778.ts
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GB EPTV SUL DE MINAS SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB EPTV SUL DE MINAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054777.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS FHD" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050083.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS FHD*" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054640.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS HD" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050082.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS HD*" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054639.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS SD*" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054638.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV TRIBUNA SANTOS SD" tvg-logo="https://i.imgur.com/132awHQ.png" group-title="GLOBOS",GB TV TRIBUNA SANTOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4859.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS SD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6552.ts
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL FHD" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11213.ts
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL FHD*" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054658.ts
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL HD" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11212.ts
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL HD*" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054657.ts
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL SD*" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054656.ts
+#EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="GB TV RIO SUL SD" tvg-logo="https://i.imgur.com/CN5sQFQ.png" group-title="GLOBOS",GB TV RIO SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11211.ts
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL FHD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11240.ts
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11239.ts
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11238.ts
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054776.ts
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054775.ts
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GB INTER TV ALTO LITORAL SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV ALTO LITORAL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054774.ts
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR FHD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11231.ts
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11230.ts
+#EXTINF:-1 tvg-id="Intertvserramar.br " tvg-name="GB INTER TV SERRA MAR SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11229.ts
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054761.ts
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054760.ts
+#EXTINF:-1 tvg-id="Intertvserramar.br" tvg-name="GB INTER TV SERRA MAR SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV SERRA MAR SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054759.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA FHD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITORIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048874.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA FHD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITORIA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054673.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITÓRIA HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITÓRIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048873.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA HD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITORIA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054672.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITORIA SD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITORIA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054671.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA VITÓRIA SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA VITÓRIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9516.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL ES FHD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL ES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9515.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL ES HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9514.ts
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL FHD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054770.ts
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL HD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054769.ts
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL SD*" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054768.ts
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL SD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5780.ts
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO FHD" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11216.ts
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO FHD*" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054694.ts
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO HD*" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054693.ts
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO HD" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11215.ts
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO SD" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11214.ts
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="GB TV CABO BRANCO SD*" tvg-logo="https://i.imgur.com/vabu7F2.png" group-title="GLOBOS",GB TV CABO BRANCO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054692.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA FHD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9593.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA HD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5853.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5777.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA FHD*" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054697.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA HD*" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054696.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV BAHIA SD*" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV BAHIA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054695.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SANTA CRUZ FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SANTA CRUZ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11210.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SANTA CRUZ HD" tvg-logo="https://i.imgur.com/kQpiuPs.png" group-title="GLOBOS",GB TV SANTA CRUZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11209.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SANTA CRUZ SD" tvg-logo="https://i.imgur.com/kQpiuPs.png" group-title="GLOBOS",GB TV SANTA CRUZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11208.ts
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS FHD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9592.ts
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS FHD*" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054664.ts
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS HD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9591.ts
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS HD*" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054663.ts
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS SD*" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054662.ts
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE SAO LUIS SD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE SAO LUIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9590.ts
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9512.ts
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054655.ts
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9511.ts
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054654.ts
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054653.ts
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="GB TV SERGIPE SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV SERGIPE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9513.ts
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS FHD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9655.ts
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS FHD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054679.ts
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9654.ts
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS HD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054678.ts
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9656.ts
+#EXTINF:-1 tvg-id="Tvgazetaal.br" tvg-name="GB TV GAZETA ALAGOAS SD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA ALAGOAS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054677.ts
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9518.ts
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054688.ts
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9517.ts
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054687.ts
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9519.ts
+#EXTINF:-1 tvg-id="Redeclube.br" tvg-name="GB TV CLUBE TERESINA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CLUBE TERESINA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054686.ts
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA CAMPO GRANDE FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA CAMPO GRANDE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9589.ts
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054661.ts
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA CAMPO GRANDE HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA CAMPO GRANDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9588.ts
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054660.ts
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054659.ts
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GB TV MORENA CAMPO GRANDE SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV MORENA CAMPO GRANDE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9587.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL FHD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049053.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL FHD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054676.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL HD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049052.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL HD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054675.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL SD*" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054674.ts
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GB TV GAZETA SUL SD" tvg-logo="https://i.imgur.com/3u7HIxi.png" group-title="GLOBOS",GB TV GAZETA SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049051.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049038.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049037.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049036.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054700.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054699.ts
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GB TV ASA BRANCA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV ASA BRANCA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054698.ts
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA CUIABA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA CUIABA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049123.ts
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA CUIABA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA CUIABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049122.ts
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA CUIABA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA CUIABA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6564.ts
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA FHD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054691.ts
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA HD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054690.ts
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GB TV CENTRO AMERICA SD*" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV CENTRO AMERICA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054689.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA MANAUS FHD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MANAUS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049119.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS FHD*" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054727.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA MANAUS HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049118.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS HD*" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054726.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS SD*" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054725.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB REDE AMAZONICA MANAUS  SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB REDE AMAZONICA MANAUS  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5779.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA FHD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA BOA VISTA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049105.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA BOA VISTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049104.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA BOA VISTA SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA BOA VISTA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049103.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO FHD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA PORTO VELHO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049111.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA PORTO VELHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049110.ts
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GB TV REDE AMAZONICA PORTO VELHO SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA PORTO VELHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049109.ts
+#EXTINF:-1 tvg-id="RedeamazonicaRioBranco.br" tvg-name="GB TV REDE AMAZONICA RIO BRANCO" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA RIO BRANCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049610.ts
+#EXTINF:-1 tvg-id="RedeamazonicaRioBranco.br" tvg-name="GB TV REDE AMAZONICA RIO BRANCO FHD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA RIO BRANCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049609.ts
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM FHD" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049121.ts
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM FHD*" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054667.ts
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM HD" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049120.ts
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM HD*" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054666.ts
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM SD*" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054665.ts
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GB TV LIBERAL BELEM SD" tvg-logo="https://i.imgur.com/JEHz9ku.png" group-title="GLOBOS",GB TV LIBERAL BELEM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5778.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FORTALEZA FHD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES FORTALEZA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049125.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FHD*" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054631.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FHD H265*" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054630.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES FORTALEZA HD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049124.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES HD*" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054629.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB VERDES MARES FHD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB VERDES MARES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11250.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB VERDES MARES SD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB VERDES MARES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5776.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES SD*" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054628.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB PETROLINA TV GRANDE RIO" tvg-logo="https://i.imgur.com/ZmKuqQk.png" group-title="GLOBOS",GB PETROLINA TV GRANDE RIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19487.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PASSO FUNDO FHD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PASSO FUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050095.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PASSO FUNDO HD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PASSO FUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050094.ts
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GB RBS TV PASSO FUNDO SD" tvg-logo="https://i.imgur.com/mNSkgKO.png" group-title="GLOBOS",GB RBS TV PASSO FUNDO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050093.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC LONDRINA FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC LONDRINA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050092.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC LONDRINA HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC LONDRINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050091.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC LONDRINA SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC LONDRINA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050090.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S. J. DOS CAMPOS FHD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S. J. DOS CAMPOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050081.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS FHD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054637.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S. J. DOS CAMPOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050080.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES CARIRI FHD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES CARIRI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050079.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES CARIRI HD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES CARIRI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050078.ts
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GB TV VERDES MARES CARIRI SD" tvg-logo="https://i.imgur.com/9yIWuTJ.png" group-title="GLOBOS",GB TV VERDES MARES CARIRI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050077.ts
+#EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA FHD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MACAPA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050076.ts
+#EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA HD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MACAPA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050075.ts
+#EXTINF:-1 tvg-id="RedeamazonicaAmapa.br" tvg-name="GB TV REDE AMAZONICA MACAPA SD" tvg-logo="https://i.imgur.com/3Pflt8g.png" group-title="GLOBOS",GB TV REDE AMAZONICA MACAPA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050074.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CASCAVEL FHD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CASCAVEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050073.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CASCAVEL HD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CASCAVEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050072.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GB RPC CASCAVEL SD" tvg-logo="https://i.imgur.com/qFk0mE0.png" group-title="GLOBOS",GB RPC CASCAVEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050071.ts
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL FHD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050070.ts
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GB INTER TV CABUGI NATAL HD" tvg-logo="https://i.imgur.com/pIPTD7t.png" group-title="GLOBOS",GB INTER TV CABUGI NATAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050069.ts
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE COCAIS FHD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE COCAIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050068.ts
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE COCAIS HD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE COCAIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050067.ts
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GB TV MIRANTE COCAIS SD" tvg-logo="https://i.imgur.com/Lbt5c3z.png" group-title="GLOBOS",GB TV MIRANTE COCAIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050066.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERABA FHD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERABA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050065.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050064.ts
+#EXTINF:-1 tvg-id="Tvintegracaouberlandia.br" tvg-name="GB TV INTEGRACAO UBERABA SD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB TV INTEGRACAO UBERABA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050063.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUBAE FHD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUBAE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050062.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUBAE HD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUBAE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050061.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUBAE SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUBAE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050060.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUDOESTE FHD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUDOESTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050059.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUDOESTE HD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUDOESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050058.ts
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GB TV SUDOESTE SD" tvg-logo="https://i.imgur.com/4wDvjvQ.png" group-title="GLOBOS",GB TV SUDOESTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050057.ts
+#EXTINF:-1 tvg-id="TVGlobo.us" tvg-name="GB USA HD" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6500.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6306.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD*" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054410.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD²" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10036716.ts
+#EXTINF:-1 tvg-id="TVCidade.br" tvg-name="RECORDTV TV CIDADE FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV TV CIDADE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055102.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP FHD H265" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17023.ts
+#EXTINF:-1 tvg-id="TVCidade.br" tvg-name="RECORDTV TV CIDADE FHD H265*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV TV CIDADE FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055101.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/336.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD*" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054409.ts
+#EXTINF:-1 tvg-id="TVCidade.br" tvg-name="RECORDTV TV CIDADE HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV TV CIDADE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055100.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD²" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/8939.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD³" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5098.ts
+#EXTINF:-1 tvg-id="TVCidade.br" tvg-name="RECORDTV TV CIDADE SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV TV CIDADE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055099.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/337.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD*" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054408.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV SDᴮᴿ" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047247.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD²" tvg-logo="https://i.imgur.com/ujrAgNK.png" group-title="RECORDTV",RECORDTV SP SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10036717.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR SP FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054431.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054430.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR SP SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054429.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SAO JOSE DO RIO PRETO FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV SAO JOSE DO RIO PRETO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054413.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SAO JOSE DO RIO PRETO HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV SAO JOSE DO RIO PRETO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054412.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SAO JOSE DO RIO PRETO SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV SAO JOSE DO RIO PRETO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054411.ts
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ HD" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027008.ts
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ HD*" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054418.ts
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ SD" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027009.ts
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RECORDTV RJ SD*" tvg-logo="https://i.imgur.com/9BRksxz.png" group-title="RECORDTV",RECORDTV RJ SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054417.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR RJ FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054434.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR RJ HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054433.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV INTERIOR RJ SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV INTERIOR RJ SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054432.ts
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG FHD*" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054421.ts
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG HD" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9821.ts
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG HD*" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054420.ts
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG SD" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9822.ts
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORDTV MG SD*" tvg-logo="https://i.imgur.com/AZcyUn3.png" group-title="RECORDTV",RECORDTV MG SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054419.ts
+#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO FHD*" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054437.ts
+#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO HD" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027007.ts
+#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO HD*" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054436.ts
+#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO SD" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027006.ts
+#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORDTV GO SD*" tvg-logo="https://i.imgur.com/RWWsT5x.png" group-title="RECORDTV",RECORDTV GO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054435.ts
+#EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF HD" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10640.ts
+#EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF HD*" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054439.ts
+#EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF SD" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10636.ts
+#EXTINF:-1 tvg-id="RecordBrasilia.br" tvg-name="RECORDTV DF SD*" tvg-logo="https://i.imgur.com/SC9pxyZ.png" group-title="RECORDTV",RECORDTV DF SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054438.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RIC MARINGA" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RIC MARINGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10050303.ts
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054416.ts
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS HD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10642.ts
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054415.ts
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054414.ts
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORDTV RS SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10643.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV CAMPINAS SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027003.ts
+#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BAHIA FHD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BAHIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10041072.ts
+#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BA HD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19413.ts
+#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV BA SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19414.ts
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054442.ts
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM HD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027004.ts
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054441.ts
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM SD" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027005.ts
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="RECORDTV BELEM SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV BELEM SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054440.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV RN TV TROPICAL" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV RN TV TROPICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027012.ts
+#EXTINF:-1 tvg-id="RecordTVBahia" tvg-name="RECORDTV ATALAIA" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV ATALAIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040632.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6285.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD*" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SP FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055015.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHDᴮᴿ" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10036718.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD H265" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17316.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4895.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD*" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055014.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HDᴮᴿ" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9032.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4132.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD*" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055009.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SDᴮᴿ" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047349.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS SD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027013.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",BAND CAMPINAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10028093.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2957.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD*" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SP FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054395.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHDᴮᴿ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SP FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047242.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD H265" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4896.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/330.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD*" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054394.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HDᴮᴿ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16849.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4079.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD*" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054393.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SDᴮᴿ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047241.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU BAHIA" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TV ARATU BAHIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/331.ts
+#EXTINF:-1 tvg-id="Stbrio.br" tvg-name="SBT RJ" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027018.ts
+#EXTINF:-1 tvg-id="Stbrio.br" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049869.ts
+#EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="SBT PR FHD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT PR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049868.ts
+#EXTINF:-1 tvg-id="Rede Massa.br" tvg-name="SBT PR" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT PR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049867.ts
+#EXTINF:-1 tvg-id="TVTambau.br" tvg-name="SBT TAMBAU PARAIBA" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TAMBAU PARAIBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027016.ts
+#EXTINF:-1 tvg-id="TVAlterosa.br" tvg-name="SBT TV ALTEROSA MG" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TV ALTEROSA MG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027017.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MA" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT MA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/20529.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV JANGADEIRO CE HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT TV JANGADEIRO CE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19714.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! FHD" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4898.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! FHDᴮᴿ" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047244.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! FHD¹" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027020.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! FHD H265" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17270.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/335.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD²" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5142.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD³" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17140.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! SD" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5143.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! SDᴮᴿ" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV! SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047243.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV SP FHD*" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV SP FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054403.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV SP HD*" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV SP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054402.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV SP SD*" tvg-logo="https://i.imgur.com/jsCxRyB.png" group-title="ABERTOS",REDETV SP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054401.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027021.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054887.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD H265" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17265.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD H265*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054886.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027022.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054885.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054884.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",TV CULTURA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2741.ts
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9616.ts
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD*" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054802.ts
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD H265" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17369.ts
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD H265*" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054801.ts
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9615.ts
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD*" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054800.ts
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5600.ts
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD*" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054799.ts
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SDᴮᴿ" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",FUTURA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047308.ts
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP FHD" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027023.ts
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA FHDᴮᴿ" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047213.ts
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4914.ts
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP SD" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027024.ts
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SDᴮᴿ" tvg-logo="https://i.imgur.com/puTT73O.png" group-title="ABERTOS",TV GAZETA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047212.ts
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA FHD" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FORTALEZA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17262.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV DIARIO FHD*" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055098.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV DIARIO FHD H265*" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055097.ts
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA HD" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17263.ts
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO HD*" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055096.ts
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO SD*" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055095.ts
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA SD" tvg-logo="https://i.imgur.com/gI6xJQ7.png" group-title="ABERTOS",TV DIARIO FORTALEZA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19716.ts
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL FHD*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055106.ts
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL FHD H265*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055105.ts
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055104.ts
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055103.ts
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",TV BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/311.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHDᴮᴿ" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048418.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHD*" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054942.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHD H265*" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054941.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD*" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054940.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD*" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054939.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="https://i.imgur.com/hVdxRVG.png" group-title="ABERTOS",CANAL DO BOI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10667.ts
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://i.imgur.com/n8IaDTk.png" group-title="ABERTOS",CANAL RURAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10666.ts
+#EXTINF:-1 tvg-id="Terraviva.br " tvg-name="TERRA VIVA SD" tvg-logo="https://i.imgur.com/cXcAe0X.png" group-title="ABERTOS",TERRA VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/313.ts
+#EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS FHD" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048876.ts
+#EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS FHD*" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055047.ts
+#EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS FHD H265*" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055046.ts
+#EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS HD*" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055045.ts
+#EXTINF:-1 tvg-id="Agoramais.br" tvg-name="AGROMAIS SD*" tvg-logo="https://i.imgur.com/fgq3f31.png" group-title="ABERTOS",AGROMAIS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055044.ts
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA SD" tvg-logo="https://i.imgur.com/Cij9z59.png" group-title="ABERTOS",TV CAMARA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9603.ts
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD*" tvg-logo="https://i.imgur.com/bfPF8YG.png" group-title="ABERTOS",TV JUSTICA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055090.ts
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="https://i.imgur.com/bfPF8YG.png" group-title="ABERTOS",TV JUSTICA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5495.ts
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD*" tvg-logo="https://i.imgur.com/dKHM5oa.png" group-title="ABERTOS",TV SENADO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055080.ts
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD" tvg-logo="https://i.imgur.com/dKHM5oa.png" group-title="ABERTOS",TV SENADO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9602.ts
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV O POVO SD*" tvg-logo="https://i.imgur.com/VJbgxbW.png" group-title="ABERTOS",TV O POVO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055085.ts
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV O POVO CEARA" tvg-logo="https://i.imgur.com/VJbgxbW.png" group-title="ABERTOS",TV O POVO CEARA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19715.ts
+#EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIAO FHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="ABERTOS",TV UNIAO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055079.ts
+#EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIAO FHD H265*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="ABERTOS",TV UNIAO FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055078.ts
+#EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIAO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="ABERTOS",TV UNIAO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055077.ts
+#EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIAO SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png" group-title="ABERTOS",TV UNIAO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055076.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBR SD*" tvg-logo="" group-title="ABERTOS",NBR SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054502.ts
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="SHOPTIME SD*" tvg-logo="https://i.imgur.com/6EIEbfb.png" group-title="ABERTOS",SHOPTIME SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054390.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV ASSEMBLEIA" tvg-logo="https://i.imgur.com/6r7nE8t.png" group-title="ABERTOS",TV ASSEMBLEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068473.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV JOCKEY" tvg-logo="https://i.imgur.com/CtWY8iT.png" group-title="ABERTOS",TV JOCKEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068471.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TELESUR" tvg-logo="https://i.imgur.com/0IVvUgm.png" group-title="ABERTOS",TELESUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068465.ts
+#EXTINF:-1 tvg-id="" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/3fwlRmX.png" group-title="ABERTOS",SESC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068464.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN TV" tvg-logo="https://i.imgur.com/8yuZBex.png" group-title="ABERTOS",URBAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068451.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="COM BRASIL SD" tvg-logo="https://i.imgur.com/m4iSuAz.png" group-title="ABERTOS",COM BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068447.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4797.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD*" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054370.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHDᴮᴿ" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5784.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17335.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265*" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054369.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/177.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD*" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054368.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HDᴮᴿ" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4899.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD³" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16847.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/176.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD*" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",SPORTV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054367.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5940.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD*" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054378.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17337.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265*" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054377.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/172.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD*" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054376.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4900.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/171.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD*" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",SPORTV 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054375.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6554.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD*" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054374.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17336.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265*" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054373.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/167.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HDᴮᴿ" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17104.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD*" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054372.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD*" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054371.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/166.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5775.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD²" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6288.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD*" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054806.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD H265" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17300.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD H265*" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054805.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/164.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD*" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054804.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HDᴮᴿ" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/8992.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD³" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2835.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/163.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD*" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054803.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SDᴮᴿ" tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="ESPORTES",FOX SPORTS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047310.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2976.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD*" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054810.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17301.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265*" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054809.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/161.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD*" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054808.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17143.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/160.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD*" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054807.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="ESPORTES",FOX SPORTS 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047309.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6286.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD*" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054832.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHDᴮᴿ" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047321.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD H265" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17304.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD H265*" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054831.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/154.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD*" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054830.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17131.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5371.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD*" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054829.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SDᴮᴿ" tvg-logo="https://i.imgur.com/ADufAN0.png" group-title="ESPORTES",ESPN SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047320.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9610.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD*" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054838.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHDᴮᴿ" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047325.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD H265" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17376.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD H265*" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054837.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/148.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD*" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054836.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4962.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/153.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD*" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054835.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/HBenz7T.png" group-title="ESPORTES",ESPN 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047324.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6287.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD*" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054828.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD²" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10038813.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD H265" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17305.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD H265*" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054834.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/151.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD*" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054827.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HDᴮᴿ" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2843.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/150.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD*" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054826.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SDᴮᴿ" tvg-logo="https://i.imgur.com/Ccro12G.png" group-title="ESPORTES",ESPN BRASIL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047323.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9611.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD*" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054825.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17375.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265*" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054833.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5396.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD*" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054824.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HDᴮᴿ" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17092.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5397.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD*" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054823.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA SDᴮᴿ" tvg-logo="https://i.imgur.com/akovoxO.png" group-title="ESPORTES",ESPN EXTRA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047322.ts
+#EXTINF:-1 tvg-id="Bandsports.br " tvg-name="BAND SPORTS FHD" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9604.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD*" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055013.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17386.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD H265*" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055012.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/155.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD*" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055011.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HDᴮᴿ" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17138.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD*" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055010.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/156.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9633.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD*" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054492.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHDᴮᴿ" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047251.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD H265" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17347.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD H265*" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054491.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/141.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD*" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054490.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD*" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054489.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/140.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SDᴮᴿ" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",OFF SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047250.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9612.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD*" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054818.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17302.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265*" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054817.ts
+#EXTINF:-1 tvg-id="Fishtv.br " tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5947.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD*" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054816.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/138.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD*" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054815.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SDᴮᴿ" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",FISH TV SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047319.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5369.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD*" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054919.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD²" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17030.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD H265" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17379.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD H265*" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054918.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/201.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD*" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054917.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD²" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4911.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/202.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD*" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054916.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE SDᴮᴿ" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",COMBATE SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047337.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5761.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16704.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054470.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17342.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054469.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/200.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054468.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4905.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17107.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055200.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054467.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/179.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE CLUBES SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055199.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2961.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054466.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17345.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054476.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/197.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054465.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4902.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2788.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055198.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055197.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054464.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/198.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6279.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054463.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17344.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054475.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/196.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054462.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4903.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17110.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055196.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054461.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/195.ts
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 3 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055195.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6280.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054460.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17291.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054474.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/193.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054459.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4904.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17109.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055194.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054458.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2786.ts
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 4 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055193.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5718.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054457.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17343.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054473.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/190.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054456.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17108.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD³" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5717.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055192.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054455.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/189.ts
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 5 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055191.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6281.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054454.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17290.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054472.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4991.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054453.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17155.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055190.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054452.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/187.ts
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 6 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055189.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6282.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054451.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17289.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054471.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4990.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054450.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD²" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17154.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055188.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054449.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/185.ts
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 7 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055187.ts
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD*" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 8 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054448.ts
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/8944.ts
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SDᴮᴿ" tvg-logo="https://i.imgur.com/CAiOuC7.png" group-title="PREMIERE ESPORTES",PREMIERE 8 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055186.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068908.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1*" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 1*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068955.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068956.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 2*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069193.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068957.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 3*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069194.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",STAR+ 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068958.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 4*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069195.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069196.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="ESPORTES ESPECIAIS",STAR+ 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069197.ts
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 1" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068959.ts
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 2" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068960.ts
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 3" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068961.ts
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 4" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068962.ts
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 5" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068963.ts
+#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 6" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="ESPORTES ESPECIAIS",HBO MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068964.ts
+#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 1" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068968.ts
+#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068969.ts
+#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068970.ts
+#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",FUTEBOL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068971.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2 HD" tvg-logo="https://i.imgur.com/2pHJ2L1.png" group-title="ESPORTES ESPECIAIS",LIGA FUTSAL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055535.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD" tvg-logo="https://i.imgur.com/2pHJ2L1.png" group-title="ESPORTES ESPECIAIS",LIGA FUTSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055534.ts
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="FURACAO TV" tvg-logo="https://i.imgur.com/VrykMfJ.png" group-title="ESPORTES ESPECIAIS",FURACAO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054895.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 FHD" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049950.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 FHD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054911.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 FHD H265*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054910.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049945.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054909.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 1 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 1 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054908.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 FHD" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049949.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 FHD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054907.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 FHD H265*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054906.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049946.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054905.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 2 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054904.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 FHD" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049951.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 FHD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054903.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 FHD H265*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054902.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049947.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054901.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 3 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 3 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054900.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 FHD" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049952.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 FHD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054899.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 FHD H265*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054898.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 HD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054897.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4 SD*" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054896.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="CONMEBOL TV 4" tvg-logo="https://i.imgur.com/9WHHgbE.png" group-title="ESPORTES ESPECIAIS",CONMEBOL TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10049948.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069229.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069228.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069227.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069226.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069225.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069224.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069223.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069222.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069221.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069220.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 11" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069219.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 12" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069218.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 13" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069217.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 14" tvg-logo="" group-title="ESPORTES ESPECIAIS",ELEVEN SPORTS 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069216.ts
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 1" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19686.ts
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 1²" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 1²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027027.ts
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 FHD*" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054891.ts
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 FHD H265*" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054890.ts
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 HD*" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054889.ts
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2²" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10046639.ts
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 2 SD*" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054888.ts
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 3" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/19688.ts
+#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="COPA DO NORDESTE 3²" tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="ESPORTES ESPECIAIS",COPA DO NORDESTE 3²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10046640.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053461.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD²" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054030.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053462.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1²" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 1²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054031.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053463.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2²" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054032.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 3" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053464.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053465.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 5" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053466.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 6" tvg-logo="https://i.imgur.com/oRS3Cwd.png" group-title="ESPORTES ESPECIAIS",ESTADIO TNT SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10053467.ts
+#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="LIBERTADORES FACEBOOK" tvg-logo="https://i.imgur.com/tGv3Q3b.png" group-title="ESPORTES ESPECIAIS",LIBERTADORES FACEBOOK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/20216.ts
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11625.ts
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16564.ts
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11623.ts
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11624.ts
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16565.ts
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 6" tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="ESPORTES ESPECIAIS",DAZN 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047538.ts
+#EXTINF:-1 tvg-id="TVGlobo.us" tvg-name="GB USA HD²" tvg-logo="https://i.imgur.com/GtcHRNR.png" group-title="GLOBOS",GB USA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10041637.ts
+#EXTINF:-1 tvg-id="GloboEsporte.br" tvg-name="GB ESPORTE.COM" tvg-logo="https://i.imgur.com/FNKDHPO.png" group-title="ESPORTES ESPECIAIS",GB ESPORTE.COM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027028.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2752.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054301.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHDᴮᴿ" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047229.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD H265*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054299.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD H265" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17327.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/287.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054298.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HDᴮᴿ" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17101.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD [LEG]*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054300.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD LEG" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9549.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD [LEG]*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054297.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/286.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054296.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SDᴮᴿ" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",TC PREMIUM SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047228.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD LEG" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9548.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD [LEG]*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",TC PREMIUM SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054295.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2759.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054329.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHDᴮᴿ" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047235.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD H265" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17331.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD H265*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054327.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/296.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054326.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HDᴮᴿ" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17103.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD [LEG]*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054328.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD [LEG]*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054325.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD LEG" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9555.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/295.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054324.ts
+#EXTINF:-1 tvg-id="" tvg-name="TC ACTION SDᴮᴿ" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",TC ACTION SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047234.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD LEG" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9554.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD [LEG]*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="CANAIS LEGENDADOS",TC ACTION SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054323.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2953.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054308.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHDᴮᴿ" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047227.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD H265" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17328.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD H265*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054306.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/290.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054305.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD [LEG]*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054307.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD LEG" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9551.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD [LEG]*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054304.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HDᴮᴿ" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5441.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2754.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054303.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SDᴮᴿ" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",TC PIPOCA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047226.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD [LEG]*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="CANAIS LEGENDADOS",TC PIPOCA SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054302.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5944.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054315.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHDᴮᴿ" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047233.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD H265" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17329.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD H265*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054313.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/293.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054312.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HDᴮᴿ" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17102.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD [LEG]*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="CANAIS LEGENDADOS",TC FUN FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054314.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD LEG" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9553.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD [LEG]*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="CANAIS LEGENDADOS",TC FUN HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054311.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/292.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054310.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SDᴮᴿ" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",TC FUN SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047232.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD [LEG]*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="CANAIS LEGENDADOS",TC FUN SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054309.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5945.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054294.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHDᴮᴿ" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047225.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD H265" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17326.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD H265*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054292.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD [LEG]*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054293.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/284.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054291.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HDᴮᴿ" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17100.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD LEG" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9547.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD [LEG]*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054290.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/283.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD LEG" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9546.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD [LEG]*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="CANAIS LEGENDADOS",TC TOUCH SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054288.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054289.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SDᴮᴿ" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",TC TOUCH SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047224.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHDᴮᴿ" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047231.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5943.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054322.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD H265" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17330.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD H265*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054320.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4791.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054319.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HDᴮᴿ" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17153.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD [LEG]*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054321.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD [LEG]*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054318.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD LEG" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10033189.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/281.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054317.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SDᴮᴿ" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",TC CULT SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047230.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD [LEG]" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT SD [LEG]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10033190.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD [LEG]*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",TC CULT SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054316.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9624.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054537.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHDᴮᴿ" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047269.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17354.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054535.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/244.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054534.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HDᴮᴿ" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17117.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD [LEG]*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054536.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD LEG" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9539.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD [LEG]*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054533.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/245.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054532.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SDᴮᴿ" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",MEGAPIX SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047268.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD LEG" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9538.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9642.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055075.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHDᴮᴿ" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047207.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD H265" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17322.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD H265*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055074.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/208.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055073.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HDᴮᴿ" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17097.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055072.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",UNIVERSAL TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/209.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD [LEG]*" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="CANAIS LEGENDADOS",MEGAPIX SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054531.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5909.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD*" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054341.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHDᴮᴿ" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047238.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17334.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265*" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054340.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2763.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD*" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054339.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HDᴮᴿ" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17047.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/218.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD*" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054338.ts
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL SDᴮᴿ" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047206.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5908.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD*" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054337.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17333.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265*" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054336.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2762.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD*" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054335.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HDᴮᴿ" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17046.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/216.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD*" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",SYFY SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054334.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD H265" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17383.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD H265*" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054945.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD*" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054946.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2871.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD*" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054944.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HDᴮᴿ" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040736.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD*" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054943.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/298.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5541.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054600.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHDᴮᴿ" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047293.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD H265" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17363.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD H265*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054598.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/273.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054597.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HDᴮᴿ" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16741.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD [LEG]*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054599.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD LEG" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9561.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD [LEG]*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054596.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4768.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054581.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SDᴮᴿ" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",HBO SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047292.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD LEG" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9558.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD [LEG]*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANAIS LEGENDADOS",HBO SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054580.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4769.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054608.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHDᴮᴿ" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047297.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17365.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054607.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/279.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054606.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HDᴮᴿ" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17123.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047296.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054605.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4099.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9621.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054615.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHDᴮᴿ" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047283.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD H265" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2970.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD H265*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054613.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/270.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054612.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HDᴮᴿ" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17121.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD [LEG]*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054614.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD LEG" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9560.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD [LEG]*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054611.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/269.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054610.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO+ SDᴮᴿ" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",HBO+ SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047282.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD LEG" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9559.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD [LEG]*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="CANAIS LEGENDADOS",HBO+ SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054609.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9620.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054604.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHDᴮᴿ" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047295.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD H265" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17364.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD H265*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054603.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/276.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054602.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HDᴮᴿ" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17122.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SDᴮᴿ" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047294.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054601.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",HBO FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/275.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9622.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054579.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHDᴮᴿ" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047287.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD H265" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17361.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD H265*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054577.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/267.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054576.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HDᴮᴿ" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17142.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SDᴮᴿ" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047286.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054574.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5601.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD [LEG]*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="CANAIS LEGENDADOS",HBO SIGNATURE FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054578.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD [LEG]*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="CANAIS LEGENDADOS",HBO SIGNATURE HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054575.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD [LEG]*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="CANAIS LEGENDADOS",HBO SIGNATURE SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054573.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5916.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054595.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHDᴮᴿ" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047291.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17357.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054593.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4827.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054592.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HDᴮᴿ" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4766.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/240.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054590.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SDᴮᴿ" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",HBO MUNDI SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047290.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD [LEG]*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054594.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD [LEG]*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054591.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD LEG" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9556.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD [LEG]*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="CANAIS LEGENDADOS",HBO MUNDI SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054589.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5914.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054588.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHDᴮᴿ" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047289.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17355.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054586.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5043.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054585.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD [LEG]*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054587.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD LEG" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9541.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD [LEG]*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054584.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD [LEG]*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054582.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/235.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054583.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP SDᴮᴿ" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",HBO POP SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047288.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD LEG" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="CANAIS LEGENDADOS",HBO POP SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9540.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5915.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054572.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHDᴮᴿ" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047285.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17356.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054570.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4828.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054569.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HDᴮᴿ" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4767.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/239.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054567.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SDᴮᴿ" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",HBO XTREME SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047284.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD [LEG]*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054571.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD [LEG]*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054568.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD LEG" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9557.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD [LEG]*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="CANAIS LEGENDADOS",HBO XTREME SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054566.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5846.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD*" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055051.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHDᴮᴿ" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047357.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17318.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265*" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055050.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2881.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD*" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055049.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HDᴮᴿ" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17070.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/299.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD*" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055048.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SDᴮᴿ" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",A&E SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047356.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5847.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD*" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055043.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHDᴮᴿ" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047355.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17317.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265*" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055042.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5477.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD*" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055041.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HDᴮᴿ" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7511.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5298.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD*" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055040.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC SDᴮᴿ" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",AMC SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047354.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5901.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHDᴮᴿ" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047351.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055030.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17388.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055028.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/231.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HDᴮᴿ" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17148.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055027.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD [LEG]*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055029.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD LEG" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9565.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD [LEG]*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055026.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/232.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SDᴮᴿ" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047350.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",AXN SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055025.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD LEG" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9564.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6890.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054938.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17382.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054936.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/210.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054935.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HDᴮᴿ" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2869.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD [LEG]*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054937.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD LEG" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9568.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD [LEG]*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054934.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/212.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054933.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SDᴮᴿ" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",CANAL SONY SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047344.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD LEG" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9569.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5929.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD*" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054927.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHDᴮᴿ" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047341.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17380.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265*" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054926.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4825.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD*" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054925.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HDᴮᴿ" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/3751.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/230.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD*" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054924.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SDᴮᴿ" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",CINEMAX SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047340.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9605.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD*" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054915.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17378.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265*" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054914.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2861.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD*" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054913.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HDᴮᴿ" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17065.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD*" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054912.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/97.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4932.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054366.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD²" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6284.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD H265" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17373.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD H265*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054364.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/256.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054363.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD²" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17128.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD [LEG]*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054365.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD LEG" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9563.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD [LEG]*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054362.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/255.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054361.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SDᴮᴿ" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",STAR CHANNEL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047316.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD LEG" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9562.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9613.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD*" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054345.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD H265" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17372.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD H265*" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054344.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/250.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD*" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054343.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD²" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17127.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/251.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD*" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054342.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SDᴮᴿ" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",STAR LIFE SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047315.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9614.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054359.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHDᴮᴿ" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047314.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD H265" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17371.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD H265*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054357.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/257.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054356.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD²" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17130.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027042.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054354.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SDᴮᴿ" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="FILMES E SERIES",STAR HITS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047313.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD [LEG]*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="CANAIS LEGENDADOS",STAR HITS FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054358.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD [LEG]*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="CANAIS LEGENDADOS",STAR HITS HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054355.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD [LEG]*" tvg-logo="https://i.imgur.com/DU5SsLV.png" group-title="CANAIS LEGENDADOS",STAR HITS SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054353.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5890.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054352.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHDᴮᴿ" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047312.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD H265" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17370.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD H265*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054350.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/3293.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054349.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD²" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17129.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027043.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054347.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SDᴮᴿ" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="FILMES E SERIES",STAR HITS 2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047311.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD [LEG]*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="CANAIS LEGENDADOS",STAR HITS 2 FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054351.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD [LEG]*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="CANAIS LEGENDADOS",STAR HITS 2 HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054348.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD [LEG]*" tvg-logo="https://i.imgur.com/XCMpMGb.png" group-title="CANAIS LEGENDADOS",STAR HITS 2 SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054346.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9617.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054798.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17368.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054796.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/247.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054795.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HDᴮᴿ" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17125.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD LEG" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9543.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD [LEG]*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054797.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD [LEG]*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054794.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4551.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054793.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SDᴮᴿ" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",FX SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047307.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD LEG" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9542.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD [LEG]*" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="CANAIS LEGENDADOS",FX SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054792.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE FHD*" tvg-logo="https://t2.tudocdn.net/332966?w=660&h=371" group-title="FILMES E SERIES",LIKE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054545.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE FHD H265*" tvg-logo="https://t2.tudocdn.net/332966?w=660&amp;h=371" group-title="FILMES E SERIES",LIKE FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054544.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE HD*" tvg-logo="https://t2.tudocdn.net/332966?w=660&h=371" group-title="FILMES E SERIES",LIKE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054543.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE SD*" tvg-logo="https://t2.tudocdn.net/332966?w=660&h=371" group-title="FILMES E SERIES",LIKE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054542.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9634.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD*" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054484.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHDᴮᴿ" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047249.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2962.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265*" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054483.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/228.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD*" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054482.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HDᴮᴿ" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17112.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/227.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD*" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054481.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SDᴮᴿ" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",PARAMOUNT SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047248.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9636.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054385.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHDᴮᴿ" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047240.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17338.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054383.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/223.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054382.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HDᴮᴿ" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17106.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD [LEG]*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054384.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD LEG" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9537.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD [LEG]*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054381.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/224.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054380.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SDᴮᴿ" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",SPACE SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047239.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD LEG" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9536.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD [LEG]*" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="CANAIS LEGENDADOS",SPACE SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054379.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9637.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054333.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHDᴮᴿ" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047237.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H265" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17332.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H265*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054332.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/220.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054331.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HDᴮᴿ" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17139.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/221.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054330.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS SDᴮᴿ" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",TBS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047236.ts
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027045.ts
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027044.ts
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/214.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9638.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055132.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHDᴮᴿ" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047217.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17325.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055130.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/263.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055129.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HDᴮᴿ" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17099.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD [LEG]*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055131.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD LEG" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9545.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD [LEG]*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055128.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/262.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055127.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SDᴮᴿ" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",TNT SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047216.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD LEG" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9544.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD [LEG]*" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="CANAIS LEGENDADOS",TNT SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055126.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9639.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055125.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES FHDᴮᴿ" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SÉRIES FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047219.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17324.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055123.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/260.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055122.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HDᴮᴿ" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17098.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD [LEG]*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055124.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD LEG" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9535.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD [LEG]*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055121.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/259.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SERIES SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055120.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SDᴮᴿ" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="FILMES E SERIES",TNT SÉRIES SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047218.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD LEG" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9534.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5848.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055062.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD [LEG]*" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANAIS LEGENDADOS",STAR CHANNEL SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054360.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHDᴮᴿ" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047203.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD H265" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17319.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD H265*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055060.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/241.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055059.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HDᴮᴿ" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17095.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/242.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055057.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SDᴮᴿ" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",WARNER SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047202.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="BORA FILMES" tvg-logo="https://i.imgur.com/gThX6oE.png" group-title="FILMES E SERIES",BORA FILMES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068461.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="ENTRETENDO" tvg-logo="blob:https://imgur.com/70749d25-a9ea-417b-bdf0-e0dc3b253b6b" group-title="FILMES E SERIES",ENTRETENDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068460.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD [LEG]*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER FHD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055061.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD LEG" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9533.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD [LEG]*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER HD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055058.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD LEG" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER SD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9532.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD [LEG]*" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="CANAIS LEGENDADOS",WARNER SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055056.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2756.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD*" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054859.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHDᴮᴿ" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047332.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD H265*" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054858.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD H265" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17310.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/126.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD*" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054857.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17134.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/125.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD*" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054856.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SDᴮᴿ" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",DISCOVERY TURBO SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047331.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5923.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD*" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054842.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD H265" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17306.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD H265*" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054841.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2848.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD*" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054840.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD²" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5829.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/69.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD*" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054839.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! SDᴮᴿ" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",E! SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047326.ts
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV FHD*" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="VARIEDADES",FASHION TV FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054822.ts
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV FHD H265*" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="VARIEDADES",FASHION TV FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054821.ts
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD*" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="VARIEDADES",FASHION TV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054820.ts
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV SD*" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="VARIEDADES",FASHION TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054819.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5922.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD*" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054814.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHDᴮᴿ" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047318.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17374.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265*" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054813.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HDᴮᴿ" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17091.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2841.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD*" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054812.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/71.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD*" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054811.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SDᴮᴿ" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",FOOD NETWORK SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047317.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9618.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054619.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHDᴮᴿ" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047301.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD H265" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2973.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD H265*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054618.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/82.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054617.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HDᴮᴿ" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17124.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/81.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054616.ts
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SDᴮᴿ" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",GNT SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047300.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5927.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD*" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054565.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHDᴮᴿ" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047281.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD H265" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17315.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD H265*" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054564.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5475.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD*" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054563.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HDᴮᴿ" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17167.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2859.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD*" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054562.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SDᴮᴿ" tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="VARIEDADES",HGTV SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047280.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6544.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD*" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054879.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHDᴮᴿ" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047277.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD H265" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17314.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD H265*" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054878.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH HD" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/130.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH HD*" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054877.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME &AMP; HEALTH HDᴮᴿ" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME &AMP; HEALTH HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17136.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH SD" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/129.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH SD*" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054876.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH SDᴮᴿ" tvg-logo="https://i.imgur.com/zydOC94.png" group-title="VARIEDADES",HOME & HEALTH SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047276.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5917.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD*" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054549.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHDᴮᴿ" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047273.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17359.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265*" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054548.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5059.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD*" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054547.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD²" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17162.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/72.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD*" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054546.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SDᴮᴿ" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",LIFETIME SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047272.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOADING SD" tvg-logo="https://s2.glbimg.com/_SNU4hVO0E9cVNXK0ShgwJ_E73c=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg" group-title="VARIEDADES",LOADING SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10052808.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOADING HD" tvg-logo="https://s2.glbimg.com/_SNU4hVO0E9cVNXK0ShgwJ_E73c=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg" group-title="VARIEDADES",LOADING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10052807.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOADING FHD" tvg-logo="https://s2.glbimg.com/_SNU4hVO0E9cVNXK0ShgwJ_E73c=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg" group-title="VARIEDADES",LOADING FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10052806.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16671.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD*" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054541.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHDᴮᴿ" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047271.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD H265" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17358.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD H265*" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054540.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HD" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2820.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HD*" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054539.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HDᴮᴿ" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17163.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SD" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/204.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SD*" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054538.ts
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SDᴮᴿ" tvg-logo="https://i.imgur.com/IYw1U2M.png" group-title="VARIEDADES",MAIS NA TELA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047270.ts
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="POLISHOP TV" tvg-logo="https://i.imgur.com/f0hwRtr.png" group-title="VARIEDADES",POLISHOP TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17471.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5907.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD*" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054287.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHDᴮᴿ" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047221.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD H265" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17268.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD H265*" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054286.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2747.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD*" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054285.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HDᴮᴿ" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17045.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/76.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD*" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054284.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SDᴮᴿ" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",TLC SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047220.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16739.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD*" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055066.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHDᴮᴿ" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047205.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD H265" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17320.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD H265*" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055065.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/79.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD*" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055064.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HDᴮᴿ" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17096.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/78.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD*" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055063.ts
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SDᴮᴿ" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",VIVA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047204.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9646.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD*" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055055.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHDᴮᴿ" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047201.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD H265" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027047.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD H265*" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055054.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4775.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD*" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055053.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/136.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD*" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055052.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO SDᴮᴿ" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",WOOHOO SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047200.ts
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV FHD" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",TRUTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9641.ts
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV FHD H265" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",TRUTV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17267.ts
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV HD" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",TRUTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9640.ts
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV SD" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",TRUTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/74.ts
+#EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL FHD*" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055114.ts
+#EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL FHD H265" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17284.ts
+#EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL FHD H265*" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055113.ts
+#EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL HD*" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055112.ts
+#EXTINF:-1 tvg-id="Travelbox.br" tvg-name="TRAVEL BOX BRAZIL SD*" tvg-logo="https://i.imgur.com/Y1bLAUz.png" group-title="VARIEDADES",TRAVEL BOX BRAZIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055111.ts
+#EXTINF:-1 tvg-id="ChefTV.br" tvg-name="CHEF TV" tvg-logo="https://i.imgur.com/zDPxnZ2.png" group-title="VARIEDADES",CHEF TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10041058.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TVT" tvg-logo="https://i.imgur.com/u4g6IK5.png" group-title="VARIEDADES",TVT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068468.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="REDE MOSAICO" tvg-logo="https://i.imgur.com/jm1oFRv.png" group-title="VARIEDADES",REDE MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068463.ts
+#EXTINF:-1 tvg-id="" tvg-name="HELLO TV" tvg-logo="https://i.imgur.com/a05f24i.png" group-title="VARIEDADES",HELLO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068462.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="INSPIRE" tvg-logo="https://i.imgur.com/9uuDZgn.png" group-title="VARIEDADES",INSPIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068459.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="UP CHANNEL" tvg-logo="https://i.imgur.com/xrwb33s.png" group-title="VARIEDADES",UP CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068458.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="YES LIFE" tvg-logo="https://i.imgur.com/MdqGKyj.png" group-title="VARIEDADES",YES LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068457.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="CLUBINHO FUN" tvg-logo="https://i.imgur.com/8lye0UQ.png" group-title="VARIEDADES",CLUBINHO FUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068456.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9628.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD*" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054522.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHDᴮᴿ" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047265.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD H265" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17293.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD H265*" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054521.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/93.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD*" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054520.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HDᴮᴿ" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17116.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/92.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD*" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054519.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SDᴮᴿ" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",MULTISHOW SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047264.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/100.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD*" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054963.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HDᴮᴿ" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047348.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD H265" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17385.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD H265*" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054962.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4955.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD*" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054961.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/99.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD*" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054960.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SDᴮᴿ" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",BIS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047347.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5913.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD*" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054530.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHDᴮᴿ" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047267.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD H265" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17353.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD H265*" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054529.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4957.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD*" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054528.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HDᴮᴿ" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17051.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/86.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD*" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054523.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SDᴮᴿ" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",MTV SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047266.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9627.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD*" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054527.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD H265*" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054526.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD H265" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17294.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9626.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD*" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054525.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD*" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054524.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD" tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="MUSICAIS",MTV LIVE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9625.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9629.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD*" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054518.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHDᴮᴿ" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047263.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD H265" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17352.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL FHD H265*" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054517.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9630.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL HD*" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054516.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9631.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SD*" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054515.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL SDᴮᴿ" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",MUSIC BOX BRAZIL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047262.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL FHD" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9635.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL FHD*" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054447.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL FHD H265" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17340.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL FHD H265*" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054446.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/90.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL HD*" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054445.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2779.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD*" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",PRIME BOX BRAZIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054444.ts
+#EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA FHD*" tvg-logo="https://i.imgur.com/Fo0MRfB.png" group-title="MUSICAIS",TRACE BRAZUCA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055118.ts
+#EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA FHD H265*" tvg-logo="https://i.imgur.com/Fo0MRfB.png" group-title="MUSICAIS",TRACE BRAZUCA FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055117.ts
+#EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA HD*" tvg-logo="https://i.imgur.com/Fo0MRfB.png" group-title="MUSICAIS",TRACE BRAZUCA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055116.ts
+#EXTINF:-1 tvg-id="Trace.br" tvg-name="TRACE BRAZUCA SD*" tvg-logo="https://i.imgur.com/Fo0MRfB.png" group-title="MUSICAIS",TRACE BRAZUCA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055115.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9645.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD*" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055070.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD H265*" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055069.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD*" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055068.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 SD*" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055067.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD H265" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17321.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2733.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 SD" tvg-logo="https://i.imgur.com/5ogA1t4.png" group-title="MUSICAIS",VH1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9644.ts
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGAHITS SD" tvg-logo="https://i.imgur.com/5YaNijo.png" group-title="MUSICAIS",VH1 MEGAHITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="KRONE HIT" tvg-logo="https://i.imgur.com/I7KFxxz.png" group-title="MUSICAIS",KRONE HIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17519.ts
+#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="https://i.imgur.com/ljv0Gag.png" group-title="MUSICAIS",M2O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17515.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5902.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD*" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055039.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHDᴮᴿ" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047353.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17390.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265*" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055038.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/116.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD*" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055037.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HDᴮᴿ" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5825.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/117.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD*" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055036.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SDᴮᴿ" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047352.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9623.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY FHD*" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054553.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY FHDᴮᴿ" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047275.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD H265" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17295.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY FHD H265*" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054552.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/109.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY HD*" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054551.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD²" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17118.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/108.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY SD*" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054550.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGATION DISCOVERY SD°" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY SD°
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035609.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGATION DISCOVERY SDᴮᴿ" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",ID - INVESTIGATION DISCOVERY SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047274.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5536.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD*" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054875.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD¹" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10041071.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY FHD H265" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17279.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265*" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054874.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/133.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD*" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054873.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HDᴮᴿ" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17137.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/132.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD*" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054872.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SDᴮᴿ" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047335.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9608.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD*" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054867.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD H265*" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054866.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD H265" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17312.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5476.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD*" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054865.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HDᴮᴿ" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17166.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/120.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD*" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054864.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SDᴮᴿ" tvg-logo="https://i.imgur.com/WluwBys.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047333.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER FHD" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9609.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER FHD*" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054863.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER FHDᴮᴿ" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047223.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER FHD H265" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17311.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER FHD H265*" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054862.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER HD" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/127.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER HD*" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054861.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER HDᴮᴿ" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17135.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER SD" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7526.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="THEATER SD*" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054860.ts
+#EXTINF:-1 tvg-id="" tvg-name="THEATER SDᴮᴿ" tvg-logo="https://i.imgur.com/JLf6Fkc.png" group-title="DOCUMENTÁRIOS",THEATER SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047222.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHD" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6545.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHD*" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054855.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHDᴮᴿ" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047199.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHD H265" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17309.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHD H265*" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054854.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD HD" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/123.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD HD*" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054853.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD HD²" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17133.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SD*" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054852.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SDᴮᴿ" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047198.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SD" tvg-logo="https://i.imgur.com/BWUN0b0.png" group-title="DOCUMENTÁRIOS",WORLD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7529.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6541.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD*" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054510.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHDᴮᴿ" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047259.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD H265" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17350.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD H265*" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054509.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/106.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD*" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054508.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HDᴮᴿ" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17114.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/105.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD*" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054507.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SDᴮᴿ" tvg-logo="https://i.imgur.com/EOSEOBj.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047258.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9632.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD*" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054506.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHDᴮᴿ" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047261.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD H265" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17351.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD H265*" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054505.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/103.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD*" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054504.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HDᴮᴿ" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17115.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/102.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD*" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054503.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SDᴮᴿ" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047260.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD [LEG]*" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="CANAIS LEGENDADOS",CANAL SONY SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054932.ts
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN CHANNEL FHD" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16954.ts
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN FHD*" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054389.ts
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN CHANNEL FHD H265" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17269.ts
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN FHD H265*" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054388.ts
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN CHANNEL HD" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16953.ts
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN HD*" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054387.ts
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN SD*" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054386.ts
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN CHANNEL SD" tvg-logo="https://i.imgur.com/hMLwz0B.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16952.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5762.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054557.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHDᴮᴿ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047279.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD H265" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17360.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD H265*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054556.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/112.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054555.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HDᴮᴿ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17119.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/111.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054554.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SDᴮᴿ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047278.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9619.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD*" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054561.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHDᴮᴿ" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047299.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD H265" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17296.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD H265*" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054560.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/115.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD*" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054559.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HDᴮᴿ" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17120.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/114.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD*" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054558.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SDᴮᴿ" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",H2 SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047298.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN DOCS" tvg-logo="https://i.imgur.com/NPbgP5i.png" group-title="DOCUMENTÁRIOS",URBAN DOCS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068449.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9647.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD*" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055035.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD H265" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17389.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD H265*" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055034.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5474.ts
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9607.ts
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD*" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054883.ts
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD H265" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17377.ts
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD H265*" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054882.ts
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9606.ts
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD*" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054881.ts
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5054.ts
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD*" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054880.ts
+#EXTINF:-1 tvg-id="" tvg-name="CURTA! SDᴮᴿ" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",CURTA! SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047336.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4996.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD*" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055019.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHDᴮᴿ" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048416.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17387.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265*" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055018.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5843.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD*" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055017.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HDᴮᴿ" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10048417.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/20.ts
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD*" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",BAND NEWS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055016.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027033.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD*" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054923.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHDᴮᴿ" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047339.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD H265" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027036.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD H265*" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054922.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027034.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD*" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054921.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HDᴮᴿ" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10041070.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027035.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SD*" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054920.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SDᴮᴿ" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",CNN BRASIL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047338.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS FHD" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5920.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS FHD*" tvg-logo="" group-title="NOTICIAS",GB NEWS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054755.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS FHD H265" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17367.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS FHD H265*" tvg-logo="" group-title="NOTICIAS",GB NEWS FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054754.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS HD" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2826.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS HD*" tvg-logo="" group-title="NOTICIAS",GB NEWS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054753.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS HD²" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17164.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS SD*" tvg-logo="" group-title="NOTICIAS",GB NEWS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054752.ts
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS SD" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",GB NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/18.ts
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027046.ts
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD*" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054501.ts
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5057.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7097.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD H265" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17271.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD*" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10056229.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2776.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD²" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/6272.ts
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.imgur.com/z9Jpfnp.png" group-title="NOTICIAS",RECORD NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS FHD" tvg-logo="" group-title="NOTICIAS",JOVEN PAN NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069818.ts
+#EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS HD" tvg-logo="" group-title="NOTICIAS",JOVEN PAN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069819.ts
+#EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS SD" tvg-logo="" group-title="NOTICIAS",JOVEN PAN NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10069820.ts
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK" tvg-logo="https://i.imgur.com/YvwEjLd.png" group-title="NOTICIAS",NHK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068472.ts
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL" tvg-logo="https://i.imgur.com/dlVzYjF.png" group-title="NOTICIAS",CNN INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068467.ts
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL" tvg-logo="https://i.imgur.com/WO1u81j.png" group-title="NOTICIAS",CNN ESPANHOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068466.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="24H NEWS" tvg-logo="https://i.imgur.com/oCeQ4cE.png" group-title="NOTICIAS",24H NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068455.ts
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV FHD" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027048.ts
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4885.ts
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD*" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055023.ts
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",BABY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4789.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4130.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD*" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054958.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHDᴮᴿ" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047346.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD H265" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17384.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD H265*" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054957.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5827.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD*" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054956.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HDᴮᴿ" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17040.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/60.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD*" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054955.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SDᴮᴿ" tvg-logo="https://i.imgur.com/zHBqfYt.png" group-title="INFANTIS",BOOMERANG SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047345.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD*" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055033.ts
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD*" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",ARTE 1 SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055032.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5930.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD*" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054931.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHDᴮᴿ" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047343.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17381.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265*" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054930.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/63.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD*" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054929.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HDᴮᴿ" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17067.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/62.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SDᴮᴿ" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047342.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD*" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",CARTOON NETWORK SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054928.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5926.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD*" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054871.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD H265*" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054870.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD H265" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17313.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4826.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD*" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054869.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HDᴮᴿ" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17063.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/46.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD*" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054868.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SDᴮᴿ" tvg-logo="https://i.imgur.com/lprvPEO.png" group-title="INFANTIS",DISCOVERY KIDS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047334.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5924.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD*" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054851.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHDᴮᴿ" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047330.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17308.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265*" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054850.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2852.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD*" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054849.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HDᴮᴿ" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17061.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/58.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD*" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054848.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SDᴮᴿ" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",DISNEY CHANNEL SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047329.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5828.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD*" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054847.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHDᴮᴿ" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047328.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD H265" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17307.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD H265*" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054846.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5645.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD*" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054845.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HDᴮᴿ" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5293.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/56.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD*" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054844.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR SDᴮᴿ" tvg-logo="https://i.imgur.com/J30stbU.png" group-title="INFANTIS",DISNEY JUNIOR SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047327.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027049.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD H265" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17278.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2850.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD*" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054843.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://i.imgur.com/K34e6Er.png" group-title="INFANTIS",DISNEY XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5949.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5918.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD*" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054627.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD H265" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17366.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD H265*" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054626.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/2819.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD*" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054625.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HDᴮᴿ" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17056.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD*" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054620.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",GLOOB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/44.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9202.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD H265" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17272.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD*" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054624.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD H265*" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054623.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5346.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD*" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054622.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD²" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10051240.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD*" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054621.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",GLOOBINHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5347.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5912.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHDᴮᴿ" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047257.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD*" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054514.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD H265*" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054513.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD H265" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17292.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4692.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD*" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054512.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HDᴮᴿ" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17050.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD*" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054511.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4561.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SDᴮᴿ" tvg-logo="https://i.imgur.com/0bLYBMI.png" group-title="INFANTIS",NAT GEO KIDS SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047256.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5910.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054500.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHDᴮᴿ" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047255.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD H265" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17348.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD H265*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054499.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4886.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054498.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HDᴮᴿ" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17048.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054497.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/50.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SDᴮᴿ" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",NICKELODEON SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047254.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5911.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. FHD*" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054496.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. FHDᴮᴿ" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047253.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD H265" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17349.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. FHD H265*" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054495.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5045.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. HD*" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054494.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HDᴮᴿ" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR HDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17157.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/52.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. SD*" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054493.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR. SDᴮᴿ" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",NICK JR. SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047252.ts
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="https://i.imgur.com/lVGMsUB.png" group-title="INFANTIS",TOONCAST FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027050.ts
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.imgur.com/lVGMsUB.png" group-title="INFANTIS",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027051.ts
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://i.imgur.com/lVGMsUB.png" group-title="INFANTIS",TOONCAST SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/48.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9643.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD*" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055084.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ TIM BUM FHDᴮᴿ" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RÁ TIM BUM FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047209.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD H265" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17323.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD H265*" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055083.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/4889.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD*" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055082.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/41.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD*" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RA TIM BUM SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055081.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ TIM BUM SDᴮᴿ" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",TV RÁ TIM BUM SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047208.ts
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/pGDfA60.png" group-title="INFANTIS",ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5455.ts
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://i.imgur.com/pGDfA60.png" group-title="INFANTIS",ZOOMOO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17470.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN KIDS" tvg-logo="https://i.imgur.com/SX0z1xA.png" group-title="INFANTIS",URBAN KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068450.ts
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://1.bp.blogspot.com/-U3fsGZ-SE_c/WiCugPVFHbI/AAAAAAAABhs/nx9-SDkBz2QokcBhowgqg1V0VbpDJ0yyQCLcBGAs/s1600/cancao%2Bnova.png" group-title="RELIGIOSOS",CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/3290.ts
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="https://1.bp.blogspot.com/-U3fsGZ-SE_c/WiCugPVFHbI/AAAAAAAABhs/nx9-SDkBz2QokcBhowgqg1V0VbpDJ0yyQCLcBGAs/s1600/cancao%2Bnova.png" group-title="RELIGIOSOS",CANCAO NOVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/39.ts
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHD" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/11248.ts
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHD*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054400.ts
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHDᴮᴿ" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047246.ts
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHD H265" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17339.ts
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHD H265*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054399.ts
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REVE VIDA HD" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REVE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10027052.ts
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054398.ts
+#EXTINF:-1 tvg-id="Redevida.br " tvg-name="REDE VIDA SD" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5326.ts
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054397.ts
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SDᴮᴿ" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",REDE VIDA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047245.ts
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHD*" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055110.ts
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHD" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/16731.ts
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHDᴮᴿ" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047215.ts
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHD H265*" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055109.ts
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/30.ts
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD*" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055108.ts
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/9601.ts
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD*" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055107.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SDᴮᴿ" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047214.ts
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO FHD" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17223.ts
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO FHD*" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055089.ts
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO FHDᴮᴿ" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047211.ts
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO FHD H265" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17283.ts
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO FHD H265*" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055088.ts
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17222.ts
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD*" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055087.ts
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5528.ts
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO SD*" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055086.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO SDᴮᴿ" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SDᴮᴿ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10047210.ts
+#EXTINF:-1 tvg-id="RedeSuperdeTelevisao.br" tvg-name="REDE SUPER" tvg-logo="https://1.bp.blogspot.com/-YLgPjsha_so/WiCujYAMQgI/AAAAAAAABic/WTSE_KVtYcwHVZPkJ31-yzOZm_K5XU-tACLcBGAs/s1600/redesuper.png" group-title="RELIGIOSOS",REDE SUPER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/3009.ts
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="REDE SECULO 21" tvg-logo="https://3.bp.blogspot.com/-4njtu0KtPAo/WiCuiwxKWpI/AAAAAAAABiY/ACBuJxZ4zEc_wYSTJWNBYL48YrdP90aqgCLcBGAs/s1600/redes21.png" group-title="RELIGIOSOS",REDE SECULO 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10501.ts
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="GOSPEL MOVIES TELEVISION" tvg-logo="https://1.bp.blogspot.com/-xwl7gNUuZb4/WiC6cR9JqpI/AAAAAAAABjA/kp58eLyroa4KinQWVzjP-BZ-xgy9ZQ59wCLcBGAs/s1600/gospelmoviestv.png" group-title="RELIGIOSOS",GOSPEL MOVIES TELEVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/7120.ts
+#EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="PAI ETERNO FHD*" tvg-logo="" group-title="RELIGIOSOS",PAI ETERNO FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054488.ts
+#EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="PAI ETERNO FHD H265*" tvg-logo="" group-title="RELIGIOSOS",PAI ETERNO FHD H265*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054487.ts
+#EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="PAI ETERNO HD*" tvg-logo="" group-title="RELIGIOSOS",PAI ETERNO HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054486.ts
+#EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="PAI ETERNO SD*" tvg-logo="" group-title="RELIGIOSOS",PAI ETERNO SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054485.ts
+#EXTINF:-1 tvg-id="TvPaiEterno.br" tvg-name="TV PAI ETERNO" tvg-logo="https://1.bp.blogspot.com/-_s2hWWtHsa8/XQmJqe-QwOI/AAAAAAAADbo/xtf28hoeMC8WOfTI0VwGhdB2kwA9L09DACLcBGAs/s1600/paieterno.png" group-title="RELIGIOSOS",TV PAI ETERNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/17468.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS HD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054636.ts
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GB TV VANGUARDA S J CAMPOS SD*" tvg-logo="https://i.imgur.com/7PtqdrV.png" group-title="GLOBOS",GB TV VANGUARDA S J CAMPOS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054635.ts
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://4.bp.blogspot.com/-J5PZsLbzgKI/WiCujergCXI/AAAAAAAABik/O36tiCGRhMYwu0TemqdWyXtGM1D1YjlOQCLcBGAs/s1600/tvevangelizar.png" group-title="RELIGIOSOS",TV EVANGELIZAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/5154.ts
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV GIDEOES SD" tvg-logo="https://1.bp.blogspot.com/-5jR61nGcM-s/WiCukwOCGLI/AAAAAAAABis/POopI65Bo7oEmlgsQh4AvHz1-xL7kA-VgCLcBGAs/s1600/tvgideoes.png" group-title="RELIGIOSOS",TV GIDEOES SD
+https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1771625136_b1296000.ts
+#EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT TV SD*" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="RELIGIOSOS",RIT TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054396.ts
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE" tvg-logo="https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/boa_vontade_tv_img_2974.png" group-title="RELIGIOSOS",BOA VONTADE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10045958.ts
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE TV SD*" tvg-logo="https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/boa_vontade_tv_img_2974.png" group-title="RELIGIOSOS",BOA VONTADE TV SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054959.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TOP TV" tvg-logo="https://i.imgur.com/e6f2y3I.png" group-title="ABERTOS",TOP TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10033372.ts
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="SHOPTIME" tvg-logo="https://i.imgur.com/6EIEbfb.png" group-title="ABERTOS",SHOPTIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035262.ts
+#EXTINF:-1 tvg-id="Cnt.br" tvg-name="CNT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cnt.png" group-title="RELIGIOSOS",CNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035610.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV PARAIBA TV CORREIO" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV PARAIBA TV CORREIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10035810.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="IHOP - INTERNATIONAL HOUSE OF PRAYER" tvg-logo="https://asburyseminary.edu/wp-content/uploads/allen-ihop-logo.png" group-title="RELIGIOSOS",IHOP - INTERNATIONAL HOUSE OF PRAYER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040643.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="HOPE CHANNEL" tvg-logo="https://www.pinclipart.com/picdir/middle/212-2124941_no-logo-hope-channel-logo-clipart.png" group-title="RELIGIOSOS",HOPE CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040644.ts
+#EXTINF:-1 tvg-id="NaoDisponivel.br" tvg-name="TV GIDEÕES" tvg-logo="https://1.bp.blogspot.com/-5jR61nGcM-s/WiCukwOCGLI/AAAAAAAABis/POopI65Bo7oEmlgsQh4AvHz1-xL7kA-VgCLcBGAs/s1600/tvgideoes.png" group-title="RELIGIOSOS",TV GIDEÕES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040645.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV FRONTEIRA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d8099da82838b73a3ad4504826890a4.png" group-title="RELIGIOSOS",TV FRONTEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040651.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV SEMEAR" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53d91293b5c5cef84ac28e3894b4a20e.png" group-title="RELIGIOSOS",TV SEMEAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040654.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV OURO NEGRO" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc56623a8cbf2f45d462cf93fc540de7.png" group-title="RELIGIOSOS",TV OURO NEGRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040657.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="CBN TV USA" tvg-logo="https://i.imgur.com/5ktl8fr.png" group-title="RELIGIOSOS",CBN TV USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040658.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV AVIVANDO NACOES" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0579c7a5ad75d73104244131bfb40921.png" group-title="RELIGIOSOS",TV AVIVANDO NACOES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040660.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="CANAL PROMESSAS" tvg-logo="https://i.imgur.com/NB9XAh2.png" group-title="RELIGIOSOS",CANAL PROMESSAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040661.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV MUNDO MAIOR" tvg-logo="https://i.imgur.com/soNbKzq.png" group-title="RELIGIOSOS",TV MUNDO MAIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068470.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="https://i.imgur.com/xrYfQQt.png" group-title="RELIGIOSOS",REDE GENESIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068469.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="TV PROMESSAS" tvg-logo="https://i.imgur.com/iJTVd8C.png" group-title="RELIGIOSOS",TV PROMESSAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068454.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN SERIES" tvg-logo="https://i.imgur.com/q9gspGR.png" group-title="FILMES E SERIES",URBAN SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068452.ts
+#EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="URBAN MOVIES" tvg-logo="https://i.imgur.com/pzICgZj.png" group-title="FILMES E SERIES",URBAN MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10068448.ts
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 01" tvg-logo="https://i.imgur.com/aATUQ1w.png" group-title="FILMES E SERIES",CINE SKY 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040586.ts
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 02" tvg-logo="https://i.imgur.com/YsDNlCf.png" group-title="FILMES E SERIES",CINE SKY 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040587.ts
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 03" tvg-logo="https://i.imgur.com/4zmdnPd.png" group-title="FILMES E SERIES",CINE SKY 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040588.ts
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 04" tvg-logo="https://i.imgur.com/bYYFK6x.png" group-title="FILMES E SERIES",CINE SKY 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040589.ts
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 05" tvg-logo="https://i.imgur.com/6vlgLhZ.png" group-title="FILMES E SERIES",CINE SKY 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040590.ts
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 07" tvg-logo="https://i.imgur.com/ewj25kK.png" group-title="FILMES E SERIES",CINE SKY 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040592.ts
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 08" tvg-logo="https://i.imgur.com/2jg8sW2.png" group-title="FILMES E SERIES",CINE SKY 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040593.ts
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="CINE SKY 09" tvg-logo="https://i.imgur.com/jGwdaQw.png" group-title="FILMES E SERIES",CINE SKY 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10040594.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV ITAPOAN HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV ITAPOAN HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054428.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV ITAPOAN SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV ITAPOAN SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054427.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV LITORAL/VALE DO PARAIBA FHD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV LITORAL/VALE DO PARAIBA FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054426.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV LITORAL/VALE DO PARAIBA HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV LITORAL/VALE DO PARAIBA HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054425.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV LITORAL/VALE DO PARAIBA SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV LITORAL/VALE DO PARAIBA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054424.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV MANAUS HD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV MANAUS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054423.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV MANAUS SD*" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV MANAUS SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10054422.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV PORTUGAL" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",RECORDTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/1717.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD [LEG]*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",TNT SERIES SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055119.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD [LEG]*" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="CANAIS LEGENDADOS",AXN SD [LEG]*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=/live/wagner63312/fet921851stv/10055024.ts
 
 
 
 
-#EXTINF:-1 tvg-id="BBB22 - CAM 1" tvg-name="AQUECIMENTO BBB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="REALITY | SHOW",AQUECIMENTO BBB 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://38.91.100.90:80/live/dirceu/102030/895014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",3 Palavrinhas 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888637
-#EXTINF:-1 tvg-id="" tvg-name="89 FM ROCK (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",89 FM ROCK (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893481
-#EXTINF:-1 tvg-id="" tvg-name="A Feiticeira 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",A Feiticeira 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888645
-#EXTINF:-1 tvg-id="" tvg-name="A GATA COMEU 24HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",A GATA COMEU 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888664
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Familia 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",A Grande Familia 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888638
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://imgur.com/k7EErsO.png" group-title="CANAIS | FILMES E SÉRIES ",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862338
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://imgur.com/k7EErsO.png" group-title="CANAIS | FILMES E SÉRIES ",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856687
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://myclient.host/FILMES%26SERIES/A%26E.png" group-title="CANAIS | FILMES E SÉRIES ",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857103
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&amp;E [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/A%26E.png" group-title="CANAIS | FILMES E SÉRIES ",A&amp;E [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856913
-#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",ALADIN 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888560
-#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD" tvg-logo="https://i.imgur.com/1rVjgI3.png" group-title="CANAIS | ESPORTES",ALL SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/885957
-#EXTINF:-1 tvg-id="" tvg-name="ALPHA FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",ALPHA FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893478
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://imgur.com/rPKnhku.png" group-title="CANAIS | FILMES E SÉRIES ",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862327
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://imgur.com/rPKnhku.png" group-title="CANAIS | FILMES E SÉRIES ",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856688
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://imgur.com/rPKnhku.png" group-title="CANAIS | FILMES E SÉRIES ",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857104
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC [H265]" tvg-logo="https://imgur.com/rPKnhku.png" group-title="CANAIS | FILMES E SÉRIES ",AMC [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856914
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862291
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856689
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857105
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862057
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1 FM ( RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",ANTENA 1 FM ( RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893473
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://myclient.host/VARIEDADES/ARTE%201.png" group-title="CANAIS | VARIEDADES",ARTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862363
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://myclient.host/VARIEDADES/ARTE%201.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856844
-#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",As Meninas Superpoderosas 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888561
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://imgur.com/HYgHfsY.png" group-title="CANAIS | FILMES E SÉRIES ",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862322
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",AXN FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888694
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/dvSzCgU.png" group-title="CANAIS | FILMES E SÉRIES ",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856690
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",AXN HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888695
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/dvSzCgU.png" group-title="CANAIS | FILMES E SÉRIES ",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857106
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN [H265]" tvg-logo="https://imgur.com/HYgHfsY.png" group-title="CANAIS | FILMES E SÉRIES ",AXN [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856915
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://myclient.host/INFANTIL/BABY%20TV.png" group-title="CANAIS | INFANTIS",BABY TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857107
-#EXTINF:-1 tvg-id="" tvg-name="BAND BSB HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | ABERTOS",BAND BSB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888438
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | ABERTOS",BAND CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888445
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS | ABERTOS",BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888439
-#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS FHD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS | ABERTOS",BAND MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888437
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS FHD" tvg-logo="https://i.imgur.com/lIwPTDV.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862353
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/lIwPTDV.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856806
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/lIwPTDV.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857110
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS [H265]" tvg-logo="https://i.imgur.com/lIwPTDV.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856916
-#EXTINF:-1 tvg-id="" tvg-name="BAND RJ FHD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS | ABERTOS",BAND RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888436
-#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS | ABERTOS",BAND RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888440
-#EXTINF:-1 tvg-id="" tvg-name="BAND RS HD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS | ABERTOS",BAND RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888441
-#EXTINF:-1 tvg-id="" tvg-name="BAND Sergipe HD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS | ABERTOS",BAND Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888442
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS | ABERTOS",BAND SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888448
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS | ABERTOS",BAND SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888443
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://myclient.host/ESPORTES/BAND%20SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862256
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://myclient.host/ESPORTES/BAND%20SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856691
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://myclient.host/ESPORTES/BAND%20SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857111
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS [H265]" tvg-logo="https://myclient.host/ESPORTES/BAND%20SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856917
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",BEN 10 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888562
-#EXTINF:-1 tvg-id="" tvg-name="BH FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",BH FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893488
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/3inGYNL.png" group-title="CANAIS | VARIEDADES",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862368
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/3inGYNL.png" group-title="CANAIS | VARIEDADES",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856692
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/3inGYNL.png" group-title="CANAIS | VARIEDADES",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857112
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS [H265]" tvg-logo="https://i.imgur.com/3inGYNL.png" group-title="CANAIS | VARIEDADES",BIS [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856918
-#EXTINF:-1 tvg-id="" tvg-name="Bita e os Animais 24hrs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Bita e os Animais 24hrs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888640
-#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE HD" tvg-logo="https://myclient.host/RELIGIOSOS/BOA%20VONTADE%20TV.png" group-title="CANAIS | RELIGIOSOS",BOA VONTADE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879098
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",BOB ESPONJA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888563
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: A CAMPEA DO ANAL" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS: A CAMPEA DO ANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888639
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Breaking Bad 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888564
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 01" tvg-logo="" group-title="CANAIS | PPV",CAMPEONATO BAIANO 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894729
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 02" tvg-logo="" group-title="CANAIS | PPV",CAMPEONATO BAIANO 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894730
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO2)" tvg-logo="" group-title="CANAIS | PPV",CAMPEONATO CATARINENSE (JOGO2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894732
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO4)" tvg-logo="" group-title="CANAIS | PPV",CAMPEONATO CATARINENSE (JOGO4)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894733
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO" tvg-logo="" group-title="CANAIS | PPV",CAMPEONATO SERGIPANO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894731
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://i.imgur.com/HJVSviY.png" group-title="CANAIS | FILMES E SÉRIES ",CANAL BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862370
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/HJVSviY.png" group-title="CANAIS | FILMES E SÉRIES ",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856849
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.imgur.com/HJVSviY.png" group-title="CANAIS | FILMES E SÉRIES ",CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857114
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL [H265]" tvg-logo="https://i.imgur.com/HJVSviY.png" group-title="CANAIS | FILMES E SÉRIES ",CANAL BRASIL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856920
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="https://myclient.host/RELIGIOSOS/CANCAO%20NOVA.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857117
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://i.imgur.com/1M78zPj.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862054
-#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",CAO CORAGEM 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888565
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://myclient.host/INFANTIL/CARTOOM%20NETWORK.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862310
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://myclient.host/INFANTIL/CARTOOM%20NETWORK.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856694
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://myclient.host/INFANTIL/CARTOOM%20NETWORK.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857118
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK [H265]" tvg-logo="https://myclient.host/INFANTIL/CARTOOM%20NETWORK.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876222
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://myclient.host/INFANTIL/1638551413042.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862309
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD [H265]" tvg-logo="https://myclient.host/INFANTIL/1638551413042.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856919
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO HD" tvg-logo="https://myclient.host/INFANTIL/1638551413042.png" group-title="CANAIS | INFANTIS",CARTOONITO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856836
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="https://myclient.host/INFANTIL/1638551413042.png" group-title="CANAIS | INFANTIS",CARTOONITO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857113
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Caverna do Dragão 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888566
-#EXTINF:-1 tvg-id="" tvg-name="CBN (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",CBN (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893474
-#EXTINF:-1 tvg-id="" tvg-name="CENTRAL KIDS 24HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",CENTRAL KIDS 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888650
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Chapolin Colorado 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888567
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",CHAVES 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888568
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",CHAVES DESENHO 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888569
-#EXTINF:-1 tvg-id="" tvg-name="CIDADE FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",CIDADE FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893486
-#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",CINE KIDS 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888658
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894977
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894978
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894979
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894980
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894981
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894982
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894983
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894984
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894985
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894986
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY LIGA DA JUSTIÇA" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="CANAIS | CINE SKY",CINE SKY LIGA DA JUSTIÇA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894987
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.imgur.com/u5DpEKr.png" group-title="CANAIS | FILMES E SÉRIES ",CINEMAX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862328
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/u5DpEKr.png" group-title="CANAIS | FILMES E SÉRIES ",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856695
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/u5DpEKr.png" group-title="CANAIS | FILMES E SÉRIES ",CINEMAX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857119
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX [H265]" tvg-logo="https://i.imgur.com/u5DpEKr.png" group-title="CANAIS | FILMES E SÉRIES ",CINEMAX [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856923
-#EXTINF:-1 tvg-id="" tvg-name="CLUBE FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",CLUBE FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893491
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/TXUGFuN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862339
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/TXUGFuN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856805
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/TXUGFuN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857248
-#EXTINF:-1 tvg-id="" tvg-name="COCA COLA FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",COCA COLA FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893477
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://myclient.host/ESPORTES/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862272
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://myclient.host/ESPORTES/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856696
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://myclient.host/ESPORTES/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857120
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE [H265]" tvg-logo="https://myclient.host/ESPORTES/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856924
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://myclient.host/VARIEDADES/COMEDY%20CENTRAL.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862345
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://myclient.host/VARIEDADES/COMEDY%20CENTRAL.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856697
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL [H265]" tvg-logo="https://myclient.host/VARIEDADES/COMEDY%20CENTRAL.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856925
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="https://pbs.twimg.com/profile_images/1021468625901899776/k-ihUP_x.jpg" group-title="CANAIS | PPV",CONMEBOL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/895007
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="https://pbs.twimg.com/profile_images/1021468625901899776/k-ihUP_x.jpg" group-title="CANAIS | PPV",CONMEBOL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/895008
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="https://pbs.twimg.com/profile_images/1021468625901899776/k-ihUP_x.jpg" group-title="CANAIS | PPV",CONMEBOL 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/895009
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD" tvg-logo="https://i.imgur.com/gOsKfSY.png" group-title="CANAIS | PPV",CONMEBOL TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876444
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 SD" tvg-logo="" group-title="CANAIS | PPV",CONMEBOL TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894994
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD" tvg-logo="https://i.imgur.com/gOsKfSY.png" group-title="CANAIS | PPV",CONMEBOL TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876443
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 SD" tvg-logo="" group-title="CANAIS | PPV",CONMEBOL TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894997
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 FHD" tvg-logo="https://i.imgur.com/gOsKfSY.png" group-title="CANAIS | PPV",CONMEBOL TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876442
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 SD" tvg-logo="" group-title="CANAIS | PPV",CONMEBOL TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/895000
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 FHD" tvg-logo="https://i.imgur.com/gOsKfSY.png" group-title="CANAIS | PPV",CONMEBOL TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876441
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 SD" tvg-logo="" group-title="CANAIS | PPV",CONMEBOL TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/895003
-#EXTINF:-1 tvg-id="CPNordeste" tvg-name="COPA NORDESTE 1" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876454
-#EXTINF:-1 tvg-id="CPNordeste" tvg-name="COPA NORDESTE 2" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876455
-#EXTINF:-1 tvg-id="CPNordeste" tvg-name="COPA NORDESTE 3" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876456
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="CANAIS | 24 HORAS",Corrida Maluca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888646
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD" tvg-logo="https://myclient.host/VARIEDADES/CURTA%21.png" group-title="CANAIS | VARIEDADES",CURTA! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876501
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 01 HD" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="CANAIS | PPV",DAZN 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857016
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 02 HD" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="CANAIS | PPV",DAZN 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857017
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 03 HD" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="CANAIS | PPV",DAZN 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857018
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 04 HD" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="CANAIS | PPV",DAZN 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856824
-#EXTINF:-1 tvg-id="" tvg-name="Denis o Pimentinha 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Denis o Pimentinha 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888570
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Desenhos Biblicos 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888571
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Disney 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Desenhos Disney 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888572
-#EXTINF:-1 tvg-id="" tvg-name="Digimon 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Digimon 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888573
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862295
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856698
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857123
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856926
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20HOME%20%26%20HEALTH.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862294
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20HOME%20%26%20HEALTH.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856700
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20HOME%20%26%20HEALTH.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857124
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20HOME%20%26%20HEALTH.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856928
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://myclient.host/INFANTIL/DISCOVERY%20KIDS.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862311
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS H265" tvg-logo="https://myclient.host/INFANTIL/DISCOVERY%20KIDS.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879088
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://myclient.host/INFANTIL/DISCOVERY%20KIDS.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856701
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://myclient.host/INFANTIL/DISCOVERY%20KIDS.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857125
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20SCIENCE.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862307
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20SCIENCE.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856702
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20SCIENCE.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856930
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20THEATER.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862308
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20THEATER.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856703
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20THEATER.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856931
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/TLC%20DISCOVERY.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862296
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/TLC%20DISCOVERY.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856769
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/TLC%20DISCOVERY.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857218
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/TLC%20DISCOVERY.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856997
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862305
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856704
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857126
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856932
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20WORLD.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862289
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20WORLD.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856705
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20WORLD.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856933
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862312
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL H265" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879089
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856706
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857127
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20JUNIOR.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862313
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20JUNIOR.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856707
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20JUNIOR.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857128
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR [H265]" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20JUNIOR.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856935
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20XD.png" group-title="CANAIS | INFANTIS",DISNEY XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879099
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20XD.png" group-title="CANAIS | INFANTIS",DISNEY XD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857129
-#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DOG TV H265" tvg-logo="https://myclient.host/VARIEDADES/DOG%20TV.png" group-title="CANAIS | VARIEDADES",DOG TV H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876537
-#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Dois Homens e Meio 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888574
-#EXTINF:-1 tvg-id="" tvg-name="Doug 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Doug 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888575
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",DRAGON BALL 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888576
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",DRAGON BALL SUPER 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888577
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",DRAGON BALL Z 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888578
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="https://myclient.host/VARIEDADES/E%21.png" group-title="CANAIS | VARIEDADES",E! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862351
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://myclient.host/VARIEDADES/E%21.png" group-title="CANAIS | VARIEDADES",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856708
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! [H265]" tvg-logo="https://myclient.host/VARIEDADES/E%21.png" group-title="CANAIS | VARIEDADES",E! [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856936
-#EXTINF:-1 tvg-id="" tvg-name="EPTV CAMPINAS FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",EPTV CAMPINAS FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893333
-#EXTINF:-1 tvg-id="" tvg-name="EPTV CAMPINAS HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",EPTV CAMPINAS HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893332
-#EXTINF:-1 tvg-id="" tvg-name="EPTV RIBEIRAO PRETO FHD H265" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",EPTV RIBEIRAO PRETO FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893515
-#EXTINF:-1 tvg-id="" tvg-name="EPTV RIBEIRAO PRETO HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",EPTV RIBEIRAO PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893605
-#EXTINF:-1 tvg-id="" tvg-name="EPTV SAO CARLOS" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",EPTV SAO CARLOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893542
-#EXTINF:-1 tvg-id="" tvg-name="EPTV SUL DE MINAS FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",EPTV SUL DE MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893516
-#EXTINF:-1 tvg-id="" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",EPTV SUL DE MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893604
-#EXTINF:-1 tvg-id="" tvg-name="EPTVCAMPINAS" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",EPTVCAMPINAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893543
-#EXTINF:-1 tvg-id="" tvg-name="EPTVRIBEIRAOPRETO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",EPTVRIBEIRAOPRETO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893544
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 FHD" tvg-logo="https://myclient.host/ESPORTES/ESPN.png" group-title="CANAIS | ESPORTES",ESPN 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862259
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 HD" tvg-logo="https://myclient.host/ESPORTES/ESPN.png" group-title="CANAIS | ESPORTES",ESPN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856711
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 SD" tvg-logo="https://myclient.host/ESPORTES/ESPN.png" group-title="CANAIS | ESPORTES",ESPN 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857134
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 [H265]" tvg-logo="https://myclient.host/ESPORTES/ESPN.png" group-title="CANAIS | ESPORTES",ESPN 1 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856938
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD" tvg-logo="https://myclient.host/ESPORTES/ESPN%202.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862260
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://myclient.host/ESPORTES/ESPN%202.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856709
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="https://myclient.host/ESPORTES/ESPN%202.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857135
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 [H265]" tvg-logo="https://myclient.host/ESPORTES/ESPN%202.png" group-title="CANAIS | ESPORTES",ESPN 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856939
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://myclient.host/ESPORTES/ESPN%20BRASIL.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862257
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://myclient.host/ESPORTES/ESPN%20BRASIL.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856710
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://myclient.host/ESPORTES/ESPN%20BRASIL.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857136
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL [H265]" tvg-logo="https://myclient.host/ESPORTES/ESPN%20BRASIL.png" group-title="CANAIS | ESPORTES",ESPN BRASIL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856940
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://myclient.host/ESPORTES/ESPN%20EXTRA.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862258
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://myclient.host/ESPORTES/ESPN%20EXTRA.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856712
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA [H265]" tvg-logo="https://myclient.host/ESPORTES/ESPN%20EXTRA.png" group-title="CANAIS | ESPORTES",ESPN EXTRA [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856937
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="ESTÁDIO TNT SPORTS 01 HD" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",ESTÁDIO TNT SPORTS 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862077
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="ESTÁDIO TNT SPORTS 02 HD" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",ESTÁDIO TNT SPORTS 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862078
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="ESTÁDIO TNT SPORTS 03 HD" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",ESTÁDIO TNT SPORTS 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862026
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="ESTÁDIO TNT SPORTS 04 HD" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",ESTÁDIO TNT SPORTS 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862027
-#EXTINF:-1 tvg-id="LiveEI" tvg-name="ESTÁDIO TNT SPORTS 05 HD" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",ESTÁDIO TNT SPORTS 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862110
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Eu a Patroa e as Crianças 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888579
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://myclient.host/ESPORTES/FISH%20TV.png" group-title="CANAIS | ESPORTES",FISH TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856941
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV H265" tvg-logo="https://myclient.host/ESPORTES/FISH%20TV.png" group-title="CANAIS | ESPORTES",FISH TV H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879090
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://myclient.host/ESPORTES/FISH%20TV.png" group-title="CANAIS | ESPORTES",FISH TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876503
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD  NETWORK FHD" tvg-logo="https://myclient.host/VARIEDADES/FOOD%20NETWORK.png" group-title="CANAIS | VARIEDADES",FOOD  NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862350
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://myclient.host/VARIEDADES/FOOD%20NETWORK.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856713
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://myclient.host/VARIEDADES/FOOD%20NETWORK.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857139
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK [H265]" tvg-logo="https://myclient.host/VARIEDADES/FOOD%20NETWORK.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856942
-#EXTINF:-1 tvg-id="" tvg-name="Formiga Atómica 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Formiga Atómica 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888580
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 1 FHD" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS.png" group-title="CANAIS | ESPORTES",FOX SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862262
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 1 HD" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS.png" group-title="CANAIS | ESPORTES",FOX SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862270
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 1 SD" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS.png" group-title="CANAIS | ESPORTES",FOX SPORTS 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857142
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 1 [H265]" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS.png" group-title="CANAIS | ESPORTES",FOX SPORTS 1 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856946
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS%202.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862261
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS%202.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856718
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS%202.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857143
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 [H265]" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS%202.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856947
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/h19NtTP.png" group-title="CANAIS | FILMES E SÉRIES ",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862329
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/h19NtTP.png" group-title="CANAIS | FILMES E SÉRIES ",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856720
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://i.imgur.com/h19NtTP.png" group-title="CANAIS | FILMES E SÉRIES ",FX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857145
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX [H265]" tvg-logo="https://i.imgur.com/h19NtTP.png" group-title="CANAIS | FILMES E SÉRIES ",FX [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856948
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Galinha Pintadinha 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888581
-#EXTINF:-1 tvg-id="" tvg-name="GAUCHA ZH (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",GAUCHA ZH (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893476
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",GAZETA FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893484
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA HD ¹ SP" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GAZETA HD ¹ SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893324
-#EXTINF:-1 tvg-id="" tvg-name="GERAÇÃO FUNK FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",GERAÇÃO FUNK FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893487
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ALAGOAS FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO ALAGOAS FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893400
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ALAGOAS HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO ALAGOAS HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893401
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA  FHD ¹ (SALVADOR)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO BAHIA  FHD ¹ (SALVADOR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893343
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD ¹ (SALVADOR)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD ¹ (SALVADOR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893344
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893380
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD ¹ H265" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD ¹ H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893390
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893325
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO INTEGRAÇÃO MG FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893354
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO INTEGRAÇÃO MG HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893353
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER DO VALE FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO INTER DO VALE FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893350
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO INTER VALE MG HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893349
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOAÇABA FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO JOAÇABA FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893406
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOAÇABA HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO JOAÇABA HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893407
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO JUIZ DE FORA MG FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893404
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO JUIZ DE FORA MG HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893405
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO MANAUS HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893394
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MG FHD ¹ H265" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO MG FHD ¹ H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893391
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO MINAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893381
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893395
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MOGI DAS CRUZES FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO MOGI DAS CRUZES FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893408
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MOGI DAS CRUZES HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO MOGI DAS CRUZES HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893409
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MONTES CLAROS MG FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO MONTES CLAROS MG FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893398
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MONTES CLAROS MG HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO MONTES CLAROS MG HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893399
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862340
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856721
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857148
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893382
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893351
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893352
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PARAIBA HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO PARAIBA HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893389
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRUDENTE SP FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO PRESIDENTE PRUDENTE SP FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893402
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PRESIDENTE PRUDENTE SP HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO PRESIDENTE PRUDENTE SP HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893403
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893383
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893331
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO RJ HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893326
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE - TV SERGIPE HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO SERGIPE - TV SERGIPE HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893327
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893384
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD ¹ H265" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO SP FHD ¹ H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893385
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FULL HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO SP FULL HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893386
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",GLOBO SP HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893396
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://myclient.host/INFANTIL/GLOOB.png" group-title="CANAIS | INFANTIS",GLOOB FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862314
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://myclient.host/INFANTIL/GLOOB.png" group-title="CANAIS | INFANTIS",GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856723
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://myclient.host/INFANTIL/GLOOB.png" group-title="CANAIS | INFANTIS",GLOOB SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857152
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB [H265]" tvg-logo="https://myclient.host/INFANTIL/GLOOB.png" group-title="CANAIS | INFANTIS",GLOOB [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856950
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://myclient.host/INFANTIL/GLOOBINHO.png" group-title="CANAIS | INFANTIS",GLOOBINHO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862315
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO H265" tvg-logo="https://myclient.host/INFANTIL/GLOOBINHO.png" group-title="CANAIS | INFANTIS",GLOOBINHO H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879105
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://myclient.host/INFANTIL/GLOOBINHO.png" group-title="CANAIS | INFANTIS",GLOOBINHO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856837
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://myclient.host/INFANTIL/GLOOBINHO.png" group-title="CANAIS | INFANTIS",GLOOBINHO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876506
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="https://myclient.host/VARIEDADES/GNT.png" group-title="CANAIS | VARIEDADES",GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862349
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://myclient.host/VARIEDADES/GNT.png" group-title="CANAIS | VARIEDADES",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856724
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://myclient.host/VARIEDADES/GNT.png" group-title="CANAIS | VARIEDADES",GNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857153
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT [H265]" tvg-logo="https://myclient.host/VARIEDADES/GNT.png" group-title="CANAIS | VARIEDADES",GNT [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856951
-#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galaxia 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Guardiões da Galaxia 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888582
-#EXTINF:-1 tvg-id="" tvg-name="GÊNESIS 24 HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",GÊNESIS 24 HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888660
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 1 FHD" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="CANAIS | HBO",HBO 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862280
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 1 HD" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="CANAIS | HBO",HBO 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856727
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 SD" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="CANAIS | HBO",HBO 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857154
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 1 [H265]" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="CANAIS | HBO",HBO 1 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856953
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="https://myclient.host/HBO/HBO%202.png" group-title="CANAIS | HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862281
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://myclient.host/HBO/HBO%202.png" group-title="CANAIS | HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856725
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="https://myclient.host/HBO/HBO%202.png" group-title="CANAIS | HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857158
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 [H265]" tvg-logo="https://myclient.host/HBO/HBO%202.png" group-title="CANAIS | HBO",HBO 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856956
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://myclient.host/HBO/HBO%20FAMILY.png" group-title="CANAIS | HBO",HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862283
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://myclient.host/HBO/HBO%20FAMILY.png" group-title="CANAIS | HBO",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856726
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD" tvg-logo="https://myclient.host/HBO/HBO%20FAMILY.png" group-title="CANAIS | HBO",HBO FAMILY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857155
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY [H265]" tvg-logo="https://myclient.host/HBO/HBO%20FAMILY.png" group-title="CANAIS | HBO",HBO FAMILY [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856952
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888680
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888681
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PPV",HBO MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876385
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PPV",HBO MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876384
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | PPV",HBO MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876383
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 1" tvg-logo="" group-title="CANAIS | PPV",HBO MAX CHAMPIONS LEAGUE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894704
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 2" tvg-logo="" group-title="CANAIS | PPV",HBO MAX CHAMPIONS LEAGUE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894700
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 3" tvg-logo="" group-title="CANAIS | PPV",HBO MAX CHAMPIONS LEAGUE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894701
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 4" tvg-logo="" group-title="CANAIS | PPV",HBO MAX CHAMPIONS LEAGUE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894702
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 5" tvg-logo="" group-title="CANAIS | PPV",HBO MAX CHAMPIONS LEAGUE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894703
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://myclient.host/HBO/HBO%20MUNDI.png" group-title="CANAIS | HBO",HBO MUNDI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876545
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO MUNDI FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888686
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://myclient.host/HBO/HBO%20MUNDI.png" group-title="CANAIS | HBO",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856734
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO MUNDI HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888687
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI [H265]" tvg-logo="https://myclient.host/HBO/HBO%20MUNDI.png" group-title="CANAIS | HBO",HBO MUNDI [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856962
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://myclient.host/HBO/HBO%20PLUS.png" group-title="CANAIS | HBO",HBO PLUS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862282
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO PLUS FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888682
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="https://myclient.host/HBO/HBO%20PLUS.png" group-title="CANAIS | HBO",HBO PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856728
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO PLUS HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888683
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD" tvg-logo="https://myclient.host/HBO/HBO%20PLUS.png" group-title="CANAIS | HBO",HBO PLUS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857156
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS [H265]" tvg-logo="https://myclient.host/HBO/HBO%20PLUS.png" group-title="CANAIS | HBO",HBO PLUS [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856954
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="https://myclient.host/HBO/HBO%20POP.png" group-title="CANAIS | HBO",HBO POP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862287
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO POP FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888688
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP SD²" tvg-logo="https://myclient.host/HBO/HBO%20POP.png" group-title="CANAIS | HBO",HBO POP SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894621
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://myclient.host/HBO/HBO%20POP.png" group-title="CANAIS | HBO",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856736
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO POP HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888689
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP [H265]" tvg-logo="https://myclient.host/HBO/HBO%20POP.png" group-title="CANAIS | HBO",HBO POP [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856964
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://myclient.host/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862284
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO SIGNATURE FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888684
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://myclient.host/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856729
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO SIGNATURE HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888685
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://myclient.host/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857157
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE [H265]" tvg-logo="https://myclient.host/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | HBO",HBO SIGNATURE [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856955
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO XTREAM HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888691
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME SD²" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="CANAIS | HBO",HBO XTREME SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894620
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="CANAIS | HBO",HBO XTREME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862286
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",HBO XTREME FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888690
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="CANAIS | HBO",HBO XTREME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856735
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME [H265]" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="CANAIS | HBO",HBO XTREME [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856963
-#EXTINF:-1 tvg-id="" tvg-name="He-Man 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",He-Man 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888583
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HGTV%20HOME%20%26%20GARDEN.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862348
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HGTV%20HOME%20%26%20GARDEN.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856699
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/HGTV%20HOME%20%26%20GARDEN.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856927
-#EXTINF:-1 tvg-id="" tvg-name="Historias Disney 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Historias Disney 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888585
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY CHANNEL 2 FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%202.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862293
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY CHANNEL 2 HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%202.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856730
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY CHANNEL 2 SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%202.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857159
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY CHANNEL 2 [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%202.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856958
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862269
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856731
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857244
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856957
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",HOMEM ARANHA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888586
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Homem de Ferro 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888587
-#EXTINF:-1 tvg-id="" tvg-name="HOMEMS DE PRETO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",HOMEMS DE PRETO 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888588
-#EXTINF:-1 tvg-id="" tvg-name="Hércules 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Hércules 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888584
-#EXTINF:-1 tvg-id="" tvg-name="IGREJA UNIVERSAL" tvg-logo="https://myclient.host/RELIGIOSOS/UNIVERSAL.png" group-title="CANAIS | RELIGIOSOS",IGREJA UNIVERSAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/882393
-#EXTINF:-1 tvg-id="" tvg-name="Incrível Hulk 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Incrível Hulk 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888589
-#EXTINF:-1 tvg-id="" tvg-name="INTER TV RJ FHD ¹ ( REGIAO SERRANA)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",INTER TV RJ FHD ¹ ( REGIAO SERRANA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893348
-#EXTINF:-1 tvg-id="" tvg-name="INTER TV RJ HD ¹ (REGIAO SERRANA)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",INTER TV RJ HD ¹ (REGIAO SERRANA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893347
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20INVESTIGATION.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇAO DISCOVERY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862306
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20INVESTIGATION.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856732
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20INVESTIGATION.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857160
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20INVESTIGATION.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856959
-#EXTINF:-1 tvg-id="" tvg-name="Jack-Chan 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Jack-Chan 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888590
-#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Jaspion 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888591
-#EXTINF:-1 tvg-id="" tvg-name="JB FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",JB FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893482
-#EXTINF:-1 tvg-id="" tvg-name="JESUS 24 HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",JESUS 24 HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888662
-#EXTINF:-1 tvg-id="" tvg-name="JEZABEL 24HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",JEZABEL 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888659
-#EXTINF:-1 tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",JIRAYA O Incrível Ninja 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888592
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAM SP (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",JOVEM PAM SP (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893472
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/886003
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/886004
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/886005
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News SD" tvg-logo="" group-title="CANAIS | NOTÍCIAS",Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/895006
-#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Kenan e Kel 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888593
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="https://i.imgur.com/8dNn2ZG.png" group-title="CANAIS | FILMES E SÉRIES ",LIFETIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862288
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/8dNn2ZG.png" group-title="CANAIS | FILMES E SÉRIES ",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856733
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.imgur.com/8dNn2ZG.png" group-title="CANAIS | FILMES E SÉRIES ",LIFETIME SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857162
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME [H265]" tvg-logo="https://i.imgur.com/8dNn2ZG.png" group-title="CANAIS | FILMES E SÉRIES ",LIFETIME [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856960
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Liga da Justica 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888641
-#EXTINF:-1 tvg-id="loading" tvg-name="LOADING FHD" tvg-logo="https://i.imgur.com/Mz3L6ZK.png" group-title="CANAIS | VARIEDADES",LOADING FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862366
-#EXTINF:-1 tvg-id="loading" tvg-name="LOADING HD" tvg-logo="https://i.imgur.com/Mz3L6ZK.png" group-title="CANAIS | VARIEDADES",LOADING HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856847
-#EXTINF:-1 tvg-id="loading" tvg-name="LOADING SD" tvg-logo="https://i.imgur.com/Mz3L6ZK.png" group-title="CANAIS | VARIEDADES",LOADING SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857045
-#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Luluzinha 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888594
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD" tvg-logo="https://i.imgur.com/RLxDnW5.png" group-title="CANAIS | FILMES E SÉRIES ",MAIS NA TELA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876554
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD [H265]" tvg-logo="https://i.imgur.com/RLxDnW5.png" group-title="CANAIS | FILMES E SÉRIES ",MAIS NA TELA FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879080
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA HD" tvg-logo="https://i.imgur.com/RLxDnW5.png" group-title="CANAIS | FILMES E SÉRIES ",MAIS NA TELA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876508
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA SD" tvg-logo="https://i.imgur.com/RLxDnW5.png" group-title="CANAIS | FILMES E SÉRIES ",MAIS NA TELA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876507
-#EXTINF:-1 tvg-id="" tvg-name="Medabots 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Medabots 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888595
-#EXTINF:-1 tvg-id="" tvg-name="MegaMan 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",MegaMan 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888596
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://i.imgur.com/KQ3B7QE.png" group-title="CANAIS | FILMES E SÉRIES ",MEGAPIX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862330
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/KQ3B7QE.png" group-title="CANAIS | FILMES E SÉRIES ",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856737
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.imgur.com/KQ3B7QE.png" group-title="CANAIS | FILMES E SÉRIES ",MEGAPIX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857167
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX [H265]" tvg-logo="https://i.imgur.com/KQ3B7QE.png" group-title="CANAIS | FILMES E SÉRIES ",MEGAPIX [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856965
-#EXTINF:-1 tvg-id="" tvg-name="METROPOLITANA FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",METROPOLITANA FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893475
-#EXTINF:-1 tvg-id="" tvg-name="METROPOLITANA SERTANEJA (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",METROPOLITANA SERTANEJA (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893480
-#EXTINF:-1 tvg-id="" tvg-name="MIX FM SP (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",MIX FM SP (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893479
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network [BASEBALL]" tvg-logo="https://i.dansdeals.com/wp-content/uploads/2018/02/27105556/9084e3cab91514073f20a21b5147064709c943b63247a4d567f99a23ffa4c3ae.png" group-title="CANAIS | PPV",MLB Network [BASEBALL]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894968
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Mortal Kombat 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888597
-#EXTINF:-1 tvg-id="" tvg-name="Mr.Ben 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Mr.Ben 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888598
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00s FHD" tvg-logo="https://i.imgur.com/rwh3pws.png" group-title="CANAIS | VARIEDADES",MTV 00s FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876551
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00s H265" tvg-logo="https://i.imgur.com/rwh3pws.png" group-title="CANAIS | VARIEDADES",MTV 00s H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879086
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="MTV 00s HD" tvg-logo="https://i.imgur.com/rwh3pws.png" group-title="CANAIS | VARIEDADES",MTV 00s HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876524
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00s SD" tvg-logo="https://i.imgur.com/rwh3pws.png" group-title="CANAIS | VARIEDADES",MTV 00s SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876523
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://i.imgur.com/WZhuIdj.png" group-title="CANAIS | VARIEDADES",MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862341
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/WZhuIdj.png" group-title="CANAIS | VARIEDADES",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856738
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD" tvg-logo="https://i.imgur.com/FeRf5EY.png" group-title="CANAIS | VARIEDADES",MTV LIVE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876546
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE H265" tvg-logo="https://i.imgur.com/FeRf5EY.png" group-title="CANAIS | VARIEDADES",MTV LIVE H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879093
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="https://i.imgur.com/FeRf5EY.png" group-title="CANAIS | VARIEDADES",MTV LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876526
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD" tvg-logo="https://i.imgur.com/FeRf5EY.png" group-title="CANAIS | VARIEDADES",MTV LIVE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876525
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/WZhuIdj.png" group-title="CANAIS | VARIEDADES",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857168
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV [H265]" tvg-logo="https://i.imgur.com/WZhuIdj.png" group-title="CANAIS | VARIEDADES",MTV [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856966
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862347
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856739
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857169
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW [H265]" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="CANAIS | VARIEDADES",MULTISHOW [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856967
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.imgur.com/cuHirvC.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857171
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://i.imgur.com/cuHirvC.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857170
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",NARUTO 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888599
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden DUB 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Naruto Shippuden DUB 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888600
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862292
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856740
-#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NATGEO KIDS FHD" tvg-logo="https://myclient.host/INFANTIL/NAT%20GEO%20KIDS.png" group-title="CANAIS | INFANTIS",NATGEO KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862316
-#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NATGEO KIDS HD" tvg-logo="https://myclient.host/INFANTIL/NAT%20GEO%20KIDS.png" group-title="CANAIS | INFANTIS",NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856741
-#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NATGEO KIDS SD" tvg-logo="https://myclient.host/INFANTIL/NAT%20GEO%20KIDS.png" group-title="CANAIS | INFANTIS",NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857172
-#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NATGEO KIDS [H265]" tvg-logo="https://myclient.host/INFANTIL/NAT%20GEO%20KIDS.png" group-title="CANAIS | INFANTIS",NATGEO KIDS [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856970
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857174
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC%20WILD.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862290
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC%20WILD.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856742
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC%20WILD.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857173
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC%20WILD.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856969
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856968
-#EXTINF:-1 tvg-id="" tvg-name="NFL GAMEDAY [FUTEBOL-AMERICANO]" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="CANAIS | PPV",NFL GAMEDAY [FUTEBOL-AMERICANO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894970
-#EXTINF:-1 tvg-id="" tvg-name="NHL NETWORK [HOCKEY]" tvg-logo="https://static.epg.best/us/NHLNetwork.us.png" group-title="CANAIS | PPV",NHL NETWORK [HOCKEY]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894969
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD" tvg-logo="https://myclient.host/INFANTIL/NICK%20JR.png" group-title="CANAIS | INFANTIS",NICK JR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862318
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="https://myclient.host/INFANTIL/NICK%20JR.png" group-title="CANAIS | INFANTIS",NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856744
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD" tvg-logo="https://myclient.host/INFANTIL/NICK%20JR.png" group-title="CANAIS | INFANTIS",NICK JR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857176
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR [H265]" tvg-logo="https://myclient.host/INFANTIL/NICK%20JR.png" group-title="CANAIS | INFANTIS",NICK JR [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856972
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FHD" tvg-logo="https://myclient.host/INFANTIL/NICKELODEON.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862317
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://myclient.host/INFANTIL/NICKELODEON.png" group-title="CANAIS | INFANTIS",NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856743
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://myclient.host/INFANTIL/NICKELODEON.png" group-title="CANAIS | INFANTIS",NICKELODEON SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857177
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON [H265]" tvg-logo="https://myclient.host/INFANTIL/NICKELODEON.png" group-title="CANAIS | INFANTIS",NICKELODEON [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856971
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="NOVO TEMPO HD" tvg-logo="https://myclient.host/RELIGIOSOS/NOVO%20TEMPO.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856809
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="NOVO TEMPO SD" tvg-logo="https://myclient.host/RELIGIOSOS/NOVO%20TEMPO.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857246
-#EXTINF:-1 tvg-id="" tvg-name="NSC BLUMENAU FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",NSC BLUMENAU FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893524
-#EXTINF:-1 tvg-id="" tvg-name="NSC BLUMENAU HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",NSC BLUMENAU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893525
-#EXTINF:-1 tvg-id="" tvg-name="NSC TV CHAPECO FHD ¹ -GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",NSC TV CHAPECO FHD ¹ -GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893370
-#EXTINF:-1 tvg-id="" tvg-name="NSC TV CHAPECO HD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",NSC TV CHAPECO HD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893369
-#EXTINF:-1 tvg-id="" tvg-name="NSCTV JOI FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",NSCTV JOI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893607
-#EXTINF:-1 tvg-id="" tvg-name="NSCTV JOI HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",NSCTV JOI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893608
-#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Bobby 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",O Fantástico Mundo de Bobby 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888601
-#EXTINF:-1 tvg-id="" tvg-name="O INSPETOR 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",O INSPETOR 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888602
-#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",O MASKARA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888603
-#EXTINF:-1 tvg-id="" tvg-name="O REI DO GADO 24HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",O REI DO GADO 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888663
-#EXTINF:-1 tvg-id="" tvg-name="O RICO E O LAZARO" tvg-logo="" group-title="CANAIS | 24 HORAS",O RICO E O LAZARO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888661
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="https://myclient.host/ESPORTES/CANAL%20OFF.png" group-title="CANAIS | ESPORTES",OFF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862346
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://myclient.host/ESPORTES/CANAL%20OFF.png" group-title="CANAIS | ESPORTES",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856745
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="https://myclient.host/ESPORTES/CANAL%20OFF.png" group-title="CANAIS | ESPORTES",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857178
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF [H265]" tvg-logo="https://myclient.host/ESPORTES/CANAL%20OFF.png" group-title="CANAIS | ESPORTES",OFF [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856973
-#EXTINF:-1 tvg-id="" tvg-name="Os Anjinhos - Rugrats 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Os Anjinhos - Rugrats 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888604
-#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",OS CAVALEIROS DO ZODIACO 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888605
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",OS FLINTSTONES 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888606
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",OS SIMPSONS 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888607
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Os Vingadores 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888608
-#EXTINF:-1 tvg-id="" tvg-name="Papa-Léguas 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Papa-Léguas 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888609
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.imgur.com/iX3mv2d.png" group-title="CANAIS | FILMES E SÉRIES ",PARAMOUNT CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862332
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://i.imgur.com/iX3mv2d.png" group-title="CANAIS | FILMES E SÉRIES ",PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856746
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://i.imgur.com/iX3mv2d.png" group-title="CANAIS | FILMES E SÉRIES ",PARAMOUNT CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857179
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL [H265]" tvg-logo="https://i.imgur.com/iX3mv2d.png" group-title="CANAIS | FILMES E SÉRIES ",PARAMOUNT CHANNEL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856974
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Peppa Pig 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888610
-#EXTINF:-1 tvg-id="" tvg-name="PEQUENOS ESPIOES 24 HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",PEQUENOS ESPIOES 24 HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888651
-#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",PERNALONGA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888611
-#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Phineas e Ferb 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888612
-#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",PICA PAU 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888613
-#EXTINF:-1 tvg-id="" tvg-name="Pink-e-Cerebro 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Pink-e-Cerebro 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888614
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD H264" tvg-logo="https://i.imgur.com/qmlhYk9.png" group-title="CANAIS | ADULTOS",PLAYBOY FHD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888746
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",POKEMON 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888615
-#EXTINF:-1 tvg-id="Polishop.br" tvg-name="POLISHOP TV SD" tvg-logo="https://myclient.host/VARIEDADES/POLISHOP.png" group-title="CANAIS | VARIEDADES",POLISHOP TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857182
-#EXTINF:-1 tvg-id="" tvg-name="POP FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",POP FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893492
-#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Popeye O Marinheiro 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888616
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 CLUBES FHD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876261
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 CLUBES FHD [H265]" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876262
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 CLUBES HD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876263
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 CLUBES SD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876264
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://imgur.com/MqG6jUi.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876265
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD [H265]" tvg-logo="https://imgur.com/MqG6jUi.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876266
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://imgur.com/MqG6jUi.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876267
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://imgur.com/MqG6jUi.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876268
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="https://imgur.com/MqG6jUi.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876269
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD [H265]" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876270
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876271
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876272
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876273
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD [H265]" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876274
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876275
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876276
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876277
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD [H265]" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876278
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876279
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876280
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876281
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD [H265]" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876282
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876283
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876284
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876285
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD [H265]" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876286
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876287
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://myclient.host/ESPORTES/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876288
-#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://i.imgur.com/9L7lwdN.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876510
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PRIME BOX BRASIL SD" tvg-logo="https://i.imgur.com/9L7lwdN.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876509
-#EXTINF:-1 tvg-id="" tvg-name="Rambo 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Rambo 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888617
-#EXTINF:-1 tvg-id="" tvg-name="RBS CAXIAS FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RBS CAXIAS FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893337
-#EXTINF:-1 tvg-id="" tvg-name="RBS CAXIAS HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RBS CAXIAS HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893336
-#EXTINF:-1 tvg-id="" tvg-name="RBS FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RBS FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893397
-#EXTINF:-1 tvg-id="" tvg-name="RBS HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RBS HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893328
-#EXTINF:-1 tvg-id="" tvg-name="RBS PASSO FUNDO FHD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RBS PASSO FUNDO FHD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893368
-#EXTINF:-1 tvg-id="" tvg-name="RBS PASSO FUNDO HD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RBS PASSO FUNDO HD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893367
-#EXTINF:-1 tvg-id="" tvg-name="RBS PELOTAS FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RBS PELOTAS FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893338
-#EXTINF:-1 tvg-id="" tvg-name="RBS PELOTAS HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RBS PELOTAS HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893339
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV PORTOALEGRE" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RBS TV PORTOALEGRE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893555
-#EXTINF:-1 tvg-id="" tvg-name="RBSTV STA MARIA" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RBSTV STA MARIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893631
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BH MINAS HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD BH MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888450
-#EXTINF:-1 tvg-id="" tvg-name="Record Brasilia HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",Record Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888453
-#EXTINF:-1 tvg-id="" tvg-name="RECORD ITAPOAN - BAHIA" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD ITAPOAN - BAHIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888472
-#EXTINF:-1 tvg-id="" tvg-name="RECORD ITAPOAN HD - BAHIA" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD ITAPOAN HD - BAHIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888451
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD MANAUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888465
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS FHD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888452
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.imgur.com/T1qFlzc.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879106
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.imgur.com/T1qFlzc.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856807
-#EXTINF:-1 tvg-id="" tvg-name="Record RJ HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",Record RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888460
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS FHD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD RS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888468
-#EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",Record RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888454
-#EXTINF:-1 tvg-id="" tvg-name="Record Sao Jose Rio Preto HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",Record Sao Jose Rio Preto HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888455
-#EXTINF:-1 tvg-id="" tvg-name="Record Sergipe - Tv Atalaia HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",Record Sergipe - Tv Atalaia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888456
-#EXTINF:-1 tvg-id="" tvg-name="Record SP FHD H265" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",Record SP FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888471
-#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",Record SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888470
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888469
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Belem HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",Record TV Belem HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888457
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV GOIANIA HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD TV GOIANIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888449
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV LITORAL HD Santos" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD TV LITORAL HD Santos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888458
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Minas HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",Record TV Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888459
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV PARANÁ FHD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD TV PARANÁ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888467
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV PARANÁ HD" tvg-logo="https://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD TV PARANÁ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888464
-#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA BOA VISTA FHD ¹ - GLOBO RORAIMA" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",REDE AMAZONICA BOA VISTA FHD ¹ - GLOBO RORAIMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893374
-#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA BOA VISTA HD ¹ - GLOBO RORAIMA" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",REDE AMAZONICA BOA VISTA HD ¹ - GLOBO RORAIMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893373
-#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",REDE AMAZONICA FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893410
-#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",REDE AMAZONICA HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893411
-#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA MANAUS" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",REDE AMAZONICA MANAUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893556
-#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA PORTO VELHO FHD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",REDE AMAZONICA PORTO VELHO FHD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893379
-#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA PORTO VELHO HD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",REDE AMAZONICA PORTO VELHO HD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893378
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893673
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893674
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893672
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://myclient.host/RELIGIOSOS/REDE%20VIDA.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876529
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE VIDA SD" tvg-logo="https://myclient.host/RELIGIOSOS/REDE%20VIDA.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857198
-#EXTINF:-1 tvg-id="" tvg-name="REI DAVI 24 HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",REI DAVI 24 HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888665
-#EXTINF:-1 tvg-id="" tvg-name="RPC CASCAVEL FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RPC CASCAVEL FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893358
-#EXTINF:-1 tvg-id="" tvg-name="RPC CASCAVEL HD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RPC CASCAVEL HD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893357
-#EXTINF:-1 tvg-id="" tvg-name="RPC CURITIBA FHD ¹ (GLOBO)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RPC CURITIBA FHD ¹ (GLOBO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893360
-#EXTINF:-1 tvg-id="" tvg-name="RPC CURITIBA HD ¹ (GLOBO)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RPC CURITIBA HD ¹ (GLOBO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893359
-#EXTINF:-1 tvg-id="" tvg-name="RPC FOZ DO IGUAÇU FHD ¹" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RPC FOZ DO IGUAÇU FHD ¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893340
-#EXTINF:-1 tvg-id="" tvg-name="RPC FOZ DO IGUAÇU HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RPC FOZ DO IGUAÇU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893606
-#EXTINF:-1 tvg-id="" tvg-name="RPC PARANAVAI FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RPC PARANAVAI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893611
-#EXTINF:-1 tvg-id="" tvg-name="RPC PARANAVAI HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RPC PARANAVAI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893612
-#EXTINF:-1 tvg-id="" tvg-name="RPC TV CURITIBA" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",RPC TV CURITIBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893559
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO 105 FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO 105 FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856894
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO ABC COUNTRY FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO ABC COUNTRY FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856911
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO ANTENA 1 FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO ANTENA 1 FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856893
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO COCA COLA FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO COCA COLA FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856897
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO COUNTRY FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO COUNTRY FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856908
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO GAZETA FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO GAZETA FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856904
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO GERAÇÃO FUNK FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO GERAÇÃO FUNK FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856907
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO JOVEM PAM SP FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO JOVEM PAM SP FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856892
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO JOVEM POP FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO JOVEM POP FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856912
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO MIX RJ FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO MIX RJ FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856902
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO MIX SP FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO MIX SP FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856899
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO SAMBA E PAGODE FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO SAMBA E PAGODE FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856909
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO SERTANEJA RAIZ FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO SERTANEJA RAIZ FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856898
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO TERRA GO FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO TERRA GO FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856910
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO TRANSAMERICA FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO TRANSAMERICA FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856905
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO TROPICAL FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO TROPICAL FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856906
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO VILA MIX FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO VILA MIX FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856896
-#EXTINF:-1 tvg-id="" tvg-name="SAMBA E PAGODE FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",SAMBA E PAGODE FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893489
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888759
-#EXTINF:-1 tvg-id="" tvg-name="SBT BSB HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT BSB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888750
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANÁ FHD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT PARANÁ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888757
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANÁ HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT PARANÁ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888753
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888754
-#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888751
-#EXTINF:-1 tvg-id="" tvg-name="SBT Sergipe -Tv Aperiper HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT Sergipe -Tv Aperiper HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888752
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD H264" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT SP FHD H264
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888760
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888758
-#EXTINF:-1 tvg-id="" tvg-name="SBT VTV CAMPINAS FHD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT VTV CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888756
-#EXTINF:-1 tvg-id="" tvg-name="SBT VTV CAMPINAS HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT VTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888755
-#EXTINF:-1 tvg-id="" tvg-name="SBT-MG-Tv Alterosa FHD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",SBT-MG-Tv Alterosa FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888762
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Scooby-Doo 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888618
-#EXTINF:-1 tvg-id="" tvg-name="Smallville 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Smallville 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888619
-#EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="SMITHSONIAN CHANNEL HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/SMITHSONIAN%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",SMITHSONIAN CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856808
-#EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="SMITHSONIAN CHANNEL [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/SMITHSONIAN%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",SMITHSONIAN CHANNEL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879108
-#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Sobrenatural 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888620
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL FHD" tvg-logo="https://i.imgur.com/yOewiFz.png" group-title="CANAIS | FILMES E SÉRIES ",SONY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862331
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.imgur.com/yOewiFz.png" group-title="CANAIS | FILMES E SÉRIES ",SONY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856693
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL SD" tvg-logo="https://i.imgur.com/yOewiFz.png" group-title="CANAIS | FILMES E SÉRIES ",SONY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857116
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL [H265]" tvg-logo="https://i.imgur.com/yOewiFz.png" group-title="CANAIS | FILMES E SÉRIES ",SONY CHANNEL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856921
-#EXTINF:-1 tvg-id="" tvg-name="South Park 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",South Park 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888621
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://i.imgur.com/Mr17F7E.png" group-title="CANAIS | FILMES E SÉRIES ",SPACE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862333
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/Mr17F7E.png" group-title="CANAIS | FILMES E SÉRIES ",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856756
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/Mr17F7E.png" group-title="CANAIS | FILMES E SÉRIES ",SPACE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857203
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE [H265]" tvg-logo="https://i.imgur.com/Mr17F7E.png" group-title="CANAIS | FILMES E SÉRIES ",SPACE [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856984
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 FHD" tvg-logo="https://myclient.host/ESPORTES/1638712482466.png" group-title="CANAIS | ESPORTES",SPORTV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862264
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 HD" tvg-logo="https://myclient.host/ESPORTES/1638712482466.png" group-title="CANAIS | ESPORTES",SPORTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856759
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 SD" tvg-logo="https://myclient.host/ESPORTES/1638712482466.png" group-title="CANAIS | ESPORTES",SPORTV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857204
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 [H265]" tvg-logo="https://myclient.host/ESPORTES/1638712482466.png" group-title="CANAIS | ESPORTES",SPORTV 1 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856987
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://myclient.host/ESPORTES/1638712455883.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862265
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://myclient.host/ESPORTES/1638712455883.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856757
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://myclient.host/ESPORTES/1638712455883.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857205
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 [H265]" tvg-logo="https://myclient.host/ESPORTES/1638712455883.png" group-title="CANAIS | ESPORTES",SPORTV 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856985
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://myclient.host/ESPORTES/1638712472728.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862266
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://myclient.host/ESPORTES/1638712472728.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856758
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://myclient.host/ESPORTES/1638712472728.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857206
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 [H265]" tvg-logo="https://myclient.host/ESPORTES/1638712472728.png" group-title="CANAIS | ESPORTES",SPORTV 3 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856986
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 1" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | PPV",STAR + 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/882678
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 2" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | PPV",STAR + 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/887048
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://i.imgur.com/Lj5qxCv.png" group-title="CANAIS | FILMES E SÉRIES ",STAR CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862323
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",STAR CHANNEL FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888692
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.imgur.com/Lj5qxCv.png" group-title="CANAIS | FILMES E SÉRIES ",STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/861215
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",STAR CHANNEL HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888693
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://i.imgur.com/Lj5qxCv.png" group-title="CANAIS | FILMES E SÉRIES ",STAR CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862103
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL [H265]" tvg-logo="https://i.imgur.com/Lj5qxCv.png" group-title="CANAIS | FILMES E SÉRIES ",STAR CHANNEL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862058
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 1 FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",STAR HITS 1 FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888696
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 1 HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",STAR HITS 1 HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888697
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD" tvg-logo="https://i.imgur.com/xCLdXYf.png" group-title="CANAIS | FILMES E SÉRIES ",STAR HITS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862326
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",STAR HITS 2 FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888698
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="https://i.imgur.com/xCLdXYf.png" group-title="CANAIS | FILMES E SÉRIES ",STAR HITS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/861204
-#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",STAR HITS 2 HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888699
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 [H265]" tvg-logo="https://i.imgur.com/xCLdXYf.png" group-title="CANAIS | FILMES E SÉRIES ",STAR HITS 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862060
-#EXTINF:-1 tvg-id="star.hits.br" tvg-name="STAR HITS FHD" tvg-logo="https://i.imgur.com/Bft3Yv0.png" group-title="CANAIS | FILMES E SÉRIES ",STAR HITS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862325
-#EXTINF:-1 tvg-id="star.hits.br" tvg-name="STAR HITS HD" tvg-logo="https://i.imgur.com/Bft3Yv0.png" group-title="CANAIS | FILMES E SÉRIES ",STAR HITS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/861210
-#EXTINF:-1 tvg-id="star.hits.br" tvg-name="STAR HITS [H265]" tvg-logo="https://i.imgur.com/Bft3Yv0.png" group-title="CANAIS | FILMES E SÉRIES ",STAR HITS [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862059
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE FHD" tvg-logo="https://i.imgur.com/VO1zeDv.png" group-title="CANAIS | FILMES E SÉRIES ",STAR LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862324
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE HD" tvg-logo="https://i.imgur.com/VO1zeDv.png" group-title="CANAIS | FILMES E SÉRIES ",STAR LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/861199
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE SD" tvg-logo="https://i.imgur.com/VO1zeDv.png" group-title="CANAIS | FILMES E SÉRIES ",STAR LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862104
-#EXTINF:-1 tvg-id="" tvg-name="Steven Universe 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Steven Universe 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888622
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.imgur.com/sVk2wEY.png" group-title="CANAIS | FILMES E SÉRIES ",STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862334
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/sVk2wEY.png" group-title="CANAIS | FILMES E SÉRIES ",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856760
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/sVk2wEY.png" group-title="CANAIS | FILMES E SÉRIES ",STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876515
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL [H265]" tvg-logo="https://i.imgur.com/sVk2wEY.png" group-title="CANAIS | FILMES E SÉRIES ",STUDIO UNIVERSAL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856988
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Super Choque 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888644
-#EXTINF:-1 tvg-id="" tvg-name="Superman 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Superman 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888623
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="https://i.imgur.com/Jw73ijr.png" group-title="CANAIS | FILMES E SÉRIES ",SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862344
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/Jw73ijr.png" group-title="CANAIS | FILMES E SÉRIES ",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856761
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/Jw73ijr.png" group-title="CANAIS | FILMES E SÉRIES ",SYFY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857208
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY [H265]" tvg-logo="https://i.imgur.com/Jw73ijr.png" group-title="CANAIS | FILMES E SÉRIES ",SYFY [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856989
-#EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",TARTARUGAS NINJAS 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888624
-#EXTINF:-1 tvg-id="" tvg-name="TAZ MANIA 24HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",TAZ MANIA 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888667
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="https://i.imgur.com/tSlYEUa.png" group-title="CANAIS | FILMES E SÉRIES ",TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862343
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/tSlYEUa.png" group-title="CANAIS | FILMES E SÉRIES ",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856762
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/tSlYEUa.png" group-title="CANAIS | FILMES E SÉRIES ",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857209
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS [H265]" tvg-logo="https://i.imgur.com/tSlYEUa.png" group-title="CANAIS | FILMES E SÉRIES ",TBS [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856990
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/WuLPkLT.png" group-title="CANAIS | FILMES E SÉRIES ",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857210
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20ACTION.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862275
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE ACTION FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888672
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20ACTION.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856763
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE ACTION HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888673
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20ACTION.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857211
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20ACTION.png" group-title="CANAIS | TELECINE",TELECINE ACTION [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856991
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862279
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE CULT FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888678
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856764
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE CULT HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888679
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="CANAIS | TELECINE",TELECINE CULT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857212
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="CANAIS | TELECINE",TELECINE CULT [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856992
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893560
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20FUN.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862278
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE FUN FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888676
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20FUN.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856765
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE FUN HD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888677
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20FUN.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857213
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20FUN.png" group-title="CANAIS | TELECINE",TELECINE FUN [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856993
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862277
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888668
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856766
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888669
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857214
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PIPOCA.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856994
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862274
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888670
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856767
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893415
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888671
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857215
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856995
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20TOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862276
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH FHD FHD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE TOUCH FHD FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888674
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20TOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856768
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD LEG" tvg-logo="" group-title="CANAIS | LEGENDADOS",TELECINE TOUCH HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888675
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20TOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857216
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20TOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856996
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://static.epg.best/us/TennisChannel.us.png" group-title="CANAIS | PPV",TENNIS CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/894971
-#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA SD" tvg-logo="https://i.imgur.com/vPQtEhm.png" group-title="CANAIS | VARIEDADES",TERRA VIVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857217
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Thundercats 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888625
-#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",TIMAO E PUMBA 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888626
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/ISwBxMV.png" group-title="CANAIS | FILMES E SÉRIES ",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862273
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/ISwBxMV.png" group-title="CANAIS | FILMES E SÉRIES ",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856770
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/ISwBxMV.png" group-title="CANAIS | FILMES E SÉRIES ",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857219
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://i.imgur.com/lbxbXaE.png" group-title="CANAIS | FILMES E SÉRIES ",TNT SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876549
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/lbxbXaE.png" group-title="CANAIS | FILMES E SÉRIES ",TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856771
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/lbxbXaE.png" group-title="CANAIS | FILMES E SÉRIES ",TNT SERIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876516
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES [H265]" tvg-logo="https://i.imgur.com/lbxbXaE.png" group-title="CANAIS | FILMES E SÉRIES ",TNT SERIES [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856999
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT [H265]" tvg-logo="https://i.imgur.com/ISwBxMV.png" group-title="CANAIS | FILMES E SÉRIES ",TNT [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856998
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",TODO MUNDO ODEIA O CHRIS 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888627
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Tom & Jerry 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888628
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://myclient.host/INFANTIL/TOONCAST.png" group-title="CANAIS | INFANTIS",TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856838
-#EXTINF:-1 tvg-id="" tvg-name="TOP FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",TOP FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893490
-#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA FHD" tvg-logo="https://myclient.host/VARIEDADES/TRACE%20BRAZUCA.png" group-title="CANAIS | VARIEDADES",TRACE BRAZUCA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876560
-#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA HD" tvg-logo="https://myclient.host/VARIEDADES/TRACE%20BRAZUCA.png" group-title="CANAIS | VARIEDADES",TRACE BRAZUCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876538
-#EXTINF:-1 tvg-id="0" tvg-name="TRACE BRAZUCA SD" tvg-logo="https://myclient.host/VARIEDADES/TRACE%20BRAZUCA.png" group-title="CANAIS | VARIEDADES",TRACE BRAZUCA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876539
-#EXTINF:-1 tvg-id="" tvg-name="TRANSCONTINENTAL FM (RADIOS)" tvg-logo="" group-title="CANAIS | RÁDIOS",TRANSCONTINENTAL FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893485
-#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRASIL FHD" tvg-logo="https://myclient.host/VARIEDADES/TRAVEL%20BOX%20BRASIL.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862371
-#EXTINF:-1 tvg-id="" tvg-name="Tres Espias Demais 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Tres Espias Demais 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888629
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV SD" tvg-logo="https://myclient.host/VARIEDADES/TruTV.png" group-title="CANAIS | DOCUMENTÁRIOS",TRU TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857222
-#EXTINF:-1 tvg-id="" tvg-name="TV  SAO FRANCISCO FHD ¹ ( GLOBO JUAZEIRO BAHIA)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV  SAO FRANCISCO FHD ¹ ( GLOBO JUAZEIRO BAHIA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893356
-#EXTINF:-1 tvg-id="" tvg-name="TV  SAO FRANCISCO HD ¹ ( GLOBO JUAZEIRO BAHIA)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV  SAO FRANCISCO HD ¹ ( GLOBO JUAZEIRO BAHIA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893355
-#EXTINF:-1 tvg-id="" tvg-name="Tv Alterosa HD [SBT MG]" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",Tv Alterosa HD [SBT MG]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888761
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHAGUERA FHD H265" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV ANHAGUERA FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893502
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ANAPOLIS FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV ANHANGUERA ANAPOLIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893530
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ANAPOLIS HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV ANHANGUERA ANAPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893531
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA CATALAO FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV ANHANGUERA CATALAO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893528
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA CATALAO HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV ANHANGUERA CATALAO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893529
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA GOIANIA" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV ANHANGUERA GOIANIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893562
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ITUMBIARA FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV ANHANGUERA ITUMBIARA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893526
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ITUMBIARA HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV ANHANGUERA ITUMBIARA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893527
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://myclient.host/RELIGIOSOS/TV%20APARECIDA.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879151
-#EXTINF:-1 tvg-id="" tvg-name="TV ASA BRANCA FHD ¹ (GLOBO CARUARU-PE)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV ASA BRANCA FHD ¹ (GLOBO CARUARU-PE)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893323
-#EXTINF:-1 tvg-id="" tvg-name="TV ASA BRANCA HD ¹ (GLOBO-CARUARU - PE)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV ASA BRANCA HD ¹ (GLOBO-CARUARU - PE)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893388
-#EXTINF:-1 tvg-id="" tvg-name="TV BAHIA" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV BAHIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893563
-#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO JOAO PESSOA  FHD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV CABO BRANCO JOAO PESSOA  FHD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893372
-#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO JOAO PESSOA HD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV CABO BRANCO JOAO PESSOA HD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893371
-#EXTINF:-1 tvg-id="" tvg-name="TV Cabralia HD Bahia Record" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | ABERTOS",TV Cabralia HD Bahia Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888461
-#EXTINF:-1 tvg-id="" tvg-name="TV CABUGI FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV CABUGI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893534
-#EXTINF:-1 tvg-id="" tvg-name="TV CABUGI HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV CABUGI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893535
-#EXTINF:-1 tvg-id="" tvg-name="TV CLUBE HD ¹ ( GLOBO PIAUI)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV CLUBE HD ¹ ( GLOBO PIAUI)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893387
-#EXTINF:-1 tvg-id="" tvg-name="TV CLUBE PIAUI FHD ¹ -GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV CLUBE PIAUI FHD ¹ -GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893375
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://myclient.host/RELIGIOSOS/TV%20EVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/882382
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ALAGOAS FHD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV GAZETA ALAGOAS FHD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893377
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ALAGOAS HD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV GAZETA ALAGOAS HD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893376
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA VITORIA ES FHD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV GAZETA VITORIA ES FHD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893366
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA VITORIA ES HD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV GAZETA VITORIA ES HD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893365
-#EXTINF:-1 tvg-id="" tvg-name="TV GOIANIA (BAND) FHD H265" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | ABERTOS",TV GOIANIA (BAND) FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888435
-#EXTINF:-1 tvg-id="" tvg-name="Tv Goiania HD _ BAND" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | ABERTOS",Tv Goiania HD _ BAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888434
-#EXTINF:-1 tvg-id="" tvg-name="TV INTEGRAÇÃO ARAXÁ FHD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV INTEGRAÇÃO ARAXÁ FHD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893362
-#EXTINF:-1 tvg-id="" tvg-name="TV INTEGRAÇÃO ARAXÁ HD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV INTEGRAÇÃO ARAXÁ HD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893361
-#EXTINF:-1 tvg-id="" tvg-name="TV INTEGRAÇÃO DIVINÓPOLIS FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV INTEGRAÇÃO DIVINÓPOLIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893532
-#EXTINF:-1 tvg-id="" tvg-name="TV INTEGRAÇÃO DIVINÓPOLIS HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV INTEGRAÇÃO DIVINÓPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893533
-#EXTINF:-1 tvg-id="" tvg-name="TV INTEGRAÇÃO UBERABA HD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV INTEGRAÇÃO UBERABA HD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893363
-#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL HD ¹ (BELEM)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV LIBERAL HD ¹ (BELEM)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893334
-#EXTINF:-1 tvg-id="" tvg-name="TV MIRANTE HD ¹ ( GLOBO MARANHAO)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV MIRANTE HD ¹ ( GLOBO MARANHAO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893392
-#EXTINF:-1 tvg-id="" tvg-name="TV MORENA FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV MORENA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893609
-#EXTINF:-1 tvg-id="" tvg-name="TV MORENA HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV MORENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893610
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="https://myclient.host/RELIGIOSOS/TV%20PAI%20ETERNO.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879155
-#EXTINF:-1 tvg-id="" tvg-name="TV Paranaíba HD Record -Uberlandia-MG" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | ABERTOS",TV Paranaíba HD Record -Uberlandia-MG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888462
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://myclient.host/INFANTIL/TV%20RA%20TIM%20BUM.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876550
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RATIMBUM HD" tvg-logo="https://myclient.host/INFANTIL/TV%20RA%20TIM%20BUM.png" group-title="CANAIS | INFANTIS",TV RATIMBUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856774
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RATIMBUM SD" tvg-logo="https://myclient.host/INFANTIL/TV%20RA%20TIM%20BUM.png" group-title="CANAIS | INFANTIS",TV RATIMBUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857231
-#EXTINF:-1 tvg-id="" tvg-name="TV RECORD THATHI CAMPINAS FHD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | ABERTOS",TV RECORD THATHI CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888466
-#EXTINF:-1 tvg-id="" tvg-name="TV RECORD THATHI CAMPINAS HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | ABERTOS",TV RECORD THATHI CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888463
-#EXTINF:-1 tvg-id="" tvg-name="TV RIO SUL HD ¹ ( GLOBO INTERIOR RJ)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV RIO SUL HD ¹ ( GLOBO INTERIOR RJ)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893393
-#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ TV BAHIA HD ¹ -GLOBO-" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV SANTA CRUZ TV BAHIA HD ¹ -GLOBO-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893329
-#EXTINF:-1 tvg-id="" tvg-name="TV Serra Dourada (SBT) FHD H265" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",TV Serra Dourada (SBT) FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888749
-#EXTINF:-1 tvg-id="" tvg-name="Tv Serra Dourada HD (Sbt)" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | ABERTOS",Tv Serra Dourada HD (Sbt)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888748
-#EXTINF:-1 tvg-id="" tvg-name="TV SUBAE (GLOBO BAHIA HD ¹)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV SUBAE (GLOBO BAHIA HD ¹)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893330
-#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="TV SUPER GOSPEL HD" tvg-logo="https://myclient.host/RELIGIOSOS/REDE%20GOSPEL.png" group-title="CANAIS | RELIGIOSOS",TV SUPER GOSPEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862484
-#EXTINF:-1 tvg-id="" tvg-name="TV TAROBA BAND CURITIBA FHD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | ABERTOS",TV TAROBA BAND CURITIBA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888446
-#EXTINF:-1 tvg-id="" tvg-name="TV TAROBA BAND CURITIBA FHD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | ABERTOS",TV TAROBA BAND CURITIBA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888447
-#EXTINF:-1 tvg-id="" tvg-name="Tv Taroba HD [BAND parana]" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | ABERTOS",Tv Taroba HD [BAND parana]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888444
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM BAURU" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TEM BAURU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893570
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM BAURU FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TEM BAURU FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893613
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM BAURU HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TEM BAURU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893614
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM ITAPE FHD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TEM ITAPE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893615
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM ITAPE HD" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TEM ITAPE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893616
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TEM SAO JOSE DO RIO PRETO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893571
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TEM SOROCABA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893572
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA FHD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TEM SOROCABA FHD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893322
-#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA HD ¹ - GLOBO" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TEM SOROCABA HD ¹ - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893364
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA FHD ¹ (GLOBO SANTOS)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TRIBUNA FHD ¹ (GLOBO SANTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893346
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA HD ¹ (GLOBO SANTOS)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TRIBUNA HD ¹ (GLOBO SANTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893345
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA SANTOS" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV TRIBUNA SANTOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893573
-#EXTINF:-1 tvg-id="" tvg-name="TV VANGUARDA DOS CAMPOS" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV VANGUARDA DOS CAMPOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893574
-#EXTINF:-1 tvg-id="" tvg-name="TV VANGUARDA FHD ¹ (SAO JOSE DOS CAMPOS )" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV VANGUARDA FHD ¹ (SAO JOSE DOS CAMPOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893341
-#EXTINF:-1 tvg-id="" tvg-name="TV VANGUARDA HD ¹ (SAO JOSE DOS CAMPOS)" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV VANGUARDA HD ¹ (SAO JOSE DOS CAMPOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893342
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDES MARES FORTALEZA" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV VERDES MARES FORTALEZA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893575
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDES MARES HD ¹ CE" tvg-logo="https://i.imgur.com/lPW9WwX.png" group-title="CANAIS | GLOBO",TV VERDES MARES HD ¹ CE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/893335
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",UM MALUCO NO PEDAÇO 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888630
-#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Uma Família da Pesada 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888631
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://i.imgur.com/O4IZYwO.png" group-title="CANAIS | FILMES E SÉRIES ",UNIVERSAL TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862335
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/O4IZYwO.png" group-title="CANAIS | FILMES E SÉRIES ",UNIVERSAL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856776
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://i.imgur.com/O4IZYwO.png" group-title="CANAIS | FILMES E SÉRIES ",UNIVERSAL TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857245
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV [H265]" tvg-logo="https://i.imgur.com/O4IZYwO.png" group-title="CANAIS | FILMES E SÉRIES ",UNIVERSAL TV [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857003
-#EXTINF:-1 tvg-id="" tvg-name="Ursinhos Carinhos 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Ursinhos Carinhos 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888632
-#EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA 24HRS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",VAI QUE COLA 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888642
-#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Vai Que Cola 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888643
-#EXTINF:-1 tvg-id="" tvg-name="VELOZES E FURIOSOS 24HRS" tvg-logo="" group-title="CANAIS | 24 HORAS",VELOZES E FURIOSOS 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888666
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA  FHD" tvg-logo="https://myclient.host/VARIEDADES/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862352
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://myclient.host/VARIEDADES/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856778
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://myclient.host/VARIEDADES/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857240
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://i.imgur.com/mtpCCzj.png" group-title="CANAIS | FILMES E SÉRIES ",WARNER CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876552
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.imgur.com/mtpCCzj.png" group-title="CANAIS | FILMES E SÉRIES ",WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856779
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://i.imgur.com/mtpCCzj.png" group-title="CANAIS | FILMES E SÉRIES ",WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857241
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL [H265]" tvg-logo="https://i.imgur.com/mtpCCzj.png" group-title="CANAIS | FILMES E SÉRIES ",WARNER CHANNEL [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857005
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV FHD" tvg-logo="https://i.imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/862362
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV HD" tvg-logo="https://i.imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/856843
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV SD" tvg-logo="https://i.imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857242
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV [H265]" tvg-logo="https://i.imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/857006
-#EXTINF:-1 tvg-id="" tvg-name="X-MAN 24HS" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",X-MAN 24HS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888633
-#EXTINF:-1 tvg-id="" tvg-name="Xena 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",Xena 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888634
-#EXTINF:-1 tvg-id="" tvg-name="YU-YU-Hakusho 24hs" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",YU-YU-Hakusho 24hs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/888636
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://myclient.host/INFANTIL/ZOOMOO.png" group-title="CANAIS | INFANTIS",ZOOMOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/876536
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://myclient.host/INFANTIL/ZOOMOO.png" group-title="CANAIS | INFANTIS",ZOOMOO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://38.91.100.90:80/dirceu/102030/879144
+
+
+
+
+
+
+
+
+
+
+
 
 
 
