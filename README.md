@@ -9,7 +9,23 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LIS
 
 
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.default_url=http://mysite.com/streamX
+#KODIPROP:inputstream.ffmpegdirect.playback_as_live=true
+#KODIPROP:inputstream.ffmpegdirect.programme_start_time=1111111
+#KODIPROP:inputstream.ffmpegdirect.programme_end_time=2111111
+#KODIPROP:inputstream.ffmpegdirect.catchup_url_format_string=http://mysite.com/streamX?cutv={Y}-{m}-{d}T{H}:{M}:{S}
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_start_time=1111111
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_end_time=1111111
+#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_offset=1111111
+#KODIPROP:inputstream.ffmpegdirect.timezone_shift=0
+#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5f120f41b7d403000783a6d6" tvg-id="5f120f41b7d403000783a6d6" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Filmes",Pluto TV Filmes Ação
@@ -2323,6 +2339,8 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="Música",RADIO 21
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+
+
 
 
 
