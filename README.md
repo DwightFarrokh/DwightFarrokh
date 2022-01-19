@@ -4,8 +4,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda" tvg-logo="https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png" group-title="CANAIS LOCAIS",Jovem Pan News HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_3.m3u8|Origin=https://jovempan.com.br|Referer=https://jovempan.com.br
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 22 HD" tvg-logo="https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg" group-title="BBB 22",BBB 22 HD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0|Origin=https://futemax.gratis
 
 
 
