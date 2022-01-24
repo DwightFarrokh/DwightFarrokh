@@ -1415,6 +1415,72 @@ http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS: HD",RECORDTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: HD",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png" group-title="CANAIS: HD",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/531a36f4089a5f65b28bedb90dc00117.png" group-title="CANAIS: HD",COMEDY CENTRAL HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Life" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/619b13fb4189d623b016edb8aa0250fc.png" group-title="CANAIS: HD",Star Life
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/f86427073efd142c6d56d817ddbb556e.png" group-title="CANAIS: HD",ESPN Brasil HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS: HD",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryscienceb.png" group-title="CANAIS: HD",Discovery Science HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: HD",SporTV HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: HD",Discovery World HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: HD",Space HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigao Discovery HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/investigationb.png" group-title="CANAIS: HD",ID Investigao Discovery HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16736.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS: HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/31462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS: HD",Paramount Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: HD",TNT HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryturbob.png" group-title="CANAIS: HD",Discovery Turbo HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sies HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS: HD",TNT Sies HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS: HD",H2 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png" group-title="CANAIS: HD",AXN HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="CANAIS: HD",SBT SP HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 1 HD+" tvg-logo="https://help.foxplay.com/hc/article_attachments/360087228232/2.png" group-title="CANAIS: HD",STAR HITS 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="CANAIS: HD",Globo SP HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS: HD",Canal Sony HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/31279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 HD+" tvg-logo="https://help.foxplay.com/hc/article_attachments/360087228232/2.png" group-title="CANAIS: HD",STAR HITS 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/combate.png" group-title="CANAIS: HD",Combate HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16703.m3u8
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png" group-title="CANAIS: HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/31460.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: HBO",HBO 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/31465.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: HD",Telecine Fun HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpremiumb.png" group-title="CANAIS: HD",Telecine Premium HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16758.m3u8
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/31583.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="Fox Sports 1 HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/96e8f1dba8c6dfcf1379418173569f03.png" group-title="CANAIS: HD",Fox Sports 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: HD",Telecine Pipoca HD+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=60000&url=http://xcui.vitvabc.xyz:8880/live/287994003396/287994003396/16757.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO*" tvg-logo="http://sbocs.no-ip.net/logo/cavernadodragao.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H CAVERNA DO DRAGÃO*
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://51.89.98.62:8080/atilio/atilio/28188
 #EXTINF:-1 tvg-id="" tvg-name="24h I Chaves " tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",24h I Chaves 
