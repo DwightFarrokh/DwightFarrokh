@@ -1490,1537 +1490,2421 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&Buffer=
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO" tvg-logo="http://sbocs.no-ip.net/logo/cavernadodragao.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H CAVERNA DO DRAGÃO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/28136
-#EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM O CÃO COVARDE" tvg-logo="http://sbocs.no-ip.net/logo/coragemocaocovarde.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H CORAGEM O CÃO COVARDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/28198
-#EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM O CÃO COVARDE*" tvg-logo="http://sbocs.no-ip.net/logo/coragemocaocovarde.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H CORAGEM O CÃO COVARDE*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/28146
-#EXTINF:-1 tvg-id="" tvg-name="24h I Masha e o Urso" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",24h I Masha e o Urso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42906
-#EXTINF:-1 tvg-id="" tvg-name="24h I Masha e o Urso 2" tvg-logo="http://sbocs.no-ip.net/logo/24h/mashaeourso.png" group-title="Canais | INFANTIL 24 HORAS",24h I Masha e o Urso 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42955
-#EXTINF:-1 tvg-id="" tvg-name="24h I Timão & Pumba" tvg-logo="http://sbocs.no-ip.net/logo/math/timaoepumba.png" group-title="Canais | INFANTIL 24 HORAS",24h I Timão & Pumba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46522
-#EXTINF:-1 tvg-id="" tvg-name="89 FM A Rádio Rock" tvg-logo="https://cdn-radiotime-logos.tunein.com/s85089q.png" group-title="Canais I RÁDIOS FM",89 FM A Rádio Rock
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23663
-#EXTINF:-1 tvg-id="" tvg-name="A Família Addams" tvg-logo="http://sbocs.no-ip.net/logo/24h/familiaadans.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",A Família Addams
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/44256
-#EXTINF:-1 tvg-id="" tvg-name="A Mansão Foster para Amigos Imaginários" tvg-logo="http://sbocs.no-ip.net/logo/mansaofoster.png" group-title="Canais | INFANTIL 24 HORAS",A Mansão Foster para Amigos Imaginários
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46505
-#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="http://sbocs.no-ip.net/logo/panteracorderosa.png" group-title="Canais | INFANTIL 24 HORAS",A Pantera Cor de Rosa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46506
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1992)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",A Pequena Sereia (1992)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49724
-#EXTINF:-1 tvg-id="" tvg-name="A Vaca e o Frango" tvg-logo="http://sbocs.no-ip.net/logo/math/AVacaeoFrango.png" group-title="Canais | INFANTIL 24 HORAS",A Vaca e o Frango
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46507
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20253
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/236
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/235
-#EXTINF:-1 tvg-id="" tvg-name="AgroMais HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/agromais.png" group-title="Canais | NOTÍCIAS ",AgroMais HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48331
-#EXTINF:-1 tvg-id="" tvg-name="AgroMais SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/agromais.png" group-title="Canais | NOTÍCIAS ",AgroMais SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48332
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin (1994)" tvg-logo="http://srv.maxptv.net:8080/images/5131c24a8ee8aa3f0ae71ba21bd5f65d.png" group-title="Canais | INFANTIL 24 HORAS",Aladdin (1994)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42939
-#EXTINF:-1 tvg-id="" tvg-name="Alem da Imaginação 2020 / 24h" tvg-logo="http://sbocs.no-ip.net/logo/alemdaimaginacao.png" group-title="Canais |  24 HORAS",Alem da Imaginação 2020 / 24h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/28743
-#EXTINF:-1 tvg-id="" tvg-name="Alf, O ETeimoso" tvg-logo="http://sbocs.no-ip.net/logo/alf.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Alf, O ETeimoso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/28658
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/512
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/233
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20257
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/232
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/231
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X" tvg-logo="http://sbocs.no-ip.net/logo/arquivox.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Arquivo X
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42951
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan (2000)" tvg-logo="https://static.wixstatic.com/media/52876d_db131210f6ea47beb20c96be82e5d014~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_db131210f6ea47beb20c96be82e5d014~mv2.png" group-title="Canais | INFANTIL 24 HORAS",As Aventuras de Jackie Chan (2000)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49715
-#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas (1998)" tvg-logo="http://srv.maxptv.net:8080/images/4efb626572b16b0f7ffefacad5f13c08.png" group-title="Canais | INFANTIL 24 HORAS",As Meninas Superpoderosas (1998)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42941
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/axn.png" group-title="Canais | FILMES E SÉRIES ",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20234
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/axn.png" group-title="Canais | FILMES E SÉRIES ",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/535
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/axn.png" group-title="Canais | FILMES E SÉRIES ",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/227
-#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes (2002)" tvg-logo="http://srv.maxptv.net:8080/images/461b0db464ed9c7e7ab1dbb7ffd6a0ee.png" group-title="Canais | INFANTIL 24 HORAS",Baby Looney Tunes (2002)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42942
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/babytv.png" group-title="Canais | INFANTIL",BabyTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/226
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/babytv.png" group-title="Canais | INFANTIL",BabyTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/225
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas HD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/242
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas SD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/241
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/bandnews.png" group-title="Canais | NOTÍCIAS ",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/224
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/bandnews.png" group-title="Canais | NOTÍCIAS ",Band News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/223
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP HD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/130
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP SD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/129
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/bandsports.png" group-title="Canais | ESPORTES",Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/221
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/bandsports.png" group-title="Canais | ESPORTES",Band Sports SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/220
-#EXTINF:-1 tvg-id="" tvg-name="Batman" tvg-logo="http://sbocs.no-ip.net/logo/24h/batman.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Batman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/44255
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49702
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49701
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50011
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50014
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50015
-#EXTINF:-1 tvg-id="" tvg-name="BBB Academia" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Academia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50406
-#EXTINF:-1 tvg-id="" tvg-name="BBB Banheiro" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Banheiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50407
-#EXTINF:-1 tvg-id="" tvg-name="BBB Confessionário" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Confessionário
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50408
-#EXTINF:-1 tvg-id="" tvg-name="BBB Jardim" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Jardim
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50409
-#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Mosaico HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50012
-#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Mosaico SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50013
-#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Piscina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50410
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Grunge" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Quarto Grunge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50411
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Lollipop" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Quarto Lollipop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50412
-#EXTINF:-1 tvg-id="" tvg-name="BBB Sala" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Sala
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50413
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10 (2005)" tvg-logo="https://static.wixstatic.com/media/52876d_c89722eeae4540b6926dac2fb1c782a9~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_c89722eeae4540b6926dac2fb1c782a9~mv2.png" group-title="Canais | INFANTIL 24 HORAS",Ben 10 (2005)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49716
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10 Forca Alienigena (2008)" tvg-logo="https://static.wixstatic.com/media/52876d_755e5cca14274f64b9699e43aa8a9bc2~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_755e5cca14274f64b9699e43aa8a9bc2~mv2.png" group-title="Canais | INFANTIL 24 HORAS",Ben 10 Forca Alienigena (2008)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49719
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10: Omniverse" tvg-logo="http://sbocs.no-ip.net/logo/math/ben10.png" group-title="Canais | INFANTIL 24 HORAS",Ben 10: Omniverse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46508
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10: Supremacia Alienígena" tvg-logo="http://sbocs.no-ip.net/logo/math/Ben10Supremacia.png" group-title="Canais | INFANTIL 24 HORAS",Ben 10: Supremacia Alienígena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46509
-#EXTINF:-1 tvg-id="" tvg-name="BestRadio Brasil" tvg-logo="https://cdn-radiotime-logos.tunein.com/s97728q.png" group-title="Canais I RÁDIOS FM",BestRadio Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23673
-#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/bis.png" group-title="Canais | MUSICAIS",Bis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/219
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIs SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/bis.png" group-title="Canais | MUSICAIS",BIs SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/218
-#EXTINF:-1 tvg-id="" tvg-name="Black in Love" tvg-logo="http://sbocs.no-ip.net/logosiptv/novas/blackinlove.png" group-title="Canais I Audio - Cortesia",Black in Love
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49263
-#EXTINF:-1 tvg-id="" tvg-name="Black Kamen Rider 24H" tvg-logo="http://sbocs.no-ip.net/logo/black.png" group-title="Canais |  24 HORAS",Black Kamen Rider 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/537
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/Bloomberg.png" group-title="Canais I CORTESIA",Bloomberg HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49127
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/Bloomberg.png" group-title="Canais I CORTESIA",Bloomberg SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49128
-#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Boa Vontade TV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/boavontade.png" group-title="Canais I CORTESIA",Boa Vontade TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49115
-#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Boa Vontade TV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/boavontade.png" group-title="Canais I CORTESIA",Boa Vontade TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49116
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Bob Esponja 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40793
-#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman" tvg-logo="http://sbocs.no-ip.net/logo/math/Horseman.png" group-title="Canais | INFANTIL 24 HORAS",BoJack Horseman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46510
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/boomerang.png" group-title="Canais | INFANTIL",Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/217
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/boomerang.png" group-title="Canais | INFANTIL",Boomerang SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/216
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas" tvg-logo="http://sbocs.no-ip.net/logosiptv/adultos24h/brasileirinhas.png" group-title="Canais I Adultos 24h",Brasileirinhas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42907
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalbrasil.png" group-title="Canais | FILMES E SÉRIES ",Canal Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20227
-#EXTINF:-1 tvg-id="" tvg-name="Canal CSI 24H" tvg-logo="http://sbocs.no-ip.net/logo/csi.png" group-title="Canais |  24 HORAS",Canal CSI 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/538
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canaldoboi.png" group-title="Canais I CORTESIA",Canal do Boi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20467
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canaldoboi.png" group-title="Canais I CORTESIA",Canal do Boi SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49046
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Carro HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaldocarro.png" group-title="Canais | VARIEDADES",Canal do Carro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48327
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Carro SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaldocarro.png" group-title="Canais | VARIEDADES",Canal do Carro SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48328
-#EXTINF:-1 tvg-id="" tvg-name="Canal I Tv Igreja Mundial do Poder de Deus" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/igrejamundiareinodedeus.png" group-title="Canais | RELIGIÃO",Canal I Tv Igreja Mundial do Poder de Deus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23207
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="Canal Rural HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canalrural.png" group-title="Canais I CORTESIA",Canal Rural HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49121
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="Canal Rural SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canalrural.png" group-title="Canais I CORTESIA",Canal Rural SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49122
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/cancaonova.png" group-title="Canais | RELIGIÃO",Canção Nova HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47755
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/cancaonova.png" group-title="Canais | RELIGIÃO",Canção Nova SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47756
-#EXTINF:-1 tvg-id="" tvg-name="Capitão Planeta (1990)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Capitão Planeta (1990)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49779
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20267
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/524
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/204
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/caroonito.png" group-title="Canais | INFANTIL",Cartoonito HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49052
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/caroonito.png" group-title="Canais | INFANTIL",Cartoonito SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49053
-#EXTINF:-1 tvg-id="" tvg-name="CatDog" tvg-logo="http://sbocs.no-ip.net/logo/math/CatDog.png" group-title="Canais | INFANTIL 24 HORAS",CatDog
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46511
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="http://sbocs.no-ip.net/logo/cavernadodragao.png" group-title="Canais | INFANTIL 24 HORAS",Caverna do Dragão
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46512
-#EXTINF:-1 tvg-id="" tvg-name="CDZ  Saga de Poseidon 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",CDZ  Saga de Poseidon 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40787
-#EXTINF:-1 tvg-id="" tvg-name="CDZ Saga de Asgard 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",CDZ Saga de Asgard 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40788
-#EXTINF:-1 tvg-id="" tvg-name="CDZ Saga de Hades 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",CDZ Saga de Hades 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40789
-#EXTINF:-1 tvg-id="" tvg-name="CDZ Saga do Santuario  24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",CDZ Saga do Santuario  24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40790
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Chapolin 2 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19541
-#EXTINF:-1 tvg-id="" tvg-name="Charm Music Anos 90" tvg-logo="http://srv.maxptv.net:8080/images/e868b06f37b8ba3572a5f11842b9b8e5.png" group-title="Canais I Audio - Cortesia",Charm Music Anos 90
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49267
-#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="http://sbocs.no-ip.net/logo/math/Chaves.png" group-title="Canais | INFANTIL 24 HORAS",Chaves
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46513
-#EXTINF:-1 tvg-id="" tvg-name="Chaves 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Chaves 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40791
-#EXTINF:-1 tvg-id="" tvg-name="Chaves Desenho 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Chaves Desenho 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40798
-#EXTINF:-1 tvg-id="" tvg-name="Chris Country" tvg-logo="https://cdn-profiles.tunein.com/s196675/images/logoq.jpg?t=154117" group-title="Canais I RÁDIOS FM",Chris Country
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23664
-#EXTINF:-1 tvg-id="" tvg-name="Cine Action 24H Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cineaction.png" group-title="Canais |  24 HORAS",Cine Action 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/548
-#EXTINF:-1 tvg-id="" tvg-name="Cine Action HD" tvg-logo="http://sbocs.no-ip.net/logo/cineaction.png" group-title="Canais |  24 HORAS",Cine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/28657
-#EXTINF:-1 tvg-id="" tvg-name="Cine Drama 24H Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cinedrama.png" group-title="Canais |  24 HORAS",Cine Drama 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/550
-#EXTINF:-1 tvg-id="" tvg-name="Cine Family 24H" tvg-logo="http://sbocs.no-ip.net/logo/cinefamily.png" group-title="Canais |  24 HORAS",Cine Family 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/551
-#EXTINF:-1 tvg-id="" tvg-name="Cine Fiction 24H Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/fiction.png" group-title="Canais |  24 HORAS",Cine Fiction 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/536
-#EXTINF:-1 tvg-id="" tvg-name="Cine Fun 24H Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cinefun.png" group-title="Canais |  24 HORAS",Cine Fun 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/552
-#EXTINF:-1 tvg-id="" tvg-name="Cine Guerra 24H Ultra HD" tvg-logo="https://imgur.com/fP9SNrP.png" group-title="Canais |  24 HORAS",Cine Guerra 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1477
-#EXTINF:-1 tvg-id="" tvg-name="Cine Horror 24H Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cinehorror.png" group-title="Canais |  24 HORAS",Cine Horror 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/553
-#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24H ULTRA HD" tvg-logo="http://sbocs.no-ip.net/logo/cinekids.png" group-title="Canais |  24 HORAS",CINE KIDS 24H ULTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/554
-#EXTINF:-1 tvg-id="" tvg-name="CINE Nacionais 24H" tvg-logo="http://sbocs.no-ip.net/logo/cinenacional.png" group-title="Canais |  24 HORAS",CINE Nacionais 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/555
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26714
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26715
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 03 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26716
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 04 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26717
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 05 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26718
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 06 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 06 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26719
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 07 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 07 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26720
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 08 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 08 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26721
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 09 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26722
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26723
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cinemax.png" group-title="Canais | FILMES",Cinemax FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/36589
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cinemax.png" group-title="Canais | FILMES",Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/203
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cinemax.png" group-title="Canais | FILMES",Cinemax SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/202
-#EXTINF:-1 tvg-id="" tvg-name="Classicos da MPB" tvg-logo="http://srv.maxptv.net:8080/images/6814377b7b4e7f38f203ba50fe3b4bb6.png" group-title="Canais I Audio - Cortesia",Classicos da MPB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49274
-#EXTINF:-1 tvg-id="" tvg-name="Classicos do Pagode" tvg-logo="http://srv.maxptv.net:8080/images/ab385240316a097be9849b328faa118b.png" group-title="Canais I Audio - Cortesia",Classicos do Pagode
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49265
-#EXTINF:-1 tvg-id="" tvg-name="Classicos Natal" tvg-logo="http://srv.maxptv.net:8080/images/ee02b2b812f006176f55d8d23bc8a38d.png" group-title="Canais I Audio - Cortesia",Classicos Natal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49250
-#EXTINF:-1 tvg-id="" tvg-name="Classicos Rock Internacional" tvg-logo="http://srv.maxptv.net:8080/images/17b4640fa122b09ac541353e4698d0cc.png" group-title="Canais I Audio - Cortesia",Classicos Rock Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49278
-#EXTINF:-1 tvg-id="" tvg-name="Clube da Criança" tvg-logo="https://cdn-radiotime-logos.tunein.com/s229632q.png" group-title="Canais I RÁDIOS FM",Clube da Criança
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23652
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="Cnn Brasil HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/cnnbrasil.png" group-title="Canais | NOTÍCIAS ",Cnn Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/8890
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="Cnn Brasil SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/cnnbrasil.png" group-title="Canais | NOTÍCIAS ",Cnn Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/8891
-#EXTINF:-1 tvg-id="" tvg-name="CNN International HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/cnninternacional.png" group-title="Canais | MUNDO INTERNACIONAL",CNN International HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49125
-#EXTINF:-1 tvg-id="" tvg-name="CNN International SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/cnninternacional.png" group-title="Canais | MUNDO INTERNACIONAL",CNN International SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49126
-#EXTINF:-1 tvg-id="" tvg-name="Cold Case" tvg-logo="http://sbocs.no-ip.net/logo/coldcase.png" group-title="Canais |  24 HORAS",Cold Case
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46497
-#EXTINF:-1 tvg-id="" tvg-name="Comando Dolbuck (1983)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Comando Dolbuck (1983)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49771
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19526
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/201
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/200
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20263
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/199
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/198
-#EXTINF:-1 tvg-id="" tvg-name="Como eu Conheci a Sua Mae  24H" tvg-logo="http://sbocs.no-ip.net/logo/suamae.png" group-title="Canais |  24 HORAS",Como eu Conheci a Sua Mae  24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/567
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 1 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/18835
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 1 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19039
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 2 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/18836
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 2 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19040
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 3 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/18837
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 3 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19041
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 4 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/18838
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 4 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19042
-#EXTINF:-1 tvg-id="" tvg-name="Country Love Songs" tvg-logo="http://srv.maxptv.net:8080/images/206b90917d34b8dbb0c349284ece7e3c.png" group-title="Canais I Audio - Cortesia",Country Love Songs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49266
-#EXTINF:-1 tvg-id="" tvg-name="Country Music Hits" tvg-logo="http://srv.maxptv.net:8080/images/af476e94b091ba6e0d4a90f3bad43090.png" group-title="Canais I Audio - Cortesia",Country Music Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49268
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cultura.png" group-title="Canais | ABERTOS",Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/197
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cultura.png" group-title="Canais | ABERTOS",Cultura SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/196
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/curta.png" group-title="Canais | VARIEDADES",Curta! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/213
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/curta.png" group-title="Canais | VARIEDADES",Curta! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/212
-#EXTINF:-1 tvg-id="" tvg-name="Cybercop, os Policiais do Futuro 24H" tvg-logo="https://media.fstatic.com/1Mq2p7zFFKaXMVidmsqfSqxb27A=/195x289/smart/media/movies/covers/2016/12/cybercop_filme.jpg" group-title="Canais |  24 HORAS",Cybercop, os Policiais do Futuro 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1479
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="" group-title="Canais I ESPORTES STREAMING",DAZN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19542
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="" group-title="Canais I ESPORTES STREAMING",DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19543
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="" group-title="Canais I ESPORTES STREAMING",DAZN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19544
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="" group-title="Canais I ESPORTES STREAMING",DAZN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19545
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="" group-title="Canais I ESPORTES STREAMING",DAZN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20459
-#EXTINF:-1 tvg-id="" tvg-name="De Volta Para O Futuro (1991)" tvg-logo="https://static.wixstatic.com/media/52876d_9dbb284bab1e467f8e7781f4df214f96~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_9dbb284bab1e467f8e7781f4df214f96~mv2.png" group-title="Canais | INFANTIL 24 HORAS",De Volta Para O Futuro (1991)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42936
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS ANIMADOS" tvg-logo="http://sbocs.no-ip.net/logo/24h/desemhosantigos.png" group-title="Canais | INFANTIL 24 HORAS",DESENHOS ANIMADOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42952
-#EXTINF:-1 tvg-id="" tvg-name="DESENHOS ANIMADOS ANTIGOS" tvg-logo="http://sbocs.no-ip.net/logo/24h/desemhosantigos.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",DESENHOS ANIMADOS ANTIGOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42956
-#EXTINF:-1 tvg-id="" tvg-name="Dick Vigarista" tvg-logo="http://sbocs.no-ip.net/logo/dickvigarista.png" group-title="Canais | INFANTIL 24 HORAS",Dick Vigarista
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46514
-#EXTINF:-1 tvg-id="" tvg-name="Disco Funk" tvg-logo="https://cdn-radiotime-logos.tunein.com/s288903q.png" group-title="Canais I RÁDIOS FM",Disco Funk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23672
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoverychannel.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20225
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoverychannel.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/195
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoverychannel.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/194
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/homehealt.png" group-title="Canais | VARIEDADES",Discovery Home & Health FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20265
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/homehealt.png" group-title="Canais | VARIEDADES",Discovery Home & Health HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/191
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/homehealt.png" group-title="Canais | VARIEDADES",Discovery Home & Health SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/190
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/discoverykids.png" group-title="Canais | INFANTIL",Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/189
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/discoverykids.png" group-title="Canais | INFANTIL",Discovery Kids SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/188
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20258
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/187
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/186
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/theather.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/185
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/theather.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Theater SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/184
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryturbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20266
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryturbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/183
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryturbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/182
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryworld.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20259
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryworld.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/181
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryworld.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/180
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel  HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/179
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20226
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/178
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneyjr.png" group-title="Canais | INFANTIL",Disney Junior HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/177
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneyjr.png" group-title="Canais | INFANTIL",Disney Junior SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/176
-#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneyxd.png" group-title="Canais | INFANTIL",Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/175
-#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneyxd.png" group-title="Canais | INFANTIL",Disney XD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/174
-#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DogTV FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/dogtv.png" group-title="Canais | DOCUMENTÁRIOS ",DogTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46139
-#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DogTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/dogtv.png" group-title="Canais | DOCUMENTÁRIOS ",DogTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/22987
-#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DogTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/dogtv.png" group-title="Canais | DOCUMENTÁRIOS ",DogTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/22988
-#EXTINF:-1 tvg-id="" tvg-name="DR. House 1 24HR " tvg-logo="http://sbocs.no-ip.net/logo/drhouse.png" group-title="Canais |  24 HORAS",DR. House 1 24HR 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/568
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House 2 24H" tvg-logo="http://sbocs.no-ip.net/logo/drhouse.png" group-title="Canais |  24 HORAS",Dr. House 2 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20461
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House S01" tvg-logo="http://sbocs.no-ip.net/logo/math/drhouse.png" group-title="Canais I Dr. House - 24H ",Dr. House S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46590
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House S02" tvg-logo="http://srv.maxptv.net:8080/images/9379c981f73a1f8cb85dd6713bce4f42.png" group-title="Canais I Dr. House - 24H ",Dr. House S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46591
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House S03" tvg-logo="http://srv.maxptv.net:8080/images/9379c981f73a1f8cb85dd6713bce4f42.png" group-title="Canais I Dr. House - 24H ",Dr. House S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46592
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House S04" tvg-logo="http://srv.maxptv.net:8080/images/9379c981f73a1f8cb85dd6713bce4f42.png" group-title="Canais I Dr. House - 24H ",Dr. House S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46593
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House S05" tvg-logo="http://srv.maxptv.net:8080/images/9379c981f73a1f8cb85dd6713bce4f42.png" group-title="Canais I Dr. House - 24H ",Dr. House S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46594
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House S06" tvg-logo="http://srv.maxptv.net:8080/images/9379c981f73a1f8cb85dd6713bce4f42.png" group-title="Canais I Dr. House - 24H ",Dr. House S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46595
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House S07" tvg-logo="http://srv.maxptv.net:8080/images/9379c981f73a1f8cb85dd6713bce4f42.png" group-title="Canais I Dr. House - 24H ",Dr. House S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46596
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House S08" tvg-logo="http://srv.maxptv.net:8080/images/9379c981f73a1f8cb85dd6713bce4f42.png" group-title="Canais I Dr. House - 24H ",Dr. House S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46597
-#EXTINF:-1 tvg-id="" tvg-name="Dragoes  24H" tvg-logo="http://3.bp.blogspot.com/-neqNv11vOY4/US1CWPQLblI/AAAAAAAARHc/fWcrmvAJu7k/s1600/dragoes-cartoon-tnt.jpg" group-title="Canais |  24 HORAS",Dragoes  24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1480
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT 24H" tvg-logo="http://srv.maxptv.net:8080/images/daba94d87dd20739453ec96bf2eba89b.png" group-title="Canais |  24 HORAS",Dragon Ball GT 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40781
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 24H" tvg-logo="https://i.imgur.com/FjmeFap.jpg" group-title="Canais |  24 HORAS",Dragon Ball Super 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40776
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Deus da Destruição Bills e Golden Freeza" tvg-logo="http://sbocs.no-ip.net/logo/math/DragonBallSuperDeusda.png" group-title="Canais | INFANTIL 24 HORAS",Dragon Ball Super: Deus da Destruição Bills e Golden Freeza
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46515
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Sobrevivência do Universo" tvg-logo="http://sbocs.no-ip.net/logo/math/DragonBallSuperSobrevi.png" group-title="Canais | INFANTIL 24 HORAS",Dragon Ball Super: Sobrevivência do Universo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46516
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Universo 6 e Trunks do "Futuro"" tvg-logo="http://sbocs.no-ip.net/logo/math/DragonBalsuperUniverso.png" group-title="Canais | INFANTIL 24 HORAS",Dragon Ball Super: Universo 6 e Trunks do "Futuro"
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46517
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball X Freeza 24H" tvg-logo="http://srv.maxptv.net:8080/images/df40fc8e5cbc2e6895c59ece032b6f5d.jpg" group-title="Canais |  24 HORAS",Dragon Ball X Freeza 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40777
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Androides 24H" tvg-logo="http://srv.maxptv.net:8080/images/0ff7e0d397382390f47b76a3d327eefa.jpg" group-title="Canais |  24 HORAS",Dragon Ball Z Androides 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40778
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Cell 24H" tvg-logo="http://srv.maxptv.net:8080/images/43bfda3302d0fc3678e63badd8722be7.jpg" group-title="Canais |  24 HORAS",Dragon Ball Z Cell 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40779
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Sayajins 24H" tvg-logo="http://srv.maxptv.net:8080/images/44aafc0d83e1981463b10054e04acc72.jpg" group-title="Canais |  24 HORAS",Dragon Ball Z Sayajins 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40780
-#EXTINF:-1 tvg-id="" tvg-name="Duck Tales" tvg-logo="http://sbocs.no-ip.net/logo/ducktalles.png" group-title="Canais | INFANTIL 24 HORAS",Duck Tales
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46518
-#EXTINF:-1 tvg-id="" tvg-name="Ducktales 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Ducktales 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40783
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/e!.png" group-title="Canais | FILMES E SÉRIES ",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/516
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/e!.png" group-title="Canais | FILMES E SÉRIES ",E! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/172
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 1" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20395
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 10" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20235
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 2" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20244
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 3 " tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 3 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20242
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 4" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20241
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 5" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20240
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 6" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20239
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 7" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20238
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 8" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20237
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 9" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20236
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV Campinas FHD" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/34094
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV Campinas HD" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/238
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV Campinas HD 2" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/246
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV Campinas SD" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/237
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn.png" group-title="Canais | ESPORTES",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/27272
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn.png" group-title="Canais | ESPORTES",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/27273
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN  2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn2.png" group-title="Canais | ESPORTES",ESPN  2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/167
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN  2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn2.png" group-title="Canais | ESPORTES",ESPN  2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/166
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN  3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn3.png" group-title="Canais | ESPORTES",ESPN  3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/171
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN  3 SD " tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn3.png" group-title="Canais | ESPORTES",ESPN  3 SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/170
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20310
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/147
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/146
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="Espn Extra  SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espnextra.png" group-title="Canais | ESPORTES",Espn Extra  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/164
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="Espn Extra HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espnextra.png" group-title="Canais | ESPORTES",Espn Extra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/165
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TNT_Sports_%282021%29.png/800px-TNT_Sports_%282021%29.png" group-title="Canais I TNT SPORTS",ESTADIO TNT SPORT 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26738
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="http://sbocs.no-ip.net/logo/euapatroaeascriancas.png" group-title="Canais |  24 HORAS",Eu a Patroa e as Crianças
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/321
-#EXTINF:-1 tvg-id="" tvg-name="Eu, a Patroa e as Criancas (2001)" tvg-logo="http://srv.maxptv.net:8080/images/70f133995270622dc6cb6d4b8287ccd3.png" group-title="Canais |  24 HORAS",Eu, a Patroa e as Criancas (2001)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42946
-#EXTINF:-1 tvg-id="" tvg-name="Eurochannel HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/eurochannel.png" group-title="Canais I CORTESIA",Eurochannel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48340
-#EXTINF:-1 tvg-id="" tvg-name="Eurochannel SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/eurochannel.png" group-title="Canais I CORTESIA",Eurochannel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48341
-#EXTINF:-1 tvg-id="" tvg-name="Evangélicos" tvg-logo="http://sbocs.no-ip.net/logo/24h/evangelicos24.png" group-title="Canais |  24 HORAS",Evangélicos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/43180
-#EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Familia da Pesada 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1481
-#EXTINF:-1 tvg-id="" tvg-name="Familia Dinossauro  24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Familia Dinossauro  24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/569
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/fashiontv.png" group-title="Canais I CORTESIA",Fashion TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48333
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/fashiontv.png" group-title="Canais I CORTESIA",Fashion TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48334
-#EXTINF:-1 tvg-id="" tvg-name="FFH The 80's" tvg-logo="http://srv.maxptv.net:8080/images/5dedc077ba3428049f53faa20c863f0d.png" group-title="Canais I RÁDIOS FM",FFH The 80's
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23536
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Film&Arts HD" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais | FILMES",Film&Arts HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/163
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Film&Arts SD" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais | FILMES",Film&Arts SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/162
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",Fish TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20256
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",Fish TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/525
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",Fish TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/161
-#EXTINF:-1 tvg-id="" tvg-name="Flash Back" tvg-logo="" group-title="Canais | MUSICAIS",Flash Back
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47824
-#EXTINF:-1 tvg-id="" tvg-name="Flash Back 80" tvg-logo="http://srv.maxptv.net:8080/images/c50165c8f239cb25cacfa5a1fa8d675c.png" group-title="Canais I Audio - Cortesia",Flash Back 80
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49269
-#EXTINF:-1 tvg-id="" tvg-name="Flash House 2" tvg-logo="http://srv.maxptv.net:8080/images/ec06c92ffdb4f7e46c20f1f2007b6a00.png" group-title="Canais I Audio - Cortesia",Flash House 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49270
-#EXTINF:-1 tvg-id="" tvg-name="Flash Rap" tvg-logo="http://srv.maxptv.net:8080/images/b40242a7322221a8e6de09d8897eca01.png" group-title="Canais I Audio - Cortesia",Flash Rap
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49251
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/foodnetwork.png" group-title="Canais | VARIEDADES",Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/158
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/foodnetwork.png" group-title="Canais | VARIEDADES",Food Network SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/159
-#EXTINF:-1 tvg-id="" tvg-name="For Man" tvg-logo="http://sbocs.no-ip.net/logosiptv/adultos24h/forman.png" group-title="Canais I Adultos 24h",For Man
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42925
-#EXTINF:-1 tvg-id="" tvg-name="Forró & Pisadinha" tvg-logo="http://srv.maxptv.net:8080/images/fecef78e3c7e854613fe72086ddd0d6e.png" group-title="Canais I Audio - Cortesia",Forró & Pisadinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49271
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX Sports 2 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",FOX Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20311
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/529
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/148
-#EXTINF:-1 tvg-id="iSat.br" tvg-name="France 24 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/france24.png" group-title="Canais | MUNDO INTERNACIONAL",France 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48347
-#EXTINF:-1 tvg-id="" tvg-name="France 24 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/france24.png" group-title="Canais | MUNDO INTERNACIONAL",France 24 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48348
-#EXTINF:-1 tvg-id="" tvg-name="Friends 24H Ultra HD" tvg-logo="https://assets.turbologo.com/blog/en/2019/12/19084751/friends-logo-cover-958x575.png" group-title="Canais |  24 HORAS",Friends 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40795
-#EXTINF:-1 tvg-id="" tvg-name="Friends S01" tvg-logo="http://sbocs.no-ip.net/logo/friendsl.png" group-title="Canais I Friends - 24H",Friends S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46540
-#EXTINF:-1 tvg-id="" tvg-name="Friends S01-04 (LEG)" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S01-04 (LEG)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46541
-#EXTINF:-1 tvg-id="" tvg-name="Friends S02" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46542
-#EXTINF:-1 tvg-id="" tvg-name="Friends S03" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46543
-#EXTINF:-1 tvg-id="" tvg-name="Friends S04" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46544
-#EXTINF:-1 tvg-id="" tvg-name="Friends S05" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46545
-#EXTINF:-1 tvg-id="" tvg-name="Friends S05-08 (LEG)" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S05-08 (LEG)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46546
-#EXTINF:-1 tvg-id="" tvg-name="Friends S06" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46547
-#EXTINF:-1 tvg-id="" tvg-name="Friends S07" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46548
-#EXTINF:-1 tvg-id="" tvg-name="Friends S08" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46549
-#EXTINF:-1 tvg-id="" tvg-name="Friends S09" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46550
-#EXTINF:-1 tvg-id="" tvg-name="Friends S10" tvg-logo="http://srv.maxptv.net:8080/images/b00baed2bf96f1a7e608dd7c854134c0.png" group-title="Canais I Friends - 24H",Friends S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46551
-#EXTINF:-1 tvg-id="" tvg-name="Funk - Americano" tvg-logo="https://cdn-radiotime-logos.tunein.com/s17439q.png" group-title="Canais I RÁDIOS FM",Funk - Americano
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23540
-#EXTINF:-1 tvg-id="" tvg-name="Funk Americano" tvg-logo="http://srv.maxptv.net:8080/images/00f2753cf78f24c6ec9df33293f04dc1.png" group-title="Canais I Audio - Cortesia",Funk Americano
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49249
-#EXTINF:-1 tvg-id="" tvg-name="Funk Melody" tvg-logo="http://srv.maxptv.net:8080/images/9818e2287e76d37753313e255e2428a2.png" group-title="Canais I Audio - Cortesia",Funk Melody
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49252
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/futura.png" group-title="Canais | DOCUMENTÁRIOS ",Futura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/211
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/futura.png" group-title="Canais | DOCUMENTÁRIOS ",Futura SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/210
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20275
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/145
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/144
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24H" tvg-logo="https://i.ytimg.com/vi/gjz9PM4iWWg/maxresdefault.jpg" group-title="Canais | INFANTIL 24 HORAS",Galinha Pintadinha 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1476
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S01" tvg-logo="http://sbocs.no-ip.net/logo/math/gameoftrones.png" group-title="Canais I Game of Thrones - 24H",Game of Thrones S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46552
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S02" tvg-logo="http://srv.maxptv.net:8080/images/2d9f4da1ef82cfe50e70fe320993a481.png" group-title="Canais I Game of Thrones - 24H",Game of Thrones S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46553
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S03" tvg-logo="http://srv.maxptv.net:8080/images/2d9f4da1ef82cfe50e70fe320993a481.png" group-title="Canais I Game of Thrones - 24H",Game of Thrones S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46554
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S04" tvg-logo="http://srv.maxptv.net:8080/images/2d9f4da1ef82cfe50e70fe320993a481.png" group-title="Canais I Game of Thrones - 24H",Game of Thrones S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46555
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05" tvg-logo="http://srv.maxptv.net:8080/images/2d9f4da1ef82cfe50e70fe320993a481.png" group-title="Canais I Game of Thrones - 24H",Game of Thrones S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46556
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S06" tvg-logo="http://srv.maxptv.net:8080/images/2d9f4da1ef82cfe50e70fe320993a481.png" group-title="Canais I Game of Thrones - 24H",Game of Thrones S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46557
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S07" tvg-logo="http://srv.maxptv.net:8080/images/2d9f4da1ef82cfe50e70fe320993a481.png" group-title="Canais I Game of Thrones - 24H",Game of Thrones S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46558
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S08" tvg-logo="http://srv.maxptv.net:8080/images/2d9f4da1ef82cfe50e70fe320993a481.png" group-title="Canais I Game of Thrones - 24H",Game of Thrones S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46559
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BELO HORIZONTE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO BELO HORIZONTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50270
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50256
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO CENTRO AMERICA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO CENTRO AMERICA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50271
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50272
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV RIBEIRAO PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50257
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV SUL DE MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50273
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV SUL MINAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV SUL MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50258
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GRANDE MINAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO GRANDE MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50259
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTEGRAÇÃO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTEGRAÇÃO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50260
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTER TV ALTO LITORAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50274
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTER TV CABUGI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50275
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTER TV DOS VALES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50276
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50261
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50262
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50263
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC BLUMENAU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50277
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC CHAPECO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC CHAPECO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50278
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC CRICIUMA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC CRICIUMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50279
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50264
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC JOINVILLE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50280
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC TV FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50281
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50265
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50282
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV CAXIAS DO SUL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50283
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV PASSO FUNDO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50284
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV PELOTAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50285
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO REDE AMAZONICA RONDONIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50286
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50266
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50287
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC FOZ DO IGUACU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50288
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC PARANAVAI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50289
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC TV PONTA GROSSA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC TV PONTA GROSSA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50290
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50267
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV ALAGOAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV ALAGOAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50291
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV ANHANGUERA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50292
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50293
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV BELEM HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50268
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV DIARIO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV DIARIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50294
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV FRONTEIRA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV FRONTEIRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50295
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV GAZETA SUL HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV GAZETA SUL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50296
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV INTEG. ARAXA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV INTEG. ARAXA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50297
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV INTEG. JUIZ DE FORA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV INTEG. JUIZ DE FORA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50298
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV MORENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50299
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV NORDESTE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50300
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV RIO SUL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50301
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV SERRA MAR HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV SERRA MAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50302
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TEM BAURU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50303
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM S.J.R.PRETO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TEM S.J.R.PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50269
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM SJR.PRETO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TEM SJR.PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50304
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TEM SOROCABA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50305
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TRIBUNA SANTOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50306
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV VANG. S.J. CAMPOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50307
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VANG. TAUBATE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV VANG. TAUBATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50308
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VITORIA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV VITORIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50309
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO VERDES MARES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50310
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/globonews.png" group-title="Canais | NOTÍCIAS ",GloboNews HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/143
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/globonews.png" group-title="Canais | NOTÍCIAS ",GloboNews SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/142
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/gloob.png" group-title="Canais | INFANTIL",Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/530
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/gloob.png" group-title="Canais | INFANTIL",Gloob SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/140
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/gnt.png" group-title="Canais | VARIEDADES",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/139
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/gnt.png" group-title="Canais | VARIEDADES",GNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/138
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Internacional" tvg-logo="http://srv.maxptv.net:8080/images/afc151de777f0c656b366f00f6d8aa2a.png" group-title="Canais I Audio - Cortesia",Gospel Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49272
-#EXTINF:-1 tvg-id="" tvg-name="Grandes Sucesso Raul Seixas" tvg-logo="http://srv.maxptv.net:8080/images/134bb6aef782d1cacfed8fa557ab721b.png" group-title="Canais I Audio - Cortesia",Grandes Sucesso Raul Seixas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49281
-#EXTINF:-1 tvg-id="" tvg-name="Greatest Hits of Hip Hop" tvg-logo="https://cdn-radiotime-logos.tunein.com/s213410q.png" group-title="Canais I RÁDIOS FM",Greatest Hits of Hip Hop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23541
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/h2.png" group-title="Canais | DOCUMENTÁRIOS ",H2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20260
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/h2.png" group-title="Canais | DOCUMENTÁRIOS ",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/137
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/h2.png" group-title="Canais | DOCUMENTÁRIOS ",H2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/523
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19528
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/135
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/134
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19530
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/133
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/132
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19527
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/131
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 01" tvg-logo="" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47759
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 02" tvg-logo="" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47761
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 03" tvg-logo="" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47760
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20316
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/521
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/112
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19529
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/128
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/127
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19532
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/111
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/110
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/126
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19531
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/531
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/124
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20317
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/520
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/113
-#EXTINF:-1 tvg-id="" tvg-name="Hercules" tvg-logo="http://sbocs.no-ip.net/logo/24h/hercules.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Hercules
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/43964
-#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="HGTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/hgtv.png" group-title="Canais | DOCUMENTÁRIOS ",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/193
-#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="HGTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/hgtv.png" group-title="Canais | DOCUMENTÁRIOS ",HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/192
-#EXTINF:-1 tvg-id="" tvg-name="Hip Hop" tvg-logo="http://srv.maxptv.net:8080/images/f4e72bc32f2c636059d5f3ba44323921.png" group-title="Canais I Audio - Cortesia",Hip Hop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49253
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/history.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20231
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/history.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/532
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/history.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/122
-#EXTINF:-1 tvg-id="" tvg-name="Hits 90's" tvg-logo="http://srv.maxptv.net:8080/images/e9b7dbf423719adac41be4f4b262eaff.png" group-title="Canais I RÁDIOS FM",Hits 90's
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23534
-#EXTINF:-1 tvg-id="" tvg-name="Hits Anos 80" tvg-logo="http://srv.maxptv.net:8080/images/b40fa9bf4cae2fe9f13b0b7833772443.png" group-title="Canais I RÁDIOS FM",Hits Anos 80
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23535
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha" tvg-logo="https://static.wixstatic.com/media/52876d_ac51dc274fa4439ba9b91985caf0dba2~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_ac51dc274fa4439ba9b91985caf0dba2~mv2.png" group-title="Canais |  24 HORAS",Homem-Aranha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/43876
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Homem-Aranha 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/566
-#EXTINF:-1 tvg-id="" tvg-name="Hora do Recreio (1997)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Hora do Recreio (1997)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49725
-#EXTINF:-1 tvg-id="" tvg-name="HULK CLÁSSICO - 24H" tvg-logo="http://sbocs.no-ip.net/logo/hulk.png" group-title="Canais | CLÁSSICOS 24 HORAS ",HULK CLÁSSICO - 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/25540
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/id.png" group-title="Canais | FILMES E SÉRIES ",ID FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20254
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/id.png" group-title="Canais | FILMES E SÉRIES ",ID HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/121
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/id.png" group-title="Canais | FILMES E SÉRIES ",ID SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/120
-#EXTINF:-1 tvg-id="" tvg-name="Jackson Five (1971)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Jackson Five (1971)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49765
-#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24H" tvg-logo="https://www.jbox.com.br/wp/wp-content/uploads/2019/08/materiajaspion-destacada.jpg" group-title="Canais |  24 HORAS",Jaspion 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/570
-#EXTINF:-1 tvg-id="" tvg-name="JIBAN 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",JIBAN 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40784
-#EXTINF:-1 tvg-id="" tvg-name="Johnny Bravo (1997)" tvg-logo="https://static.wixstatic.com/media/52876d_9adcc6ffb4174217adfd347a6a6f6baf~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_9adcc6ffb4174217adfd347a6a6f6baf~mv2.png" group-title="Canais | INFANTIL 24 HORAS",Johnny Bravo (1997)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42938
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Anos 2000" tvg-logo="https://cdn-radiotime-logos.tunein.com/s194020q.png" group-title="Canais I RÁDIOS FM",Jovem Pan Anos 2000
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23670
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Anos 80" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143769q.png" group-title="Canais I RÁDIOS FM",Jovem Pan Anos 80
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23668
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Anos 90" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143770q.png" group-title="Canais I RÁDIOS FM",Jovem Pan Anos 90
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23669
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan FM Piracicaba" tvg-logo="https://cdn-profiles.tunein.com/s143616/images/logoq.jpg?t=155609" group-title="Canais I RÁDIOS FM",Jovem Pan FM Piracicaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23662
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/jovempannews.png" group-title="Canais | NOTÍCIAS ",Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47532
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/jovempannews.png" group-title="Canais | NOTÍCIAS ",Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47533
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Pagode" tvg-logo="https://cdn-radiotime-logos.tunein.com/s118667q.png" group-title="Canais I RÁDIOS FM",Jovem Pan Pagode
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23655
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Sertanejo" tvg-logo="https://cdn-radiotime-logos.tunein.com/s118658q.png" group-title="Canais I RÁDIOS FM",Jovem Pan Sertanejo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23667
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic World Acampamento Jurassico (2020)" tvg-logo="http://srv.maxptv.net:8080/images/8c98431544f0e1a9aba6e712958527a5.png" group-title="Canais | INFANTIL 24 HORAS",Jurassic World Acampamento Jurassico (2020)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42940
-#EXTINF:-1 tvg-id="" tvg-name="Kids 1" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Kids 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49783
-#EXTINF:-1 tvg-id="" tvg-name="Kids 2" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Kids 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49786
-#EXTINF:-1 tvg-id="" tvg-name="Kids 3" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Kids 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49787
-#EXTINF:-1 tvg-id="" tvg-name="Kids 4" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Kids 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49789
-#EXTINF:-1 tvg-id="" tvg-name="Kids 5" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Kids 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49791
-#EXTINF:-1 tvg-id="" tvg-name="Kids 6" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Kids 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49794
-#EXTINF:-1 tvg-id="" tvg-name="Kim Possible (2002)" tvg-logo="https://static.wixstatic.com/media/52876d_f74c604b85514663bea52a6d35f6c40c~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_f74c604b85514663bea52a6d35f6c40c~mv2.png" group-title="Canais | INFANTIL 24 HORAS",Kim Possible (2002)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42935
-#EXTINF:-1 tvg-id="" tvg-name="Kimba, o Leao Branco (1966)" tvg-logo="http://srv.maxptv.net:8080/images/77320c0b309ca5b69a2967b94c24ba56.png" group-title="Canais | INFANTIL 24 HORAS",Kimba, o Leao Branco (1966)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42934
-#EXTINF:-1 tvg-id="" tvg-name="KND - A Turma do Bairro" tvg-logo="http://sbocs.no-ip.net/logo/kndturmadobairro.png" group-title="Canais | INFANTIL 24 HORAS",KND - A Turma do Bairro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46519
-#EXTINF:-1 tvg-id="" tvg-name="La casa de papel (2017)" tvg-logo="http://srv.maxptv.net:8080/images/b12a4a72fe5fc056df2a8288c848959a.png" group-title="Canais |  24 HORAS",La casa de papel (2017)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42945
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados" tvg-logo="https://i1.wp.com/blog.meninashoes.com.br/wp-content/uploads/2020/10/largados-e-pelados-2-1024x427.jpg" group-title="Canais |  24 HORAS",Largados e Pelados
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42008
-#EXTINF:-1 tvg-id="" tvg-name="Larva 24H" tvg-logo="https://i.ytimg.com/vi/hNQ_NbLpgE4/maxresdefault.jpg" group-title="Canais | INFANTIL 24 HORAS",Larva 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1474
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20252
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/522
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/118
-#EXTINF:-1 tvg-id="" tvg-name="Lion Man 24H" tvg-logo="https://i.ytimg.com/vi/YafPBIT19ns/hqdefault.jpg" group-title="Canais |  24 HORAS",Lion Man 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1473
-#EXTINF:-1 tvg-id="" tvg-name="LOADING HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/loading.png" group-title="Canais | VARIEDADES",LOADING HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48350
-#EXTINF:-1 tvg-id="" tvg-name="LOADING SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/loading.png" group-title="Canais | VARIEDADES",LOADING SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48351
-#EXTINF:-1 tvg-id="" tvg-name="Looney Tunnes 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Looney Tunnes 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/565
-#EXTINF:-1 tvg-id="" tvg-name="Louvores de Adoração" tvg-logo="http://srv.maxptv.net:8080/images/845b0e2d3ed9d48f32bac8f1cc43e819.png" group-title="Canais I Audio - Cortesia",Louvores de Adoração
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49273
-#EXTINF:-1 tvg-id="" tvg-name="Luluzinha (1995)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Luluzinha (1995)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49795
-#EXTINF:-1 tvg-id="42949" tvg-name="MacGyver Profissão: Perigo" tvg-logo="http://sbocs.no-ip.net/logo/magaiver.png" group-title="Canais | CLÁSSICOS 24 HORAS ",MacGyver Profissão: Perigo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42949
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Modo Viagem HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/maisglobosat.png" group-title="Canais | VARIEDADES",Modo Viagem HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/117
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Modo Viagem SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/maisglobosat.png" group-title="Canais | VARIEDADES",Modo Viagem SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/116
-#EXTINF:-1 tvg-id="" tvg-name="MAIS NA TELA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/maisnatela.png" group-title="Canais | VARIEDADES",MAIS NA TELA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48377
-#EXTINF:-1 tvg-id="" tvg-name="MAIS NA TELA SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/maisnatela.png" group-title="Canais | VARIEDADES",MAIS NA TELA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48378
-#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso (2009)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Masha e o Urso (2009)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49778
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/megapix.png" group-title="Canais | FILMES",Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/109
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/megapix.png" group-title="Canais | FILMES",Megapix SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/108
-#EXTINF:-1 tvg-id="" tvg-name="Melhores da Pam" tvg-logo="http://sbocs.no-ip.net/logosiptv/mp3natal/flashhouse.png" group-title="Canais I Audio - Cortesia",Melhores da Pam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49245
-#EXTINF:-1 tvg-id="" tvg-name="Mickey Mania (1999)" tvg-logo="http://srv.maxptv.net:8080/images/841cd2fad106d53ac55bb835beb1ad3a.png" group-title="Canais | INFANTIL 24 HORAS",Mickey Mania (1999)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42933
-#EXTINF:-1 tvg-id="" tvg-name="Monstros no Trabalho (2021)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Monstros no Trabalho (2021)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49797
-#EXTINF:-1 tvg-id="" tvg-name="MR. Bean 24H" tvg-logo="https://material.asset.catchplay.com/NBC-IN-001-A0184/artworks/posters/NBC-IN-001-A0184-P544.jpg" group-title="Canais |  24 HORAS",MR. Bean 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/546
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 00s FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv00.png" group-title="Canais | MUSICAIS",MTV 00s FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20262
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 00s HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv00.png" group-title="Canais | MUSICAIS",MTV 00s HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/8
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 00s SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv00.png" group-title="Canais | MUSICAIS",MTV 00s SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/7
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv.png" group-title="Canais | MUSICAIS",MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20261
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv.png" group-title="Canais | MUSICAIS",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/519
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV Live HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtvlive.png" group-title="Canais | MUSICAIS",MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20465
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtvlive.png" group-title="Canais | MUSICAIS",MTV LIVE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48337
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv.png" group-title="Canais | MUSICAIS",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/106
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/multshow.png" group-title="Canais | MUSICAIS",Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/105
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/multshow.png" group-title="Canais | MUSICAIS",Multishow SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/104
-#EXTINF:-1 tvg-id="" tvg-name="Mundo de Gunball 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Mundo de Gunball 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40785
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/musicboxbrasil.png" group-title="Canais | MUSICAIS",Music Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48342
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/musicboxbrasil.png" group-title="Canais | MUSICAIS",Music Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48343
-#EXTINF:-1 tvg-id="" tvg-name="Musicas Classicas" tvg-logo="http://srv.maxptv.net:8080/images/cf33bd55593003929ab36b8cfd2fbb0c.png" group-title="Canais I Audio - Cortesia",Musicas Classicas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49264
-#EXTINF:-1 tvg-id="" tvg-name="Mutante Rex (2010)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Mutante Rex (2010)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49749
-#EXTINF:-1 tvg-id="" tvg-name="My Little Pony (1986)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",My Little Pony (1986)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49747
-#EXTINF:-1 tvg-id="" tvg-name="Naruto 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Naruto 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/564
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/natgeokids.png" group-title="Canais | INFANTIL",Nat Geo Kids FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20312
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/natgeokids.png" group-title="Canais | INFANTIL",Nat Geo Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/518
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/natgeokids.png" group-title="Canais | INFANTIL",Nat Geo Kids SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/102
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/natgeowild.png" group-title="Canais | DOCUMENTÁRIOS ",Nat Geo Wild FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20273
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/natgeowild.png" group-title="Canais | DOCUMENTÁRIOS ",Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/101
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/natgeowild.png" group-title="Canais | DOCUMENTÁRIOS ",Nat Geo Wild SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/100
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/nationalgeografic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20272
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/nationalgeografic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/99
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/nationalgeografic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/98
-#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/nhk.png" group-title="Canais | MUNDO INTERNACIONAL",NHK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/97
-#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/nhk.png" group-title="Canais | MUNDO INTERNACIONAL",NHK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/96
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nickjr.png" group-title="Canais | INFANTIL",Nick Jr. FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20314
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nickjr.png" group-title="Canais | INFANTIL",Nick Jr. HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/95
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nickjr.png" group-title="Canais | INFANTIL",Nick Jr. SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/94
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20313
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/93
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/92
-#EXTINF:-1 tvg-id="" tvg-name="Nova Brasil FM Campinas" tvg-logo="https://cdn-profiles.tunein.com/s151034/images/logoq.png?t=160459" group-title="Canais I RÁDIOS FM",Nova Brasil FM Campinas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23671
-#EXTINF:-1 tvg-id="" tvg-name="O Chefinho De Volta aos Negocios (2018)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",O Chefinho De Volta aos Negocios (2018)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49799
-#EXTINF:-1 tvg-id="" tvg-name="O Laboratório de Dexter (1996)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",O Laboratório de Dexter (1996)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49781
-#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso (1995)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",O Pequeno Urso (1995)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49773
-#EXTINF:-1 tvg-id="" tvg-name="O Pica-Pau" tvg-logo="http://sbocs.no-ip.net/logo/24h/picapau.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",O Pica-Pau
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42953
-#EXTINF:-1 tvg-id="" tvg-name="O Show da Luna (2014)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",O Show da Luna (2014)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49801
-#EXTINF:-1 tvg-id="" tvg-name="O Show do Scooby Doo" tvg-logo="http://sbocs.no-ip.net/logo/scoobydoo.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",O Show do Scooby Doo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/28140
-#EXTINF:-1 tvg-id="" tvg-name="O Xodó da Vovó" tvg-logo="http://sbocs.no-ip.net/logo/24h/xododavovo.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",O Xodó da Vovó
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/44572
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaloff.png" group-title="Canais | VARIEDADES",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/209
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaloff.png" group-title="Canais | VARIEDADES",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/208
-#EXTINF:-1 tvg-id="" tvg-name="One Love Hip Hop" tvg-logo="https://cdn-radiotime-logos.tunein.com/s125403q.png" group-title="Canais I RÁDIOS FM",One Love Hip Hop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23539
-#EXTINF:-1 tvg-id="" tvg-name="Os 3 patetas 24H" tvg-logo="" group-title="Canais |  24 HORAS",Os 3 patetas 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/19540
-#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones" tvg-logo="http://sbocs.no-ip.net/logo/24h/osflinstones.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Os Flintstones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/45079
-#EXTINF:-1 tvg-id="" tvg-name="Os Jetsons" tvg-logo="http://sbocs.no-ip.net/logo/math/Jetsons.png" group-title="Canais | INFANTIL 24 HORAS",Os Jetsons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46520
-#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Magicos (2001)" tvg-logo="https://static.wixstatic.com/media/52876d_c98ec31b49ed42cebc236b5ef98886dc~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_c98ec31b49ed42cebc236b5ef98886dc~mv2.png" group-title="Canais | INFANTIL 24 HORAS",Os Padrinhos Magicos (2001)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49720
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="http://sbocs.no-ip.net/logo/24h/simpsons.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Os Simpsons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42954
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Os Simpsons 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/563
-#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões" tvg-logo="http://sbocs.no-ip.net/logo/24h/ostrapalhoes.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Os Trapalhões
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/44184
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24H" tvg-logo="https://i.imgur.com/1PxCVdn.png" group-title="Canais |  24 HORAS",Os Vingadores 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1482
-#EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/paieterno.png" group-title="Canais | RELIGIÃO",Pai Eterno HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23850
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo2/paramounthd.png" group-title="Canais | FILMES",Paramount Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20264
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://sbocs.no-ip.net/logo2/paramounthd.png" group-title="Canais | FILMES",Paramount Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/91
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel SD" tvg-logo="http://sbocs.no-ip.net/logo2/paramounthd.png" group-title="Canais | FILMES",Paramount Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/90
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="http://sbocs.no-ip.net/logo/24h/patrulhacanina.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Patrulha Canina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/44574
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina (2013)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Patrulha Canina (2013)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49743
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Peppa Pig 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/562
-#EXTINF:-1 tvg-id="" tvg-name="Perdidos no Espaço" tvg-logo="http://sbocs.no-ip.net/logo/24h/perdidosespaco.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Perdidos no Espaço
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/44268
-#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau (2018)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Pica-Pau (2018)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49761
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy FHD" tvg-logo="https://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais | [XXX] ADULTO",Playboy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20315
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy HD" tvg-logo="https://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais | [XXX] ADULTO",Playboy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/88
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy SD" tvg-logo="https://www.nicepng.com/png/detail/890-8902129_playboy-graphic-design.png" group-title="Canais | [XXX] ADULTO",Playboy SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/87
-#EXTINF:-1 tvg-id="" tvg-name="Pocoyo 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Pocoyo 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/561
-#EXTINF:-1 tvg-id="" tvg-name="Pokemon 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Pokemon 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/560
-#EXTINF:-1 tvg-id="Polishop.br" tvg-name="Polishop TV HD" tvg-logo="http://srv.maxptv.net:8080/images/2fe349ab611e9cba2b704ef009b20eec.png" group-title="Canais I CORTESIA",Polishop TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49113
-#EXTINF:-1 tvg-id="Polishop.br" tvg-name="Polishop TV SD" tvg-logo="http://srv.maxptv.net:8080/images/2fe349ab611e9cba2b704ef009b20eec.png" group-title="Canais I CORTESIA",Polishop TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49114
-#EXTINF:-1 tvg-id="" tvg-name="Pop Rock Hits" tvg-logo="http://srv.maxptv.net:8080/images/5a614744881054722d7fa5872556ae72.png" group-title="Canais I Audio - Cortesia",Pop Rock Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49276
-#EXTINF:-1 tvg-id="" tvg-name="Pop Rock Nacional" tvg-logo="http://srv.maxptv.net:8080/images/c37e77c3736d10f74c05a0a740fb60ec.png" group-title="Canais I Audio - Cortesia",Pop Rock Nacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49275
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/86
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/247
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD³" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46681
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/85
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/13216
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1462
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/83
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/82
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1463
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/81
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/80
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1464
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/79
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/78
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1465
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/77
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere6.png" group-title="Canais | PREMIERE",Premiere 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/76
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere6.png" group-title="Canais | PREMIERE",Premiere 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/75
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere7.png" group-title="Canais | PREMIERE",Premiere 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/74
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere7.png" group-title="Canais | PREMIERE",Premiere 7 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1467
-#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/primeboxbrasil.png" group-title="Canais | FILMES",Prime Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48344
-#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/primeboxbrasil.png" group-title="Canais | FILMES",Prime Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48345
-#EXTINF:-1 tvg-id="" tvg-name="Radio Mania FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s127019q.png" group-title="Canais I RÁDIOS FM",Radio Mania FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23678
-#EXTINF:-1 tvg-id="" tvg-name="Radio Modão Sertanejo" tvg-logo="https://cdn-radiotime-logos.tunein.com/s280773q.png" group-title="Canais I RÁDIOS FM",Radio Modão Sertanejo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23658
-#EXTINF:-1 tvg-id="" tvg-name="Radio Zig Zag" tvg-logo="https://cdn-profiles.tunein.com/s280123/images/logoq.png?t=161228" group-title="Canais I RÁDIOS FM",Radio Zig Zag
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23653
-#EXTINF:-1 tvg-id="" tvg-name="RAI HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/rai.png" group-title="Canais | MUNDO INTERNACIONAL",RAI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49117
-#EXTINF:-1 tvg-id="" tvg-name="RAI SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/rai.png" group-title="Canais | MUNDO INTERNACIONAL",RAI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49118
-#EXTINF:-1 tvg-id="" tvg-name="Rap - Internacional" tvg-logo="https://cdn-radiotime-logos.tunein.com/s190580q.png" group-title="Canais I RÁDIOS FM",Rap - Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23538
-#EXTINF:-1 tvg-id="" tvg-name="Rap Nacional" tvg-logo="http://srv.maxptv.net:8080/images/f46f51506d08c6f25ca9eebed3fe182b.png" group-title="Canais I Audio - Cortesia",Rap Nacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49277
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD BAHIA HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50368
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record BH HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",Record BH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50369
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50380
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD DF HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD DF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50370
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD DF HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD DF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50371
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/240
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record HD 2" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/68
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD INTERIOR SP HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD INTERIOR SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50377
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD MG HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50372
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/recordnews.png" group-title="Canais | NOTÍCIAS ",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/67
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/recordnews.png" group-title="Canais | NOTÍCIAS ",Record News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/66
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD PA HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD PA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50373
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD PA HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD PA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50382
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD PAULISTA HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD PAULISTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50378
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD RJ HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50374
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD RS HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50375
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record SD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/239
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD SJR.PRETO HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD SJR.PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50381
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record SP HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/65
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD SP HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50376
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record SP SD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/64
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD VILA REAL HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD VILA REAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50379
-#EXTINF:-1 tvg-id="" tvg-name="Rede Família SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redefamilia.png" group-title="Canais | RELIGIÃO",Rede Família SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48346
-#EXTINF:-1 tvg-id="RedeFami­lia.br" tvg-name="Rede Família SHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redefamilia.png" group-title="Canais | RELIGIÃO",Rede Família SHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/31823
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="Rede Massa SBT HD" tvg-logo="http://sbocs.no-ip.net/logo/sbt.png" group-title="Canais | ABERTOS",Rede Massa SBT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/34300
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redevida.png" group-title="Canais | RELIGIÃO",Rede Vida HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/62
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redevida.png" group-title="Canais | RELIGIÃO",Rede Vida SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/63
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV HD" tvg-logo="http://sbocs.no-ip.net/logo/redetv.png" group-title="Canais | ABERTOS",RedeTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/61
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SD" tvg-logo="http://sbocs.no-ip.net/logo/redetv.png" group-title="Canais | ABERTOS",RedeTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/60
-#EXTINF:-1 tvg-id="" tvg-name="Retro Baladas" tvg-logo="https://cdn-profiles.tunein.com/s272561/images/logoq.png?t=160105" group-title="Canais I RÁDIOS FM",Retro Baladas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23675
-#EXTINF:-1 tvg-id="" tvg-name="Romanticas Internacional" tvg-logo="http://srv.maxptv.net:8080/images/f5f64f7abff24e1db270f83e27ad477d.png" group-title="Canais I Audio - Cortesia",Romanticas Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49279
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá -Tim Bum- HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/ratimbum.png" group-title="Canais | INFANTIL",Rá -Tim Bum- HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/70
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá- Tim- Bum SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/ratimbum.png" group-title="Canais | INFANTIL",Rá- Tim- Bum SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/69
-#EXTINF:-1 tvg-id="" tvg-name="Rádio 105 FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s118850q.png" group-title="Canais I RÁDIOS FM",Rádio 105 FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23674
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Antena 1 São Paulo" tvg-logo="https://cdn-profiles.tunein.com/s67624/images/logoq.jpg?t=160268" group-title="Canais I RÁDIOS FM",Rádio Antena 1 São Paulo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23659
-#EXTINF:-1 tvg-id="" tvg-name="Rádio CBN São Paulo" tvg-logo="https://cdn-profiles.tunein.com/s16186/images/logoq.png" group-title="Canais I RÁDIOS FM",Rádio CBN São Paulo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23661
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Coringão" tvg-logo="https://cdn-radiotime-logos.tunein.com/s137856q.png" group-title="Canais I RÁDIOS FM",Rádio Coringão
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23660
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Hunter FM Sertanejo" tvg-logo="https://cdn-profiles.tunein.com/s264202/images/logoq.jpg?t=159706" group-title="Canais I RÁDIOS FM",Rádio Hunter FM Sertanejo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23657
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Laser FM Campinas" tvg-logo="https://cdn-radiotime-logos.tunein.com/s122780q.png" group-title="Canais I RÁDIOS FM",Rádio Laser FM Campinas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23656
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Samba FM" tvg-logo="https://cdn-profiles.tunein.com/s289130/images/logoq.png?t=155852" group-title="Canais I RÁDIOS FM",Rádio Samba FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23654
-#EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/saborearte.png" group-title="Canais | VARIEDADES",Sabor & Arte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48329
-#EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/saborearte.png" group-title="Canais | VARIEDADES",Sabor & Arte SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48330
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="http://sbocs.no-ip.net/logo/sbt.png" group-title="Canais | ABERTOS",SBT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/59
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="http://sbocs.no-ip.net/logo/sbt.png" group-title="Canais | ABERTOS",SBT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/58
-#EXTINF:-1 tvg-id="" tvg-name="Sertanejo Antigo" tvg-logo="http://srv.maxptv.net:8080/images/ea9d8191dd752af68ca6dd9908e9483d.png" group-title="Canais I Audio - Cortesia",Sertanejo Antigo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49246
-#EXTINF:-1 tvg-id="" tvg-name="Sertanejo Raiz" tvg-logo="http://srv.maxptv.net:8080/images/41a8d9f826dc89d1b9b3f8371433cdd3.png" group-title="Canais I Audio - Cortesia",Sertanejo Raiz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49280
-#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="Sextreme HD" tvg-logo="http://sbocs.no-ip.net/logo2/sextreme.png" group-title="Canais | [XXX] ADULTO",Sextreme HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/57
-#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="Sextreme SD" tvg-logo="https://3.bp.blogspot.com/-X0DcNLI45_0/VgsCHTBetKI/AAAAAAAAldA/7hLYfIyR5Zc/s1600/Sextreme.png" group-title="Canais | [XXX] ADULTO",Sextreme SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/56
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot HD" tvg-logo="http://sbocs.no-ip.net/logo2/sexyhot.png" group-title="Canais | [XXX] ADULTO",Sexy Hot HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/55
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot SD" tvg-logo="http://sbocs.no-ip.net/logo2/sexyhot.png" group-title="Canais | [XXX] ADULTO",Sexy Hot SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/54
-#EXTINF:-1 tvg-id="shoptime.br" tvg-name="Shoptime HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/shoptime.png" group-title="Canais I CORTESIA",Shoptime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49123
-#EXTINF:-1 tvg-id="shoptime.br" tvg-name="Shoptime SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/shoptime.png" group-title="Canais I CORTESIA",Shoptime SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49124
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="Smithsonian FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/smithsonian.png" group-title="Canais | DOCUMENTÁRIOS ",Smithsonian FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20309
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="Smithsonian HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/smithsonian.png" group-title="Canais | DOCUMENTÁRIOS ",Smithsonian HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20463
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="Smithsonian SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/smithsonian.png" group-title="Canais | DOCUMENTÁRIOS ",Smithsonian SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48349
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Sony Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20233
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Sony Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/53
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Sony Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/52
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="http://sbocs.no-ip.net/logo2/spacehd.png" group-title="Canais | FILMES",Space FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20271
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://sbocs.no-ip.net/logo2/spacehd.png" group-title="Canais | FILMES",Space HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/51
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="http://sbocs.no-ip.net/logo2/spacehd.png" group-title="Canais | FILMES",Space SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/50
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv.png" group-title="Canais | ESPORTES",SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv.png" group-title="Canais | ESPORTES",SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv2.png" group-title="Canais | ESPORTES",SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv2.png" group-title="Canais | ESPORTES",SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv3.png" group-title="Canais | ESPORTES",SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/45
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv3.png" group-title="Canais | ESPORTES",SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/44
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20274
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/157
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/150
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20251
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/526
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/527
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Star Hits FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20250
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Star Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/528
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Star Hits SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/151
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",Star Life FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20245
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",Star Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/156
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",Star Life SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/155
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="http://sbocs.no-ip.net/logo/24h/starplus.png" group-title="Canais I ESPORTES STREAMING",Star Plus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46598
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus SD" tvg-logo="http://sbocs.no-ip.net/logo/24h/starplus.png" group-title="Canais I ESPORTES STREAMING",Star Plus SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46599
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things (2016)" tvg-logo="https://static.wixstatic.com/media/52876d_1e02be7e4ca3487483b39184054670f5~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_1e02be7e4ca3487483b39184054670f5~mv2.png" group-title="Canais |  24 HORAS",Stranger Things (2016)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42943
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES",Studio Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/43
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES",Studio Universal SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42
-#EXTINF:-1 tvg-id="" tvg-name="Super Amigos (1973)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Super Amigos (1973)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49739
-#EXTINF:-1 tvg-id="" tvg-name="Superman A Série Animada (1996)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Superman A Série Animada (1996)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49763
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S01" tvg-logo="http://sbocs.no-ip.net/logo/supernatural2.png" group-title="Canais I Supernatural - 24H",Supernatural S01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46575
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S02" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46576
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S03" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46577
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S04" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46578
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S05" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46579
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S06" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46580
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S07" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46581
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S08" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46582
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S09" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46583
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S10" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46584
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S11" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46585
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46586
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S13" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46587
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S14" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46588
-#EXTINF:-1 tvg-id="" tvg-name="Supernatural S15" tvg-logo="http://srv.maxptv.net:8080/images/22f1f057fa40a029bd0b0395a9bfe4fd.png" group-title="Canais I Supernatural - 24H",Supernatural S15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46589
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy FHD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais | FILMES E SÉRIES ",Syfy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20255
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais | FILMES E SÉRIES ",Syfy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/41
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy SD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais | FILMES E SÉRIES ",Syfy SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40
-#EXTINF:-1 tvg-id="" tvg-name="Sítio do Pica pau Amarelo" tvg-logo="http://sbocs.no-ip.net/logo/24h/sitiodopicapau.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Sítio do Pica pau Amarelo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/44254
-#EXTINF:-1 tvg-id="" tvg-name="Sítio do Pica Pau Amarelo 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Sítio do Pica Pau Amarelo 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40796
-#EXTINF:-1 tvg-id="" tvg-name="Taz-Mania (1991)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Taz-Mania (1991)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49751
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20268
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/39
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/38
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://sbocs.no-ip.net/logo2/tcm.png" group-title="Canais | FILMES",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/37
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="http://sbocs.no-ip.net/logo2/tcm.png" group-title="Canais | FILMES",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/36
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20247
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/35
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/34
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20246
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/33
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/32
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20248
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/31
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/30
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20230
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/29
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/28
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20228
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/27
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/26
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20229
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/25
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/24
-#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/terraviva.png" group-title="Canais I CORTESIA",Terra Viva HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49048
-#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/terraviva.png" group-title="Canais I CORTESIA",Terra Viva SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49049
-#EXTINF:-1 tvg-id="" tvg-name="The Backyardigans 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",The Backyardigans 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40786
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 24H" tvg-logo="https://portalovertube.com/wp-content/uploads/2014/08/big-bang-theory.png" group-title="Canais |  24 HORAS",The Big Bang Theory 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/543
-#EXTINF:-1 tvg-id="" tvg-name="ThunderCats (1983)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",ThunderCats (1983)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49741
-#EXTINF:-1 tvg-id="" tvg-name="ThunderCats 24H Ultra HD" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",ThunderCats 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/40794
-#EXTINF:-1 tvg-id="" tvg-name="Tico e Teco e os Defensores da Lei" tvg-logo="http://sbocs.no-ip.net/logo/math/TicoeTeco.png" group-title="Canais | INFANTIL 24 HORAS",Tico e Teco e os Defensores da Lei
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46521
-#EXTINF:-1 tvg-id="" tvg-name="Timão e Pumba (1995)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Timão e Pumba (1995)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49745
-#EXTINF:-1 tvg-id="" tvg-name="Titans (2018)" tvg-logo="http://srv.maxptv.net:8080/images/f87c583af5689b4f42066adfccd11093.png" group-title="Canais |  24 HORAS",Titans (2018)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42944
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/1200px-TLC-Logo_2016.png" group-title="Canais | VARIEDADES",TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/1200px-TLC-Logo_2016.png" group-title="Canais | VARIEDADES",TLC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/22
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20270
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/21
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD²" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/13873
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Séries FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20269
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Séries HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/517
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Séries SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/18
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="http://sbocs.no-ip.net/logo/todomundoodeiaocris.png" group-title="Canais |  24 HORAS",Todo Mundo Odeia o Cris
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/317
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Tom & Jerry  24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/557
-#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry (1975)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Tom e Jerry (1975)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49768
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tooncast.png" group-title="Canais | INFANTIL",Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/17
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tooncast.png" group-title="Canais | INFANTIL",Tooncast SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/16
-#EXTINF:-1 tvg-id="" tvg-name="Top Sertanejo" tvg-logo="http://srv.maxptv.net:8080/images/7c3ba3c7f405b18dc862893b5075aff2.png" group-title="Canais I Audio - Cortesia",Top Sertanejo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49247
-#EXTINF:-1 tvg-id="" tvg-name="Touro e Pancho" tvg-logo="http://sbocs.no-ip.net/logo/24h/touroepangho.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Touro e Pancho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/44252
-#EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="Trace Brazuca HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/tracebrazucas.png" group-title="Canais | MUSICAIS",Trace Brazuca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20468
-#EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="Trace Brazuca SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/tracebrazucas.png" group-title="Canais | MUSICAIS",Trace Brazuca SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20469
-#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/travelbosbrasil.png" group-title="Canais I CORTESIA",Travel Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48335
-#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/travelbosbrasil.png" group-title="Canais I CORTESIA",Travel Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48336
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/tvaparecida.png" group-title="Canais | RELIGIÃO",TV Aparecida HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/15
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/tvaparecida.png" group-title="Canais | RELIGIÃO",TV Aparecida SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/14
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil  HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil.png" group-title="Canais I CORTESIA",TV Brasil  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47534
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil2.png" group-title="Canais I CORTESIA",TV Brasil 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49111
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil2.png" group-title="Canais I CORTESIA",TV Brasil 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49112
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil.png" group-title="Canais I CORTESIA",TV Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20308
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil.png" group-title="Canais I CORTESIA",TV Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/47535
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta FHD" tvg-logo="http://srv.maxptv.net:8080/images/ab81a01d70dfed850894655b5903e732.png" group-title="Canais I CORTESIA",TV Gazeta FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49239
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/gazeta.png" group-title="Canais I CORTESIA",TV Gazeta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/27160
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Tv Gazeta SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/gazeta.png" group-title="Canais I CORTESIA",Tv Gazeta SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/22948
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Tv Globinho  HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tvglobinho.png" group-title="Canais | INFANTIL",Tv Globinho  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/215
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Tv Globinho SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tvglobinho.png" group-title="Canais | INFANTIL",Tv Globinho SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/214
-#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="Tv Justiça" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/tvjustica.png" group-title="Canais | NOTÍCIAS ",Tv Justiça
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23531
-#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV Novo Tempo HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/novotempo.png" group-title="Canais | RELIGIÃO",TV Novo Tempo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20464
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/novotempo.png" group-title="Canais | RELIGIÃO",TV NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48339
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/novotempo.png" group-title="Canais | RELIGIÃO",TV NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/48338
-#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="Tv Senado" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/tvsenado.png" group-title="Canais | NOTÍCIAS ",Tv Senado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/23532
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="TV WA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvwa.png" group-title="Canais I CORTESIA",TV WA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49120
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="TV WA SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvwa.png" group-title="Canais I CORTESIA",TV WA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49119
-#EXTINF:-1 tvg-id="" tvg-name="TV5 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/tv5mond.png" group-title="Canais | MUNDO INTERNACIONAL",TV5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49129
-#EXTINF:-1 tvg-id="" tvg-name="TV5 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/tv5mond.png" group-title="Canais | MUNDO INTERNACIONAL",TV5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49130
-#EXTINF:-1 tvg-id="" tvg-name="Two And a Half Man 24H" tvg-logo="http://sbocs.no-ip.net/logo/twoandhalfman.png" group-title="Canais |  24 HORAS",Two And a Half Man 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/542
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaco  24H" tvg-logo="http://territoriolivrefm.com.br/wp-content/uploads/2020/08/Um_Maluco_No_Peda%C3%A7o_Bel_Air-1.png" group-title="Canais |  24 HORAS",Um Maluco No Pedaco  24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/541
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço (1990)" tvg-logo="http://territoriolivrefm.com.br/wp-content/uploads/2020/08/Um_Maluco_No_Peda%C3%A7o_Bel_Air-1.png" group-title="Canais |  24 HORAS",Um Maluco no Pedaço (1990)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42947
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20249
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel HD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/13215
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel SD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/11
-#EXTINF:-1 tvg-id="" tvg-name="Universo Cinematográfico Marvel" tvg-logo="https://static.wixstatic.com/media/52876d_19922f88cac645e3a5c58d2f456cb9dc~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_19922f88cac645e3a5c58d2f456cb9dc~mv2.png" group-title="Canais |  24 HORAS",Universo Cinematográfico Marvel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/42948
-#EXTINF:-1 tvg-id="" tvg-name="Vampirina (2017)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Vampirina (2017)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49775
-#EXTINF:-1 tvg-id="Venus.br" tvg-name="Venus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Canais | [XXX] ADULTO",Venus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/10
-#EXTINF:-1 tvg-id="Venus.br" tvg-name="Venus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Canais | [XXX] ADULTO",Venus SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/9
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/viva.png" group-title="Canais | VARIEDADES",Viva HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/6
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/viva.png" group-title="Canais | VARIEDADES",Viva SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/5
-#EXTINF:-1 tvg-id="" tvg-name="WandaVision" tvg-logo="http://sbocs.no-ip.net/logo/wandavision.png" group-title="Canais | INFANTIL 24 HORAS",WandaVision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/46523
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/20232
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/4
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/3
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/wohoo.png" group-title="Canais | VARIEDADES",Woohoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/207
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/wohoo.png" group-title="Canais | VARIEDADES",Woohoo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/206
-#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="https://static.wixstatic.com/media/52876d_8f3cbea6641348418fc34f571bf532bc~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_8f3cbea6641348418fc34f571bf532bc~mv2.png" group-title="Canais |  24 HORAS",X-Men
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/43877
-#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution (2000)" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",X-Men Evolution (2000)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/49769
-#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution 24H" tvg-logo="https://i.imgur.com/3LTJ2Oj.gif" group-title="Canais | INFANTIL 24 HORAS",X-Men Evolution 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1483
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira" tvg-logo="http://sbocs.no-ip.net/logo/24h/xena.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Xena: A Princesa Guerreira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/44253
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/zoomo.png" group-title="Canais | INFANTIL",ZooMoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/2
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/zoomo.png" group-title="Canais | INFANTIL",ZooMoo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://51.89.98.62:8080/lindaura/lindaura/1
+
+#EXTM3U
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157401
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157402
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="https://1.bp.blogspot.com/-vQADP8t1nXw/YBxZAPK_R5I/AAAAAAAAJ0g/-4_9tTO3Q1UvvVfro5xssIT0di7uBa_OwCLcBGAsYHQ/s0/h2.png" group-title="DOCUMENTARIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157641
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 SD" tvg-logo="https://1.bp.blogspot.com/-vQADP8t1nXw/YBxZAPK_R5I/AAAAAAAAJ0g/-4_9tTO3Q1UvvVfro5xssIT0di7uBa_OwCLcBGAsYHQ/s0/h2.png" group-title="DOCUMENTARIOS",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157642
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO HD" tvg-logo="https://1.bp.blogspot.com/-SsAnCfoheJc/YBxZA2kYDgI/AAAAAAAAJ00/nwLkbKAFuusNEa3PpwfbvTo24WFzTCrIQCLcBGAsYHQ/s0/national%2Bgeographic.png" group-title="DOCUMENTARIOS",NATGEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157695
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO SD" tvg-logo="https://1.bp.blogspot.com/-SsAnCfoheJc/YBxZA2kYDgI/AAAAAAAAJ00/nwLkbKAFuusNEa3PpwfbvTo24WFzTCrIQCLcBGAsYHQ/s0/national%2Bgeographic.png" group-title="DOCUMENTARIOS",NATGEO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157699
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD HD" tvg-logo="https://1.bp.blogspot.com/-mbn1USO0X3w/YBxY4mhz9jI/AAAAAAAAJyk/tocjON6gPSwZDKDS5JbMeZewq_mVN-bBQCLcBGAsYHQ/s0/National%2BGeographic%2BWild.png" group-title="DOCUMENTARIOS",NATGEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157701
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD SD" tvg-logo="https://1.bp.blogspot.com/-mbn1USO0X3w/YBxY4mhz9jI/AAAAAAAAJyk/tocjON6gPSwZDKDS5JbMeZewq_mVN-bBQCLcBGAsYHQ/s0/National%2BGeographic%2BWild.png" group-title="DOCUMENTARIOS",NATGEO WILD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157702
+#EXTINF:-1 tvg-id="the.history.br" tvg-name="THE HISTORY HD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="DOCUMENTARIOS",THE HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157816
+#EXTINF:-1 tvg-id="the.history.br" tvg-name="THE HISTORY SD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="DOCUMENTARIOS",THE HISTORY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157817
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND SP HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184067
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP SD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184068
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://1.bp.blogspot.com/-upBrSb0n-78/YBxY8Gxf45I/AAAAAAAAJzg/pRj_p6x4Z_8VXewdBmZRXTifArhdHuAfQCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="ABERTOS",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184070
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://1.bp.blogspot.com/-upBrSb0n-78/YBxY8Gxf45I/AAAAAAAAJzg/pRj_p6x4Z_8VXewdBmZRXTifArhdHuAfQCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="ABERTOS",CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184071
+#EXTINF:-1 tvg-id="rede.br" tvg-name="REDE TV HD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS",REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184087
+#EXTINF:-1 tvg-id="rede.br" tvg-name="REDE TV SD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS",REDE TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184088
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO HD" tvg-logo="https://1.bp.blogspot.com/-RGr0_SiSzdI/YBxY80ZGhOI/AAAAAAAAJzk/JsdvNJY2kfcGvnNXF6zLKfNOAl-NYO8GQCLcBGAsYHQ/s0/TV%2BDIARIO.png" group-title="ABERTOS",TV DIARIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184103
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO SD" tvg-logo="https://1.bp.blogspot.com/-RGr0_SiSzdI/YBxY80ZGhOI/AAAAAAAAJzk/JsdvNJY2kfcGvnNXF6zLKfNOAl-NYO8GQCLcBGAsYHQ/s0/TV%2BDIARIO.png" group-title="ABERTOS",TV DIARIO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184104
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV  HD" tvg-logo="https://i.imgur.com/7Pq20f7.jpg" group-title="INFANTIL",BABY TV  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184219
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/7Pq20f7.jpg" group-title="INFANTIL",BABY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184220
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.imgur.com/plvq2wL.png" group-title="INFANTIL",CARTOONITO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184222
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="https://i.imgur.com/plvq2wL.png" group-title="INFANTIL",CARTOONITO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184223
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/fpEpsrL.png" group-title="INFANTIL",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184225
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/fpEpsrL.png" group-title="INFANTIL",CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184226
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://cdn.tyuj.xyz:80/logos/discovery%20kids.jpg" group-title="INFANTIL",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184228
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://cdn.tyuj.xyz:80/logos/discovery%20kids.jpg" group-title="INFANTIL",DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184229
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://cdn.tyuj.xyz:80/logos/disney%20channel.jpg" group-title="INFANTIL",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184231
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://cdn.tyuj.xyz:80/logos/disney%20channel.jpg" group-title="INFANTIL",DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184232
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="DISNEY JR HD" tvg-logo="http://cdn.tyuj.xyz:80/logos/disney%20jr.jpg" group-title="INFANTIL",DISNEY JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184234
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="DISNEY JR SD" tvg-logo="http://cdn.tyuj.xyz:80/logos/disney%20jr.jpg" group-title="INFANTIL",DISNEY JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184235
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="DISNEY XD HD" tvg-logo="http://cdn.tyuj.xyz:80/logos/disney%20xd.jpg" group-title="INFANTIL",DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184237
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="DISNEY XD SD" tvg-logo="http://cdn.tyuj.xyz:80/logos/disney%20xd.jpg" group-title="INFANTIL",DISNEY XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184238
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://cdn.tyuj.xyz:80/logos/gloobinho.jpg" group-title="INFANTIL",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184240
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="http://cdn.tyuj.xyz:80/logos/gloobinho.jpg" group-title="INFANTIL",GLOOBINHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184241
+#EXTINF:-1 tvg-id="natgeo.kids.br" tvg-name="NATGEO KIDS HD" tvg-logo="https://i.imgur.com/el6FwNC.jpg" group-title="INFANTIL",NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184243
+#EXTINF:-1 tvg-id="natgeo.kids.br" tvg-name="NATGEO KIDS SD" tvg-logo="https://i.imgur.com/el6FwNC.jpg" group-title="INFANTIL",NATGEO KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184244
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlwb6sYqsvXyYFn6DDgnsdlldbef7VeNf0w&usqp=CAU" group-title="INFANTIL",NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184246
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlwb6sYqsvXyYFn6DDgnsdlldbef7VeNf0w&usqp=CAU" group-title="INFANTIL",NICK JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184247
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJPBHgozgdJD0s6rLyNghV7GXabYk0YiiIQ&usqp=CAU" group-title="INFANTIL",NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184249
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJPBHgozgdJD0s6rLyNghV7GXabYk0YiiIQ&usqp=CAU" group-title="INFANTIL",NICKELODEON  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184250
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.imgur.com/aPTpY34.jpg" group-title="INFANTIL",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184252
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://i.imgur.com/aPTpY34.jpg" group-title="INFANTIL",TOONCAST SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184253
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="http://cdn.tyuj.xyz:80/logos/ratimbum.jpg" group-title="INFANTIL",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184256
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="http://cdn.tyuj.xyz:80/logos/ratimbum.jpg" group-title="INFANTIL",TV RA TIM BUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184257
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184259
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS SD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="NOTICIAS",BAND NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184260
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://i.imgur.com/54Wl6Cx.png" group-title="NOTICIAS",CNN INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184262
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://i.imgur.com/54Wl6Cx.png" group-title="NOTICIAS",CNN INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184263
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL HD" tvg-logo="https://i.imgur.com/RvrDtK4.png" group-title="NOTICIAS",CNN ESPANHOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184265
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL SD" tvg-logo="https://i.imgur.com/RvrDtK4.png" group-title="NOTICIAS",CNN ESPANHOL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184266
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="NOTICIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184268
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="NOTICIAS",CNN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184269
+#EXTINF:-1 tvg-id="fox.news.br" tvg-name="FOX NEWS HD" tvg-logo="https://i.imgur.com/zwiq1iE.png" group-title="NOTICIAS",FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184271
+#EXTINF:-1 tvg-id="fox.news.br" tvg-name="FOX NEWS SD" tvg-logo="https://i.imgur.com/zwiq1iE.png" group-title="NOTICIAS",FOX NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184272
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-Fui-0y_xQnc/YB608kI_g1I/AAAAAAAAJ_s/QDYTfrUn-6sdi8Wexz19m_q5gZDOS7oXwCLcBGAsYHQ/Globo%2BNews.png" group-title="NOTICIAS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184274
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://lh3.googleusercontent.com/-Fui-0y_xQnc/YB608kI_g1I/AAAAAAAAJ_s/QDYTfrUn-6sdi8Wexz19m_q5gZDOS7oXwCLcBGAsYHQ/Globo%2BNews.png" group-title="NOTICIAS",GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184275
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="NOTICIAS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184277
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS SD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="NOTICIAS",RECORD NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184278
+#EXTINF:-1 tvg-id="rit.br" tvg-name=" TV RIT" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="RELIGIOSO", TV RIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184280
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://i.imgur.com/Y2ncDiz.png" group-title="RELIGIOSO",TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184283
+#EXTINF:-1 tvg-id="rede.genesis.br" tvg-name="REDE GENISIS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjI6SXQu3M4sv-4krodQIejNwV9gsMq1F5HnhLCv7KoJnIifnLCjKH59UGb41gaQvnERw&usqp=CAU" group-title="RELIGIOSO",REDE GENISIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184288
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER SD" tvg-logo="http://cdn.tyuj.xyz:80/logos/rede%20super.jpg" group-title="RELIGIOSO",REDE SUPER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184290
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD" tvg-logo="https://lh3.googleusercontent.com/-fpiVO2imhf4/YB1kAESQUfI/AAAAAAAAJ7g/DrG7OC1klgA5u-YcbP3lmRW8zLNbXYUPACLcBGAsYHQ/ARTE%2B1.png" group-title="VARIEDADES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184292
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD" tvg-logo="https://lh3.googleusercontent.com/-fpiVO2imhf4/YB1kAESQUfI/AAAAAAAAJ7g/DrG7OC1klgA5u-YcbP3lmRW8zLNbXYUPACLcBGAsYHQ/ARTE%2B1.png" group-title="VARIEDADES",ARTE 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184293
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://1.bp.blogspot.com/-da01FszsGsw/YBxYzUDLY8I/AAAAAAAAJxM/lwZ5S9PKM0wM1Og7EEiqh10z5kC8ZrQ3gCLcBGAsYHQ/s0/BIS.png" group-title="VARIEDADES",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184295
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://1.bp.blogspot.com/-da01FszsGsw/YBxYzUDLY8I/AAAAAAAAJxM/lwZ5S9PKM0wM1Og7EEiqh10z5kC8ZrQ3gCLcBGAsYHQ/s0/BIS.png" group-title="VARIEDADES",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184296
+#EXTINF:-1 tvg-id="chef.br" tvg-name="CHEF TV HD" tvg-logo="https://i.imgur.com/ysOcRFJ.png" group-title="VARIEDADES",CHEF TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184298
+#EXTINF:-1 tvg-id="chef.br" tvg-name="CHEF TV SD" tvg-logo="https://i.imgur.com/ysOcRFJ.png" group-title="VARIEDADES",CHEF TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184299
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://lh3.googleusercontent.com/-tLAPefMhkkA/YB2IXaL4dJI/AAAAAAAAJ8M/I1TbJkFTbCkv_OjoToFLsP3UtPHAqeSUACLcBGAsYHQ/ComedyCentral.png" group-title="VARIEDADES",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184301
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://lh3.googleusercontent.com/-tLAPefMhkkA/YB2IXaL4dJI/AAAAAAAAJ8M/I1TbJkFTbCkv_OjoToFLsP3UtPHAqeSUACLcBGAsYHQ/ComedyCentral.png" group-title="VARIEDADES",COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184302
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! HD" tvg-logo="https://1.bp.blogspot.com/-TRz6w_rxtYM/YBxY0Wj27tI/AAAAAAAAJxg/CYA7exGVpEkwUqe-sYNXDaJTXOynF2bmQCLcBGAsYHQ/s0/CURTA.png" group-title="VARIEDADES",CURTA! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184304
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-TRz6w_rxtYM/YBxY0Wj27tI/AAAAAAAAJxg/CYA7exGVpEkwUqe-sYNXDaJTXOynF2bmQCLcBGAsYHQ/s0/CURTA.png" group-title="VARIEDADES",CURTA! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184305
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="http://a5.vc/DKx" group-title="VARIEDADES",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184307
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="http://a5.vc/DKx" group-title="VARIEDADES",E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184308
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://1.bp.blogspot.com/-QlERVR2vWQE/YBxY1UrowWI/AAAAAAAAJxw/4Ggand0oQ64jY6lAYYvNUwgEnEB5gl14gCLcBGAsYHQ/s0/FOOD.png" group-title="VARIEDADES",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184310
+#EXTINF:-1 tvg-id="food.network.brasil.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://1.bp.blogspot.com/-QlERVR2vWQE/YBxY1UrowWI/AAAAAAAAJxw/4Ggand0oQ64jY6lAYYvNUwgEnEB5gl14gCLcBGAsYHQ/s0/FOOD.png" group-title="VARIEDADES",FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184311
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://a5.vc/scT" group-title="VARIEDADES",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184313
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="http://a5.vc/scT" group-title="VARIEDADES",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184314
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/RZgRPX6.png" group-title="VARIEDADES",HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184317
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://a5.vc/Drt" group-title="VARIEDADES",PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184321
+#EXTINF:-1 tvg-id="prime.box.brazil.3.br" tvg-name="PRIME BOX BRASIL SD" tvg-logo="http://a5.vc/Drt" group-title="VARIEDADES",PRIME BOX BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184322
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME SD" tvg-logo="https://i.imgur.com/lXivms6.png" group-title="VARIEDADES",SHOPTIME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184325
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAg1kmydtuWO15Aezr9DhohVqIXMECamOHlQ&usqp=CAU" group-title="VARIEDADES",TRU TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184328
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAg1kmydtuWO15Aezr9DhohVqIXMECamOHlQ&usqp=CAU" group-title="VARIEDADES",TRU TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184329
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://1.bp.blogspot.com/-2zfO9y0rdzk/YBxZC1-xGiI/AAAAAAAAJ1Y/mS89xVv14Co_98mP-4pjBwmw-Wn4O25uwCLcBGAsYHQ/s0/tlc.png" group-title="VARIEDADES",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184331
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://1.bp.blogspot.com/-2zfO9y0rdzk/YBxZC1-xGiI/AAAAAAAAJ1Y/mS89xVv14Co_98mP-4pjBwmw-Wn4O25uwCLcBGAsYHQ/s0/tlc.png" group-title="VARIEDADES",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184332
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="http://a5.vc/Qin" group-title="VARIEDADES",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184334
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD" tvg-logo="http://a5.vc/Qin" group-title="VARIEDADES",VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184335
+#EXTINF:-1 tvg-id="vh1.megahits.br" tvg-name="VH1 MEGA HITS HD" tvg-logo="http://a5.vc/i2z" group-title="VARIEDADES",VH1 MEGA HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184337
+#EXTINF:-1 tvg-id="vh1.megahits.br" tvg-name="VH1 MEGA HITS SD" tvg-logo="http://a5.vc/i2z" group-title="VARIEDADES",VH1 MEGA HITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184338
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOHOO HD" tvg-logo="http://a5.vc/HhI" group-title="VARIEDADES",WOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184340
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="ESPORTE",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207668
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="ESPORTE",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207669
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="ESPORTE",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207671
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="ESPORTE",COMBATE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207672
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/buuipvW.jpg" group-title="ESPORTE",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207686
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3 SD" tvg-logo="https://i.imgur.com/buuipvW.jpg" group-title="ESPORTE",ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207687
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="ESPORTE",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207689
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN SD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="ESPORTE",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207690
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title="ESPORTE",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207692
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title="ESPORTE",ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207693
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="ESPORTE",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207695
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="ESPORTE",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207696
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://1.bp.blogspot.com/-s3Dd7ciieHQ/YBxY2DFXl7I/AAAAAAAAJx8/gGr736hrQKk65wifWgTTGRsbN6LkJcAfwCLcBGAsYHQ/s0/Fish%2BTV.png" group-title="ESPORTE",FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207702
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://1.bp.blogspot.com/-s3Dd7ciieHQ/YBxY2DFXl7I/AAAAAAAAJx8/gGr736hrQKk65wifWgTTGRsbN6LkJcAfwCLcBGAsYHQ/s0/Fish%2BTV.png" group-title="ESPORTE",FISH TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207703
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/iNxtJNu.png" group-title="ESPORTE",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207704
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://lh3.googleusercontent.com/-IOcJvcV0Ack/YB6nhXgUsMI/AAAAAAAAJ-w/kuuutjtBQTkdpmQyCbKHWXVqLm09X3_1ACLcBGAsYHQ/Fox%2BSports%2B2.png" group-title="ESPORTE",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207706
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://lh3.googleusercontent.com/-IOcJvcV0Ack/YB6nhXgUsMI/AAAAAAAAJ-w/kuuutjtBQTkdpmQyCbKHWXVqLm09X3_1ACLcBGAsYHQ/Fox%2BSports%2B2.png" group-title="ESPORTE",FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207707
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD" tvg-logo="https://i.imgur.com/iNxtJNu.png" group-title="ESPORTE",ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207709
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV 2 HD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="ESPORTE",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207711
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="ESPORTE",SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207712
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV 3 HD" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="ESPORTE",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207714
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV 3 SD" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="ESPORTE",SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207715
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="ESPORTE",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207717
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="ESPORTE",SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207718
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207739
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207740
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207742
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207743
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207745
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207746
+#EXTINF:-1 tvg-id="premiere.5.3.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207748
+#EXTINF:-1 tvg-id="premiere.5.3.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207749
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207751
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207752
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES 02" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207755
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC ACTION HD" tvg-logo="https://1.bp.blogspot.com/-z9bAjhuO5Ao/YBxZBpPX06I/AAAAAAAAJ1A/5Y9lFq2A2gUA9a3o3VgJLfed7IUHRaaogCLcBGAsYHQ/s0/telecine%2Baction.png" group-title="TELECINE",TC ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207840
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC ACTION SD" tvg-logo="https://1.bp.blogspot.com/-z9bAjhuO5Ao/YBxZBpPX06I/AAAAAAAAJ1A/5Y9lFq2A2gUA9a3o3VgJLfed7IUHRaaogCLcBGAsYHQ/s0/telecine%2Baction.png" group-title="TELECINE",TC ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207841
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TC CULT HD" tvg-logo="https://i.imgur.com/HFIMRlR.png" group-title="TELECINE",TC CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207843
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TC CULT SD" tvg-logo="https://i.imgur.com/HFIMRlR.png" group-title="TELECINE",TC CULT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207844
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TC FUN HD" tvg-logo="https://1.bp.blogspot.com/-tQTftzwmtUE/YBxZCBroy3I/AAAAAAAAJ1I/a4AkM2Xd4xo9QzH-SLHr78I1VkNuNZzMACLcBGAsYHQ/s0/telecine%2Bfun.png" group-title="TELECINE",TC FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207846
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TC FUN SD" tvg-logo="https://1.bp.blogspot.com/-tQTftzwmtUE/YBxZCBroy3I/AAAAAAAAJ1I/a4AkM2Xd4xo9QzH-SLHr78I1VkNuNZzMACLcBGAsYHQ/s0/telecine%2Bfun.png" group-title="TELECINE",TC FUN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207847
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TC PIPOCA HD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="TELECINE",TC PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207849
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TC PIPOCA SD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="TELECINE",TC PIPOCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207850
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TC PREMIUM HD" tvg-logo="https://1.bp.blogspot.com/-9y9Czx6d9Ic/YBxZCli1hxI/AAAAAAAAJ1Q/ULgYcQkTwXw-3dZraA6olb43zCogLRT3QCLcBGAsYHQ/s0/telecine%2Bpremio.png" group-title="TELECINE",TC PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207852
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TC PREMIUM SD" tvg-logo="https://1.bp.blogspot.com/-9y9Czx6d9Ic/YBxZCli1hxI/AAAAAAAAJ1Q/ULgYcQkTwXw-3dZraA6olb43zCogLRT3QCLcBGAsYHQ/s0/telecine%2Bpremio.png" group-title="TELECINE",TC PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207853
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TC TOUCH HD" tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png" group-title="TELECINE",TC TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207855
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TC TOUCH SD" tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png" group-title="TELECINE",TC TOUCH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207856
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD BA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD BA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207857
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BH HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD BH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207858
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASÍLIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD BRASÍLIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207859
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GO HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD GO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207861
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD PA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD PA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207864
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207865
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP FHD²" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD SP FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207866
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PA HD1" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD PA HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207867
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD¹" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT SP HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207869
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT - TV JANGADEIRO" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT - TV JANGADEIRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207872
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT - TV SERRA DOURADA" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT - TV SERRA DOURADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207873
+#EXTINF:-1 tvg-id="" tvg-name=" Retro Plus" tvg-logo="data:image/jpeg;base64,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mlln9AvmBUCwIItx7uPtrzs7YJjlMkkhkIsEJJuAosBbwrzDvSDxjt/H/pX3/wDX4hqw046H5/Oqr1BrYkmOoVl2u4zESuzENlRn5KCSTwHeTyFYntbFdbK78idPDkfbx9tWffHfeTEqcPF9XhwbkDjIe1j2d3nfS1KrUy843nCNw9+tFmfdb2Wmd59l5pXilWyq0pSlcRKUpRF7A2rqixzDvrjpXCJzXQYyUmu2ZBwC+/8AWvqu8Mw4ZfI/rUPSomkw5hSFR41XbtDHvMwZ7XAy6C2lyfnXFSlSAAEBRJJMlKUpXVxKUpREpSlESlKURea8UpREr3RiDcV6UoimcHtBPtad/EfrUtDjIv7RPMD41UKVS+g1yuZWLVdW2pCguZAe5fSPuqD2rtppfRX0U7ObeJ+VQ1K4yzsYb2ZXX2h7hGQSlKVeqEpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlESlKURKUpREpSlEX//Z" group-title="VARIEDADES", Retro Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/208643
+#EXTINF:-1 tvg-id="rede.minas.br" tvg-name=" Rede Minas SD" tvg-logo="data:image/jpeg;base64,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" group-title="ABERTOS", Rede Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/208649
+#EXTINF:-1 tvg-id="" tvg-name="RADIO M2O" tvg-logo="data:image/png;base64,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" group-title="VARIEDADES",RADIO M2O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/208650
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="http://xtream-coders.com/x0/latino/mtv.png" group-title="VARIEDADES",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/267631
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF  HD" tvg-logo="http://a5.vc/wCS" group-title="VARIEDADES",OFF  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/267636
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://xtream-coders.com/x0/latino/mtv.png" group-title="VARIEDADES",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/267653
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD PA SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD PA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/267661
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/mshow_N.png" group-title="VARIEDADES",MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292162
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/mshow_N.png" group-title="VARIEDADES",MULTISHOW SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292164
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Filmes Ação
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292601
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Suspense" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Filmes Suspense
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292602
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Cine Sucessos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292603
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Cine Comédia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292604
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Cine Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292605
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Cine Terror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292606
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Família" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Cine Família
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292607
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Filmes Nacionais
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292608
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Séries" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Séries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292609
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Anime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292610
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retrô" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Retrô
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292611
+#EXTINF:-1 tvg-id="" tvg-name="MTV Pluto TV" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",MTV Pluto TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292614
+#EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",People are Awesome
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292615
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",LOVE NATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292617
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investigação" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Investigação
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292618
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vida Real" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Vida Real
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292619
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Tastemade
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292620
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Fashionbox" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Fashionbox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292622
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292623
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292624
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. Club" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Nick Jr. Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292625
+#EXTINF:-1 tvg-id="" tvg-name="Babyfirst" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Babyfirst
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292627
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Infantil" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",O Reino Infantil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292628
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Turma da Mônica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292629
+#EXTINF:-1 tvg-id="" tvg-name="As  Pistas de Blue" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",As  Pistas de Blue
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292630
+#EXTINF:-1 tvg-id="" tvg-name="A vida moderna de Rocko" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",A vida moderna de Rocko
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292631
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Naruto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292632
+#EXTINF:-1 tvg-id="" tvg-name="Porta dos Fundos" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Porta dos Fundos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292633
+#EXTINF:-1 tvg-id="" tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",The Pet Collective
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292634
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 01" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="ESPORTE",ELEVEN SPORTS 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292637
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 02" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="ESPORTE",ELEVEN SPORTS 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292638
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 03" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="ESPORTE",ELEVEN SPORTS 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292639
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 04" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="ESPORTE",ELEVEN SPORTS 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292640
+#EXTINF:-1 tvg-id="ElevenSports.br" tvg-name="ELEVEN SPORTS 05" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="ESPORTE",ELEVEN SPORTS 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292641
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 06" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="ESPORTE",ELEVEN SPORTS 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292643
+#EXTINF:-1 tvg-id="" tvg-name="Nick Clássico" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Nick Clássico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292650
+#EXTINF:-1 tvg-id="i.sat.br" tvg-name="I SAT SD" tvg-logo="https://i.imgur.com/3No4BNV.png" group-title="VARIEDADES",I SAT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/293075
+#EXTINF:-1 tvg-id="i.sat.br" tvg-name="I SAT HD" tvg-logo="https://i.imgur.com/3No4BNV.png" group-title="VARIEDADES",I SAT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/293173
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD1" tvg-logo="https://1.bp.blogspot.com/-2zfO9y0rdzk/YBxZC1-xGiI/AAAAAAAAJ1Y/mS89xVv14Co_98mP-4pjBwmw-Wn4O25uwCLcBGAsYHQ/s0/tlc.png" group-title="VARIEDADES",TLC SD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/293179
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD1" tvg-logo="https://1.bp.blogspot.com/-2zfO9y0rdzk/YBxZC1-xGiI/AAAAAAAAJ1Y/mS89xVv14Co_98mP-4pjBwmw-Wn4O25uwCLcBGAsYHQ/s0/tlc.png" group-title="VARIEDADES",TLC HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/293180
+#EXTINF:-1 tvg-id="" tvg-name="AQUÁRIO RELAXANTE" tvg-logo="https://i.imgur.com/x5opZmx.jpg" group-title="CANAIS P/RELAXAR",AQUÁRIO RELAXANTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296062
+#EXTINF:-1 tvg-id="" tvg-name="NATUREZA RELAXANTE" tvg-logo="https://i.imgur.com/x5opZmx.jpg" group-title="CANAIS P/RELAXAR",NATUREZA RELAXANTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296063
+#EXTINF:-1 tvg-id="" tvg-name="MÚSICA CELTA PARA DORMIR" tvg-logo="https://i.imgur.com/x5opZmx.jpg" group-title="CANAIS P/RELAXAR",MÚSICA CELTA PARA DORMIR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296064
+#EXTINF:-1 tvg-id="" tvg-name="CACHOEIRA PARA RELAXAR" tvg-logo="https://i.imgur.com/x5opZmx.jpg" group-title="CANAIS P/RELAXAR",CACHOEIRA PARA RELAXAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296065
+#EXTINF:-1 tvg-id="" tvg-name="ALIVIAR A INSÔNIA" tvg-logo="https://i.imgur.com/x5opZmx.jpg" group-title="CANAIS P/RELAXAR",ALIVIAR A INSÔNIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296066
+#EXTINF:-1 tvg-id="" tvg-name="PASSÁROS E NATUREZA" tvg-logo="https://i.imgur.com/x5opZmx.jpg" group-title="CANAIS P/RELAXAR",PASSÁROS E NATUREZA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296067
+#EXTINF:-1 tvg-id="" tvg-name="MUSICAS PIANO PARA RELAXAR A ALMA" tvg-logo="https://i.imgur.com/x5opZmx.jpg" group-title="CANAIS P/RELAXAR",MUSICAS PIANO PARA RELAXAR A ALMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296068
+#EXTINF:-1 tvg-id="" tvg-name="CHUVA RELAXANTE" tvg-logo="https://i.imgur.com/x5opZmx.jpg" group-title="CANAIS P/RELAXAR",CHUVA RELAXANTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296069
+#EXTINF:-1 tvg-id="" tvg-name="ALEXANDRE PIRES" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",ALEXANDRE PIRES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296070
+#EXTINF:-1 tvg-id="" tvg-name="AMADO BATISTA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",AMADO BATISTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296071
+#EXTINF:-1 tvg-id="" tvg-name="RENATO RUSSO E LEGIÃO URBANA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",RENATO RUSSO E LEGIÃO URBANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296072
+#EXTINF:-1 tvg-id="" tvg-name="ANA CAROLINA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",ANA CAROLINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296073
+#EXTINF:-1 tvg-id="" tvg-name="BRUNO E MARRONE" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",BRUNO E MARRONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296075
+#EXTINF:-1 tvg-id="" tvg-name="Charlie Brown Jr." tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",Charlie Brown Jr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296076
+#EXTINF:-1 tvg-id="" tvg-name="DJAVAN" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",DJAVAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296077
+#EXTINF:-1 tvg-id="" tvg-name="DILSINHO" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",DILSINHO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296078
+#EXTINF:-1 tvg-id="" tvg-name="EXALTASAMBA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",EXALTASAMBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296079
+#EXTINF:-1 tvg-id="" tvg-name="FERRUGEM" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",FERRUGEM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296080
+#EXTINF:-1 tvg-id="" tvg-name="FUNK 2021" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",FUNK 2021
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296081
+#EXTINF:-1 tvg-id="" tvg-name="FUNK MELODY" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",FUNK MELODY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296082
+#EXTINF:-1 tvg-id="" tvg-name="FABIO JR" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",FABIO JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296083
+#EXTINF:-1 tvg-id="" tvg-name="FUNK DAS ANTIGAS NACIONAL" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",FUNK DAS ANTIGAS NACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296084
+#EXTINF:-1 tvg-id="" tvg-name="GUSTAVO LIMA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",GUSTAVO LIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296085
+#EXTINF:-1 tvg-id="" tvg-name="JORGE E MATEUS" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",JORGE E MATEUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296086
+#EXTINF:-1 tvg-id="" tvg-name="MARILIA MENDONÇA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",MARILIA MENDONÇA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296087
+#EXTINF:-1 tvg-id="" tvg-name="O RAPPA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",O RAPPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296088
+#EXTINF:-1 tvg-id="" tvg-name="OS BARÕES DA PISADINHA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",OS BARÕES DA PISADINHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296089
+#EXTINF:-1 tvg-id="" tvg-name="ROBERTO CARLOS" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",ROBERTO CARLOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296090
+#EXTINF:-1 tvg-id="" tvg-name="ROUPA NOVA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",ROUPA NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296091
+#EXTINF:-1 tvg-id="" tvg-name="RAÇA NEGRA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",RAÇA NEGRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296092
+#EXTINF:-1 tvg-id="" tvg-name="TIM MAIA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",TIM MAIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296093
+#EXTINF:-1 tvg-id="" tvg-name="WESLEY SAFADÃO" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",WESLEY SAFADÃO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296094
+#EXTINF:-1 tvg-id="" tvg-name="EMINEM" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",EMINEM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296096
+#EXTINF:-1 tvg-id="" tvg-name="AS MELHORES ROMANTICAS" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",AS MELHORES ROMANTICAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296097
+#EXTINF:-1 tvg-id="" tvg-name="BRUNO MARS" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",BRUNO MARS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296098
+#EXTINF:-1 tvg-id="" tvg-name="GUNS N ROSES" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",GUNS N ROSES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296099
+#EXTINF:-1 tvg-id="" tvg-name="HIP HOP ANOS 2000" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",HIP HOP ANOS 2000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296100
+#EXTINF:-1 tvg-id="" tvg-name="MICHAEL JACKSON" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",MICHAEL JACKSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296101
+#EXTINF:-1 tvg-id="" tvg-name="QUEEN" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",QUEEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296102
+#EXTINF:-1 tvg-id="" tvg-name="RACIONAIS MC" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",RACIONAIS MC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296103
+#EXTINF:-1 tvg-id="" tvg-name="WHITNEY HOUSTON" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",WHITNEY HOUSTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296104
+#EXTINF:-1 tvg-id="" tvg-name="MARIAH CAREY" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",MARIAH CAREY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296105
+#EXTINF:-1 tvg-id="" tvg-name="ALINE BARROS" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",ALINE BARROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296108
+#EXTINF:-1 tvg-id="" tvg-name="ANDERSON FREIRE" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",ANDERSON FREIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296109
+#EXTINF:-1 tvg-id="" tvg-name="ALISSON E NEIDE (SINCERIDADE)" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",ALISSON E NEIDE (SINCERIDADE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296110
+#EXTINF:-1 tvg-id="" tvg-name="BRUNA KARLA" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",BRUNA KARLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296111
+#EXTINF:-1 tvg-id="" tvg-name="EDNAN RUFINO (CARTA PARA DEUS)" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",EDNAN RUFINO (CARTA PARA DEUS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296112
+#EXTINF:-1 tvg-id="" tvg-name="CORINHOS DE FOGO 1" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",CORINHOS DE FOGO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296113
+#EXTINF:-1 tvg-id="" tvg-name="CORINHOS DE FOGO 2" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",CORINHOS DE FOGO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296114
+#EXTINF:-1 tvg-id="" tvg-name="CASSIANE" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",CASSIANE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296115
+#EXTINF:-1 tvg-id="" tvg-name="DAVI SACER" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",DAVI SACER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296116
+#EXTINF:-1 tvg-id="" tvg-name="ELEINE MARTINS" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",ELEINE MARTINS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296117
+#EXTINF:-1 tvg-id="" tvg-name="EYSHILA" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",EYSHILA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296118
+#EXTINF:-1 tvg-id="" tvg-name="FABIANA ANASTÁCIO" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",FABIANA ANASTÁCIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296119
+#EXTINF:-1 tvg-id="" tvg-name="FERNANDA BRUM" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",FERNANDA BRUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296120
+#EXTINF:-1 tvg-id="" tvg-name="FERNANDINHO" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",FERNANDINHO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296121
+#EXTINF:-1 tvg-id="" tvg-name="GABRIELA ROCHA" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",GABRIELA ROCHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296122
+#EXTINF:-1 tvg-id="" tvg-name="HARPA CRISTÃ" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",HARPA CRISTÃ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296123
+#EXTINF:-1 tvg-id="" tvg-name="IRMÃO LÁZARO" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",IRMÃO LÁZARO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296124
+#EXTINF:-1 tvg-id="" tvg-name="KEMUEL (ALGO NOVO)" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",KEMUEL (ALGO NOVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296125
+#EXTINF:-1 tvg-id="" tvg-name="KLEBER LUCAS" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",KLEBER LUCAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296126
+#EXTINF:-1 tvg-id="" tvg-name="MIDIAN LIMA" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",MIDIAN LIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296127
+#EXTINF:-1 tvg-id="" tvg-name="MARCOS ANTÔNIO" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",MARCOS ANTÔNIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296128
+#EXTINF:-1 tvg-id="" tvg-name="MINISTERIO ZOE (AQUIETA MINHA ALMA)" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",MINISTERIO ZOE (AQUIETA MINHA ALMA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296129
+#EXTINF:-1 tvg-id="" tvg-name="ROSE NASCIMENTO" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",ROSE NASCIMENTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296130
+#EXTINF:-1 tvg-id="" tvg-name="SERGIO LOPES" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",SERGIO LOPES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296131
+#EXTINF:-1 tvg-id="" tvg-name="THALLES ROBERTO" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",THALLES ROBERTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296132
+#EXTINF:-1 tvg-id="" tvg-name="VALESCA MAYSA (ÁRVORE CORTADA)" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",VALESCA MAYSA (ÁRVORE CORTADA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296133
+#EXTINF:-1 tvg-id="" tvg-name="ORAÇÃO DA FÉ" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",ORAÇÃO DA FÉ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296134
+#EXTINF:-1 tvg-id="" tvg-name="Pr. LUCAS" tvg-logo="https://i.imgur.com/imDLqed.jpg" group-title="COLETÂNEA GOSPEL ",Pr. LUCAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/298655
+#EXTINF:-1 tvg-id="" tvg-name="SORRISO MAROTO" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",SORRISO MAROTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/298656
+#EXTINF:-1 tvg-id="" tvg-name="IMAGINASAMBA" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",IMAGINASAMBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/298657
+#EXTINF:-1 tvg-id="" tvg-name="OS TRAVESSOS" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",OS TRAVESSOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/298658
+#EXTINF:-1 tvg-id="" tvg-name="ZECA PAGODINHO" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",ZECA PAGODINHO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/298659
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL TV 01" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL",CONMEBOL TV 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/299030
+#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL TV 02" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL",CONMEBOL TV 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/299032
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://cdn.tyuj.xyz:80/logos/gloob.jpg" group-title="INFANTIL",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/301763
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RIO HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT RIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/302918
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="Novo Tempo HD" tvg-logo="http://cdn.tyuj.xyz:80/logos/novo%20tempo.jpg" group-title="RELIGIOSO",Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/304708
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS " tvg-logo="https://i.imgur.com/GpVHO4P.jpg" group-title="ESPORTE",TV NSPORTS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/305071
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES 03" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207754
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD" tvg-logo="https://i.imgur.com/iNxtJNu.png" group-title="ESPORTE",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207708
+#EXTINF:-1 tvg-id="" tvg-name="BELO" tvg-logo="https://i.imgur.com/BkG0S5F.png" group-title="HITS",BELO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/296074
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES 01" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207753
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="ESPORTE",SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/207716
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO MAX 01" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",HBO MAX 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/337416
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",HBO MAX 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/337417
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",HBO MAX 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/337434
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",HBO MAX 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/337435
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",DAZN 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/337436
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",DAZN 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/337437
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",DAZN 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/337438
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 01" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",STAR+ 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/337439
+#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL TV 03" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL",CONMEBOL TV 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/337465
+#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL TV 04" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL",CONMEBOL TV 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/337669
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 05" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL",CONMEBOL TV 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/338182
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 06" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="CONMEBOL",CONMEBOL TV 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/338183
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES 04" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/338682
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES 05" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/338683
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES 06" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/338684
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 01" tvg-logo="https://lh3.googleusercontent.com/-xR6mYIToYbQ/YGi2fJ0Zn2I/AAAAAAAAKJw/NPMzqEkuI70O3DvKYtblCshiQUsP76HjwCLcBGAsYHQ/tnt%2Bsports.png" group-title="ESPORTE",TNT SPORTS 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/340996
+#EXTINF:-1 tvg-id="esporte.interativo.br" tvg-name="TNT SPORTS 02" tvg-logo="https://lh3.googleusercontent.com/-xR6mYIToYbQ/YGi2fJ0Zn2I/AAAAAAAAKJw/NPMzqEkuI70O3DvKYtblCshiQUsP76HjwCLcBGAsYHQ/tnt%2Bsports.png" group-title="ESPORTE",TNT SPORTS 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/340999
+#EXTINF:-1 tvg-id="esporte.interativo.br" tvg-name="TNT SPORTS 03" tvg-logo="https://lh3.googleusercontent.com/-xR6mYIToYbQ/YGi2fJ0Zn2I/AAAAAAAAKJw/NPMzqEkuI70O3DvKYtblCshiQUsP76HjwCLcBGAsYHQ/tnt%2Bsports.png" group-title="ESPORTE",TNT SPORTS 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/341000
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 02" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",STAR+ 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/347556
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 03" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",STAR+ 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/347574
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/347614
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/347615
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE ",PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/347616
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 04" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",STAR+ 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/348622
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 05" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title="EXCLUSIVOS CHAMPIONS LEAGUE",STAR+ 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/348623
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD PE" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT HD PE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349222
+#EXTINF:-1 tvg-id="band.mato.grosso.br" tvg-name="BAND BSB" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND BSB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349224
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PR" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT PR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349225
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349226
+#EXTINF:-1 tvg-id="" tvg-name="REDE RVC" tvg-logo="https://i.imgur.com/9R2NPao.jpg" group-title="ABERTOS",REDE RVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349230
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL" tvg-logo="https://i.imgur.com/cO1ydq4.jpg" group-title="ABERTOS",REDE BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349238
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA PR" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="ABERTOS",TV CULTURA PR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349242
+#EXTINF:-1 tvg-id="" tvg-name="TV OSASCO" tvg-logo="https://i.imgur.com/kRoV4OY.png" group-title="ABERTOS",TV OSASCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349245
+#EXTINF:-1 tvg-id="40.graus.br" tvg-name="TV BNO AC" tvg-logo="https://i.imgur.com/xZPTgCy.png" group-title="ABERTOS",TV BNO AC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349246
+#EXTINF:-1 tvg-id="tv.mais.br" tvg-name="TV MAIS - CE" tvg-logo="https://i.imgur.com/gEJKQGX.png" group-title="ABERTOS",TV MAIS - CE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349249
+#EXTINF:-1 tvg-id="40.graus.br" tvg-name="TV OURO NEGRO - BA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c1/Logotipo_da_TV_Ouro_Negro.png/200px-Logotipo_da_TV_Ouro_Negro.png" group-title="ABERTOS",TV OURO NEGRO - BA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349250
+#EXTINF:-1 tvg-id="40.graus.br" tvg-name="REDE RC" tvg-logo="https://rederc.com.br/wp-content/uploads/2019/11/logorederc-300x169.png" group-title="RELIGIOSO",REDE RC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349251
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO DO SERTAO" tvg-logo="https://1.bp.blogspot.com/-RGr0_SiSzdI/YBxY80ZGhOI/AAAAAAAAJzk/JsdvNJY2kfcGvnNXF6zLKfNOAl-NYO8GQCLcBGAsYHQ/s0/TV%2BDIARIO.png" group-title="ABERTOS",TV DIARIO DO SERTAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349252
+#EXTINF:-1 tvg-id="" tvg-name="TV CN AGITOS" tvg-logo="https://i.imgur.com/HE0BkIc.jpg" group-title="ABERTOS",TV CN AGITOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349256
+#EXTINF:-1 tvg-id="tv.comunitaria.br" tvg-name="TV COM BRASIL" tvg-logo="https://digitalapi.sky.com.br/logos/channels/28.png" group-title="ABERTOS",TV COM BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349257
+#EXTINF:-1 tvg-id="novo.tempo.br" tvg-name="TV NOVO TEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSO",TV NOVO TEMPO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/349258
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="TV PLENITUDE HD" tvg-logo="https://i.imgur.com/szPnmBc.png" group-title="RELIGIOSO",TV PLENITUDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/351932
+#EXTINF:-1 tvg-id="" tvg-name="BET Pluto TV" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",BET Pluto TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/353154
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Loupe" tvg-logo="https://i.imgur.com/rxk2Wbt.jpg" group-title="PLUTO TV",Pluto TV Loupe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/353155
+#EXTINF:-1 tvg-id="" tvg-name="TV PROMESSAS HD" tvg-logo="https://i.imgur.com/yXreqJk.jpg" group-title="RELIGIOSO",TV PROMESSAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/353421
+#EXTINF:-1 tvg-id="" tvg-name="Furacão TV" tvg-logo="https://i.imgur.com/dRQlQfj.jpg" group-title="ESPORTE",Furacão TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/353692
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV BA SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD TV BA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/353714
+#EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS FHD" tvg-logo="https://lh3.googleusercontent.com/-R-m1dR6tDu0/YXnheDW9F3I/AAAAAAAAKro/GUEAWexmvRQ3t_OWSrW8pS2vKWBpI2h2gCLcBGAsYHQ/JOVEM%2BPAN.png" group-title="NOTICIAS",JOVEN PAN NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/354870
+#EXTINF:-1 tvg-id="" tvg-name="NBA HD" tvg-logo="https://i.imgur.com/aY3eiiy.jpg" group-title="ESPORTE",NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/359866
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS NA TELA FHD" tvg-logo="http://bravi.tv/wp-content/uploads/2018/02/maisglobo.jpg" group-title="VARIEDADES",MAIS NA TELA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/360550
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS NA TELA HD" tvg-logo="http://bravi.tv/wp-content/uploads/2018/02/maisglobo.jpg" group-title="VARIEDADES",MAIS NA TELA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/360551
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS NA TELA SD" tvg-logo="http://bravi.tv/wp-content/uploads/2018/02/maisglobo.jpg" group-title="VARIEDADES",MAIS NA TELA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/360552
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD DF HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365133
+#EXTINF:-1 tvg-id="record.porto.alegre.br" tvg-name="RECORD RS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365134
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BAHIA HD¹" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD BAHIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365136
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BELEM HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365137
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SANTOS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD SANTOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365138
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD MINAS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365139
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365142
+#EXTINF:-1 tvg-id="sbt.sergipe.br" tvg-name="SBT Sergipe -Tv Aperiper HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT Sergipe -Tv Aperiper HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365143
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV ARUTU BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT TV ARUTU BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365144
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD BAHIA HD²" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD BAHIA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365145
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365149
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND PARANA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365153
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PARANÁ HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT PARANÁ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365154
+#EXTINF:-1 tvg-id="record.curitiba.br" tvg-name="RECORD PARANÁ HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD PARANÁ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365155
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365162
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365165
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD MANAUS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365166
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT VTV CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT VTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365180
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT VTV CAMPINAS FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT VTV CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365181
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD CAMPINAS FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365182
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PARANÁ FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT PARANÁ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365192
+#EXTINF:-1 tvg-id="record.curitiba.br" tvg-name="RECORD TV RIC" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD TV RIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365193
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="http://a5.vc/TDh" group-title="VARIEDADES",BIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365243
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="CARTOONITO HD¹" tvg-logo="https://i.imgur.com/plvq2wL.png" group-title="INFANTIL",CARTOONITO HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365244
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CanalBrasil" tvg-logo="http://a5.vc/1MP" group-title="ABERTOS",CanalBrasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365245
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi" tvg-logo="https://lh3.googleusercontent.com/-Li5io6A9WcM/YB1E7Q-wmnI/AAAAAAAAJ5U/RvH5WwHsB_8wneFb_bKmVmSENvH7jydtACLcBGAsYHQ/CanaldoBoi.png" group-title="ABERTOS",Canal do Boi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365246
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/cO1ydq4.jpg" group-title="ABERTOS",Rede Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365259
+#EXTINF:-1 tvg-id="rede.br" tvg-name="Rede TV" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS",Rede TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365260
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida" tvg-logo="" group-title="RELIGIOSO",Rede Vida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365261
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="data:image/jpeg;base64,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" group-title="RELIGIOSO",TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365265
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV Camara" tvg-logo="https://lh3.googleusercontent.com/-GAijnROUhNU/YB1HohJOn-I/AAAAAAAAJ5w/Tdh_j1l8Qf47lzGGEwWZHUjLnsv55nBggCLcBGAsYHQ/TV%2BCamara.png" group-title="ABERTOS",TV Camara
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365267
+#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV Justica HD*" tvg-logo="https://lh3.googleusercontent.com/-Q85ZPelOntc/YB1LglRwRpI/AAAAAAAAJ6Y/v27Vf7kqf2gKDfyYF4hMdGCehjaM760ywCLcBGAsYHQ/TV%2BJustica.png" group-title="ABERTOS",TV Justica HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365270
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV Ra tim bum" tvg-logo="http://cdn.tyuj.xyz:80/logos/ratimbum.jpg" group-title="INFANTIL",TV Ra tim bum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365272
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV Senado HD*" tvg-logo="https://lh3.googleusercontent.com/-onWZFubMbtM/YB1JVyA6XZI/AAAAAAAAJ6E/zunSXwBILJMDNwLtJXPyJ7VyAkQvuan9ACLcBGAsYHQ/TV%2BSenado.png" group-title="ABERTOS",TV Senado HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365273
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO" tvg-logo="" group-title="RELIGIOSO",NOVO TEMPO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/365280
+#EXTINF:-1 tvg-id="tv.imperial.record.br" tvg-name="RECORD HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/366942
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368750
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368751
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368752
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368756
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368757
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368758
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISCOVERY ID FHD" tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png" group-title="DOCUMENTARIOS",DISCOVERY ID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368762
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png" group-title="DOCUMENTARIOS",DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368763
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISCOVERY ID SD" tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png" group-title="DOCUMENTARIOS",DISCOVERY ID SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368764
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368768
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368769
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368770
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368774
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368775
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368776
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368783
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368784
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368785
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368789
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368790
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368791
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368795
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368812
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD³" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT SP HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368813
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT - TV JANGADEIRO" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT - TV JANGADEIRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368815
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT - TV SERRA DOURADA" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT - TV SERRA DOURADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/368816
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA FHD²" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO BRASILIA FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369365
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV CENTRO AMERICA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV CENTRO AMERICA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369369
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV CENTRO AMERICA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV CENTRO AMERICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369371
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV CENTRO AMERICA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV CENTRO AMERICA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369373
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO EPTV CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369376
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369377
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369378
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO EPTV SUL DE MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369382
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369383
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO EPTV SUL DE MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369385
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO INTER TV GRANDE MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369386
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO INTER TV GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369387
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO MINAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369389
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369390
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO MINAS SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369391
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="INTER TV GRANDE MINAS SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",INTER TV GRANDE MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369395
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369397
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO NORDESTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369398
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="GLOBO NSC FLORIANOPOLIS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO NSC FLORIANOPOLIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369402
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369403
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="GLOBO NSC FLORIANOPOLIS SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO NSC FLORIANOPOLIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369404
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="GLOBO RBS TV POA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RBS TV POA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369407
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="GLOBO RBS TV POA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RBS TV POA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369409
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369411
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369412
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369413
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RPC CURITIBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369417
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RPC CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369418
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RPC CURITIBA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369419
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369424
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369425
+#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="GLOBOTV ANHANGUERA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBOTV ANHANGUERA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369429
+#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="GLOBOTV ANHANGUERA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBOTV ANHANGUERA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369430
+#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="GLOBO TV ANHANGUERA  SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV ANHANGUERA  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369431
+#EXTINF:-1 tvg-id="tv.bahia.br" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV BAHIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369433
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369434
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV BAHIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369435
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="GLOBO TV BELEM FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV BELEM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369443
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="GLOBO TV BELEM HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369444
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="GLOBO TV BELEM SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV BELEM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369445
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV MIRANTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369451
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="GLOBO TV MIRANTE SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV MIRANTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369452
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV MORENA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369458
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV MORENA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369459
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV MORENA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369460
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO TV VERDES MARES FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV VERDES MARES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369462
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV VERDES MARES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369463
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV VERDES MARES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369464
+#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO INTER TV CABUGI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369473
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO INTER TV DOS VALES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369485
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTER TV DOS VALES SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",INTER TV DOS VALES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369488
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV ASA BRANCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369499
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV CABO BRANCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369502
+#EXTINF:-1 tvg-id="intertv.alto.literal.br" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO INTER TV ALTO LITORAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369507
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="REDE AMAZONICA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",REDE AMAZONICA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369511
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV INTEGRAÇÃO JF FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV INTEGRAÇÃO JF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369517
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RPC MARINGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369527
+#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO NSC TV JOINVILLE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369531
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="GLOBO RBS TV SANTA MARIA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RBS TV SANTA MARIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369534
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO NSC TV CHAPECO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369538
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO NSC TV CRICIUMA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO NSC TV CRICIUMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369542
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RBS TV CAXIAS DO SUL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369546
+#EXTINF:-1 tvg-id="rpc.ponta.grossa.br" tvg-name="GLOBO RPC PONTA GROSSA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RPC PONTA GROSSA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369550
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="GLOBO FOZ DO IGUAÇU FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO FOZ DO IGUAÇU FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369552
+#EXTINF:-1 tvg-id="globo.br" tvg-name="NSC CENTRO OESTE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",NSC CENTRO OESTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369556
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO RBS TV PELOTAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369566
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="GLOBO TV RECIFE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV RECIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369569
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV RIO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369572
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV GAZETA ALAGOAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369583
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV GAZETA ALAGOAS SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV GAZETA ALAGOAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369586
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV GAZETA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",TV GAZETA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369587
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV GAZETA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",TV GAZETA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369588
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="TV RIO SUL SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",TV RIO SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369593
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV SANTA CRUZ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369594
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV SANTA CRUZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369597
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV SERGIPE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369602
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369608
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="GLOBO TV DIARIO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV DIARIO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369612
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="GLOBO TV DIARIO HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV DIARIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369613
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV DIARIO SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV DIARIO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369615
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="GLOBO TV GAZETA SUL SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV GAZETA SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369616
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369629
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369643
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369644
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369645
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="HBO",HBO FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369649
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369650
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="HBO",HBO FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369651
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="HBO",HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369655
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369656
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369657
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="HBO",HBO MUNDI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369661
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="HBO",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369662
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="HBO",HBO MUNDI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369663
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="HBO",HBO PLUS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369667
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="HBO",HBO PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369668
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="HBO",HBO PLUS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369669
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO+ HD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="HBO",HBO+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369673
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="HBO",HBO POP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369674
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369675
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="HBO",HBO POP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369676
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="HBO",HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369680
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="HBO",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369681
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="HBO",HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369682
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="HBO",HBO XTREME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369686
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="HBO",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369687
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="HBO",HBO XTREME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369688
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES & SÉRIES",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369692
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES & SÉRIES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369693
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES & SÉRIES",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369694
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://1.bp.blogspot.com/-RjuT2FVmPlY/YBxYyxz4DdI/AAAAAAAAJxI/0LCk3p1iHF4t2JaVLjQNKeV_L3HHCRc_wCLcBGAsYHQ/s0/AMC.png" group-title="FILMES & SÉRIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369698
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://lh3.googleusercontent.com/-gwPn2tOVZM8/YBx2wGsMZAI/AAAAAAAAJ30/nVbW9nY-h7Y9pS3kxy0HhVSGWqFWYQ7vQCLcBGAsYHQ/AXN.png" group-title="FILMES & SÉRIES",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369702
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://lh3.googleusercontent.com/-gwPn2tOVZM8/YBx2wGsMZAI/AAAAAAAAJ30/nVbW9nY-h7Y9pS3kxy0HhVSGWqFWYQ7vQCLcBGAsYHQ/AXN.png" group-title="FILMES & SÉRIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369703
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://lh3.googleusercontent.com/-gwPn2tOVZM8/YBx2wGsMZAI/AAAAAAAAJ30/nVbW9nY-h7Y9pS3kxy0HhVSGWqFWYQ7vQCLcBGAsYHQ/AXN.png" group-title="FILMES & SÉRIES",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369704
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="FILMES & SÉRIES",CINEMAX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369708
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="FILMES & SÉRIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369709
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="FILMES & SÉRIES",CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369710
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="https://1.bp.blogspot.com/-jJobfitIDsY/YBxY2LI8l7I/AAAAAAAAJx4/tmNYDmDavk4iend3E4Z3cDqvVk_yDsa8QCLcBGAsYHQ/s0/FX.png" group-title="FILMES & SÉRIES",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369714
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://1.bp.blogspot.com/-jJobfitIDsY/YBxY2LI8l7I/AAAAAAAAJx4/tmNYDmDavk4iend3E4Z3cDqvVk_yDsa8QCLcBGAsYHQ/s0/FX.png" group-title="FILMES & SÉRIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369715
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://1.bp.blogspot.com/-jJobfitIDsY/YBxY2LI8l7I/AAAAAAAAJx4/tmNYDmDavk4iend3E4Z3cDqvVk_yDsa8QCLcBGAsYHQ/s0/FX.png" group-title="FILMES & SÉRIES",FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369716
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://lh3.googleusercontent.com/-0DWVERIDMDU/YBxrSQi1c7I/AAAAAAAAJ3I/oX_bFNW5HcAreoON96JOuevw4Tg9DpS-wCLcBGAsYHQ/Megapix.png" group-title="FILMES & SÉRIES",MEGAPIX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369720
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://lh3.googleusercontent.com/-0DWVERIDMDU/YBxrSQi1c7I/AAAAAAAAJ3I/oX_bFNW5HcAreoON96JOuevw4Tg9DpS-wCLcBGAsYHQ/Megapix.png" group-title="FILMES & SÉRIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369721
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://lh3.googleusercontent.com/-0DWVERIDMDU/YBxrSQi1c7I/AAAAAAAAJ3I/oX_bFNW5HcAreoON96JOuevw4Tg9DpS-wCLcBGAsYHQ/Megapix.png" group-title="FILMES & SÉRIES",MEGAPIX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369722
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://lh3.googleusercontent.com/-wx074iTBA_E/YBx1cb6OYKI/AAAAAAAAJ3o/P0kEcJzTKwIuHqMr1IblJchbgdVPNXfLgCLcBGAsYHQ/PARAMOUNT.png" group-title="FILMES & SÉRIES",PARAMOUNT CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369726
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-wx074iTBA_E/YBx1cb6OYKI/AAAAAAAAJ3o/P0kEcJzTKwIuHqMr1IblJchbgdVPNXfLgCLcBGAsYHQ/PARAMOUNT.png" group-title="FILMES & SÉRIES",PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369727
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://lh3.googleusercontent.com/-wx074iTBA_E/YBx1cb6OYKI/AAAAAAAAJ3o/P0kEcJzTKwIuHqMr1IblJchbgdVPNXfLgCLcBGAsYHQ/PARAMOUNT.png" group-title="FILMES & SÉRIES",PARAMOUNT CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369728
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD" tvg-logo="https://1.bp.blogspot.com/-cd5FGWYmztU/YBxY6ExoYsI/AAAAAAAAJzA/hsz2-4bxG7o1e9AzLoCY1N-Z8ItRAV7gwCLcBGAsYHQ/s0/SONY.png" group-title="FILMES & SÉRIES",SONY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369732
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://1.bp.blogspot.com/-cd5FGWYmztU/YBxY6ExoYsI/AAAAAAAAJzA/hsz2-4bxG7o1e9AzLoCY1N-Z8ItRAV7gwCLcBGAsYHQ/s0/SONY.png" group-title="FILMES & SÉRIES",SONY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369733
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD" tvg-logo="https://1.bp.blogspot.com/-cd5FGWYmztU/YBxY6ExoYsI/AAAAAAAAJzA/hsz2-4bxG7o1e9AzLoCY1N-Z8ItRAV7gwCLcBGAsYHQ/s0/SONY.png" group-title="FILMES & SÉRIES",SONY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369734
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="FILMES & SÉRIES",SPACE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369738
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="FILMES & SÉRIES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369739
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPACE SD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="FILMES & SÉRIES",SPACE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369740
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://lh3.googleusercontent.com/-b1ZXBvpbGN0/YaYWLJaWzOI/AAAAAAAAKzY/uLi8R76aiUADRzBp4D2sfABzF4HBYzz6QCLcBGAsYHQ/star%2Bcha%2Blg.png" group-title="FILMES & SÉRIES",STAR CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369744
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-b1ZXBvpbGN0/YaYWLJaWzOI/AAAAAAAAKzY/uLi8R76aiUADRzBp4D2sfABzF4HBYzz6QCLcBGAsYHQ/star%2Bcha%2Blg.png" group-title="FILMES & SÉRIES",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369745
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://lh3.googleusercontent.com/-b1ZXBvpbGN0/YaYWLJaWzOI/AAAAAAAAKzY/uLi8R76aiUADRzBp4D2sfABzF4HBYzz6QCLcBGAsYHQ/star%2Bcha%2Blg.png" group-title="FILMES & SÉRIES",STAR CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369746
+#EXTINF:-1 tvg-id="star.hits.br" tvg-name="STAR HITS 1 FHD" tvg-logo="https://lh3.googleusercontent.com/-_lUfCAkVf7k/YYvUEZyBpEI/AAAAAAAAKtY/A0rnBOzw54kOBqxW9ja8nIUZmkj-JM31gCLcBGAsYHQ/star%2Bhits%2Bhd.png" group-title="FILMES & SÉRIES",STAR HITS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369750
+#EXTINF:-1 tvg-id="star.hits.br" tvg-name="STAR HITS 1 HD" tvg-logo="https://lh3.googleusercontent.com/-_lUfCAkVf7k/YYvUEZyBpEI/AAAAAAAAKtY/A0rnBOzw54kOBqxW9ja8nIUZmkj-JM31gCLcBGAsYHQ/star%2Bhits%2Bhd.png" group-title="FILMES & SÉRIES",STAR HITS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369751
+#EXTINF:-1 tvg-id="star.hits.br" tvg-name="STAR HITS 1 SD" tvg-logo="https://lh3.googleusercontent.com/-_lUfCAkVf7k/YYvUEZyBpEI/AAAAAAAAKtY/A0rnBOzw54kOBqxW9ja8nIUZmkj-JM31gCLcBGAsYHQ/star%2Bhits%2Bhd.png" group-title="FILMES & SÉRIES",STAR HITS 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369752
+#EXTINF:-1 tvg-id="star.hits.2.br" tvg-name="STAR HITS 2 FHD" tvg-logo="https://lh3.googleusercontent.com/-Yu4u6AL_NXI/YYvUEd1DGYI/AAAAAAAAKtc/TTO0HidoMqIhVoUrN-9xBgGkwKF69_7FwCLcBGAsYHQ/star%2Bhits%2B2%2Bhd.png" group-title="FILMES & SÉRIES",STAR HITS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369753
+#EXTINF:-1 tvg-id="star.hits.2.br" tvg-name="STAR HITS 2 HD" tvg-logo="https://lh3.googleusercontent.com/-Yu4u6AL_NXI/YYvUEd1DGYI/AAAAAAAAKtc/TTO0HidoMqIhVoUrN-9xBgGkwKF69_7FwCLcBGAsYHQ/star%2Bhits%2B2%2Bhd.png" group-title="FILMES & SÉRIES",STAR HITS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369754
+#EXTINF:-1 tvg-id="star.hits.2.br" tvg-name="STAR HITS 2 SD" tvg-logo="https://lh3.googleusercontent.com/-Yu4u6AL_NXI/YYvUEd1DGYI/AAAAAAAAKtc/TTO0HidoMqIhVoUrN-9xBgGkwKF69_7FwCLcBGAsYHQ/star%2Bhits%2B2%2Bhd.png" group-title="FILMES & SÉRIES",STAR HITS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369755
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE FHD" tvg-logo="https://i.imgur.com/2Z7C05h.jpg" group-title="FILMES & SÉRIES",STAR LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369762
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE HD" tvg-logo="https://i.imgur.com/2Z7C05h.jpg" group-title="FILMES & SÉRIES",STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369763
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD" tvg-logo="https://i.imgur.com/2Z7C05h.jpg" group-title="FILMES & SÉRIES",STAR LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369764
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="FILMES & SÉRIES",STUDIO UNIVERSAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369768
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="FILMES & SÉRIES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369769
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="FILMES & SÉRIES",STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369770
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="https://1.bp.blogspot.com/-AI38rCX4mfg/YBxY58Uqj6I/AAAAAAAAJy4/lEUy2Hys6XAb0qVvV5mIRK43YS3QIPVOQCLcBGAsYHQ/s0/SFY.png" group-title="FILMES & SÉRIES",SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369774
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="https://1.bp.blogspot.com/-AI38rCX4mfg/YBxY58Uqj6I/AAAAAAAAJy4/lEUy2Hys6XAb0qVvV5mIRK43YS3QIPVOQCLcBGAsYHQ/s0/SFY.png" group-title="FILMES & SÉRIES",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369775
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="https://1.bp.blogspot.com/-AI38rCX4mfg/YBxY58Uqj6I/AAAAAAAAJy4/lEUy2Hys6XAb0qVvV5mIRK43YS3QIPVOQCLcBGAsYHQ/s0/SFY.png" group-title="FILMES & SÉRIES",SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369776
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="FILMES & SÉRIES",TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369780
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="FILMES & SÉRIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369781
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="FILMES & SÉRIES",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369782
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://lh3.googleusercontent.com/-Y4ZtImM75Cw/YBx7eaKJsNI/AAAAAAAAJ4c/nY_pESQyBs8EYovyzHPr2vMzk28oALEQQCLcBGAsYHQ/TCM.png" group-title="FILMES & SÉRIES",TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369786
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://lh3.googleusercontent.com/-Y4ZtImM75Cw/YBx7eaKJsNI/AAAAAAAAJ4c/nY_pESQyBs8EYovyzHPr2vMzk28oALEQQCLcBGAsYHQ/TCM.png" group-title="FILMES & SÉRIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369787
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://lh3.googleusercontent.com/-Y4ZtImM75Cw/YBx7eaKJsNI/AAAAAAAAJ4c/nY_pESQyBs8EYovyzHPr2vMzk28oALEQQCLcBGAsYHQ/TCM.png" group-title="FILMES & SÉRIES",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369788
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="FILMES & SÉRIES",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369792
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="FILMES & SÉRIES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369793
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="FILMES & SÉRIES",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369794
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES & SÉRIES",TNT SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369798
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES & SÉRIES",TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369799
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES & SÉRIES",TNT SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369800
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD²" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES & SÉRIES",TNT SERIES HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369802
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="https://lh3.googleusercontent.com/-LmXLpimjSfw/YBxpu52-vgI/AAAAAAAAJ28/SzcwOdeDmtYbuXE1TGxgRivuocPG6glTgCLcBGAsYHQ/Universal%2BTV.png" group-title="FILMES & SÉRIES",UNIVERSAL CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369804
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-LmXLpimjSfw/YBxpu52-vgI/AAAAAAAAJ28/SzcwOdeDmtYbuXE1TGxgRivuocPG6glTgCLcBGAsYHQ/Universal%2BTV.png" group-title="FILMES & SÉRIES",UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369805
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://lh3.googleusercontent.com/-LmXLpimjSfw/YBxpu52-vgI/AAAAAAAAJ28/SzcwOdeDmtYbuXE1TGxgRivuocPG6glTgCLcBGAsYHQ/Universal%2BTV.png" group-title="FILMES & SÉRIES",UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369806
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="FILMES & SÉRIES",WARNER CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369810
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="FILMES & SÉRIES",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369811
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="FILMES & SÉRIES",WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/369812
+#EXTINF:-1 tvg-id="gazeta.br" tvg-name="GLOBO GAZETA ALAGOAS HD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="ABERTOS",GLOBO GAZETA ALAGOAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372477
+#EXTINF:-1 tvg-id="gazeta.br" tvg-name="GAZETA CLOSED CAPTION HD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="ABERTOS",GAZETA CLOSED CAPTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372479
+#EXTINF:-1 tvg-id="gazeta.br" tvg-name="GAZETA CLOSED CAPTION UHD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="ABERTOS",GAZETA CLOSED CAPTION UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372480
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="ALTERNATIVOS",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372614
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="ALTERNATIVOS",BAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372621
+#EXTINF:-1 tvg-id="" tvg-name="RECORD HD SP" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="ALTERNATIVOS",RECORD HD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372625
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MG HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="ALTERNATIVOS",RECORD MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372626
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="ALTERNATIVOS",RECORD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372627
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS UHD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="ALTERNATIVOS",RECORD NEWS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372628
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372630
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="ALTERNATIVOS",RECORD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372631
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL UHD" tvg-logo="https://lh3.googleusercontent.com/-g16E1tbKpow/YY5HAgchPZI/AAAAAAAAKvI/mpiZfuDrHcgEVbPDMNvORVdpazr0cI8gACLcBGAsYHQ/rede%2Bgospel.png" group-title="ALTERNATIVOS",REDE GOSPEL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372632
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ALTERNATIVOS",REDE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372633
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ALTERNATIVOS",REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372634
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV UHD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ALTERNATIVOS",REDE TV UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372635
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="ALTERNATIVOS",SPORTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372637
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="ALTERNATIVOS",SPORTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372638
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="ALTERNATIVOS",SPORTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372639
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="ALTERNATIVOS",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372641
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD 2" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="ALTERNATIVOS",SPORTV HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372642
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD 3" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="ALTERNATIVOS",SPORTV HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372643
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV UHD" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="ALTERNATIVOS",SPORTV UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372644
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV UHD 2" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="ALTERNATIVOS",SPORTV UHD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372645
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV UHD 3" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="ALTERNATIVOS",SPORTV UHD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372646
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://lh3.googleusercontent.com/-nJEKb0yNpHI/YB6jYJNonrI/AAAAAAAAJ-Y/KWVSlnkgttA7ecjalnWE8pCtgSv2Dl-UACLcBGAsYHQ/Fox%2BSports.png" group-title="ALTERNATIVOS",FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372666
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://lh3.googleusercontent.com/-IOcJvcV0Ack/YB6nhXgUsMI/AAAAAAAAJ-w/kuuutjtBQTkdpmQyCbKHWXVqLm09X3_1ACLcBGAsYHQ/Fox%2BSports%2B2.png" group-title="ALTERNATIVOS",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372668
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="https://lh3.googleusercontent.com/-nJEKb0yNpHI/YB6jYJNonrI/AAAAAAAAJ-Y/KWVSlnkgttA7ecjalnWE8pCtgSv2Dl-UACLcBGAsYHQ/Fox%2BSports.png" group-title="ALTERNATIVOS",FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372670
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS UHD" tvg-logo="https://lh3.googleusercontent.com/-nJEKb0yNpHI/YB6jYJNonrI/AAAAAAAAJ-Y/KWVSlnkgttA7ecjalnWE8pCtgSv2Dl-UACLcBGAsYHQ/Fox%2BSports.png" group-title="ALTERNATIVOS",FOX SPORTS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372671
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS UHD 2" tvg-logo="https://lh3.googleusercontent.com/-IOcJvcV0Ack/YB6nhXgUsMI/AAAAAAAAJ-w/kuuutjtBQTkdpmQyCbKHWXVqLm09X3_1ACLcBGAsYHQ/Fox%2BSports%2B2.png" group-title="ALTERNATIVOS",FOX SPORTS UHD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372672
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT HD" tvg-logo="https://lh3.googleusercontent.com/-xR6mYIToYbQ/YGi2fJ0Zn2I/AAAAAAAAKJw/NPMzqEkuI70O3DvKYtblCshiQUsP76HjwCLcBGAsYHQ/tnt%2Bsports.png" group-title="ALTERNATIVOS",ESTADIO TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372673
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT HD 2" tvg-logo="https://lh3.googleusercontent.com/-xR6mYIToYbQ/YGi2fJ0Zn2I/AAAAAAAAKJw/NPMzqEkuI70O3DvKYtblCshiQUsP76HjwCLcBGAsYHQ/tnt%2Bsports.png" group-title="ALTERNATIVOS",ESTADIO TNT HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372674
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT UHD 3" tvg-logo="https://lh3.googleusercontent.com/-xR6mYIToYbQ/YGi2fJ0Zn2I/AAAAAAAAKJw/NPMzqEkuI70O3DvKYtblCshiQUsP76HjwCLcBGAsYHQ/tnt%2Bsports.png" group-title="ALTERNATIVOS",ESTADIO TNT UHD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372675
+#EXTINF:-1 tvg-id="" tvg-name="EURO CHANNEL UHD" tvg-logo="https://i.imgur.com/rfnrCpR.jpg" group-title="VARIEDADES",EURO CHANNEL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372677
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD" tvg-logo="https://i.imgur.com/149tkSz.png" group-title="ALTERNATIVOS",FASHION TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372680
+#EXTINF:-1 tvg-id="" tvg-name="FASHION UHD" tvg-logo="https://i.imgur.com/149tkSz.png" group-title="ALTERNATIVOS",FASHION UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372681
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="ALTERNATIVOS",ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372682
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="ALTERNATIVOS",ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372683
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="ALTERNATIVOS",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372684
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 UHD" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="ALTERNATIVOS",ESPN 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372685
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="https://lh3.googleusercontent.com/-BN4UJHj-zDI/YB6rOwTrsII/AAAAAAAAJ_E/1nkLsY_7eEIC99wkbEDfQ16s7m3Q4J6sQCLcBGAsYHQ/ESPN%2BBrasil.png" group-title="ALTERNATIVOS",ESPN BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372687
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-BN4UJHj-zDI/YB6rOwTrsII/AAAAAAAAJ_E/1nkLsY_7eEIC99wkbEDfQ16s7m3Q4J6sQCLcBGAsYHQ/ESPN%2BBrasil.png" group-title="ALTERNATIVOS",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372688
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL UHD" tvg-logo="https://lh3.googleusercontent.com/-BN4UJHj-zDI/YB6rOwTrsII/AAAAAAAAJ_E/1nkLsY_7eEIC99wkbEDfQ16s7m3Q4J6sQCLcBGAsYHQ/ESPN%2BBrasil.png" group-title="ALTERNATIVOS",ESPN BRASIL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372689
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title="ALTERNATIVOS",ESPN EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372690
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title="ALTERNATIVOS",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372691
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA UHD" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title="ALTERNATIVOS",ESPN EXTRA UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372692
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="ALTERNATIVOS",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372693
+#EXTINF:-1 tvg-id="" tvg-name="ESPN UHD" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="ALTERNATIVOS",ESPN UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372694
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL HD 1" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="ALTERNATIVOS",CONMEBOL HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372696
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL HD 2" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="ALTERNATIVOS",CONMEBOL HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372697
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL HD 3" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="ALTERNATIVOS",CONMEBOL HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372698
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL HD 4" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="ALTERNATIVOS",CONMEBOL HD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372699
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL UHD 4" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="ALTERNATIVOS",CONMEBOL UHD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372700
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="ALTERNATIVOS",COMBATE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372701
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD ALTER" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="ALTERNATIVOS",COMBATE HD ALTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372703
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE UHD" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="ALTERNATIVOS",COMBATE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372704
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS SD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="ALTERNATIVOS",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372705
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="ALTERNATIVOS",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372706
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS UHD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="ALTERNATIVOS",BAND SPORTS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372707
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="ALTERNATIVOS",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372708
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="ALTERNATIVOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372710
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET UHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="ALTERNATIVOS",ANIMAL PLANET UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372711
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="ALTERNATIVOS",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372712
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="ALTERNATIVOS",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372714
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL UHD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="ALTERNATIVOS",DISCOVERY CHANNEL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372715
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="ALTERNATIVOS",DISCOVERY H&H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372716
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="ALTERNATIVOS",DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372717
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H UHD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="ALTERNATIVOS",DISCOVERY H&H UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372718
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://lh3.googleusercontent.com/-LFrB2aCc_2I/YB7RLQSQyoI/AAAAAAAAKAQ/PAanDOSwv0ILQHX-7HnFDjUA6bVeMjErgCLcBGAsYHQ/DISCOVERY%2BKIDS.png" group-title="ALTERNATIVOS",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372719
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://lh3.googleusercontent.com/-LFrB2aCc_2I/YB7RLQSQyoI/AAAAAAAAKAQ/PAanDOSwv0ILQHX-7HnFDjUA6bVeMjErgCLcBGAsYHQ/DISCOVERY%2BKIDS.png" group-title="ALTERNATIVOS",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372720
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS UHD" tvg-logo="https://lh3.googleusercontent.com/-LFrB2aCc_2I/YB7RLQSQyoI/AAAAAAAAKAQ/PAanDOSwv0ILQHX-7HnFDjUA6bVeMjErgCLcBGAsYHQ/DISCOVERY%2BKIDS.png" group-title="ALTERNATIVOS",DISCOVERY KIDS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372721
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="ALTERNATIVOS",DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372722
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="ALTERNATIVOS",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372723
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE UHD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="ALTERNATIVOS",DISCOVERY SCIENCE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372724
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="ALTERNATIVOS",DISCOVERY THEATER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372725
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="ALTERNATIVOS",DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372726
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER UHD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="ALTERNATIVOS",DISCOVERY THEATER UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372728
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="ALTERNATIVOS",DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372730
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="ALTERNATIVOS",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372731
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO UHD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="ALTERNATIVOS",DISCOVERY TURBO UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372732
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="ALTERNATIVOS",DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372733
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="ALTERNATIVOS",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372734
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD UHD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="ALTERNATIVOS",DISCOVERY WORLD UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372735
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/RZgRPX6.png" group-title="ALTERNATIVOS",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372738
+#EXTINF:-1 tvg-id="" tvg-name="HGTV UHD" tvg-logo="https://i.imgur.com/RZgRPX6.png" group-title="ALTERNATIVOS",HGTV UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372739
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY SD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="ALTERNATIVOS",HISTORY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372740
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="ALTERNATIVOS",HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372741
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY UHD" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="ALTERNATIVOS",HISTORY UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372742
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGACAO DISCOVERY SD" tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png" group-title="ALTERNATIVOS",INVESTIGACAO DISCOVERY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372743
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGACAO DISCOVERY HD" tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png" group-title="ALTERNATIVOS",INVESTIGACAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372744
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGACAO DISCOVERY UHD" tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png" group-title="ALTERNATIVOS",INVESTIGACAO DISCOVERY UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372745
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="https://1.bp.blogspot.com/-SsAnCfoheJc/YBxZA2kYDgI/AAAAAAAAJ00/nwLkbKAFuusNEa3PpwfbvTo24WFzTCrIQCLcBGAsYHQ/s0/national%2Bgeographic.png" group-title="ALTERNATIVOS",NATGEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372746
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="https://1.bp.blogspot.com/-SsAnCfoheJc/YBxZA2kYDgI/AAAAAAAAJ00/nwLkbKAFuusNEa3PpwfbvTo24WFzTCrIQCLcBGAsYHQ/s0/national%2Bgeographic.png" group-title="ALTERNATIVOS",NATGEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372748
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="https://lh3.googleusercontent.com/-8_83nxvKSVc/YB7m-62Ac_I/AAAAAAAAKCY/rypN4g_XGt02rFJwtkwFNG5GWGiYHiWUQCLcBGAsYHQ/NATGEO%2BKIDS.png" group-title="ALTERNATIVOS",NATGEO KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372749
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD" tvg-logo="https://lh3.googleusercontent.com/-8_83nxvKSVc/YB7m-62Ac_I/AAAAAAAAKCY/rypN4g_XGt02rFJwtkwFNG5GWGiYHiWUQCLcBGAsYHQ/NATGEO%2BKIDS.png" group-title="ALTERNATIVOS",NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372750
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS UHD" tvg-logo="https://lh3.googleusercontent.com/-8_83nxvKSVc/YB7m-62Ac_I/AAAAAAAAKCY/rypN4g_XGt02rFJwtkwFNG5GWGiYHiWUQCLcBGAsYHQ/NATGEO%2BKIDS.png" group-title="ALTERNATIVOS",NATGEO KIDS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372751
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO UHD" tvg-logo="https://1.bp.blogspot.com/-SsAnCfoheJc/YBxZA2kYDgI/AAAAAAAAJ00/nwLkbKAFuusNEa3PpwfbvTo24WFzTCrIQCLcBGAsYHQ/s0/national%2Bgeographic.png" group-title="ALTERNATIVOS",NATGEO UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372752
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD SD" tvg-logo="https://1.bp.blogspot.com/-mbn1USO0X3w/YBxY4mhz9jI/AAAAAAAAJyk/tocjON6gPSwZDKDS5JbMeZewq_mVN-bBQCLcBGAsYHQ/s0/National%2BGeographic%2BWild.png" group-title="ALTERNATIVOS",NATGEO WILD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372753
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="https://1.bp.blogspot.com/-mbn1USO0X3w/YBxY4mhz9jI/AAAAAAAAJyk/tocjON6gPSwZDKDS5JbMeZewq_mVN-bBQCLcBGAsYHQ/s0/National%2BGeographic%2BWild.png" group-title="ALTERNATIVOS",NATGEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372754
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD UHD" tvg-logo="https://1.bp.blogspot.com/-mbn1USO0X3w/YBxY4mhz9jI/AAAAAAAAJyk/tocjON6gPSwZDKDS5JbMeZewq_mVN-bBQCLcBGAsYHQ/s0/National%2BGeographic%2BWild.png" group-title="ALTERNATIVOS",NATGEO WILD UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372755
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="ALTERNATIVOS",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372756
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="ALTERNATIVOS",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372757
+#EXTINF:-1 tvg-id="" tvg-name="A&E UHD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="ALTERNATIVOS",A&E UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372758
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL HD" tvg-logo="https://lh3.googleusercontent.com/-xx7-wrlToMU/YT05Xhm5F9I/AAAAAAAAKk4/QGHAashITiEF14i5qpjiQLj0cfWPDZQOACLcBGAsYHQ/agro%2Bcanal.png" group-title="ALTERNATIVOS",AGRO CANAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372759
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://1.bp.blogspot.com/-RjuT2FVmPlY/YBxYyxz4DdI/AAAAAAAAJxI/0LCk3p1iHF4t2JaVLjQNKeV_L3HHCRc_wCLcBGAsYHQ/s0/AMC.png" group-title="ALTERNATIVOS",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372760
+#EXTINF:-1 tvg-id="" tvg-name="AMC UHD" tvg-logo="https://1.bp.blogspot.com/-RjuT2FVmPlY/YBxYyxz4DdI/AAAAAAAAJxI/0LCk3p1iHF4t2JaVLjQNKeV_L3HHCRc_wCLcBGAsYHQ/s0/AMC.png" group-title="ALTERNATIVOS",AMC UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372761
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="ALTERNATIVOS",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372762
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="ALTERNATIVOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372764
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET UHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="ALTERNATIVOS",ANIMAL PLANET UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372765
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="https://lh3.googleusercontent.com/-gwPn2tOVZM8/YBx2wGsMZAI/AAAAAAAAJ30/nVbW9nY-h7Y9pS3kxy0HhVSGWqFWYQ7vQCLcBGAsYHQ/AXN.png" group-title="ALTERNATIVOS",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372766
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://lh3.googleusercontent.com/-gwPn2tOVZM8/YBx2wGsMZAI/AAAAAAAAJ30/nVbW9nY-h7Y9pS3kxy0HhVSGWqFWYQ7vQCLcBGAsYHQ/AXN.png" group-title="ALTERNATIVOS",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372767
+#EXTINF:-1 tvg-id="" tvg-name="AXN UHD" tvg-logo="https://lh3.googleusercontent.com/-gwPn2tOVZM8/YBx2wGsMZAI/AAAAAAAAJ30/nVbW9nY-h7Y9pS3kxy0HhVSGWqFWYQ7vQCLcBGAsYHQ/AXN.png" group-title="ALTERNATIVOS",AXN UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372768
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX SD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="ALTERNATIVOS",CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372769
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="ALTERNATIVOS",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372770
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX UHD" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="ALTERNATIVOS",CINEMAX UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372771
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="https://1.bp.blogspot.com/-vQADP8t1nXw/YBxZAPK_R5I/AAAAAAAAJ0g/-4_9tTO3Q1UvvVfro5xssIT0di7uBa_OwCLcBGAsYHQ/s0/h2.png" group-title="ALTERNATIVOS",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372772
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="https://1.bp.blogspot.com/-vQADP8t1nXw/YBxZAPK_R5I/AAAAAAAAJ0g/-4_9tTO3Q1UvvVfro5xssIT0di7uBa_OwCLcBGAsYHQ/s0/h2.png" group-title="ALTERNATIVOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372773
+#EXTINF:-1 tvg-id="" tvg-name="H2 UHD" tvg-logo="https://1.bp.blogspot.com/-vQADP8t1nXw/YBxZAPK_R5I/AAAAAAAAJ0g/-4_9tTO3Q1UvvVfro5xssIT0di7uBa_OwCLcBGAsYHQ/s0/h2.png" group-title="ALTERNATIVOS",H2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372774
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="ALTERNATIVOS",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372775
+#EXTINF:-1 tvg-id="" tvg-name="HBO + UHD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="ALTERNATIVOS",HBO + UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372777
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="ALTERNATIVOS",HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372779
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="ALTERNATIVOS",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372780
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY SD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="ALTERNATIVOS",HBO FAMILY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372782
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="ALTERNATIVOS",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372783
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY UHD" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="ALTERNATIVOS",HBO FAMILY UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372784
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="ALTERNATIVOS",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372785
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI UHD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="ALTERNATIVOS",HBO MUNDI UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372790
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="ALTERNATIVOS",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372791
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP UHD" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="ALTERNATIVOS",HBO POP UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372792
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="ALTERNATIVOS",HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372794
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="ALTERNATIVOS",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372795
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE UHD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="ALTERNATIVOS",HBO SIGNATURE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372797
+#EXTINF:-1 tvg-id="" tvg-name="HBO UHD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="ALTERNATIVOS",HBO UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372798
+#EXTINF:-1 tvg-id="" tvg-name="HBO UHD" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="ALTERNATIVOS",HBO UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372799
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME SD" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="ALTERNATIVOS",HBO XTREME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372801
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="ALTERNATIVOS",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372803
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME UHD" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="ALTERNATIVOS",HBO XTREME UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372804
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD" tvg-logo="https://lh3.googleusercontent.com/-0DWVERIDMDU/YBxrSQi1c7I/AAAAAAAAJ3I/oX_bFNW5HcAreoON96JOuevw4Tg9DpS-wCLcBGAsYHQ/Megapix.png" group-title="ALTERNATIVOS",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372805
+#EXTINF:-1 tvg-id="" tvg-name="MEGA PIX HD" tvg-logo="https://lh3.googleusercontent.com/-0DWVERIDMDU/YBxrSQi1c7I/AAAAAAAAJ3I/oX_bFNW5HcAreoON96JOuevw4Tg9DpS-wCLcBGAsYHQ/Megapix.png" group-title="ALTERNATIVOS",MEGA PIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372807
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX UHD" tvg-logo="https://lh3.googleusercontent.com/-0DWVERIDMDU/YBxrSQi1c7I/AAAAAAAAJ3I/oX_bFNW5HcAreoON96JOuevw4Tg9DpS-wCLcBGAsYHQ/Megapix.png" group-title="ALTERNATIVOS",MEGAPIX UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372808
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="ALTERNATIVOS",SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372809
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="ALTERNATIVOS",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372811
+#EXTINF:-1 tvg-id="" tvg-name="SPACE UHD" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="ALTERNATIVOS",SPACE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372812
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL SD" tvg-logo="https://lh3.googleusercontent.com/-b1ZXBvpbGN0/YaYWLJaWzOI/AAAAAAAAKzY/uLi8R76aiUADRzBp4D2sfABzF4HBYzz6QCLcBGAsYHQ/star%2Bcha%2Blg.png" group-title="ALTERNATIVOS",STAR CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372813
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-b1ZXBvpbGN0/YaYWLJaWzOI/AAAAAAAAKzY/uLi8R76aiUADRzBp4D2sfABzF4HBYzz6QCLcBGAsYHQ/star%2Bcha%2Blg.png" group-title="ALTERNATIVOS",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372816
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL UHD" tvg-logo="https://lh3.googleusercontent.com/-b1ZXBvpbGN0/YaYWLJaWzOI/AAAAAAAAKzY/uLi8R76aiUADRzBp4D2sfABzF4HBYzz6QCLcBGAsYHQ/star%2Bcha%2Blg.png" group-title="ALTERNATIVOS",STAR CHANNEL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372817
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL UHD" tvg-logo="https://lh3.googleusercontent.com/-b1ZXBvpbGN0/YaYWLJaWzOI/AAAAAAAAKzY/uLi8R76aiUADRzBp4D2sfABzF4HBYzz6QCLcBGAsYHQ/star%2Bcha%2Blg.png" group-title="ALTERNATIVOS",STAR CHANNEL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372818
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 UHD" tvg-logo="https://lh3.googleusercontent.com/-Yu4u6AL_NXI/YYvUEd1DGYI/AAAAAAAAKtc/TTO0HidoMqIhVoUrN-9xBgGkwKF69_7FwCLcBGAsYHQ/star%2Bhits%2B2%2Bhd.png" group-title="ALTERNATIVOS",STAR HITS 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372822
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE" tvg-logo="https://i.imgur.com/2Z7C05h.jpg" group-title="ALTERNATIVOS",STAR LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372824
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE UHD" tvg-logo="https://i.imgur.com/2Z7C05h.jpg" group-title="ALTERNATIVOS",STAR LIFE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372825
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="ALTERNATIVOS",STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372826
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL  HD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="ALTERNATIVOS",STUDIO UNIVERSAL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372827
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL UHD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="ALTERNATIVOS",STUDIO UNIVERSAL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372828
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="https://1.bp.blogspot.com/-AI38rCX4mfg/YBxY58Uqj6I/AAAAAAAAJy4/lEUy2Hys6XAb0qVvV5mIRK43YS3QIPVOQCLcBGAsYHQ/s0/SFY.png" group-title="ALTERNATIVOS",SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372829
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="https://1.bp.blogspot.com/-AI38rCX4mfg/YBxY58Uqj6I/AAAAAAAAJy4/lEUy2Hys6XAb0qVvV5mIRK43YS3QIPVOQCLcBGAsYHQ/s0/SFY.png" group-title="ALTERNATIVOS",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372830
+#EXTINF:-1 tvg-id="" tvg-name="SYFY UHD" tvg-logo="https://1.bp.blogspot.com/-AI38rCX4mfg/YBxY58Uqj6I/AAAAAAAAJy4/lEUy2Hys6XAb0qVvV5mIRK43YS3QIPVOQCLcBGAsYHQ/s0/SFY.png" group-title="ALTERNATIVOS",SYFY UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372832
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="ALTERNATIVOS",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372834
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="ALTERNATIVOS",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372835
+#EXTINF:-1 tvg-id="" tvg-name="TBS UHD" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="ALTERNATIVOS",TBS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372836
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://lh3.googleusercontent.com/-Y4ZtImM75Cw/YBx7eaKJsNI/AAAAAAAAJ4c/nY_pESQyBs8EYovyzHPr2vMzk28oALEQQCLcBGAsYHQ/TCM.png" group-title="ALTERNATIVOS",TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372837
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION SD" tvg-logo="https://i.imgur.com/sanuYdz.jpg" group-title="ALTERNATIVOS",TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372838
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.imgur.com/sanuYdz.jpg" group-title="ALTERNATIVOS",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372839
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION UHD" tvg-logo="https://i.imgur.com/sanuYdz.jpg" group-title="ALTERNATIVOS",TELECINE ACTION UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372841
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT SD" tvg-logo="https://i.imgur.com/HFIMRlR.png" group-title="ALTERNATIVOS",TELECINE CULT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372843
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="https://i.imgur.com/HFIMRlR.png" group-title="ALTERNATIVOS",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372844
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT UHD" tvg-logo="https://i.imgur.com/HFIMRlR.png" group-title="ALTERNATIVOS",TELECINE CULT UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372846
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN SD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="ALTERNATIVOS",TELECINE FUN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372848
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="ALTERNATIVOS",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372849
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN UHD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="ALTERNATIVOS",TELECINE FUN UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372850
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.imgur.com/feEnpJt.png" group-title="ALTERNATIVOS",TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372851
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/feEnpJt.png" group-title="ALTERNATIVOS",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372853
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA UHD" tvg-logo="https://i.imgur.com/feEnpJt.png" group-title="ALTERNATIVOS",TELECINE PIPOCA UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372854
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.imgur.com/3xp13Cu.jpg" group-title="ALTERNATIVOS",TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372855
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/3xp13Cu.jpg" group-title="ALTERNATIVOS",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372857
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM UHD" tvg-logo="https://i.imgur.com/3xp13Cu.jpg" group-title="ALTERNATIVOS",TELECINE PREMIUM UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372859
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.imgur.com/0XqPNLB.png" group-title="ALTERNATIVOS",TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372861
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.imgur.com/0XqPNLB.png" group-title="ALTERNATIVOS",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372862
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH UHD" tvg-logo="https://i.imgur.com/0XqPNLB.png" group-title="ALTERNATIVOS",TELECINE TOUCH UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372863
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="https://1.bp.blogspot.com/-2zfO9y0rdzk/YBxZC1-xGiI/AAAAAAAAJ1Y/mS89xVv14Co_98mP-4pjBwmw-Wn4O25uwCLcBGAsYHQ/s0/tlc.png" group-title="ALTERNATIVOS",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372865
+#EXTINF:-1 tvg-id="" tvg-name="TLC UHD" tvg-logo="https://1.bp.blogspot.com/-2zfO9y0rdzk/YBxZC1-xGiI/AAAAAAAAJ1Y/mS89xVv14Co_98mP-4pjBwmw-Wn4O25uwCLcBGAsYHQ/s0/tlc.png" group-title="ALTERNATIVOS",TLC UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372866
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="ALTERNATIVOS",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372867
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="ALTERNATIVOS",TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372870
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="ALTERNATIVOS",TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372872
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES UHD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="ALTERNATIVOS",TNT SERIES UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372873
+#EXTINF:-1 tvg-id="" tvg-name="TNT UHD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="ALTERNATIVOS",TNT UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372874
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="https://lh3.googleusercontent.com/-LmXLpimjSfw/YBxpu52-vgI/AAAAAAAAJ28/SzcwOdeDmtYbuXE1TGxgRivuocPG6glTgCLcBGAsYHQ/Universal%2BTV.png" group-title="ALTERNATIVOS",UNIVERSAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372877
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD" tvg-logo="https://lh3.googleusercontent.com/-LmXLpimjSfw/YBxpu52-vgI/AAAAAAAAJ28/SzcwOdeDmtYbuXE1TGxgRivuocPG6glTgCLcBGAsYHQ/Universal%2BTV.png" group-title="ALTERNATIVOS",UNIVERSAL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372878
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV UHD" tvg-logo="https://lh3.googleusercontent.com/-LmXLpimjSfw/YBxpu52-vgI/AAAAAAAAJ28/SzcwOdeDmtYbuXE1TGxgRivuocPG6glTgCLcBGAsYHQ/Universal%2BTV.png" group-title="ALTERNATIVOS",UNIVERSAL TV UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372879
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL SD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="ALTERNATIVOS",WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372880
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="ALTERNATIVOS",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372881
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL UHD" tvg-logo="https://lh3.googleusercontent.com/-SZGyc3sbmJY/YBxotFe-jPI/AAAAAAAAJ20/XsMMcm06F2kLuqeqQyM0t-m9gCaTL8eXQCLcBGAsYHQ/WARNER%2BCHANNEL.png" group-title="ALTERNATIVOS",WARNER CHANNEL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/372883
+#EXTINF:-1 tvg-id="" tvg-name="NBA FHD" tvg-logo="https://i.imgur.com/aY3eiiy.jpg" group-title="ESPORTE",NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375159
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL " tvg-logo="https://i.imgur.com/PvfNGwE.jpg" group-title="CINE 24HRS ",CINE MARVEL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375160
+#EXTINF:-1 tvg-id="" tvg-name="24HRS CHAPOLIN COLORADO" tvg-logo="https://i.imgur.com/UsFI8uT.jpg" group-title="INFANTIL 24HRS",24HRS CHAPOLIN COLORADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375161
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO BAHIA  FHD SALVADOR" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS",GLOBO BAHIA  FHD SALVADOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375162
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV TAMBAU" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT TV TAMBAU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375267
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD¹" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT RS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375268
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV ALTEROSA MG HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT TV ALTEROSA MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375269
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT BBS HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT BBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375270
+#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA RS HD" tvg-logo="https://i.imgur.com/bnzAGdD.png" group-title="ABERTOS",TV PAMPA RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375271
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Channel FHD" tvg-logo="https://i.imgur.com/qFMUMVS.png" group-title="VARIEDADES",Lifetime Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375277
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA ESCONDIDAS" tvg-logo="https://i.imgur.com/pp4Tqph.jpg" group-title="PEGADINHAS 24HRS",CAMERA ESCONDIDAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375813
+#EXTINF:-1 tvg-id="" tvg-name="OS NORMAIS 24hrs" tvg-logo="https://i.imgur.com/UGa2p1Y.jpg" group-title="SERIADOS 24HRS",OS NORMAIS 24hrs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375814
+#EXTINF:-1 tvg-id="" tvg-name="SHOW DE ROCK 01" tvg-logo="https://i.imgur.com/qA6ju3m.jpg" group-title="SHOW ",SHOW DE ROCK 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375815
+#EXTINF:-1 tvg-id="" tvg-name="SHOW DE ROCK 02" tvg-logo="https://i.imgur.com/qA6ju3m.jpg" group-title="SHOW ",SHOW DE ROCK 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375816
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MARÍLIA MENDONÇA" tvg-logo="https://i.imgur.com/CcAxNfJ.jpg" group-title="SHOW ",LIVE MARÍLIA MENDONÇA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375817
+#EXTINF:-1 tvg-id="" tvg-name="SERTANEJO" tvg-logo="https://i.imgur.com/cNkpPtt.jpg" group-title="SHOW ",SERTANEJO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375818
+#EXTINF:-1 tvg-id="" tvg-name="LIVE NAIARA AZEVEDO" tvg-logo="https://i.imgur.com/wFJdXe8.jpg" group-title="SHOW ",LIVE NAIARA AZEVEDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375819
+#EXTINF:-1 tvg-id="" tvg-name="LIVE SIMONE E SIMARIA" tvg-logo="https://i.imgur.com/uyJ5oUE.jpg" group-title="SHOW ",LIVE SIMONE E SIMARIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375820
+#EXTINF:-1 tvg-id="" tvg-name="CLIPES GOSPEL" tvg-logo="https://i.imgur.com/ItgO2cA.png" group-title="RELIGIOSO",CLIPES GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375821
+#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL" tvg-logo="https://i.imgur.com/zc7owAn.jpg" group-title="CINE 24HRS ",CINE BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375822
+#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR" tvg-logo="https://i.imgur.com/EsQBuP6.png" group-title="CINE 24HRS ",CINE TERROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375823
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD ACTION" tvg-logo="https://i.imgur.com/9WADuw0.png" group-title="CINE 24HRS ",CINE HD ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375824
+#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS" tvg-logo="https://i.imgur.com/MisvdlW.jpg" group-title="CINE 24HRS ",CINE KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375825
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV RIO HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD TV RIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375828
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/157400
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB SD" tvg-logo="http://cdn.tyuj.xyz:80/logos/gloob.jpg" group-title="INFANTIL",GLOOB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/375875
+#EXTINF:-1 tvg-id="" tvg-name="CINE SESSÃO DA TARDE" tvg-logo="https://i.imgur.com/CpaiWt7.jpg" group-title="CINE 24HRS ",CINE SESSÃO DA TARDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/376108
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SC HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD SC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/376109
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD BA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/376111
+#EXTINF:-1 tvg-id="" tvg-name="BAND RECIFE TV TRIBUNA FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND RECIFE TV TRIBUNA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/376113
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND RS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/376114
+#EXTINF:-1 tvg-id="" tvg-name="BAND SANTOS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND SANTOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/376115
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="CNT FHD" tvg-logo="data:image/jpeg;base64,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" group-title="RELIGIOSO",CNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184285
+#EXTINF:-1 tvg-id="" tvg-name="CNT RECIFE HD" tvg-logo="data:image/jpeg;base64,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" group-title="RELIGIOSO",CNT RECIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/376116
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://lh3.googleusercontent.com/-g16E1tbKpow/YY5HAgchPZI/AAAAAAAAKvI/mpiZfuDrHcgEVbPDMNvORVdpazr0cI8gACLcBGAsYHQ/rede%2Bgospel.png" group-title="RELIGIOSO",REDE GOSPEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/377941
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL FHD" tvg-logo="https://lh3.googleusercontent.com/-g16E1tbKpow/YY5HAgchPZI/AAAAAAAAKvI/mpiZfuDrHcgEVbPDMNvORVdpazr0cI8gACLcBGAsYHQ/rede%2Bgospel.png" group-title="RELIGIOSO",REDE GOSPEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/377942
+#EXTINF:-1 tvg-id="rede.seculo.21.br" tvg-name="REDE SECULO 21 HD" tvg-logo="https://i.imgur.com/c1sxj9v.jpg" group-title="RELIGIOSO",REDE SECULO 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/377943
+#EXTINF:-1 tvg-id="" tvg-name="REDE MÃO AMIGA " tvg-logo="https://i.imgur.com/Vry2mg8.jpg" group-title="RELIGIOSO",REDE MÃO AMIGA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/377946
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIÃO HD" tvg-logo="https://i.imgur.com/e7oBy4X.jpg" group-title="ABERTOS",TV UNIÃO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/377947
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA FHD" tvg-logo="data:image/jpeg;base64,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" group-title="RELIGIOSO",TV APARECIDA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/292565
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SD" tvg-logo="data:image/jpeg;base64,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" group-title="RELIGIOSO",TV APARECIDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/378118
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Desenhos Biblicos" tvg-logo="https://i.imgur.com/t41ONIg.jpg" group-title="INFANTIL 24HRS",(24h) Desenhos Biblicos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/378460
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES 07" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/379078
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES 08" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/379079
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 07" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="ESPORTE",ELEVEN SPORTS 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/380364
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 08" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="ESPORTE",ELEVEN SPORTS 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381030
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 09" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="ESPORTE",ELEVEN SPORTS 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381031
+#EXTINF:-1 tvg-id="tv.cancao.nova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="http://cdn.tyuj.xyz:80/logos/cancao%20nova.jpg" group-title="RELIGIOSO",CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/184284
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA FHD" tvg-logo="http://cdn.tyuj.xyz:80/logos/cancao%20nova.jpg" group-title="RELIGIOSO",CANCAO NOVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/305053
+#EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-R-m1dR6tDu0/YXnheDW9F3I/AAAAAAAAKro/GUEAWexmvRQ3t_OWSrW8pS2vKWBpI2h2gCLcBGAsYHQ/JOVEM%2BPAN.png" group-title="NOTICIAS",JOVEN PAN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381641
+#EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS SD" tvg-logo="https://lh3.googleusercontent.com/-R-m1dR6tDu0/YXnheDW9F3I/AAAAAAAAKro/GUEAWexmvRQ3t_OWSrW8pS2vKWBpI2h2gCLcBGAsYHQ/JOVEM%2BPAN.png" group-title="NOTICIAS",JOVEN PAN NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381642
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD H264" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="H.264",BAND SPORTS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381659
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL FHD H264" tvg-logo="https://lh3.googleusercontent.com/-BN4UJHj-zDI/YB6rOwTrsII/AAAAAAAAJ_E/1nkLsY_7eEIC99wkbEDfQ16s7m3Q4J6sQCLcBGAsYHQ/ESPN%2BBrasil.png" group-title="H.264",ESPN BRASIL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381660
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD H264" tvg-logo="https://lh3.googleusercontent.com/-uIMmxZlg14c/YB6qM_sknAI/AAAAAAAAJ-8/oQdQdtvlYigJfDFjGJECfo4q0W9zHVqXwCLcBGAsYHQ/ESPN%2BEXTRA.png" group-title="H.264",ESPN EXTRA FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381661
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD H264" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="H.264",ESPN FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381662
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD H264" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="H.264",ESPN 2 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381663
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FHD H264" tvg-logo="https://lh3.googleusercontent.com/-IOcJvcV0Ack/YB6nhXgUsMI/AAAAAAAAJ-w/kuuutjtBQTkdpmQyCbKHWXVqLm09X3_1ACLcBGAsYHQ/Fox%2BSports%2B2.png" group-title="H.264",FOX SPORTS 2 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381664
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS FHD H264" tvg-logo="https://lh3.googleusercontent.com/-nJEKb0yNpHI/YB6jYJNonrI/AAAAAAAAJ-Y/KWVSlnkgttA7ecjalnWE8pCtgSv2Dl-UACLcBGAsYHQ/Fox%2BSports.png" group-title="H.264",FOX SPORTS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381665
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBE FHD H264" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="H.264",PREMIERE CLUBE FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381666
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD H264" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="H.264",SPORTV FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381667
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 FHD H264" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="H.264",SPORTV 2 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381668
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 FHD H264" tvg-logo="https://lh3.googleusercontent.com/-dE1ypIW76e8/YB6guOuT1QI/AAAAAAAAJ-A/xiQ8mZfBkIIHXme611oxJFrWrg9-OmYeACLcBGAsYHQ/sport%2B3.png" group-title="H.264",SPORTV 3 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381669
+#EXTINF:-1 tvg-id="" tvg-name="RAI INTERNACIONAL FHD H264" tvg-logo="https://i.imgur.com/xDyOlet.png" group-title="H.264",RAI INTERNACIONAL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381670
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV FHD H264" tvg-logo="https://1.bp.blogspot.com/-CAmc1EBmg7g/YBxY_bAXEcI/AAAAAAAAJ0U/5dqhaXowGp46l9MB4p8tNmoKNy0VsCJIQCLcBGAsYHQ/s0/dotv.png" group-title="H.264",DOG TV FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381671
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY FHD H264" tvg-logo="https://1.bp.blogspot.com/-Q5lQaU9T6lk/YBxZAeno3kI/AAAAAAAAJ0o/XA-spsBXmhg5YCluvau12lCeqeWBFgKfwCLcBGAsYHQ/s0/history.png" group-title="H.264",HISTORY FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381672
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL FHD H264" tvg-logo="https://i.imgur.com/QWaLJWH.png" group-title="H.264",GOLF CHANNEL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381673
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER FHD H264" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="H.264",DISCOVERY THEATER FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381674
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD H264" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="H.264",COMBATE FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381675
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD H264" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="H.264",TNT FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381676
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM FHD H264" tvg-logo="https://1.bp.blogspot.com/-9y9Czx6d9Ic/YBxZCli1hxI/AAAAAAAAJ1Q/ULgYcQkTwXw-3dZraA6olb43zCogLRT3QCLcBGAsYHQ/s0/telecine%2Bpremio.png" group-title="H.264",TELECINE PREMIUM FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381677
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION FHD H264" tvg-logo="https://1.bp.blogspot.com/-z9bAjhuO5Ao/YBxZBpPX06I/AAAAAAAAJ1A/5Y9lFq2A2gUA9a3o3VgJLfed7IUHRaaogCLcBGAsYHQ/s0/telecine%2Baction.png" group-title="H.264",TELECINE ACTION FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381678
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH FHD H264" tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png" group-title="H.264",TELECINE TOUCH FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381679
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD H264" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="H.264",TELECINE PIPOCA FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381680
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD H264" tvg-logo="https://1.bp.blogspot.com/-tQTftzwmtUE/YBxZCBroy3I/AAAAAAAAJ1I/a4AkM2Xd4xo9QzH-SLHr78I1VkNuNZzMACLcBGAsYHQ/s0/telecine%2Bfun.png" group-title="H.264",TELECINE FUN FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381681
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD H264" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="H.264",TELECINE CULT FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381682
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD H264" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="H.264",HBO FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381683
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD H264" tvg-logo="https://1.bp.blogspot.com/-_2YuO9JtAzU/YBxY20s7HyI/AAAAAAAAJyE/cNvhUl1gMDoad1383JJfGTYAnFMsidOdwCLcBGAsYHQ/s0/HBO%2B2.png" group-title="H.264",HBO 2 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381684
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD H264" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="H.264",HBO PLUS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381685
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY FHD H264" tvg-logo="https://1.bp.blogspot.com/-ozSuTrMAx1E/YBxY29N7rVI/AAAAAAAAJyI/EIXwgEGjOWs77VaHDhzPggL6XVsA59DtACLcBGAsYHQ/s0/HBO%2BFAMILY.png" group-title="H.264",HBO FAMILY FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381686
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD H264" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="H.264",HBO SIGNATURE FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381687
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD H264" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="H.264",HBO MUNDI FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381688
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD H264" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="H.264",HBO XTREME FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381689
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD H264" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="H.264",HBO POP FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381690
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME FHD H264" tvg-logo="https://lh3.googleusercontent.com/-K31dBmus6pg/YB1ujQWUNII/AAAAAAAAJ74/0no3jb6kDokClLqTjBaVdHbQKwC3yj_AwCLcBGAsYHQ/Lifetime.png" group-title="H.264",LIFETIME FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381691
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD FHD H264" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="H.264",DISCOVERY WORLD FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381692
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FHD H264" tvg-logo="https://1.bp.blogspot.com/-mbn1USO0X3w/YBxY4mhz9jI/AAAAAAAAJyk/tocjON6gPSwZDKDS5JbMeZewq_mVN-bBQCLcBGAsYHQ/s0/National%2BGeographic%2BWild.png" group-title="H.264",NATGEO WILD FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381693
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD H264" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="H.264",ANIMAL PLANET FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381694
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO FHD H264" tvg-logo="https://1.bp.blogspot.com/-SsAnCfoheJc/YBxZA2kYDgI/AAAAAAAAJ00/nwLkbKAFuusNEa3PpwfbvTo24WFzTCrIQCLcBGAsYHQ/s0/national%2Bgeographic.png" group-title="H.264",NATGEO FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381695
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 FHD H264" tvg-logo="https://1.bp.blogspot.com/-vQADP8t1nXw/YBxZAPK_R5I/AAAAAAAAJ0g/-4_9tTO3Q1UvvVfro5xssIT0di7uBa_OwCLcBGAsYHQ/s0/h2.png" group-title="H.264",HISTORY 2 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381696
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HXH FHD H264" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="H.264",DISCOVERY HXH FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381697
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD H264" tvg-logo="https://lh3.googleusercontent.com/-knWged2h77U/YG3yhHzLhsI/AAAAAAAAKNE/2S9OrM4kKFssVEplrZh2iIpdizJWvhS5wCLcBGAsYHQ/DISCOVERY%2BCHANNEL%2BFHD%2BH.265.png" group-title="H.264",DISCOVERY CHANNEL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381698
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD H264" tvg-logo="https://1.bp.blogspot.com/-2zfO9y0rdzk/YBxZC1-xGiI/AAAAAAAAJ1Y/mS89xVv14Co_98mP-4pjBwmw-Wn4O25uwCLcBGAsYHQ/s0/tlc.png" group-title="H.264",TLC FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381699
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 FHD H264" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="H.264",PREMIERE 7 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381700
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 FHD H264" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="H.264",PREMIERE 6 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381701
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 FHD H264" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="H.264",PREMIERE 5 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381702
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD H264" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="H.264",PREMIERE 4 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381703
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD H264" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="H.264",PREMIERE 3 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381704
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD H264" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="H.264",PREMIERE 2 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381705
+#EXTINF:-1 tvg-id="" tvg-name="MOSAICO PREMIERE FHD H264" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="H.264",MOSAICO PREMIERE FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381706
+#EXTINF:-1 tvg-id="" tvg-name="MOSAICO PREMIERE HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="H.264",MOSAICO PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381707
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO FHD H264" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="H.264",DISCOVERY TURBO FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381708
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇAO DISCOVERY FHD H264" tvg-logo="https://1.bp.blogspot.com/-R6Nm3GHxIcc/YBxZAuH_U_I/AAAAAAAAJ0s/L54B_9KFDQgSEjsOM368a8K_7j7NWVnNACLcBGAsYHQ/s0/id.png" group-title="H.264",INVESTIGAÇAO DISCOVERY FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381709
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE FHD H264" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="H.264",DISCOVERY SCIENCE FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381710
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER FHD H264" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="H.264",DISCOVERY THEATER FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381711
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FHD H264" tvg-logo="https://lh3.googleusercontent.com/-dJhXHHD8yBw/YB7bub1HReI/AAAAAAAAKBU/twsGJnnLwe4sq2hyr6BE2cdA2Hxmc_1rACLcBGAsYHQ/BOOMERANG.png" group-title="H.264",BOOMERANG FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381712
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD H264" tvg-logo="https://lh3.googleusercontent.com/-SGk3TJ6zlHE/YB7ZW6LmbjI/AAAAAAAAKBA/5yp5VHL_-t0EkNxeRrz1GG5x4aeciTZqwCLcBGAsYHQ/CARTOON%2BNETWORK.png" group-title="H.264",CARTOON NETWORK FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381713
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS FHD H264" tvg-logo="https://lh3.googleusercontent.com/-LFrB2aCc_2I/YB7RLQSQyoI/AAAAAAAAKAQ/PAanDOSwv0ILQHX-7HnFDjUA6bVeMjErgCLcBGAsYHQ/DISCOVERY%2BKIDS.png" group-title="H.264",DISCOVERY KIDS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381714
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD H264" tvg-logo="https://lh3.googleusercontent.com/-l8qSYbsahzo/YB7SfCeAXOI/AAAAAAAAKAc/SRPV0CHM67k8RVhZBLosjHooNrp8lv6fgCLcBGAsYHQ/DISNEY%2BCHANNEL.png" group-title="H.264",DISNEY CHANNEL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381715
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR FHD H264" tvg-logo="https://lh3.googleusercontent.com/-uxfe2_88d90/YB7apdkbVwI/AAAAAAAAKBM/hAfAkyiQDC8KTHM6B4vIfylmtS-R89VhACLcBGAsYHQ/DISNEY%2BJR.png" group-title="H.264",DISNEY JUNIOR FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381716
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB FHD H264" tvg-logo="https://lh3.googleusercontent.com/-SWSCnayQnyI/YB7orKdSp7I/AAAAAAAAKCs/RsE_NY28ReEWJVNsuH_PAZfCHFhV5Fy0gCLcBGAsYHQ/GLOOB%2BFHD.png" group-title="H.264",GLOOB FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381717
+#EXTINF:-1 tvg-id="" tvg-name="TV  GLOBINHO FHD H264" tvg-logo="https://lh3.googleusercontent.com/-VWmQDplv5sY/YB7lci1eX5I/AAAAAAAAKCM/2_1a0rBvmHgn7fQ0X5rs2yuFsqbzQ5fDwCLcBGAsYHQ/GLOBINHO.png" group-title="H.264",TV  GLOBINHO FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381718
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS FHD H264" tvg-logo="https://lh3.googleusercontent.com/-8_83nxvKSVc/YB7m-62Ac_I/AAAAAAAAKCY/rypN4g_XGt02rFJwtkwFNG5GWGiYHiWUQCLcBGAsYHQ/NATGEO%2BKIDS.png" group-title="H.264",NAT GEO KIDS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381719
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FHD H264" tvg-logo="https://lh3.googleusercontent.com/-nLpTY70zUsE/YB7gOTY3MEI/AAAAAAAAKBw/ez8j0QomxDMijqa3u2yd-e8elztXwtOYgCLcBGAsYHQ/ICONES%2BFAZER.png" group-title="H.264",NICKELODEON FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381720
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR FHD H264" tvg-logo="https://lh3.googleusercontent.com/-TGPzE7zgafw/YB7c9Zsr-YI/AAAAAAAAKBk/DPh9uu5H6Ns1kacIYYfF7DrphviMaIkpQCLcBGAsYHQ/NICK%2BJR.png" group-title="H.264",NICK JR FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381721
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO FHD H264" tvg-logo="https://lh3.googleusercontent.com/-rLw5-ZMSzf0/YB7kkdWz_XI/AAAAAAAAKCE/QZ7cyGTY4vAUySkjpPKHKOYeOW2edfUJwCLcBGAsYHQ/ZOOMOO.png" group-title="H.264",ZOOMOO FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381722
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD" tvg-logo="https://lh3.googleusercontent.com/-rLw5-ZMSzf0/YB7kkdWz_XI/AAAAAAAAKCE/QZ7cyGTY4vAUySkjpPKHKOYeOW2edfUJwCLcBGAsYHQ/ZOOMOO.png" group-title="H.264",ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381723
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST FHD H264" tvg-logo="https://lh3.googleusercontent.com/-g8HgpzlLFf4/YB7YJu7t-6I/AAAAAAAAKA0/ufbi_q7GJVUd3Un_HJwPo7ie8NCmNkZSwCLcBGAsYHQ/TOONCAST.png" group-title="H.264",TOONCAST FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381724
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD H264" tvg-logo="https://lh3.googleusercontent.com/-gwPn2tOVZM8/YBx2wGsMZAI/AAAAAAAAJ30/nVbW9nY-h7Y9pS3kxy0HhVSGWqFWYQ7vQCLcBGAsYHQ/AXN.png" group-title="H.264",AXN FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381725
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD H264" tvg-logo="https://lh3.googleusercontent.com/-b1ZXBvpbGN0/YaYWLJaWzOI/AAAAAAAAKzY/uLi8R76aiUADRzBp4D2sfABzF4HBYzz6QCLcBGAsYHQ/star%2Bcha%2Blg.png" group-title="H.264",STAR CHANNEL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381726
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE FHD H264" tvg-logo="https://i.imgur.com/2Z7C05h.jpg" group-title="H.264",STAR LIFE FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381727
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 1 FHD H264" tvg-logo="https://lh3.googleusercontent.com/-_lUfCAkVf7k/YYvUEZyBpEI/AAAAAAAAKtY/A0rnBOzw54kOBqxW9ja8nIUZmkj-JM31gCLcBGAsYHQ/star%2Bhits%2Bhd.png" group-title="H.264",STAR HITS 1 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381728
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 FHD H264" tvg-logo="https://lh3.googleusercontent.com/-Yu4u6AL_NXI/YYvUEd1DGYI/AAAAAAAAKtc/TTO0HidoMqIhVoUrN-9xBgGkwKF69_7FwCLcBGAsYHQ/star%2Bhits%2B2%2Bhd.png" group-title="H.264",STAR HITS 2 FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381729
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD H264" tvg-logo="https://1.bp.blogspot.com/-RjuT2FVmPlY/YBxYyxz4DdI/AAAAAAAAJxI/0LCk3p1iHF4t2JaVLjQNKeV_L3HHCRc_wCLcBGAsYHQ/s0/AMC.png" group-title="H.264",AMC FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381730
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX FHD H264" tvg-logo="https://1.bp.blogspot.com/-ZrQlGunDZRY/YBxY0Mbx1cI/AAAAAAAAJxY/gU6TOu3vylQLvOgwVFcSHcJd8ti-dTYBACLcBGAsYHQ/s0/CINEMAX.png" group-title="H.264",CINEMAX FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381731
+#EXTINF:-1 tvg-id="" tvg-name="FX FHD H264" tvg-logo="https://1.bp.blogspot.com/-jJobfitIDsY/YBxY2LI8l7I/AAAAAAAAJx4/tmNYDmDavk4iend3E4Z3cDqvVk_yDsa8QCLcBGAsYHQ/s0/FX.png" group-title="H.264",FX FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381732
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX FHD H264" tvg-logo="https://lh3.googleusercontent.com/-0DWVERIDMDU/YBxrSQi1c7I/AAAAAAAAJ3I/oX_bFNW5HcAreoON96JOuevw4Tg9DpS-wCLcBGAsYHQ/Megapix.png" group-title="H.264",MEGAPIX FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381733
+#EXTINF:-1 tvg-id="" tvg-name="SONNY FHD H264" tvg-logo="https://1.bp.blogspot.com/-cd5FGWYmztU/YBxY6ExoYsI/AAAAAAAAJzA/hsz2-4bxG7o1e9AzLoCY1N-Z8ItRAV7gwCLcBGAsYHQ/s0/SONY.png" group-title="H.264",SONNY FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381734
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FHD H264" tvg-logo="https://lh3.googleusercontent.com/-wx074iTBA_E/YBx1cb6OYKI/AAAAAAAAJ3o/P0kEcJzTKwIuHqMr1IblJchbgdVPNXfLgCLcBGAsYHQ/PARAMOUNT.png" group-title="H.264",PARAMOUNT FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381735
+#EXTINF:-1 tvg-id="" tvg-name="SPACE FHD H264" tvg-logo="https://lh3.googleusercontent.com/-uqEXAPfLRCU/YBxnv44PMkI/AAAAAAAAJ2k/ySo4DFB7c7wWTj6pFm7vUr9XQRABG7-QgCLcBGAsYHQ/spacetv.png" group-title="H.264",SPACE FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381736
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FHD H264" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="H.264",STUDIO UNIVERSAL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381737
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV FHD H264" tvg-logo="https://lh3.googleusercontent.com/-LmXLpimjSfw/YBxpu52-vgI/AAAAAAAAJ28/SzcwOdeDmtYbuXE1TGxgRivuocPG6glTgCLcBGAsYHQ/Universal%2BTV.png" group-title="H.264",UNIVERSAL TV FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381738
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD H264" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="H.264",TNT SERIES FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381739
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD H264" tvg-logo="https://lh3.googleusercontent.com/-JfVd39qFADU/YG3ymU89CeI/AAAAAAAAKNw/q4PPPhAtybsl_-rvGumrKkGAQjczfMbfACLcBGAsYHQ/WARNER%2BCHANNEL%2BFHD%2BDUAL%2BAUDIO%2BH.265.png" group-title="H.264",WARNER CHANNEL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381740
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD H264" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="H.264",A&E FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381741
+#EXTINF:-1 tvg-id="" tvg-name="CNN FHD H264" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="H.264",CNN FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381742
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD H264" tvg-logo="https://lh3.googleusercontent.com/-Fui-0y_xQnc/YB608kI_g1I/AAAAAAAAJ_s/QDYTfrUn-6sdi8Wexz19m_q5gZDOS7oXwCLcBGAsYHQ/Globo%2BNews.png" group-title="H.264",GLOBO NEWS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381743
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD H264" tvg-logo="https://lh3.googleusercontent.com/-p7dGCcpkCwU/YB1p7MbgFHI/AAAAAAAAJ7s/bWgP1i3hVCkDazNlO_V21rs7i0scqObYgCLcBGAsYHQ/MTV.png" group-title="H.264",MTV FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381744
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ART FHD H264" tvg-logo="https://lh3.googleusercontent.com/-wFBrjFHqYyA/YBx8afDp4OI/AAAAAAAAJ4k/yjj4CIsPkHo0uth-j7_epEc7CrRAZHu4gCLcBGAsYHQ/FILM%2B%2526%2BART.png" group-title="H.264",FILM & ART FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381745
+#EXTINF:-1 tvg-id="" tvg-name="TBS FHD H264" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="H.264",TBS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381746
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD H264" tvg-logo="https://1.bp.blogspot.com/-AI38rCX4mfg/YBxY58Uqj6I/AAAAAAAAJy4/lEUy2Hys6XAb0qVvV5mIRK43YS3QIPVOQCLcBGAsYHQ/s0/SFY.png" group-title="H.264",SYFY FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381747
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD H264" tvg-logo="https://lh3.googleusercontent.com/-tLAPefMhkkA/YB2IXaL4dJI/AAAAAAAAJ8M/I1TbJkFTbCkv_OjoToFLsP3UtPHAqeSUACLcBGAsYHQ/ComedyCentral.png" group-title="H.264",COMEDY CENTRAL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381748
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD H264" tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title="H.264",OFF FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381749
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW FHD H264" tvg-logo="https://1.bp.blogspot.com/-MJ11Q2ONCdY/YBxY4XfKRsI/AAAAAAAAJyg/FQj4MaLZ7vEx7Y5ZCfTdyeCrr5ZcZSwiwCLcBGAsYHQ/s0/MULTICHO.png" group-title="H.264",MULTISHOW FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381750
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD H264" tvg-logo="https://1.bp.blogspot.com/-SEB1Xup35xU/YBxZAL2riCI/AAAAAAAAJ0k/z6utvDWM-N8ktKj_O5YvIFtMJmWtcOuCwCLcBGAsYHQ/s0/hgtv.png" group-title="H.264",HGTV FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381751
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD H264" tvg-logo="https://lh3.googleusercontent.com/-tK5Nc4_y19A/YB1vaG-u5GI/AAAAAAAAJ8A/-JO0NZoh28MUMFXzJiSDPOtgHys3VTz8wCLcBGAsYHQ/GNT.png" group-title="H.264",GNT FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381752
+#EXTINF:-1 tvg-id="" tvg-name="FOOD  NETWORK FHD H264" tvg-logo="https://1.bp.blogspot.com/-QlERVR2vWQE/YBxY1UrowWI/AAAAAAAAJxw/4Ggand0oQ64jY6lAYYvNUwgEnEB5gl14gCLcBGAsYHQ/s0/FOOD.png" group-title="H.264",FOOD  NETWORK FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381753
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD H264" tvg-logo="http://a5.vc/DKx" group-title="H.264",E! FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381754
+#EXTINF:-1 tvg-id="" tvg-name="VIVA FHD H264" tvg-logo="https://lh3.googleusercontent.com/-1Zg8V5Pfxd4/YB1Gnnx4hEI/AAAAAAAAJ5o/Yct-RuSsxvwjmygNXX0lpz46Phq469KmQCLcBGAsYHQ/Terra%2BViva.png" group-title="H.264",VIVA FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381755
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD H264" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="H.264",BAND NEWS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381756
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD H264" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="H.264",RECORD NEWS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381757
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD H264" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="H.264",BAND SP FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381758
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD H264" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="H.264",REDE TV FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381759
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD H264" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="H.264",SBT SP FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381760
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV FHD H264" tvg-logo="https://i.imgur.com/149tkSz.png" group-title="H.264",FASHION TV FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381764
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO TV FHD H264" tvg-logo="https://lh3.googleusercontent.com/-zzCBNUjqF0U/YB2OTMRWeDI/AAAAAAAAJ9A/S7N8epO8YeIO3Tv-eAQcpd3f0_Ugu7V8ACLcBGAsYHQ/WOOHOO%2BTV.png" group-title="H.264",WOOHOO TV FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381765
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1  FHD H264" tvg-logo="https://i.imgur.com/q03TdMq.png" group-title="H.264",ARTE 1  FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381766
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD H264" tvg-logo="https://lh3.googleusercontent.com/-Y4ZtImM75Cw/YBx7eaKJsNI/AAAAAAAAJ4c/nY_pESQyBs8EYovyzHPr2vMzk28oALEQQCLcBGAsYHQ/TCM.png" group-title="H.264",TCM FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381767
+#EXTINF:-1 tvg-id="" tvg-name="TRUT TV FHD H264" tvg-logo="https://1.bp.blogspot.com/-Fiw4brPaCjU/YBxZDBx9i3I/AAAAAAAAJ1c/SlnstmbOAT0pvdjfA7QkRR8xuM6aGnN5QCLcBGAsYHQ/s0/tru%2Btv.png" group-title="H.264",TRUT TV FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381768
+#EXTINF:-1 tvg-id="" tvg-name="LOANDING FHD H264" tvg-logo="https://i.imgur.com/3D2ZTbM.png" group-title="H.264",LOANDING FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381769
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD FHD H264" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/bbc-world-news.png" group-title="H.264",BBC WORLD FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381770
+#EXTINF:-1 tvg-id="" tvg-name="BIS FHD H264" tvg-logo="https://1.bp.blogspot.com/-da01FszsGsw/YBxYzUDLY8I/AAAAAAAAJxM/lwZ5S9PKM0wM1Og7EEiqh10z5kC8ZrQ3gCLcBGAsYHQ/s0/BIS.png" group-title="H.264",BIS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381771
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT FHD H264" tvg-logo="https://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="H.264",GLOBOSAT FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381772
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL FHD H264" tvg-logo="https://1.bp.blogspot.com/-upBrSb0n-78/YBxY8Gxf45I/AAAAAAAAJzg/pRj_p6x4Z_8VXewdBmZRXTifArhdHuAfQCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="H.264",CANAL BRASIL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381773
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL FHD H264" tvg-logo="https://lh3.googleusercontent.com/-cNnnZao7fwM/YZgE2VaA1-I/AAAAAAAAKw8/iqfkYwr0EVk6LDj2lZWAjRhMBpQbTUVtQCLcBGAsYHQ/BOX.png" group-title="H.264",TRAVEL BOX BRASIL FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381774
+#EXTINF:-1 tvg-id="" tvg-name="SHOP TIME FHD" tvg-logo="https://lh3.googleusercontent.com/-EQ6AwC0WcuM/YT012tjJSKI/AAAAAAAAKko/sfdIri6EbfI7dKQLQcpkGJjR_NANoK5PQCLcBGAsYHQ/sptame.png" group-title="H.264",SHOP TIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381775
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN FHD H264" tvg-logo="https://lh3.googleusercontent.com/-R-m1dR6tDu0/YXnheDW9F3I/AAAAAAAAKro/GUEAWexmvRQ3t_OWSrW8pS2vKWBpI2h2gCLcBGAsYHQ/JOVEM%2BPAN.png" group-title="H.264",JOVEM PAN FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/381776
+#EXTINF:-1 tvg-id="" tvg-name="BAND CLOSED CAPTION FHD " tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND CLOSED CAPTION FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/382616
+#EXTINF:-1 tvg-id="" tvg-name="BAND CLOSED CAPTION HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND CLOSED CAPTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/382617
+#EXTINF:-1 tvg-id="" tvg-name="BAND CLOSED CAPTION SD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND CLOSED CAPTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/382618
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FHD SP H.265" tvg-logo="http://a5.vc/3pv" group-title="H.265",GLOBO FHD SP H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/382678
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://1.bp.blogspot.com/-RjuT2FVmPlY/YBxYyxz4DdI/AAAAAAAAJxI/0LCk3p1iHF4t2JaVLjQNKeV_L3HHCRc_wCLcBGAsYHQ/s0/AMC.png" group-title="FILMES & SÉRIES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/382708
+#EXTINF:-1 tvg-id="" tvg-name="ALIANÇA FM 98,7 RJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXPaSyNrzwqAS8kmtGWZFVFnrWjdnQSF22g&usqp=CAU" group-title="RÁDIOS",ALIANÇA FM 98,7 RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/384888
+#EXTINF:-1 tvg-id="" tvg-name="BICUDA FM 98,7 RJ" tvg-logo="https://i.imgur.com/C8fLZOL.jpg" group-title="RÁDIOS",BICUDA FM 98,7 RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/384893
+#EXTINF:-1 tvg-id="" tvg-name="BLINK 102 MS" tvg-logo="https://i.imgur.com/AKbGW7e.png" group-title="RÁDIOS",BLINK 102 MS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/384911
+#EXTINF:-1 tvg-id="" tvg-name="MEGA 94 MS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FcKDsaUdiLSpC5W6BcsqCJsgJjOS-akgdQ&usqp=CAU" group-title="RÁDIOS",MEGA 94 MS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/384912
+#EXTINF:-1 tvg-id="" tvg-name="Radio Feliz FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYHNXKnVIrh5XiZDlTdgrpDGtb7fezqnHxQ&usqp=CAU" group-title="RÁDIOS",Radio Feliz FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/384913
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Itatiaia Belo Horizonte / MG" tvg-logo="https://i.imgur.com/BoMWTx1.png" group-title="RÁDIOS",Rádio Itatiaia Belo Horizonte / MG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/384915
+#EXTINF:-1 tvg-id="" tvg-name="RADIO JOVEM PAN SP" tvg-logo="https://i.imgur.com/fmYCEYj.jpg" group-title="RÁDIOS",RADIO JOVEM PAN SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/384916
+#EXTINF:-1 tvg-id="" tvg-name="Frequência Máxima - Rio De Janeiro / RJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-hd3vz-F1F5dNLkhyWwI9YCgxxx_X7siJGxWKeiwiMFl6_sx10kiDF3G7Jg_7AxYlW3c&usqp=CAU" group-title="RÁDIOS",Frequência Máxima - Rio De Janeiro / RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/384919
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="https://i.imgur.com/0ZiIdZj.jpg" group-title="DOCUMENTARIOS",LOVE NATURE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/389133
+#EXTINF:-1 tvg-id="" tvg-name="Cancão Nova SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="RELIGIOSO",Cancão Nova SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/386225
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE FÁTIMA FHD" tvg-logo="https://tvfatima.com/static/images/share_tvfatima.jpg" group-title="RELIGIOSO",CANAL DE FÁTIMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/386230
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PARÁ HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD PARÁ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/390352
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTA CATARINA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD SANTA CATARINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/390353
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1" tvg-logo="https://i.imgur.com/Z2uFvN1.jpg" group-title="ESPORTE",FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/390354
+#EXTINF:-1 tvg-id="" tvg-name="IRON MAIDEN" tvg-logo="" group-title="SHOW ",IRON MAIDEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/390355
+#EXTINF:-1 tvg-id="" tvg-name="ALOK" tvg-logo="" group-title="SHOW ",ALOK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/390356
+#EXTINF:-1 tvg-id="" tvg-name="MICHAEL JACKSON SHOW" tvg-logo="" group-title="SHOW ",MICHAEL JACKSON SHOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/390357
+#EXTINF:-1 tvg-id="" tvg-name="PEARL JAM " tvg-logo="" group-title="SHOW ",PEARL JAM 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/390358
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV RS FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD TV RS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/392258
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 1 HD ALTER" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 1 HD ALTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/392897
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 2 HD ALTER" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 2 HD ALTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/394529
+#EXTINF:-1 tvg-id="" tvg-name="DOCE OLHAR 94,3 FM RJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIYEHO6rX2fscD7ONKJnPdijEMUR4GuGcBo_mnty6R_y_U5iSXaXR8FqxUK-khsbi1LHA&usqp=CAU" group-title="RÁDIOS",DOCE OLHAR 94,3 FM RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396972
+#EXTINF:-1 tvg-id="" tvg-name="FELIZ 94,9 FM RJ" tvg-logo="https://i.imgur.com/970dptC.jpg" group-title="RÁDIOS",FELIZ 94,9 FM RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396973
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Gospel Bom Jesus Do Itabapoana  RJ" tvg-logo="https://i.imgur.com/4prSiam.jpg" group-title="RÁDIOS",Rádio Gospel Bom Jesus Do Itabapoana  RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396974
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO HD¹" tvg-logo="https://i.imgur.com/CX0iJq5.png" group-title="CARIOCÃO",CARIOCÃO HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396975
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO SD¹" tvg-logo="https://i.imgur.com/CX0iJq5.png" group-title="CARIOCÃO",CARIOCÃO SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396976
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO HD²" tvg-logo="https://i.imgur.com/CX0iJq5.png" group-title="CARIOCÃO",CARIOCÃO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396977
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO SD²" tvg-logo="https://i.imgur.com/CX0iJq5.png" group-title="CARIOCÃO",CARIOCÃO SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396978
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 1 HD" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396979
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 2 HD" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396980
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 3 FHD" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396981
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 4 FHD" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396982
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 5 FHD" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396983
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 6 FHD" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396984
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 7 FHD" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396985
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 8 FHD" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396986
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 9 FHD" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396987
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 CAMERA 10 FHD" tvg-logo="https://i.imgur.com/HunYtVp.jpg" group-title="BIG BROTHER BRASIL 2022",BBB 2022 CAMERA 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396988
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396990
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE SD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396991
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396992
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 SD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396993
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 HD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396994
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 SD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396995
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4 HD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396996
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4 SD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396997
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5 HD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396998
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5 SD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/396999
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6 HD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397000
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6 SD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397001
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 7 HD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397002
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 7 SD" tvg-logo="https://i.imgur.com/MWHHyoz.jpg" group-title="COPA DO NORDESTE",COPA DO NORDESTE 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397003
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE HD" tvg-logo="https://i.imgur.com/02nxiCt.jpg" group-title="COPA CATARINENSE",COPA CATARINENSE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397004
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE SD" tvg-logo="https://i.imgur.com/02nxiCt.jpg" group-title="COPA CATARINENSE",COPA CATARINENSE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397005
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 HD" tvg-logo="https://i.imgur.com/02nxiCt.jpg" group-title="COPA CATARINENSE",COPA CATARINENSE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397006
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 SD" tvg-logo="https://i.imgur.com/02nxiCt.jpg" group-title="COPA CATARINENSE",COPA CATARINENSE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397007
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD¹" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD SP HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397008
+#EXTINF:-1 tvg-id="" tvg-name="TVE BAHIA" tvg-logo="" group-title="ABERTOS",TVE BAHIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397079
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV PORTO ALEGRE H265" tvg-logo="" group-title="H.265",RBS TV PORTO ALEGRE H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397098
+#EXTINF:-1 tvg-id="" tvg-name="FLA - TV" tvg-logo="https://i.imgur.com/CmawKUT.jpg" group-title="ESPORTE",FLA - TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397139
+#EXTINF:-1 tvg-id="" tvg-name="IMPD TV" tvg-logo="https://i.imgur.com/AR37m38.jpg" group-title="RELIGIOSO",IMPD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397140
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIE TV" tvg-logo="https://i.imgur.com/SfDjw5J.jpg" group-title="CINE 24HRS ",GOSPEL MOVIE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397141
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX" tvg-logo="https://i.imgur.com/u8RARK9.png" group-title="CINE 24HRS ",CINE NETFLIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397142
+#EXTINF:-1 tvg-id="globo.br" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397143
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTER TV ALTO LITORAL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",INTER TV ALTO LITORAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397144
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTER TV CABUGI NATAL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",INTER TV CABUGI NATAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397145
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTER TV DOS VALES HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",INTER TV DOS VALES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397146
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTER TV GRANDE MINAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",INTER TV GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397147
+#EXTINF:-1 tvg-id="globo.br" tvg-name="NSC TV BLUMENAU HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",NSC TV BLUMENAU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397148
+#EXTINF:-1 tvg-id="globo.br" tvg-name="NSC TV CHAPECO HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",NSC TV CHAPECO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397149
+#EXTINF:-1 tvg-id="globo.br" tvg-name="NSC TV CRICIUMA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",NSC TV CRICIUMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397150
+#EXTINF:-1 tvg-id="globo.br" tvg-name="NSC TV JOINVILLE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",NSC TV JOINVILLE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397151
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RBS TV CAXIAS DO SUL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RBS TV CAXIAS DO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397152
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RBS TV PELOTAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RBS TV PELOTAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397153
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RBS TV SANTA MARIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RBS TV SANTA MARIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397154
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RPC FOZ DO IGUACU HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RPC FOZ DO IGUACU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397155
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RPC PARANAVAI HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RPC PARANAVAI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397156
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RPC PONTA GROSSA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RPC PONTA GROSSA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397157
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV CABO BRANCO HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV CABO BRANCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397158
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV GAZETA DE ALAGOAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV GAZETA DE ALAGOAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397159
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV GAZETA SUL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV GAZETA SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397160
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV GLOBO RJ INTERIOR HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV GLOBO RJ INTERIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397161
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV INTEGRACAO ARAXA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV INTEGRACAO ARAXA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397162
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV SANTA CRUZ FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV SANTA CRUZ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397163
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SERGIPE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO SERGIPE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397164
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397165
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV ANHAGUERA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV ANHAGUERA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397166
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397167
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO VITORIA ES" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO VITORIA ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397168
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397169
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RJ HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397170
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SERGIPE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397171
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RBS TV PASSO FUNDO HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RBS TV PASSO FUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397172
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV SANTA CRUZ HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV SANTA CRUZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397173
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397174
+#EXTINF:-1 tvg-id="globo.br" tvg-name="NSC TV SSANTA CATARINA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",NSC TV SSANTA CATARINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397175
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RPC PARANAVAI HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RPC PARANAVAI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397176
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTER TV CABO FRIO HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",INTER TV CABO FRIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397177
+#EXTINF:-1 tvg-id="globo.br" tvg-name="EPTV CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397178
+#EXTINF:-1 tvg-id="globo.br" tvg-name="EPTV CAMPINAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",EPTV CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397179
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV Liberal HD (BELEM)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV Liberal HD (BELEM)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397180
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO BRASILIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397181
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RPC TV CURITIBA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RPC TV CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397182
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV CLUBE TERESINA" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO TV CLUBE TERESINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397183
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV MIRANTE HD GLOBO MARANHAO" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV MIRANTE HD GLOBO MARANHAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397184
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO PIAUI TV CLUBE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO PIAUI TV CLUBE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397185
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397186
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397187
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV TRIBUNA GLOBO SANTOS" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV TRIBUNA GLOBO SANTOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397188
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV TRIBUNA GLOBO SANTOS¹" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV TRIBUNA GLOBO SANTOS¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397189
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV VANGUARDA HD SAO JOSE DOS CAMPOS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV VANGUARDA HD SAO JOSE DOS CAMPOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397190
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV VANGUARDA FHD SAO JOSE DOS CAMPOS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV VANGUARDA FHD SAO JOSE DOS CAMPOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397191
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RPC FOZ DO IGUACU FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RPC FOZ DO IGUACU FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397192
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RBS PELOTAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RBS PELOTAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397193
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RBS PELOTAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RBS PELOTAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397194
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RBS CAXIAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RBS CAXIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397195
+#EXTINF:-1 tvg-id="globo.br" tvg-name="EPTV SUL DE MINAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",EPTV SUL DE MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397196
+#EXTINF:-1 tvg-id="globo.br" tvg-name="RBS CAXIAS DO SUL FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",RBS CAXIAS DO SUL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397197
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO VITORIA HD ES" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO VITORIA HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397198
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV VERDES MARES FORTALEZA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV VERDES MARES FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397199
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RJ SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397200
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO SP SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397201
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO BRASILIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397202
+#EXTINF:-1 tvg-id="globo.br" tvg-name="INTER TV CABUGI FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",INTER TV CABUGI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397203
+#EXTINF:-1 tvg-id="globo.br" tvg-name="EPTV CAMPINAS SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397204
+#EXTINF:-1 tvg-id="globo.br" tvg-name="EPTV RIBEIRAO PRETO SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",EPTV RIBEIRAO PRETO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397205
+#EXTINF:-1 tvg-id="globo.br" tvg-name="EPTV SAO CARLOS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",EPTV SAO CARLOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397206
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV DIARIO MOGI DAS CRUZES FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV DIARIO MOGI DAS CRUZES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397207
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV ASA BRANCA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV ASA BRANCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397208
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO NORDESTE RF FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",GLOBO NORDESTE RF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397209
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo GO TV Anhanguera SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo GO TV Anhanguera SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397618
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Belo Horizonte SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG Belo Horizonte SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397619
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo AL TV Gazeta SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo AL TV Gazeta SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397620
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo CE TV Verdes Mares SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo CE TV Verdes Mares SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397621
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Inter TV Alto Litoral SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RJ Inter TV Alto Litoral SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397622
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Florianópolis SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Florianópolis SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397623
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PI Rede Clube SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PI Rede Clube SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397624
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo ES TV Gazeta Sul SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo ES TV Gazeta Sul SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397625
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo MA TV Mirante Sao Luis SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MA TV Mirante Sao Luis SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397626
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SE Tv Sergipe SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SE Tv Sergipe SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397627
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi SD" tvg-logo="" group-title="ABERTOS",Canal do Boi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397628
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PB TV Cabo Branco SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PB TV Cabo Branco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397629
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Record SP - Capital SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Record SP - Capital SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397630
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG EPTV Sul de Minas SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG EPTV Sul de Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397631
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Inter TV dos Vales SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG Inter TV dos Vales SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397632
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Inter TV Serra Mar SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RJ Inter TV Serra Mar SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397633
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Blumenau SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Blumenau SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397634
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Chapeco SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Chapeco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397635
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RS RBS TV Caxias do Sul SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RS RBS TV Caxias do Sul SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397636
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Ponta Grossa SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Ponta Grossa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397637
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG TV Integracao Juiz de Fora SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG TV Integracao Juiz de Fora SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397638
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MS TV Morena SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MS TV Morena SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397639
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC Paranavai SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC Paranavai SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397640
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Foz do Iguacu SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Foz do Iguacu SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397641
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Maringa SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Maringa SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397642
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397643
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Trace Brazuca SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Trace Brazuca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397644
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV TEM Bauru  SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV TEM Bauru  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397645
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Tem Itapetininga SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Tem Itapetininga SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397646
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Tem São José do Rio Preto SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Tem São José do Rio Preto SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397647
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Tem Sorocaba SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Tem Sorocaba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397648
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Joinville SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Joinville SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397649
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RN Inter TV Cabugi SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RN Inter TV Cabugi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397650
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PE Asa Branca SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PE Asa Branca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397651
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP EPTV Central S Carlos SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP EPTV Central S Carlos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397652
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RS RBS TV Pelotas SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RS RBS TV Pelotas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397653
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RO Rede Amazônica Porto Velho SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RO Rede Amazônica Porto Velho SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397654
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo AC Rede Amazônica Rio Branco SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo AC Rede Amazônica Rio Branco SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397655
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Diario Mogi das Cruzes SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Diario Mogi das Cruzes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397656
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Fronteira Presidente Prudente SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Fronteira Presidente Prudente SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397657
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Record RJ - Interior  SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Record RJ - Interior  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397658
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Vanguarda Taubate SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Vanguarda Taubate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397659
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo ES TV Gazeta Sul HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo ES TV Gazeta Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397660
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Florianópolis HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Florianópolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397662
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Curitiba FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Curitiba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397663
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ TV Rio Sul HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RJ TV Rio Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397664
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ TV Rio Sul FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RJ TV Rio Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397665
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Curitiba HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397666
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo GO TV Anhanguera FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo GO TV Anhanguera FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397667
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo GO TV Anhanguera HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo GO TV Anhanguera HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397668
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Belo Horizonte FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG Belo Horizonte FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397669
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Belo Horizonte FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG Belo Horizonte FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397670
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Belo Horizonte HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG Belo Horizonte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397671
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo DF Brasilia FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo DF Brasilia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397672
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo DF Brasilia FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo DF Brasilia FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397673
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo DF Brasilia HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo DF Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397674
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Capital FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RJ Capital FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397675
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Capital HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RJ Capital HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397676
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo AL TV Gazeta FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo AL TV Gazeta FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397677
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo AL TV Gazeta FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo AL TV Gazeta FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397678
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo AL TV Gazeta HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo AL TV Gazeta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397679
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo ES TV Gazeta Vitoria FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo ES TV Gazeta Vitoria FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397680
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo ES TV Gazeta Vitoria HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo ES TV Gazeta Vitoria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397681
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo CE TV Verdes Mares FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo CE TV Verdes Mares FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397682
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo CE TV Verdes Mares FHD [H265]" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo CE TV Verdes Mares FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397683
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo CE TV Verdes Mares HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo CE TV Verdes Mares HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397684
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Inter TV Alto Litoral HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RJ Inter TV Alto Litoral HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397685
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Inter TV Alto Litoral FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RJ Inter TV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397686
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NE Nordeste HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo NE Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397687
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo NE Nordeste FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo NE Nordeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397688
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Florianópolis FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Florianópolis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397689
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RS RBS TV Porto Alegre HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RS RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397690
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RS RBS TV Porto Alegre FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RS RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397691
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PI Rede Clube HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PI Rede Clube HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397692
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PI Rede Clube FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PI Rede Clube FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397693
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo ES TV Gazeta Sul FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo ES TV Gazeta Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397694
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MA TV Mirante Sao Luis HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MA TV Mirante Sao Luis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397695
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MA TV Mirante Sao Luis FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MA TV Mirante Sao Luis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397696
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SE Tv Sergipe HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SE Tv Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397697
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SE Tv Sergipe FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SE Tv Sergipe FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397698
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi FHD" tvg-logo="" group-title="ABERTOS",Canal do Boi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397699
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi HD" tvg-logo="" group-title="ABERTOS",Canal do Boi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397700
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV Aparecida FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",TV Aparecida FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397701
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PA TV Liberal Belém HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PA TV Liberal Belém HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397702
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PA TV Liberal Belém FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PA TV Liberal Belém FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397703
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo AM TV Amazônia HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo AM TV Amazônia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397704
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo AM TV Amazônia FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo AM TV Amazônia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397705
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PB TV Cabo Branco FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PB TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397706
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PB TV Cabo Branco HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PB TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397707
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP EPTV Campinas HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397708
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP EPTV Campinas FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397709
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Ponta Grossa FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Ponta Grossa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397710
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG EPTV Sul de Minas FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG EPTV Sul de Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397711
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG EPTV Sul de Minas HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397712
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Inter TV dos Vales FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397713
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Inter TV dos Vales HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG Inter TV dos Vales HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397714
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Inter TV Grande Minas HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397715
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Globo RJ Inter TV Serra Mar FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RJ Inter TV Serra Mar FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397716
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Inter TV Serra Mar HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RJ Inter TV Serra Mar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397717
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Blumenau FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Blumenau FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397718
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Chapeco FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Chapeco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397719
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Chapeco HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Chapeco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397720
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RS RBS TV Caxias do Sul FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RS RBS TV Caxias do Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397721
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RS RBS TV Caxias do Sul HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RS RBS TV Caxias do Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397722
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo BA Rede Bahia FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo BA Rede Bahia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397723
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo BA Rede Bahia HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo BA Rede Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397724
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Ponta Grossa HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Ponta Grossa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397725
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MT TV Centro America FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MT TV Centro America FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397726
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MT TV Centro America HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MT TV Centro America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397727
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG TV Integracao Juiz de Fora FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG TV Integracao Juiz de Fora FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397728
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG TV Integracao Juiz de Fora HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MG TV Integracao Juiz de Fora HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397729
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MS TV Morena FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo MS TV Morena FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397730
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC Paranavai FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC Paranavai FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397731
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC Paranavai HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC Paranavai HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397732
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Foz do Iguacu FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Foz do Iguacu FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397733
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Foz do Iguacu HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Foz do Iguacu HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397734
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Maringa FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Maringa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397735
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PR RPC TV Maringa HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PR RPC TV Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397736
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV TEM Bauru  HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV TEM Bauru  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397737
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV TEM Bauru FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV TEM Bauru FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397738
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Tem Itapetininga HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Tem Itapetininga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397739
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Tem Itapetininga FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Tem Itapetininga FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397740
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Tem São José do Rio Preto HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Tem São José do Rio Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397741
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Tem São José do Rio Preto FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Tem São José do Rio Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397742
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Tem Sorocaba HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Tem Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397743
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Tem Sorocaba FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Tem Sorocaba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397744
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ Capital HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="SBT",SBT RJ Capital HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397745
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Joinville HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Joinville HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397746
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SC NSC TV Joinville FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SC NSC TV Joinville FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397747
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RN Inter TV Cabugi HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RN Inter TV Cabugi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397748
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RN Inter TV Cabugi FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RN Inter TV Cabugi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397749
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP EPTV Ribeirão Preto FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP EPTV Ribeirão Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397750
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP EPTV Ribeirão Preto HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP EPTV Ribeirão Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397751
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PE Asa Branca FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PE Asa Branca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397752
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo PE Asa Branca HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo PE Asa Branca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397753
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP EPTV Central S Carlos FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP EPTV Central S Carlos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397754
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP EPTV Central S Carlos HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP EPTV Central S Carlos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397755
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RS RBS TV Pelotas FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RS RBS TV Pelotas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397756
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RS RBS TV Pelotas HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RS RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397757
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Record PA - Belém FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Record PA - Belém FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397758
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Record PA - Belém HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Record PA - Belém HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397759
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RO Rede Amazônica Porto Velho FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RO Rede Amazônica Porto Velho FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397760
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RO Rede Amazônica Porto Velho HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo RO Rede Amazônica Porto Velho HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397761
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo AC Rede Amazônica Rio Branco FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo AC Rede Amazônica Rio Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397762
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo AC Rede Amazônica Rio Branco HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo AC Rede Amazônica Rio Branco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397763
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Diario Mogi das Cruzes FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Diario Mogi das Cruzes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397764
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Diario Mogi das Cruzes HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Diario Mogi das Cruzes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397765
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Fronteira Presidente Prudente FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Fronteira Presidente Prudente FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397766
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo SP TV Fronteira Presidente Prudente HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO REGIONAIS [ALTER]",Globo SP TV Fronteira Presidente Prudente HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/397767
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD¹" tvg-logo="https://1.bp.blogspot.com/-RjuT2FVmPlY/YBxYyxz4DdI/AAAAAAAAJxI/0LCk3p1iHF4t2JaVLjQNKeV_L3HHCRc_wCLcBGAsYHQ/s0/AMC.png" group-title="FILMES & SÉRIES",AMC FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/398151
+#EXTINF:-1 tvg-id="" tvg-name="BOTAFOGO TV" tvg-logo="https://i.imgur.com/Un7EPOE.png" group-title="ESPORTE",BOTAFOGO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&Buffer=60000&url=http://tv.meuserver.me:8080/392661/CodeMeuserver/398565
