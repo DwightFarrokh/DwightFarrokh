@@ -1416,7 +1416,44 @@ http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="BBB2022 FHD" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/07/806x444/1_138982262_3846044622129303_6247911172718002438_n-20412933.jpg" group-title="BBB 2022",BBB2022 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/112914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/07/806x444/1_138982262_3846044622129303_6247911172718002438_n-20412933.jpg" group-title="BBB 2022",BBB 2022
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/112915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2022 SD" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/07/806x444/1_138982262_3846044622129303_6247911172718002438_n-20412933.jpg" group-title="BBB 2022",BBB 2022 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/112916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="" group-title="BBB 2022",BBB 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="" group-title="BBB 2022",BBB 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="" group-title="BBB 2022",BBB 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="" group-title="BBB 2022",BBB 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="" group-title="BBB 2022",BBB 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="" group-title="BBB 2022",BBB 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="" group-title="BBB 2022",BBB 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 11" tvg-logo="" group-title="BBB 2022",BBB 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 12" tvg-logo="" group-title="BBB 2022",BBB 12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 01" tvg-logo="" group-title="Canais  Esporte",Campeonato Carioca 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 02" tvg-logo="" group-title="Canais  Esporte",Campeonato Carioca 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 03" tvg-logo="" group-title="Canais  Esporte",Campeonato Carioca 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 01" tvg-logo="" group-title="Canais  Esporte",Copa do Nordeste 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 02" tvg-logo="" group-title="Canais  Esporte",Copa do Nordeste 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 03" tvg-logo="" group-title="Canais  Esporte",Copa do Nordeste 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INFORMAÇÕES" tvg-logo="https://i.ibb.co/W56Dwmh/mais-logo.png" group-title="INFORMAÇÕES IMPORTANTES",INFORMAÇÕES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116340.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="﻿Band FHD" tvg-logo="http://159.69.8.18/logos/cdn/band.png" group-title="Canais Band",﻿Band FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/104671
 #EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="http://159.69.8.18/logos/cdn/band.png" group-title="Canais Band",Band HD
