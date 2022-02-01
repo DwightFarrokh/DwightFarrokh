@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EPG PLUTO TV" tvg-logo="https://static.wixstatic.com/media/3a4b66_4ba65a0941bb4746bb548e37f189d24a~mv2.png/v1/fill/w_1280,h_720,al_c/3a4b66_4ba65a0941bb4746bb548e37f189d24a~mv2.png" group-title="EPG PLUTO TV",EPG PLUTO TV https://i.mjh.nz/PlutoTV/br.xml
+
 
 
 
