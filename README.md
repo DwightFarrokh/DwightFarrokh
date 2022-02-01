@@ -2615,24 +2615,5 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105274
 #EXTINF:-1 tvg-id="" tvg-name="24H Pantena Cor de Rosa" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Pantena Cor de Rosa
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105275
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="http://logo.painel.live/FORMAN.png" group-title="Canais Adultos",PLAYBOY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105289
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE HD" tvg-logo="http://logo.painel.live/playboy.png" group-title="Canais Adultos",SEX PRIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105290
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="http://logo.painel.live/playboy.png" group-title="Canais Adultos",SEXTREME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105291
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT HD" tvg-logo="http://logo.painel.live/sexyhot.png" group-title="Canais Adultos",SEXY HOT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105292
-#EXTINF:-1 tvg-id="" tvg-name="VENUS HD" tvg-logo="http://logo.painel.live/sexyhot.png" group-title="Canais Adultos",VENUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105293
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTOS 01" tvg-logo="http://logo.painel.live/sexprive.png" group-title="Canais Adultos",XXX: ADULTOS 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105294
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTOS 02" tvg-logo="http://logo.painel.live/sexprive.png" group-title="Canais Adultos",XXX: ADULTOS 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105295
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTOS 03" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/adultos.png" group-title="Canais Adultos",XXX: ADULTOS 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105296
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ADULTOS 04" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/adultos.png" group-title="Canais Adultos",XXX: ADULTOS 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/105297
-#EXTINF:-1 tvg-id="" tvg-name="Canal Mais Tv" tvg-logo="" group-title="Fonte Nova",Canal Mais Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cdn.canais.cc:80/55115045/cliente@5045/106892
+
 
