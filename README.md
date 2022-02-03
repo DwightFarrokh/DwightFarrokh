@@ -1420,1251 +1420,1251 @@ http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB2022 FHD" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/07/806x444/1_138982262_3846044622129303_6247911172718002438_n-20412933.jpg" group-title="BBB 2022",BBB2022 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/112914.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/112914.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 2022" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/07/806x444/1_138982262_3846044622129303_6247911172718002438_n-20412933.jpg" group-title="BBB 2022",BBB 2022
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/112915.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/112915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 2022 SD" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/07/806x444/1_138982262_3846044622129303_6247911172718002438_n-20412933.jpg" group-title="BBB 2022",BBB 2022 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/112916.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/112916.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="" group-title="BBB 2022",BBB 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113325.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113325.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="" group-title="BBB 2022",BBB 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113326.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113326.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="" group-title="BBB 2022",BBB 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113327.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113327.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="" group-title="BBB 2022",BBB 07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113328.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="" group-title="BBB 2022",BBB 08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113329.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113329.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="" group-title="BBB 2022",BBB 09
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113330.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113330.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="" group-title="BBB 2022",BBB 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113331.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113331.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 11" tvg-logo="" group-title="BBB 2022",BBB 11
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113332.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113332.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB 12" tvg-logo="" group-title="BBB 2022",BBB 12
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113333.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/113333.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 01" tvg-logo="" group-title="Canais  Esporte",Campeonato Carioca 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116334.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116334.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 02" tvg-logo="" group-title="Canais  Esporte",Campeonato Carioca 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116335.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116335.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 03" tvg-logo="" group-title="Canais  Esporte",Campeonato Carioca 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116336.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116336.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 01" tvg-logo="" group-title="Canais  Esporte",Copa do Nordeste 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116337.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116337.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 02" tvg-logo="" group-title="Canais  Esporte",Copa do Nordeste 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116338.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116338.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 03" tvg-logo="" group-title="Canais  Esporte",Copa do Nordeste 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116339.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116339.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INFORMAÇÕES" tvg-logo="https://i.ibb.co/W56Dwmh/mais-logo.png" group-title="INFORMAÇÕES IMPORTANTES",INFORMAÇÕES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116340.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116340.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Informativo" tvg-logo="https://i.ibb.co/W56Dwmh/mais-logo.png" group-title="Lançamento 2020",Canal Informativo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/movie/55115045/cliente@5045/116342.mp4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/movie/55115045/cliente@5045/116342.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Canção Nova" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/cancaonova.png" group-title="Canais Religiosos",Canção Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116604.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116604.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/novotempo.png" group-title="Canais Religiosos",Novo Tempo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116605.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116605.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Rede_Família.png/200px-Rede_Família.png" group-title="Canais Religiosos",Rede Familia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116606.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116606.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Gospel" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/redegospel.png" group-title="Canais Religiosos",Rede Gospel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116607.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116607.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Aparecida" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tvaparecida.png" group-title="Canais Religiosos",TV Aparecida
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116608.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/116608.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="﻿Band FHD" tvg-logo="http://159.69.8.18/logos/cdn/band.png" group-title="Canais Band",﻿Band FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104671.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104671.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="http://159.69.8.18/logos/cdn/band.png" group-title="Canais Band",Band HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104672.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104672.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band SD" tvg-logo="http://159.69.8.18/logos/cdn/band.png" group-title="Canais Band",Band SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104673.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104673.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record News FHD" tvg-logo="http://159.69.8.18/logos/cdn/recordnews.png" group-title="Canais Noticias ",Record News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104674.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104674.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="http://159.69.8.18/logos/cdn/recordnews.png" group-title="Canais Noticias ",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104675.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104675.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record News SD" tvg-logo="http://159.69.8.18/logos/cdn/recordnews.png" group-title="Canais Noticias ",Record News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104676.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104676.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil FHD" tvg-logo="http://159.69.8.18/logos/cdn/cnnbrasil.png" group-title="Canais Noticias ",CNN Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104677.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104677.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="http://159.69.8.18/logos/cdn/cnnbrasil.png" group-title="Canais Noticias ",CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104678.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104678.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil SD" tvg-logo="http://159.69.8.18/logos/cdn/cnnbrasil.png" group-title="Canais Noticias ",CNN Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104679.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104679.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura FHD" tvg-logo="http://159.69.8.18/logos/cdn/tvcultura.png" group-title="Canais Aberto",TV Cultura FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104680.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104680.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura HD" tvg-logo="http://159.69.8.18/logos/cdn/tvcultura.png" group-title="Canais Aberto",TV Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104681.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104681.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura SD" tvg-logo="http://159.69.8.18/logos/cdn/tvcultura.png" group-title="Canais Aberto",TV Cultura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104682.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104682.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum! FHD" tvg-logo="http://159.69.8.18/logos/cdn/TVRaTimBum.png" group-title="Canais Infantis ",TV Rá Tim Bum! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104683.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104683.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum! HD" tvg-logo="http://159.69.8.18/logos/cdn/TVRaTimBum.png" group-title="Canais Infantis ",TV Rá Tim Bum! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104684.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104684.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum! SD" tvg-logo="http://159.69.8.18/logos/cdn/TVRaTimBum.png" group-title="Canais Infantis ",TV Rá Tim Bum! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104685.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104685.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="http://159.69.8.18/logos/cdn/ae.png" group-title="Canais Filmes e Séries ",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104686.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104686.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://159.69.8.18/logos/cdn/ae.png" group-title="Canais Filmes e Séries ",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104687.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104687.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="http://159.69.8.18/logos/cdn/ae.png" group-title="Canais Filmes e Séries ",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104688.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104688.m3u8
 #EXTINF:-1 tvg-id="Adultos.br" tvg-name="Animal Planet FHD" tvg-logo="http://159.69.8.18/logos/cdn/animalplanet.png" group-title="Canais Documentários ",Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104689.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104689.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://159.69.8.18/logos/cdn/animalplanet.png" group-title="Canais Documentários ",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104690.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104690.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet SD" tvg-logo="http://159.69.8.18/logos/cdn/animalplanet.png" group-title="Canais Documentários ",Animal Planet SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104691.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104691.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 FHD" tvg-logo="http://159.69.8.18/logos/cdn/arte1.png" group-title="Canais Variedades e Musicas ",Arte 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104692.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104692.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" tvg-logo="http://159.69.8.18/logos/cdn/arte1.png" group-title="Canais Variedades e Musicas ",Arte 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104693.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104693.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="http://159.69.8.18/logos/cdn/arte1.png" group-title="Canais Variedades e Musicas ",Arte 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104694.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104694.m3u8
 #EXTINF:-1 tvg-id="Adultos.br" tvg-name="AXN FHD" tvg-logo="http://159.69.8.18/logos/cdn/axn.png" group-title="Canais Filmes e Séries ",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104695.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104695.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://159.69.8.18/logos/cdn/axn.png" group-title="Canais Filmes e Séries ",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104696.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104696.m3u8
 #EXTINF:-1 tvg-id="Adultos.br" tvg-name="AXN SD" tvg-logo="http://159.69.8.18/logos/cdn/axn.png" group-title="Canais Filmes e Séries ",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104697.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104697.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BandNews FHD" tvg-logo="http://159.69.8.18/logos/cdn/bandnews.png" group-title="Canais Noticias ",BandNews FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104698.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104698.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BandNews HD" tvg-logo="http://159.69.8.18/logos/cdn/bandnews.png" group-title="Canais Noticias ",BandNews HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104699.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104699.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BandNews SD" tvg-logo="http://159.69.8.18/logos/cdn/bandnews.png" group-title="Canais Noticias ",BandNews SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104700.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104700.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BandSports FHD" tvg-logo="http://159.69.8.18/logos/cdn/bandsports.png" group-title="Canais Band",BandSports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104701.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104701.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BandSports HD" tvg-logo="http://159.69.8.18/logos/cdn/bandsports.png" group-title="Canais Band",BandSports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104702.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104702.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BandSports SD" tvg-logo="http://159.69.8.18/logos/cdn/bandsports.png" group-title="Canais Band",BandSports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104703.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104703.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD" tvg-logo="http://159.69.8.18/logos/cdn/boomerang.png" group-title="Canais Infantis ",Boomerang FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104704.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104704.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="http://159.69.8.18/logos/cdn/boomerang.png" group-title="Canais Infantis ",Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104705.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104705.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang SD" tvg-logo="http://159.69.8.18/logos/cdn/boomerang.png" group-title="Canais Infantis ",Boomerang SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104706.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104706.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="http://159.69.8.18/logos/cdn/cartoonnetwork.png" group-title="Canais Infantis ",Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104707.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104707.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://159.69.8.18/logos/cdn/cartoonnetwork.png" group-title="Canais Infantis ",Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104708.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104708.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="http://159.69.8.18/logos/cdn/cartoonnetwork.png" group-title="Canais Infantis ",Cartoon Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104709.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104709.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="http://159.69.8.18/logos/cdn/cinemax.png" group-title="Canais Filmes e Séries ",Cinemax FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104710.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104710.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://159.69.8.18/logos/cdn/cinemax.png" group-title="Canais Filmes e Séries ",Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104711.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104711.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="http://159.69.8.18/logos/cdn/cinemax.png" group-title="Canais Filmes e Séries ",Cinemax SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104712.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104712.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="http://159.69.8.18/logos/cdn/comedycentral.png" group-title="Canais Variedades e Musicas ",Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104713.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104713.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="http://159.69.8.18/logos/cdn/comedycentral.png" group-title="Canais Variedades e Musicas ",Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104714.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104714.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central SD" tvg-logo="http://159.69.8.18/logos/cdn/comedycentral.png" group-title="Canais Variedades e Musicas ",Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104715.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104715.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Curta! FHD" tvg-logo="http://159.69.8.18/logos/cdn/curta.png" group-title="Canais Variedades e Musicas ",Curta! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104716.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104716.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="http://159.69.8.18/logos/cdn/curta.png" group-title="Canais Variedades e Musicas ",Curta! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104717.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Curta! SD" tvg-logo="http://159.69.8.18/logos/cdn/curta.png" group-title="Canais Variedades e Musicas ",Curta! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104718.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="http://159.69.8.18/logos/cdn/discoverychannel.png" group-title="Canais Documentários ",Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104719.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104719.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://159.69.8.18/logos/cdn/discoverychannel.png" group-title="Canais Documentários ",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104720.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="http://159.69.8.18/logos/cdn/discoverychannel.png" group-title="Canais Documentários ",Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104721.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104721.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health FHD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryhh.png" group-title="Canais Documentários ",Discovery Home & Health FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104722.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104722.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryhh.png" group-title="Canais Documentários ",Discovery Home & Health HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104723.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104723.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health SD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryhh.png" group-title="Canais Documentários ",Discovery Home & Health SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104724.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104724.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Investigação Discovery FHD" tvg-logo="http://159.69.8.18/logos/cdn/investigationdiscovery.png" group-title="Canais Documentários ",Investigação Discovery FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104725.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104725.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Investigação Discovery HD" tvg-logo="http://159.69.8.18/logos/cdn/investigationdiscovery.png" group-title="Canais Documentários ",Investigação Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104726.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104726.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Investigação Discovery SD" tvg-logo="http://159.69.8.18/logos/cdn/investigationdiscovery.png" group-title="Canais Documentários ",Investigação Discovery SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104727.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104727.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="http://159.69.8.18/logos/cdn/discoverykids.png" group-title="Canais Infantis ",Discovery Kids FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104728.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104728.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://159.69.8.18/logos/cdn/discoverykids.png" group-title="Canais Infantis ",Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104729.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104729.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids SD" tvg-logo="http://159.69.8.18/logos/cdn/discoverykids.png" group-title="Canais Infantis ",Discovery Kids SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104730.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104730.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryscience.png" group-title="Canais Documentários ",Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104731.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104731.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryscience.png" group-title="Canais Documentários ",Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104732.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104732.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science SD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryscience.png" group-title="Canais Documentários ",Discovery Science SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104733.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104733.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD" tvg-logo="http://159.69.8.18/logos/cdn/discoverytheater.png" group-title="Canais Documentários ",Discovery Theater FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104734.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104734.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="http://159.69.8.18/logos/cdn/discoverytheater.png" group-title="Canais Documentários ",Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104735.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104735.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Theater SD" tvg-logo="http://159.69.8.18/logos/cdn/discoverytheater.png" group-title="Canais Documentários ",Discovery Theater SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104736.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104736.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryturbo.png" group-title="Canais Documentários ",Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104737.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104737.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryturbo.png" group-title="Canais Documentários ",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104738.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104738.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo SD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryturbo.png" group-title="Canais Documentários ",Discovery Turbo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104739.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104739.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryworld.png" group-title="Canais Documentários ",Discovery World FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104740.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104740.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryworld.png" group-title="Canais Documentários ",Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104741.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104741.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World SD" tvg-logo="http://159.69.8.18/logos/cdn/discoveryworld.png" group-title="Canais Documentários ",Discovery World SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104742.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104742.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD" tvg-logo="http://159.69.8.18/logos/cdn/disneychannel.png" group-title="Canais Infantis ",Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104743.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104743.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="http://159.69.8.18/logos/cdn/disneychannel.png" group-title="Canais Infantis ",Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104744.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104744.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD" tvg-logo="http://159.69.8.18/logos/cdn/disneychannel.png" group-title="Canais Infantis ",Disney Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104745.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104745.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD" tvg-logo="http://159.69.8.18/logos/cdn/disneyjunior.png" group-title="Canais Infantis ",Disney Junior FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104746.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104746.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="http://159.69.8.18/logos/cdn/disneyjunior.png" group-title="Canais Infantis ",Disney Junior HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104747.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104747.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior SD" tvg-logo="http://159.69.8.18/logos/cdn/disneyjunior.png" group-title="Canais Infantis ",Disney Junior SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104748.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104748.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="http://159.69.8.18/logos/cdn/e.png" group-title="Canais Variedades e Musicas ",E! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104749.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104749.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="http://159.69.8.18/logos/cdn/e.png" group-title="Canais Variedades e Musicas ",E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104750.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104750.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="http://159.69.8.18/logos/cdn/e.png" group-title="Canais  Esporte",E! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104751.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104751.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="http://159.69.8.18/logos/cdn/espn.png" group-title="Canais  Esporte",ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104752.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104752.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://159.69.8.18/logos/cdn/espn.png" group-title="Canais  Esporte",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104753.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104753.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="http://159.69.8.18/logos/cdn/espn.png" group-title="Canais  Esporte",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104754.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104754.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="http://159.69.8.18/logos/cdn/espn2.png" group-title="Canais  Esporte",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104755.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104755.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://159.69.8.18/logos/cdn/espn2.png" group-title="Canais  Esporte",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104756.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104756.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="http://159.69.8.18/logos/cdn/espn2.png" group-title="Canais  Esporte",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104757.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104757.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil FHD" tvg-logo="http://159.69.8.18/logos/cdn/espnbrasil.png" group-title="Canais  Esporte",ESPN Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104758.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104758.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="http://159.69.8.18/logos/cdn/espnbrasil.png" group-title="Canais  Esporte",ESPN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104759.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104759.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil SD" tvg-logo="http://159.69.8.18/logos/cdn/espnbrasil.png" group-title="Canais  Esporte",ESPN Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104760.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104760.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra FHD" tvg-logo="http://159.69.8.18/logos/cdn/espnextra.png" group-title="Canais  Esporte",ESPN Extra FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104761.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104761.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="http://159.69.8.18/logos/cdn/espnextra.png" group-title="Canais  Esporte",ESPN Extra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104762.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104762.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra SD" tvg-logo="http://159.69.8.18/logos/cdn/espnextra.png" group-title="Canais  Esporte",ESPN Extra SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104763.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104763.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fish TV FHD" tvg-logo="http://159.69.8.18/logos/cdn/fishtv.png" group-title="Canais  Esporte",Fish TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104764.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104764.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" tvg-logo="http://159.69.8.18/logos/cdn/fishtv.png" group-title="Canais  Esporte",Fish TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104765.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104765.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fish TV SD" tvg-logo="http://159.69.8.18/logos/cdn/fishtv.png" group-title="Canais  Esporte",Fish TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104766.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104766.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="http://159.69.8.18/logos/cdn/foodnetwork.png" group-title="Canais Variedades e Musicas ",Food Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104767.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104767.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="http://159.69.8.18/logos/cdn/foodnetwork.png" group-title="Canais Variedades e Musicas ",Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104768.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104768.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Network SD" tvg-logo="http://159.69.8.18/logos/cdn/foodnetwork.png" group-title="Canais Variedades e Musicas ",Food Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104769.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104769.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel FHD" tvg-logo="http://159.69.8.18/logos/cdn/starchannel.png" group-title="Canais Filmes e Séries ",Star Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104770.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104770.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="http://159.69.8.18/logos/cdn/starchannel.png" group-title="Canais Filmes e Séries ",Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104771.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104771.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel SD" tvg-logo="http://159.69.8.18/logos/cdn/starchannel.png" group-title="Canais Filmes e Séries ",Star Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104772.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104772.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Life FHD" tvg-logo="http://159.69.8.18/logos/cdn/starlife.png" group-title="Canais Variedades e Musicas ",Star Life FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104773.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104773.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="http://159.69.8.18/logos/cdn/starlife.png" group-title="Canais Variedades e Musicas ",Star Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104774.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104774.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Life SD" tvg-logo="http://159.69.8.18/logos/cdn/starlife.png" group-title="Canais Variedades e Musicas ",Star Life SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104775.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104775.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 1 FHD" tvg-logo="http://159.69.8.18/logos/cdn/starhits1.png" group-title="Canais Variedades e Musicas ",Star Hits 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104776.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 1 HD" tvg-logo="http://159.69.8.18/logos/cdn/starhits1.png" group-title="Canais Variedades e Musicas ",Star Hits 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104777.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104777.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 1 SD" tvg-logo="http://159.69.8.18/logos/cdn/starhits1.png" group-title="Canais Variedades e Musicas ",Star Hits 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104778.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104778.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 2 FHD" tvg-logo="http://159.69.8.18/logos/cdn/starhits2.png" group-title="Canais Variedades e Musicas ",Star Hits 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104779.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104779.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 2 HD" tvg-logo="http://159.69.8.18/logos/cdn/starhits2.png" group-title="Canais Variedades e Musicas ",Star Hits 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104780.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104780.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Hits 2 SD" tvg-logo="http://159.69.8.18/logos/cdn/starhits2.png" group-title="Canais Variedades e Musicas ",Star Hits 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104781.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104781.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports FHD" tvg-logo="http://159.69.8.18/logos/cdn/foxsports.png" group-title="Canais  Esporte",Fox Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104782.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104782.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://159.69.8.18/logos/cdn/foxsports.png" group-title="Canais  Esporte",Fox Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104783.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104783.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports SD" tvg-logo="http://159.69.8.18/logos/cdn/foxsports.png" group-title="Canais  Esporte",Fox Sports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104784.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104784.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD" tvg-logo="http://159.69.8.18/logos/cdn/foxsports2.png" group-title="Canais  Esporte",Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104785.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104785.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="http://159.69.8.18/logos/cdn/foxsports2.png" group-title="Canais  Esporte",Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104786.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104786.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="http://159.69.8.18/logos/cdn/foxsports2.png" group-title="Canais  Esporte",Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104787.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104787.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX FHD" tvg-logo="http://159.69.8.18/logos/cdn/fx.png" group-title="Canais Variedades e Musicas ",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104788.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104788.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://159.69.8.18/logos/cdn/fx.png" group-title="Canais Variedades e Musicas ",FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104789.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104789.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="http://159.69.8.18/logos/cdn/fx.png" group-title="Canais Variedades e Musicas ",FX SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104790.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104790.m3u8
 #EXTINF:-1 tvg-id="Adultos.br" tvg-name="HBO FHD" tvg-logo="http://159.69.8.18/logos/cdn/hbo.png" group-title="Canais HBO",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104791.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104791.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://159.69.8.18/logos/cdn/hbo.png" group-title="Canais HBO",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104792.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104792.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="http://159.69.8.18/logos/cdn/hbo.png" group-title="Canais HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104793.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104793.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo News FHD" tvg-logo="http://159.69.8.18/logos/cdn/globonews.png" group-title="Canais Noticias ",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104794.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104794.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="http://159.69.8.18/logos/cdn/globonews.png" group-title="Canais Noticias ",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104795.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104795.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo News SD" tvg-logo="http://159.69.8.18/logos/cdn/globonews.png" group-title="Canais Noticias ",Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104796.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104796.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="http://159.69.8.18/logos/cdn/hgtv.png" group-title="Canais Variedades e Musicas ",HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104797.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104797.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://159.69.8.18/logos/cdn/hgtv.png" group-title="Canais Variedades e Musicas ",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104798.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104798.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV SD" tvg-logo="http://159.69.8.18/logos/cdn/hgtv.png" group-title="Canais Variedades e Musicas ",HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104799.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104799.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History FHD" tvg-logo="http://159.69.8.18/logos/cdn/CanalHistoria.png" group-title="Canais Documentários ",History FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104800.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="http://159.69.8.18/logos/cdn/CanalHistoria.png" group-title="Canais Documentários ",History HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104801.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104801.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History SD" tvg-logo="http://159.69.8.18/logos/cdn/CanalHistoria.png" group-title="Canais Documentários ",History SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104802.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104802.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="H2 FHD" tvg-logo="http://159.69.8.18/logos/cdn/h2.png" group-title="Canais Documentários ",H2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104803.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104803.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://159.69.8.18/logos/cdn/h2.png" group-title="Canais Documentários ",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104804.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104804.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="http://159.69.8.18/logos/cdn/h2.png" group-title="Canais Documentários ",H2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104805.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104805.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD" tvg-logo="http://159.69.8.18/logos/cdn/Lifetime.png" group-title="Canais Variedades e Musicas ",Lifetime FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104806.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104806.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="http://159.69.8.18/logos/cdn/Lifetime.png" group-title="Canais Variedades e Musicas ",Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104807.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104807.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime SD" tvg-logo="http://159.69.8.18/logos/cdn/Lifetime.png" group-title="Canais Variedades e Musicas ",Lifetime SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104808.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104808.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="http://159.69.8.18/logos/cdn/mtv.png" group-title="Canais Variedades e Musicas ",MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104809.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104809.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://159.69.8.18/logos/cdn/mtv.png" group-title="Canais Variedades e Musicas ",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104810.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104810.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="http://159.69.8.18/logos/cdn/mtv.png" group-title="Canais Variedades e Musicas ",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104811.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104811.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="http://159.69.8.18/logos/cdn/SportTV1.png" group-title="Canais  Esporte",Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104812.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104812.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="http://159.69.8.18/logos/cdn/SportTV2.png" group-title="Canais  Esporte",Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104813.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104813.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="http://159.69.8.18/logos/cdn/SportTV3.png" group-title="Canais  Esporte",Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104814.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104814.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids FHD" tvg-logo="http://159.69.8.18/logos/cdn/natgeokids.png" group-title="Canais Infantis ",Nat Geo Kids FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104815.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104815.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids HD" tvg-logo="http://159.69.8.18/logos/cdn/natgeokids.png" group-title="Canais Infantis ",Nat Geo Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104816.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104816.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids SD" tvg-logo="http://159.69.8.18/logos/cdn/natgeokids.png" group-title="Canais Infantis ",Nat Geo Kids SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104817.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104817.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD" tvg-logo="http://159.69.8.18/logos/cdn/nationalgeographic.png" group-title="Canais Documentários ",National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104818.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104818.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="http://159.69.8.18/logos/cdn/nationalgeographic.png" group-title="Canais Documentários ",National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104819.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104819.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="http://159.69.8.18/logos/cdn/nationalgeographic.png" group-title="Canais Documentários ",National Geographic SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104820.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104820.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild FHD" tvg-logo="http://159.69.8.18/logos/cdn/nationalgeographicwild.png" group-title="Canais Documentários ",National Geographic Wild FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104821.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104821.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD" tvg-logo="http://159.69.8.18/logos/cdn/nationalgeographicwild.png" group-title="Canais Documentários ",National Geographic Wild HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104822.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104822.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild SD" tvg-logo="http://159.69.8.18/logos/cdn/nationalgeographicwild.png" group-title="Canais Documentários ",National Geographic Wild SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104823.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104823.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD" tvg-logo="http://159.69.8.18/logos/cdn/nickelodeon.png" group-title="Canais Infantis ",Nickelodeon FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104824.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104824.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="http://159.69.8.18/logos/cdn/nickelodeon.png" group-title="Canais Infantis ",Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104825.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104825.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="http://159.69.8.18/logos/cdn/nickelodeon.png" group-title="Canais Infantis ",Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104826.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104826.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr. FHD" tvg-logo="http://159.69.8.18/logos/cdn/nickjr.png" group-title="Canais Infantis ",Nick Jr. FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104827.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104827.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="http://159.69.8.18/logos/cdn/nickjr.png" group-title="Canais Infantis ",Nick Jr. HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104828.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104828.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr. SD" tvg-logo="http://159.69.8.18/logos/cdn/nickjr.png" group-title="Canais Infantis ",Nick Jr. SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104829.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104829.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network FHD" tvg-logo="http://159.69.8.18/logos/cdn/paramountchannel.png" group-title="Canais Filmes e Séries ",Paramount Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104830.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104830.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network HD" tvg-logo="http://159.69.8.18/logos/cdn/paramountchannel.png" group-title="Canais Filmes e Séries ",Paramount Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104831.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104831.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network SD" tvg-logo="http://159.69.8.18/logos/cdn/paramountchannel.png" group-title="Canais Filmes e Séries ",Paramount Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104832.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104832.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Channel FHD" tvg-logo="http://159.69.8.18/logos/cdn/sonychannel.png" group-title="Canais Sony",Sony Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104833.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104833.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="http://159.69.8.18/logos/cdn/sonychannel.png" group-title="Canais Sony",Sony Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104834.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104834.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Channel SD" tvg-logo="http://159.69.8.18/logos/cdn/sonychannel.png" group-title="Canais Sony",Sony Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104835.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104835.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space FHD" tvg-logo="http://159.69.8.18/logos/cdn/space.png" group-title="Canais Filmes e Séries ",Space FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104836.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104836.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://159.69.8.18/logos/cdn/space.png" group-title="Canais Filmes e Séries ",Space HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104837.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104837.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Space SD" tvg-logo="http://159.69.8.18/logos/cdn/space.png" group-title="Canais Filmes e Séries ",Space SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104838.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104838.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBS FHD" tvg-logo="http://159.69.8.18/logos/cdn/tbs.png" group-title="Canais Variedades e Musicas ",TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104839.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104839.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://159.69.8.18/logos/cdn/tbs.png" group-title="Canais Variedades e Musicas ",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104840.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104840.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="http://159.69.8.18/logos/cdn/tbs.png" group-title="Canais Variedades e Musicas ",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104841.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104841.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="http://159.69.8.18/logos/cdn/tlc.png" group-title="Canais Variedades e Musicas ",TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104842.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104842.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://159.69.8.18/logos/cdn/tlc.png" group-title="Canais Variedades e Musicas ",TLC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104843.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104843.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC SD" tvg-logo="http://159.69.8.18/logos/cdn/tlc.png" group-title="Canais Variedades e Musicas ",TLC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104844.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104844.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Séries FHD" tvg-logo="http://159.69.8.18/logos/cdn/tntseries.png" group-title="Canais Filmes e Séries ",TNT Séries FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104845.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104845.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Séries HD" tvg-logo="http://159.69.8.18/logos/cdn/tntseries.png" group-title="Canais Filmes e Séries ",TNT Séries HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104846.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Séries SD" tvg-logo="http://159.69.8.18/logos/cdn/tntseries.png" group-title="Canais Filmes e Séries ",TNT Séries SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104847.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104847.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="http://159.69.8.18/logos/cdn/SportTV4.png" group-title="Canais  Esporte",Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104848.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104848.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="http://159.69.8.18/logos/cdn/SportTV5.png" group-title="Canais  Esporte",Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104849.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104849.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV+" tvg-logo="http://159.69.8.18/logos/cdn/sportv.png" group-title="Canais  Esporte",Sport TV+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104850.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104850.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TruTV FHD" tvg-logo="http://159.69.8.18/logos/cdn/trutv.png" group-title="Canais Variedades e Musicas ",TruTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104851.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104851.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TruTV HD" tvg-logo="http://159.69.8.18/logos/cdn/trutv.png" group-title="Canais Variedades e Musicas ",TruTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104852.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104852.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TruTV SD" tvg-logo="http://159.69.8.18/logos/cdn/trutv.png" group-title="Canais Variedades e Musicas ",TruTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104853.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104853.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner FHD" tvg-logo="http://159.69.8.18/logos/cdn/warnerchannel.png" group-title="Canais Filmes e Séries ",Warner FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104854.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="http://159.69.8.18/logos/cdn/warnerchannel.png" group-title="Canais Filmes e Séries ",Warner HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104855.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104855.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner SD" tvg-logo="http://159.69.8.18/logos/cdn/warnerchannel.png" group-title="Canais Filmes e Séries ",Warner SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104856.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104856.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WooHoo FHD" tvg-logo="http://159.69.8.18/logos/cdn/woohoo.png" group-title="Canais Infantis ",WooHoo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104857.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104857.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WooHoo HD" tvg-logo="http://159.69.8.18/logos/cdn/woohoo.png" group-title="Canais Infantis ",WooHoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104858.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104858.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WooHoo SD" tvg-logo="http://159.69.8.18/logos/cdn/woohoo.png" group-title="Canais Infantis ",WooHoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104859.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104859.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RedeTV! FHD" tvg-logo="http://159.69.8.18/logos/cdn/redetv.png" group-title="Canais Aberto",RedeTV! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104860.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104860.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RedeTV! HD" tvg-logo="http://159.69.8.18/logos/cdn/redetv.png" group-title="Canais Aberto",RedeTV! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104861.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104861.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RedeTV! SD" tvg-logo="http://159.69.8.18/logos/cdn/redetv.png" group-title="Canais Aberto",RedeTV! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104862.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT FHD" tvg-logo="http://159.69.8.18/logos/cdn/sbt.png" group-title="Canais SBT",SBT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104863.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104863.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="http://159.69.8.18/logos/cdn/sbt.png" group-title="Canais SBT",SBT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104864.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104864.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="http://159.69.8.18/logos/cdn/sbt.png" group-title="Canais SBT",SBT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104865.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104865.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV FHD" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104866.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104866.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV HD" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104867.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV SD" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104868.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104868.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV SP HD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV SP HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104869.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104869.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV SP SD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV SP SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104870.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104870.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV SP LQ" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV SP LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104871.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104871.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Rio HD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Rio HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104872.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104872.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Rio SD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Rio SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104873.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104873.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Rio LQ" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Rio LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104874.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104874.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Minas HD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Minas HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104875.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Minas SD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Minas SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104876.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104876.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Minas LQ" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Minas LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104877.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104877.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV RS HD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV RS HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104878.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV RS SD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV RS SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104879.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104879.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV RS LQ" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV RS LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104880.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104880.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Itapon HD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Itapon HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104881.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104881.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Itapon SD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Itapon SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104882.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104882.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Itapon LQ" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Itapon LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104883.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104883.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Brasilia HD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Brasilia HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104884.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104884.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Brasilia SD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Brasilia SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104885.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104885.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Brasilia LQ" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Brasilia LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104886.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104886.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Goias HD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Goias HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104887.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104887.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Goias SD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Goias SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104888.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104888.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Goias LQ" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Goias LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104889.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104889.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Belém HD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Belém HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104890.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104890.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Belém SD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Belém SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104891.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104891.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Belém LQ" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Belém LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104892.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104892.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus HD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Manaus HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104893.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104893.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus SD2" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Manaus SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104894.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104894.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus LQ" tvg-logo="http://159.69.8.18/logos/cdn/record.png" group-title="Canais Record",Record TV Manaus LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104895.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104895.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 13 - Sinal 1 - HD2" tvg-logo="" group-title="",A Fazenda 13 - Sinal 1 - HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104896.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104896.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 13 - Sinal 1 - SD2" tvg-logo="" group-title="",A Fazenda 13 - Sinal 1 - SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104897.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104897.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 13 - Sinal 1 - LQ" tvg-logo="" group-title="",A Fazenda 13 - Sinal 1 - LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104898.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104898.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 13 - Sinal 2 - HD2" tvg-logo="" group-title="",A Fazenda 13 - Sinal 2 - HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104899.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104899.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 13 - Sinal 2 - SD2" tvg-logo="" group-title="",A Fazenda 13 - Sinal 2 - SD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104900.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 13 - Sinal 2 - LQ" tvg-logo="" group-title="",A Fazenda 13 - Sinal 2 - LQ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104901.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104901.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="﻿BIS FHD" tvg-logo="http://159.69.8.18/logos/cdn/Bis.png" group-title="Canais Variedades e Musicas ",﻿BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104902.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104902.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="http://159.69.8.18/logos/cdn/Bis.png" group-title="Canais Variedades e Musicas ",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104903.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104903.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="http://159.69.8.18/logos/cdn/Bis.png" group-title="Canais Variedades e Musicas ",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104904.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104904.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="http://159.69.8.18/logos/cdn/gnt.png" group-title="Canais Variedades e Musicas ",GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104905.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104905.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://159.69.8.18/logos/cdn/gnt.png" group-title="Canais Variedades e Musicas ",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104906.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104906.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD" tvg-logo="http://159.69.8.18/logos/cdn/gnt.png" group-title="Canais Variedades e Musicas ",GNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104907.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104907.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat FHD" tvg-logo="http://159.69.8.18/logos/cdn/globosat.png" group-title="Canais Globo",Mais GloboSat FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104908.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104908.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat HD" tvg-logo="http://159.69.8.18/logos/cdn/globosat.png" group-title="Canais Globo",Mais GloboSat HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104909.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104909.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat SD" tvg-logo="http://159.69.8.18/logos/cdn/globosat.png" group-title="Canais Globo",Mais GloboSat SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104910.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104910.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multishow FHD" tvg-logo="http://159.69.8.18/logos/cdn/Multishow.png" group-title="Canais Variedades e Musicas ",Multishow FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104911.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104911.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://159.69.8.18/logos/cdn/Multishow.png" group-title="Canais Variedades e Musicas ",Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104912.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104912.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multishow SD" tvg-logo="http://159.69.8.18/logos/cdn/Multishow.png" group-title="Canais Variedades e Musicas ",Multishow SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104913.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104913.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Off FHD" tvg-logo="http://159.69.8.18/logos/cdn/CanalOff.png" group-title="Canais Variedades e Musicas ",Off FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104914.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104914.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Off HD" tvg-logo="http://159.69.8.18/logos/cdn/CanalOff.png" group-title="Canais Variedades e Musicas ",Off HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104915.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Off SD" tvg-logo="http://159.69.8.18/logos/cdn/CanalOff.png" group-title="Canais Variedades e Musicas ",Off SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104916.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104916.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VH1 FHD" tvg-logo="http://159.69.8.18/logos/cdn/VH1.png" group-title="Canais Variedades e Musicas ",VH1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104917.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104917.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://159.69.8.18/logos/cdn/VH1.png" group-title="Canais Variedades e Musicas ",VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104918.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VH1 SD" tvg-logo="http://159.69.8.18/logos/cdn/VH1.png" group-title="Canais Variedades e Musicas ",VH1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104919.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104919.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viva FHD" tvg-logo="http://159.69.8.18/logos/cdn/Viva.png" group-title="Canais Variedades e Musicas ",Viva FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104920.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104920.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://159.69.8.18/logos/cdn/Viva.png" group-title="Canais Variedades e Musicas ",Viva HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104921.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104921.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viva SD" tvg-logo="http://159.69.8.18/logos/cdn/Viva.png" group-title="Canais Variedades e Musicas ",Viva SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104922.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="http://159.69.8.18/logos/cdn/AMC.png" group-title="Canais Filmes e Séries ",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104923.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104923.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://159.69.8.18/logos/cdn/AMC.png" group-title="Canais Filmes e Séries ",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104924.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104924.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="http://159.69.8.18/logos/cdn/AMC.png" group-title="Canais Filmes e Séries ",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104925.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil FHD" tvg-logo="http://159.69.8.18/logos/cdn/CanalBrasil.png" group-title="Canais Aberto",Canal Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104926.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104926.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="http://159.69.8.18/logos/cdn/CanalBrasil.png" group-title="Canais Aberto",Canal Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104927.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104927.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil SD" tvg-logo="http://159.69.8.18/logos/cdn/CanalBrasil.png" group-title="Canais Aberto",Canal Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104928.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Megapix FHD" tvg-logo="http://159.69.8.18/logos/cdn/Megapix.png" group-title="Canais Filmes e Séries ",Megapix FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104929.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104929.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://159.69.8.18/logos/cdn/Megapix.png" group-title="Canais Filmes e Séries ",Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104930.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104930.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Megapix SD" tvg-logo="http://159.69.8.18/logos/cdn/Megapix.png" group-title="Canais Filmes e Séries ",Megapix SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104931.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104931.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel FHD" tvg-logo="http://159.69.8.18/logos/cdn/smithsonianchannel.png" group-title="Canais Variedades e Musicas ",Smithsonian Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104932.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104932.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://159.69.8.18/logos/cdn/smithsonianchannel.png" group-title="Canais Variedades e Musicas ",Smithsonian Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104933.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104933.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel SD" tvg-logo="http://159.69.8.18/logos/cdn/smithsonianchannel.png" group-title="Canais Variedades e Musicas ",Smithsonian Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104934.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104934.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SyFy FHD" tvg-logo="http://159.69.8.18/logos/cdn/Syfy.png" group-title="Canais Filmes e Séries ",SyFy FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104935.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104935.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="http://159.69.8.18/logos/cdn/Syfy.png" group-title="Canais Filmes e Séries ",SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104936.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SyFy SD" tvg-logo="http://159.69.8.18/logos/cdn/Syfy.png" group-title="Canais Filmes e Séries ",SyFy SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104937.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104937.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal Studio FHD" tvg-logo="http://159.69.8.18/logos/cdn/StudioUniversal.png" group-title="Canais Filmes e Séries ",Universal Studio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104938.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104938.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal Studio HD" tvg-logo="http://159.69.8.18/logos/cdn/StudioUniversal.png" group-title="Canais Filmes e Séries ",Universal Studio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104939.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104939.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal Studio SD" tvg-logo="http://159.69.8.18/logos/cdn/StudioUniversal.png" group-title="Canais Filmes e Séries ",Universal Studio SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104940.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104940.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal TV FHD" tvg-logo="http://159.69.8.18/logos/cdn/UniversalTV.png" group-title="Canais Filmes e Séries ",Universal TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104941.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104941.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal TV HD" tvg-logo="http://159.69.8.18/logos/cdn/UniversalTV.png" group-title="Canais Filmes e Séries ",Universal TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104942.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104942.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal TV SD" tvg-logo="http://159.69.8.18/logos/cdn/UniversalTV.png" group-title="Canais Filmes e Séries ",Universal TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104943.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104943.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="http://159.69.8.18/logos/cdn/HBO2.png" group-title="Canais HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104944.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104944.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://159.69.8.18/logos/cdn/HBO2.png" group-title="Canais HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104945.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104945.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD" tvg-logo="http://159.69.8.18/logos/cdn/HBO2.png" group-title="Canais HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104946.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="http://159.69.8.18/logos/cdn/HBOFamily.png" group-title="Canais HBO",HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104947.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104947.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://159.69.8.18/logos/cdn/HBOFamily.png" group-title="Canais HBO",HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104948.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104948.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="http://159.69.8.18/logos/cdn/HBOFamily.png" group-title="Canais HBO",HBO Family SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104949.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104949.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Mundi FHD" tvg-logo="http://159.69.8.18/logos/cdn/HBOMundi.png" group-title="Canais HBO",HBO Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104950.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104950.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD" tvg-logo="http://159.69.8.18/logos/cdn/HBOMundi.png" group-title="Canais HBO",HBO Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104951.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104951.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Mundi SD" tvg-logo="http://159.69.8.18/logos/cdn/HBOMundi.png" group-title="Canais HBO",HBO Mundi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104952.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104952.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="http://159.69.8.18/logos/cdn/HBOPlus.png" group-title="Canais HBO",HBO Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104953.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104953.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://159.69.8.18/logos/cdn/HBOPlus.png" group-title="Canais HBO",HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104954.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104954.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Plus SD" tvg-logo="http://159.69.8.18/logos/cdn/HBOPlus.png" group-title="Canais HBO",HBO Plus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104955.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104955.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Pop FHD" tvg-logo="http://159.69.8.18/logos/cdn/HBOPop.png" group-title="Canais HBO",HBO Pop FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104956.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104956.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Pop HD" tvg-logo="http://159.69.8.18/logos/cdn/HBOPop.png" group-title="Canais HBO",HBO Pop HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104957.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104957.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Pop SD" tvg-logo="http://159.69.8.18/logos/cdn/HBOPop.png" group-title="Canais HBO",HBO Pop SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104958.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104958.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD" tvg-logo="http://159.69.8.18/logos/cdn/HBOSignature.png" group-title="Canais HBO",HBO Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104959.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104959.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://159.69.8.18/logos/cdn/HBOSignature.png" group-title="Canais HBO",HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104960.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104960.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="http://159.69.8.18/logos/cdn/HBOSignature.png" group-title="Canais HBO",HBO Signature SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104961.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104961.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme FHD" tvg-logo="http://159.69.8.18/logos/cdn/HBOXtreme.png" group-title="Canais HBO",HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104962.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104962.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="http://159.69.8.18/logos/cdn/HBOXtreme.png" group-title="Canais HBO",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104963.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104963.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme SD" tvg-logo="http://159.69.8.18/logos/cdn/HBOXtreme.png" group-title="Canais HBO",HBO Xtreme SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104964.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104964.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Cult FHD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineCult.png" group-title="Canais Telecine",Telecine Cult FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104965.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104965.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineCult.png" group-title="Canais Telecine",Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104966.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104966.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineCult.png" group-title="Canais Telecine",Telecine Cult SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104967.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104967.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Fun FHD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineFun.png" group-title="Canais Telecine",Telecine Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104968.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104968.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineFun.png" group-title="Canais Telecine",Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104969.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104969.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineFun.png" group-title="Canais Telecine",Telecine Fun SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104970.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104970.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD" tvg-logo="http://159.69.8.18/logos/cdn/TelecinePipoca.png" group-title="Canais Telecine",Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104971.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104971.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="http://159.69.8.18/logos/cdn/TelecinePipoca.png" group-title="Canais Telecine",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104972.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104972.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo="http://159.69.8.18/logos/cdn/TelecinePipoca.png" group-title="Canais Telecine",Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104973.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104973.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD" tvg-logo="http://159.69.8.18/logos/cdn/TelecinePremium.png" group-title="Canais Telecine",Telecine Premium FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104974.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104974.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://159.69.8.18/logos/cdn/TelecinePremium.png" group-title="Canais Telecine",Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104975.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104975.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo="http://159.69.8.18/logos/cdn/TelecinePremium.png" group-title="Canais Telecine",Telecine Premium SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104976.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104976.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineTouch.png" group-title="Canais Telecine",Telecine Touch FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104977.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104977.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineTouch.png" group-title="Canais Telecine",Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104978.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104978.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineTouch.png" group-title="Canais Telecine",Telecine Touch SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104979.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104979.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="" group-title="Canais Sky",Cine SKY 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104980.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104980.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02" tvg-logo="" group-title="Canais Sky",Cine SKY 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104981.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104981.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03" tvg-logo="" group-title="Canais Sky",Cine SKY 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104982.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104982.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04" tvg-logo="" group-title="Canais Sky",Cine SKY 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104983.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104983.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05" tvg-logo="" group-title="Canais Sky",Cine SKY 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104984.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104984.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06" tvg-logo="" group-title="Canais Sky",Cine SKY 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104985.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104985.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 07" tvg-logo="" group-title="Canais Sky",Cine SKY 07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104986.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104986.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 08" tvg-logo="" group-title="Canais Sky",Cine SKY 08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104987.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104987.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 09" tvg-logo="" group-title="Canais Sky",Cine SKY 09
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104988.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104988.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 10" tvg-logo="" group-title="Canais Sky",Cine SKY 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104989.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104989.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Combate FHD" tvg-logo="http://159.69.8.18/logos/cdn/Combate.png" group-title="Canais  Esporte",Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104990.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104990.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://159.69.8.18/logos/cdn/Combate.png" group-title="Canais  Esporte",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104991.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104991.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Combate SD" tvg-logo="http://159.69.8.18/logos/cdn/Combate.png" group-title="Canais  Esporte",Combate SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104992.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104992.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="http://159.69.8.18/logos/cdn/sportv.png" group-title="Canais  Esporte",SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104993.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104993.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="http://159.69.8.18/logos/cdn/sportv.png" group-title="Canais  Esporte",SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104994.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104994.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV SD" tvg-logo="http://159.69.8.18/logos/cdn/sportv.png" group-title="Canais  Esporte",SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104995.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104995.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 2 FHD" tvg-logo="http://159.69.8.18/logos/cdn/SportTV2.png" group-title="Canais  Esporte",SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104996.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104996.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="http://159.69.8.18/logos/cdn/SportTV2.png" group-title="Canais  Esporte",SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104997.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104997.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 2 SD" tvg-logo="http://159.69.8.18/logos/cdn/SportTV2.png" group-title="Canais  Esporte",SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104998.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104998.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 3 FHD" tvg-logo="http://159.69.8.18/logos/cdn/SportTV3.png" group-title="Canais  Esporte",SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104999.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/104999.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="http://159.69.8.18/logos/cdn/SportTV3.png" group-title="Canais  Esporte",SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105000.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 3 SD" tvg-logo="http://159.69.8.18/logos/cdn/SportTV3.png" group-title="Canais  Esporte",SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105001.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BabyTV FHD" tvg-logo="http://159.69.8.18/logos/cdn/BabyTV.png" group-title="Canais Infantis ",BabyTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105002.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105002.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BabyTV HD" tvg-logo="http://159.69.8.18/logos/cdn/BabyTV.png" group-title="Canais Infantis ",BabyTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105003.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105003.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BabyTV SD" tvg-logo="http://159.69.8.18/logos/cdn/BabyTV.png" group-title="Canais Infantis ",BabyTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105004.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD FHD" tvg-logo="http://159.69.8.18/logos/cdn/DisneyXD.png" group-title="Canais Infantis ",Disney XD FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105005.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105005.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="http://159.69.8.18/logos/cdn/DisneyXD.png" group-title="Canais Infantis ",Disney XD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105006.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD SD" tvg-logo="http://159.69.8.18/logos/cdn/DisneyXD.png" group-title="Canais Infantis ",Disney XD SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105007.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="http://159.69.8.18/logos/cdn/Gloob.png" group-title="Canais Infantis ",Gloob FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105008.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105008.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://159.69.8.18/logos/cdn/Gloob.png" group-title="Canais Infantis ",Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105009.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105009.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gloob SD" tvg-logo="http://159.69.8.18/logos/cdn/Gloob.png" group-title="Canais Infantis ",Gloob SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105010.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105010.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gloobinho FHD" tvg-logo="http://159.69.8.18/logos/cdn/Gloobinho.png" group-title="Canais Infantis ",Gloobinho FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105011.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105011.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="http://159.69.8.18/logos/cdn/Gloobinho.png" group-title="Canais Infantis ",Gloobinho HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105012.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105012.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gloobinho SD" tvg-logo="http://159.69.8.18/logos/cdn/Gloobinho.png" group-title="Canais Infantis ",Gloobinho SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105013.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105013.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zoomoo FHD" tvg-logo="http://159.69.8.18/logos/cdn/ZooMoo.png" group-title="Canais Infantis ",Zoomoo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105014.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105014.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zoomoo HD" tvg-logo="http://159.69.8.18/logos/cdn/ZooMoo.png" group-title="Canais Infantis ",Zoomoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105015.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105015.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zoomoo SD" tvg-logo="http://159.69.8.18/logos/cdn/ZooMoo.png" group-title="Canais Infantis ",Zoomoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105016.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105016.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News FHD" tvg-logo="" group-title="Canais Noticias ",Jovem Pan News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105017.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105017.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD" tvg-logo="" group-title="Canais Noticias ",Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105018.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105018.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News SD" tvg-logo="" group-title="Canais Noticias ",Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105019.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105019.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Diário FHD" tvg-logo="" group-title="Canais Aberto",TV Diário FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105020.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105020.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Diário HD" tvg-logo="" group-title="Canais Aberto",TV Diário HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105021.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105021.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Diário SD" tvg-logo="" group-title="Canais Aberto",TV Diário SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105022.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105022.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="http://159.69.8.18/logos/cdn/starz.png" group-title="Canais Filmes e Séries ",STAR+ 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105023.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105023.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="http://159.69.8.18/logos/cdn/starz.png" group-title="Canais Filmes e Séries ",STAR+ 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105024.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105024.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="http://159.69.8.18/logos/cdn/starz.png" group-title="Canais Filmes e Séries ",STAR+ 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105025.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105025.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Futura FHD" tvg-logo="http://159.69.8.18/logos/cdn/Futura.png" group-title="Canais Aberto",Futura FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105026.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Futura HD" tvg-logo="http://159.69.8.18/logos/cdn/Futura.png" group-title="Canais Aberto",Futura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105027.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105027.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="http://159.69.8.18/logos/cdn/Futura.png" group-title="Canais Aberto",Futura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105028.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105028.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://159.69.8.18/logos/cdn/DAZN.png" group-title="Canais  Esporte",DAZN 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105029.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://159.69.8.18/logos/cdn/DAZN.png" group-title="Canais  Esporte",DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105030.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105030.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://159.69.8.18/logos/cdn/DAZN.png" group-title="Canais  Esporte",DAZN 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105031.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105031.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://159.69.8.18/logos/cdn/DAZN.png" group-title="Canais  Esporte",DAZN 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105032.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD" tvg-logo="" group-title="Canais  Esporte",Conmebol TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105033.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105033.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD" tvg-logo="" group-title="Canais  Esporte",Conmebol TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105034.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 SD" tvg-logo="" group-title="Canais  Esporte",Conmebol TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105035.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105035.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 FHD" tvg-logo="" group-title="Canais  Esporte",Conmebol TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105036.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105036.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 HD" tvg-logo="" group-title="Canais  Esporte",Conmebol TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105037.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105037.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 SD" tvg-logo="" group-title="Canais  Esporte",Conmebol TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105038.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105038.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 FHD" tvg-logo="" group-title="Canais  Esporte",Conmebol TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105039.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105039.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 HD" tvg-logo="" group-title="Canais  Esporte",Conmebol TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105040.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105040.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 SD" tvg-logo="" group-title="Canais  Esporte",Conmebol TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105041.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105041.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast FHD" tvg-logo="http://159.69.8.18/logos/cdn/Tooncast.png" group-title="Canais Infantis ",Tooncast FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105042.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105042.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="http://159.69.8.18/logos/cdn/Tooncast.png" group-title="Canais Infantis ",Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105043.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105043.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="http://159.69.8.18/logos/cdn/Tooncast.png" group-title="Canais Infantis ",Tooncast SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105044.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105044.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="http://159.69.8.18/logos/cdn/tnt.png" group-title="Canais Filmes e Séries ",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105045.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105045.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://159.69.8.18/logos/cdn/tnt.png" group-title="Canais Filmes e Séries ",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105046.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105046.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="http://159.69.8.18/logos/cdn/tnt.png" group-title="Canais Filmes e Séries ",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105047.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105047.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineAction.png" group-title="Canais Telecine",Telecine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105048.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105048.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineAction.png" group-title="Canais Telecine",Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105049.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105049.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo="http://159.69.8.18/logos/cdn/TelecineAction.png" group-title="Canais Telecine",Telecine Action SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105050.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105050.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 01 HD" tvg-logo="http://159.69.8.18/logos/cdn/tntsports.png" group-title="Canais  Esporte",TNT Sports 01 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105051.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105051.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 01 SD" tvg-logo="http://159.69.8.18/logos/cdn/tntsports.png" group-title="Canais  Esporte",TNT Sports 01 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105052.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105052.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 01 SD3" tvg-logo="http://159.69.8.18/logos/cdn/tntsports.png" group-title="Canais  Esporte",TNT Sports 01 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105053.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105053.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 02 HD" tvg-logo="http://159.69.8.18/logos/cdn/tntsports.png" group-title="Canais  Esporte",TNT Sports 02 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105054.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105054.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 02 SD" tvg-logo="http://159.69.8.18/logos/cdn/tntsports.png" group-title="Canais  Esporte",TNT Sports 02 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105055.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105055.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 02 SD3" tvg-logo="http://159.69.8.18/logos/cdn/tntsports.png" group-title="Canais  Esporte",TNT Sports 02 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105056.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105056.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 03 HD" tvg-logo="http://159.69.8.18/logos/cdn/tntsports.png" group-title="Canais  Esporte",TNT Sports 03 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105057.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105057.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 03 SD" tvg-logo="http://159.69.8.18/logos/cdn/tntsports.png" group-title="Canais  Esporte",TNT Sports 03 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105058.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 03 SD3" tvg-logo="http://159.69.8.18/logos/cdn/tntsports.png" group-title="Canais  Esporte",TNT Sports 03 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105059.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105059.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105066.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105066.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Campinas HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105067.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Campinas SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105068.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105068.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Ribeirão HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105069.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105069.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Ribeirão HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105070.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105070.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Ribeirão SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105071.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105071.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Alto Litoral HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105072.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Alto Litoral HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105073.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105073.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Alto Litoral SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105074.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105074.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Cabugi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105075.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105075.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Cabugi HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105076.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105076.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Cabugi SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105077.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105077.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105078.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105078.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV dos Vales HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105079.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105079.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV dos Vales SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105080.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105081.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105081.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Grande Minas HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105082.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105082.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Grande Minas SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105083.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105083.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105084.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105084.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Serra Mar HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105085.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105085.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Serra Mar SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105086.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105086.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",RBS TV Florianópolis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105087.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105087.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",RBS TV Florianópolis HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105088.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105088.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",RBS TV Florianópolis SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105089.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105089.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",RBS TV Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105090.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105090.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",RBS TV Porto Alegre HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105091.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105091.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",RBS TV Porto Alegre SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105092.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105092.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Boa Vista HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105093.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105093.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Boa Vista HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105094.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105094.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Boa Vista SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105095.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105095.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Macapá HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105096.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105096.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Macapá HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105097.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105097.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Macapá SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105098.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105098.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105099.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105099.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Manaus HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105100.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Manaus SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105101.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Porto Velho HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105102.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Porto Velho HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105103.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105103.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Porto Velho SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105104.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105104.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Rio Branco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105105.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Rio Branco HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105106.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105106.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Rede Amazônica Rio Branco SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105107.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",RPC Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105108.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",RPC Curitiba HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105109.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",RPC Curitiba SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105110.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Anhanguera Goiânia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105111.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105111.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Anhanguera Goiânia HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105112.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105112.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Anhanguera Goiânia SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105113.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105113.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Bahia HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105114.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Bahia HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Bahia HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105115.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Bahia SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Bahia SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105116.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105116.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Fronteira HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Fronteira HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105117.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105117.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Fronteira HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Fronteira HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105118.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105118.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Fronteira SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Fronteira SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105119.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Aberto",TV Gazeta HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105120.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105120.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Aberto",TV Gazeta HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105121.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Aberto",TV Gazeta SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105122.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105122.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Brasília HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo Brasília HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105123.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105123.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Brasília HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo Brasília HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105124.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105124.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Brasília SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo Brasília SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105125.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105125.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Minas HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105126.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Minas HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo Minas HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105127.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105127.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Minas SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo Minas SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105128.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Nordeste HD" tvg-logo="http://159.69.8.18/logos/cdn/GloboNordeste.png" group-title="Canais Globo",TV Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105129.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105129.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Nordeste HD2" tvg-logo="http://159.69.8.18/logos/cdn/GloboNordeste.png" group-title="Canais Globo",TV Globo Nordeste HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105130.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105130.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Nordeste SD3" tvg-logo="http://159.69.8.18/logos/cdn/GloboNordeste.png" group-title="Canais Globo",TV Globo Nordeste SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105131.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105131.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Rio HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105132.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105132.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Rio HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo Rio HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105133.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105133.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Rio SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo Rio SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105134.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105134.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo São Paulo HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105135.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105135.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo São Paulo HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo São Paulo HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105136.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105136.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo São Paulo SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Globo São Paulo SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105137.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105137.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Integração Uberlândia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105138.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105138.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Integração Uberlândia HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105139.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105139.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Integração Uberlândia SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105140.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Liberal Belém HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105141.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105141.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Liberal Belém HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105142.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105142.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Liberal Belém SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105143.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105143.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Mirante Cocais HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105144.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105144.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Mirante Cocais HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105145.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Mirante Cocais SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105146.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Mirante Imperatriz HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105147.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105147.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Mirante Imperatriz HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105148.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105148.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Mirante Imperatriz SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105149.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105149.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luiz HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Mirante São Luiz HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105150.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105150.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luiz HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Mirante São Luiz HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105151.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105151.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luiz SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Mirante São Luiz SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105152.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105152.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Morena Campo Grande HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105153.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105153.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Morena Campo Grande HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105154.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Morena Campo Grande SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105155.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM Bauru HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105156.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105156.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM Bauru HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105157.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105157.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM Bauru SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105158.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM Itapetininga HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105159.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105159.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM Itapetininga HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105160.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105160.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM Itapetininga SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105161.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105161.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM São José do Rio Preto HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105162.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105162.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM São José do Rio Preto HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105163.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105163.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM São José do Rio Preto SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105164.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105164.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM Sorocaba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105165.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM Sorocaba HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105166.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105166.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV TEM Sorocaba SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105167.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105167.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Tribuna HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Aberto",TV Tribuna HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105168.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105168.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Tribuna HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Aberto",TV Tribuna HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105169.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105169.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Tribuna SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Aberto",TV Tribuna SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105170.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105170.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Verdes Mares Cariri HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105171.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Verdes Mares Cariri HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105172.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105172.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Verdes Mares Cariri SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105173.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105173.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Verdes Mares Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105174.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105174.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Verdes Mares Fortaleza HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105175.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105175.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Verdes Mares Fortaleza SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105176.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105176.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Vanguarda São José dos Campos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105177.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105177.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Vanguarda São José dos Campos HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105178.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105178.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Vanguarda São José dos Campos SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105179.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105179.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Vanguarda Taubaté HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105180.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105180.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Vanguarda Taubaté HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105181.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105181.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Vanguarda Taubaté SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105182.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105182.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105183.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105183.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Sul de Minas HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105184.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105184.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Sul de Minas SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105185.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105185.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Planície HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105186.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105186.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Planície HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105187.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105187.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",Inter TV Planície SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105188.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105188.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Central HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105189.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105189.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Central HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Central HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105190.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105190.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPTV Central SD3" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",EPTV Central SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105191.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105191.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá HD" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Centro-américa Cuiabá HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105192.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105192.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá HD2" tvg-logo="http://159.69.8.18/logos/cdn/globo.png" group-title="Canais Globo",TV Centro-américa Cuiabá HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105193.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105193.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá SD3" tvg-logo="http://159.69.8.18/logos/cdn/Globo.png" group-title="Canais Globo",TV Centro-américa Cuiabá SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105194.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105194.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="﻿Premiere 1 FHD" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",﻿Premiere 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105195.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD +kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 1 HD +kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105196.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105196.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD -kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 1 HD -kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105197.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105197.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD2" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 1 HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105198.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105198.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 1 SD3" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 1 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105199.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105199.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 1 512x288" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 1 512x288
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105200.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 1 384x216" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 1 384x216
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105201.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105201.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 1 256x144" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 1 256x144
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105202.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105202.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105203.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105203.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD +kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 2 HD +kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105204.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105204.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD -kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 2 HD -kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105205.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105205.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD2" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 2 HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105206.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105206.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD3" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 2 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105207.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 512x288" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 2 512x288
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105208.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105208.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 384x216" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 2 384x216
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105209.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105209.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2 256x144" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 2 256x144
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105210.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105210.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105211.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105211.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD +kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 3 HD +kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105212.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105212.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD -kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 3 HD -kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105213.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105213.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD2" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 3 HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105214.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD3" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 3 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105215.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105215.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 512x288" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 3 512x288
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105216.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105216.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 384x216" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 3 384x216
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105217.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105217.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 256x144" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 3 256x144
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105218.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105218.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105219.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105219.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD +kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 4 HD +kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105220.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105220.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD -kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 4 HD -kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105221.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105221.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD2" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 4 HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105222.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105222.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD3" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 4 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105223.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105223.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4 512x288" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 4 512x288
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105224.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105224.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4 384x216" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 4 384x216
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105225.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105225.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4 256x144" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 4 256x144
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105226.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105226.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105227.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD +kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 5 HD +kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105228.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105228.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD -kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 5 HD -kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105229.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105229.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD2" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 5 HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105230.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105230.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD3" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 5 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105231.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105231.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 5 512x288" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 5 512x288
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105232.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105232.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 5 384x216" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 5 384x216
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105233.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105233.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 5 256x144" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 5 256x144
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105234.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105234.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105235.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105235.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD +kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 6 HD +kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105236.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105236.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD -kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 6 HD -kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105237.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105237.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD2" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 6 HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105238.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105238.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD3" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 6 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105239.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105239.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 512x288" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 6 512x288
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105240.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105240.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 384x216" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 6 384x216
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105241.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105241.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6 256x144" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 6 256x144
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105242.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105242.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105243.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105243.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD +kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 7 HD +kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105244.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105244.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD -kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 7 HD -kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105245.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105245.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD2" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 7 HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105246.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105246.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD3" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 7 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105247.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 512x288" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 7 512x288
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105248.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105248.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 384x216" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 7 384x216
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105249.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105249.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 256x144" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 7 256x144
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105250.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105250.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 8 FHD" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105251.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD +kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 8 HD +kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105252.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105252.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD -kbps" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 8 HD -kbps
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105253.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105253.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD2" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 8 HD2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105254.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105254.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD3" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 8 SD3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105255.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105255.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 8 512x288" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 8 512x288
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105256.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105256.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 8 384x216" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 8 384x216
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105257.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 8 256x144" tvg-logo="http://159.69.8.18/logos/cdn/premiere.png" group-title="Canais Premiere",Premiere 8 256x144
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105258.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105258.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Apenas um Show" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Apenas um Show
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105259.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105259.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Bob Esponja" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Bob Esponja
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105260.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105260.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Chaves" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Chaves
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105261.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105261.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Eu a patroa e as crianças" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Eu a patroa e as crianças
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105262.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105262.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Largados e Pelados" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Largados e Pelados
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105263.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105263.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H O Incrivel Mundo de Gumball" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H O Incrivel Mundo de Gumball
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105264.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105264.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Os Simpsons" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Os Simpsons
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105265.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105265.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Todo Mundo Odeia o Chris" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Todo Mundo Odeia o Chris
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105266.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105266.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Big Mouth" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Big Mouth
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105267.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105267.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Coragem o Cão Covarde" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Coragem o Cão Covarde
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105268.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105268.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Futurama" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Futurama
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105269.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105269.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Rick e Morty" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Rick e Morty
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105270.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Hora de Aventura" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Hora de Aventura
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105271.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105271.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Os Jovens Titãs em Ação" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Os Jovens Titãs em Ação
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105272.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105272.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Bobs Burger" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Bobs Burger
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105273.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105273.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Pocoyo" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Pocoyo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105274.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/105274.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Pantena Cor de Rosa" tvg-logo="http://159.69.8.18/logos/cdn/24h.png" group-title="Cortesia 24 Horas",24H Pantena Cor de Rosa
 #EXTINF:-1 tvg-id="" tvg-name="Canal Mais Tv" tvg-logo="" group-title="",Canal Mais Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&bufferr=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/106892.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&buffer=5&url=http://cdn.canais.cc:80/live/55115045/cliente@5045/106892.m3u8
