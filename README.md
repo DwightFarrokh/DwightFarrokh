@@ -1413,1573 +1413,2051 @@ http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 - CAM 2" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/66220|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 - CAM 3" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/66221|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 - CAM 5" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/66223|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BBB 22 - CAM 1" tvg-logo="https://www.anf.org.br/wp-content/uploads/2020/02/rede-bbb.png" group-title="REALITY SHOW",BBB 22 - CAM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/66224|User-Agent=MXPlayer
+
+
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3426|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E 4K" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3311|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3427|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL - Difusora AM 960" tvg-logo="" group-title="RADIOS",AL - Difusora AM 960
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57661|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL - Gazeta AM 1260" tvg-logo="" group-title="RADIOS",AL - Gazeta AM 1260
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57662|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://floriu.com/imagem/amc.png" group-title="FILMES E SERIES",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3430|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC 4K" tvg-logo="http://floriu.com/imagem/amc.png" group-title="FILMES E SERIES",AMC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3312|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://floriu.com/imagem/amc.png" group-title="FILMES E SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3431|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet" tvg-logo="http://floriu.com/imagem/animalplanet.png" group-title="DOCUMENTARIO",Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3432|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://floriu.com/imagem/animalplanet.png" group-title="DOCUMENTARIO",ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3313|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://floriu.com/imagem/animalplanet.png" group-title="DOCUMENTARIO",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3433|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1" tvg-logo="http://floriu.com/imagem/arte1.png" group-title="FILMES E SERIES",ARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3435|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 4k" tvg-logo="http://floriu.com/imagem/arte1.png" group-title="FILMES E SERIES",ARTE 1 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/7079|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://floriu.com/imagem/arte1.png" group-title="FILMES E SERIES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3434|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3428|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6748|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K ( LEGENDADOS)" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN 4K ( LEGENDADOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/52100|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/7135|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BA - CBN FM 100.7" tvg-logo="" group-title="RADIOS",BA - CBN FM 100.7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57678|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV" tvg-logo="http://floriu.com/imagem/BabyTV.png" group-title="INFANTIS",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3441|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="http://floriu.com/imagem/BabyTV.png" group-title="INFANTIS",BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6751|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND CAMPINAS 4K" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND CAMPINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57685|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND CAMPINAS HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57686|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Band Curitiba HD" tvg-name="BAND CURITIBA HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57687|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Band Curitiba" tvg-name="BAND CURITIBA HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57688|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="BandTVGoianiaHD.br" tvg-name="BAND GOIANIA" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND GOIANIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57689|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Band TV Goiânia HD" tvg-name="BAND GOIANIA SD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND GOIANIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57690|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="BAND MINAS 4K" tvg-logo="http://floriu.com/imagem/SBT.png" group-title="CANAIS ABERTOS",BAND MINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58444|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="BAND MINAS HD" tvg-logo="http://floriu.com/imagem/SBT.png" group-title="CANAIS ABERTOS",BAND MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58443|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="http://floriu.com/imagem/bandnews.png" group-title="NOTICIAS",Band News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3442|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS 4K" tvg-logo="http://floriu.com/imagem/bandnews.png" group-title="NOTICIAS",BAND NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3316|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/bandnews.png" group-title="NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3443|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Band RJ HD" tvg-name="Band RJ" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",Band RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57693|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Band RJ HD" tvg-name="Band RJ HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",Band RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57694|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3723|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/band.png" group-title="CANAIS ABERTOS",BAND SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3317|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3448|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS 4K" tvg-logo="http://floriu.com/imagem/bandsports.png" group-title="ESPORTE",BAND SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57697|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://floriu.com/imagem/bandsports.png" group-title="ESPORTE",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3445|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/BandSports.png" group-title="ESPORTE",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3444|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Bandeirantes" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",Bandeirantes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57701|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="http://floriu.com/imagem/bis.png" group-title="MUSICAS E VARIEDADE",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3439|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="http://floriu.com/imagem/bis.png" group-title="MUSICAS E VARIEDADE",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3438|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/boomerang2.jpg" group-title="INFANTIS",BOOMERANG 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3318|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/boomerang2.jpg" group-title="INFANTIS",BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3437|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://floriu.com/imagem/Bloomberg.png" group-title="INFANTIS",BOOMERANG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3436|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo.png" group-title="MUSICAS E VARIEDADE",CANAL BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/26961|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo.png" group-title="MUSICAS E VARIEDADE",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/26962|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-do-boi_m.png" group-title="CANAIS ABERTOS",CANAL DO BOI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57727|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY 4K" tvg-logo="http://floriu.com/imagem/SONY.png" group-title="FILMES E SERIES",CANAL SONY 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3380|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://floriu.com/imagem/SONY.png" group-title="FILMES E SERIES",CANAL SONY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3697|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="http://floriu.com/imagem/SONY.png" group-title="FILMES E SERIES",CANAL SONY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3698|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="http://floriu.com/imagem/cancaonova.png" group-title="RELIGIOSOS",CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6439|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://floriu.com/imagem/cancaonova.png" group-title="RELIGIOSOS",CANÇÃO NOVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57730|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3319|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3694|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS",CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3695|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV FHD" tvg-logo="https://www.cheftv.com.br/wp-content/uploads/2020/08/logotipo.png" group-title="DOCUMENTARIO",CHEF TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57741|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV HD" tvg-logo="https://www.cheftv.com.br/wp-content/uploads/2020/08/logotipo.png" group-title="DOCUMENTARIO",CHEF TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57742|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 01" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",CINE PIPOCA 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57743|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 3" tvg-logo="floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/19384|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 4" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23760|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Cine Pipoca 5" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/19386|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 6" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/19387|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX 4K" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3320|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3692|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3693|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil 4K" tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS",CNN Brasil 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/52074|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil HD" tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS",CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/11247|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil SD" tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS",CNN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/11246|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Espanhol" tvg-logo="https://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_cnnenespanol1997.jpg" group-title="NOTICIAS",CNN Espanhol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57753|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional" tvg-logo="https://cdn.mitvstatic.com/channels/br_cnn-international-hd_m.png" group-title="NOTICIAS",CNN Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57754|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE",COMBATE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3688|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE 4K" tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE",COMBATE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3321|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3687|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL" tvg-logo="http://floriu.com/imagem/comedy.png" group-title="MUSICAS E VARIEDADE",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3686|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://floriu.com/imagem/comedy.png" group-title="MUSICAS E VARIEDADE",COMEDY CENTRAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3322|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://floriu.com/imagem/comedy.png" group-title="MUSICAS E VARIEDADE",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3685|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="CULTURA HD" tvg-logo="http://floriu.com/imagem/cultura.png" group-title="CANAIS ABERTOS",CULTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3779|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA" tvg-logo="http://floriu.com/imagem/CURTA.png" group-title="MUSICAS E VARIEDADE",CURTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6453|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA HD" tvg-logo="http://floriu.com/imagem/CURTA.png" group-title="MUSICAS E VARIEDADE",CURTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6452|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://floriu.com/imagem/dazn.png" group-title="ESPORTE",DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57782|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://floriu.com/imagem/dazn.png" group-title="ESPORTE",DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57783|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://floriu.com/imagem/dazn.png" group-title="ESPORTE",DAZN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57784|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BR" tvg-logo="http://floriu.com/imagem/dazn.png" group-title="ESPORTE",DAZN BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57785|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Hunter 80s" tvg-logo="" group-title="RADIOS",DF - Hunter 80s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57789|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - HUNTER FM 102.7" tvg-logo="" group-title="RADIOS",DF - HUNTER FM 102.7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57790|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Hunter Fresh" tvg-logo="" group-title="RADIOS",DF - Hunter Fresh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57791|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Hunter Gospel" tvg-logo="" group-title="RADIOS",DF - Hunter Gospel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57792|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Hunter LO-FI" tvg-logo="" group-title="RADIOS",DF - Hunter LO-FI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57793|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Hunter Pisadinha" tvg-logo="" group-title="RADIOS",DF - Hunter Pisadinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57794|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Hunter POP2KS" tvg-logo="" group-title="RADIOS",DF - Hunter POP2KS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57795|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Hunter Rock" tvg-logo="" group-title="RADIOS",DF - Hunter Rock
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57796|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Hunter Sertanejo" tvg-logo="" group-title="RADIOS",DF - Hunter Sertanejo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57797|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Hunter Tropical" tvg-logo="" group-title="RADIOS",DF - Hunter Tropical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57798|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Joven Pan FM 106.3" tvg-logo="" group-title="RADIOS",DF - Joven Pan FM 106.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57799|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Kiss FM 102.3" tvg-logo="" group-title="RADIOS",DF - Kiss FM 102.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57800|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DF - Transamerica FM 100.1" tvg-logo="" group-title="RADIOS",DF - Transamerica FM 100.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57801|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://floriu.com/imagem/DISCOVERYCHANNEL.png" group-title="DOCUMENTARIO",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3683|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://floriu.com/imagem/DISCOVERYCHANNEL.png" group-title="DOCUMENTARIO",DISCOVERY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6008|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://floriu.com/imagem/DISCOVERYCHANNEL.png" group-title="DOCUMENTARIO",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3682|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://floriu.com/imagem/DISCOVERYHOMEEH.png" group-title="DOCUMENTARIO",DISCOVERY HOME & HEALTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3726|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH 4K" tvg-logo="http://floriu.com/imagem/DISCOVERYHOMEEH.png" group-title="DOCUMENTARIO",DISCOVERY HOME & HEALTH 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3326|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://floriu.com/imagem/DISCOVERYHOMEEH.png" group-title="DOCUMENTARIO",DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3781|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="http://floriu.com/imagem/DiscoveryKids.png" group-title="INFANTIS",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3678|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://floriu.com/imagem/DiscoveryKids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3327|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://floriu.com/imagem/DiscoveryKids.png" group-title="INFANTIS",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3677|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="DOCUMENTARIO",DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3727|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="DOCUMENTARIO",DISCOVERY SCIENCE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3328|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="DOCUMENTARIO",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3676|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" group-title="DOCUMENTARIO",DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3728|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" group-title="DOCUMENTARIO",DISCOVERY THEATER 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3329|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://floriu.com/imagem/Discoverytheater.png" group-title="DOCUMENTARIO",DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6800|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC 4K" tvg-logo="http://floriu.com/imagem/tlcdiscovery.png" group-title="DOCUMENTARIO",DISCOVERY TLC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57809|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC HD" tvg-logo="http://floriu.com/imagem/tlcdiscovery.png" group-title="DOCUMENTARIO",DISCOVERY TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3782|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC SD" tvg-logo="http://floriu.com/imagem/tlcdiscovery.png" group-title="DOCUMENTARIO",DISCOVERY TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3729|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://floriu.com/imagem/turbo1.png" group-title="DOCUMENTARIO",DISCOVERY TURBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3330|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://floriu.com/imagem/turbo1.png" group-title="DOCUMENTARIO",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3673|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://floriu.com/imagem/turbo1.png" group-title="DOCUMENTARIO",DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3674|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://floriu.com/imagem/discoverworld.png" group-title="DOCUMENTARIO",DISCOVERY WORLD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3331|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://floriu.com/imagem/discoverworld.png" group-title="DOCUMENTARIO",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3672|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dwords.png" group-title="DOCUMENTARIO",DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3730|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL" tvg-logo="http://floriu.com/imagem/disney.jpg" group-title="INFANTIS",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3731|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/2015_Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6810|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://floriu.com/imagem/disney.jpg" group-title="INFANTIS",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3670|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR" tvg-logo="http://floriu.com/imagem/disneyjr.png" group-title="INFANTIS",DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3732|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR 4K" tvg-logo="http://floriu.com/imagem/disneyjr.png" group-title="INFANTIS",DISNEY JR 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6814|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD" tvg-logo="http://floriu.com/imagem/disneyjr.png" group-title="INFANTIS",DISNEY JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3669|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD" tvg-logo="http://floriu.com/imagem/disneyxd.jpg" group-title="INFANTIS",Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3667|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD 4K" tvg-logo="http://floriu.com/imagem/disneyxd.jpg" group-title="INFANTIS",DISNEY XD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6048|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="http://floriu.com/imagem/disneyxd.jpg" group-title="INFANTIS",DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3666|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! 4K" tvg-logo="http://floriu.com/imagem/e!.png" group-title="FILMES E SERIES",E! 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57838|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://floriu.com/imagem/e!.png" group-title="FILMES E SERIES",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3663|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://floriu.com/imagem/e!.png" group-title="FILMES E SERIES",E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3664|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57845|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57854|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57846|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57847|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57848|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57849|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57850|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57851|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57852|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57853|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPORTE",ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3659|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2" tvg-logo="http://floriu.com/imagem/espn2.png" group-title="ESPORTE",ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46701|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 4K" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPORTE",ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46730|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL 4K " tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPORTE",ESPN BRASIL 4K 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/27251|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="ESPN BRASIL HD" tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPORTE",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/27260|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil¹" tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPORTE",ESPN Brasil¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46726|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://floriu.com/imagem/espnextra.png" group-title="ESPORTE",ESPN EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18683|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://floriu.com/imagem/espnextra.png" group-title="ESPORTE",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6067|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPORTE",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3654|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 4K" tvg-logo="http://floriu.com/imagem/espn2.png" group-title="ESPORTE",ESPN2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46731|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HD" tvg-logo="https://img2.gratispng.com/20180628/tce/kisspng-espn3-watchespn-espn-com-streaming-media-espn-3-5b350bd9611c16.8686168115302030973978.jpg" group-title="ESPORTE",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46732|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 1" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57870|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 2" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57871|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 3" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57872|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="EVANGELIZAR" tvg-logo="" group-title="RELIGIOSOS",EVANGELIZAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57874|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM & ART 4K" tvg-logo="http://floriu.com/imagem/filmearts.png" group-title="FILMES E SERIES",FILM & ART 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57875|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="film-arts" tvg-name="Film & Arts" tvg-logo="http://floriu.com/imagem/filmearts.png" group-title="FILMES E SERIES",Film & Arts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3652|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS HD" tvg-logo="http://floriu.com/imagem/filmearts.png" group-title="FILMES E SERIES",FILM & ARTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6474|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV" tvg-logo="http://floriu.com/imagem/fishtv.png" group-title="DOCUMENTARIO",FISH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6476|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://floriu.com/imagem/fishtv.png" group-title="DOCUMENTARIO",FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6830|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network" tvg-logo="http://floriu.com/imagem/fn.png" group-title="DOCUMENTARIO",Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3650|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK 4K" tvg-logo="http://floriu.com/imagem/fn.png" group-title="DOCUMENTARIO",FOOD NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3338|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://floriu.com/imagem/foodnetwork.png" group-title="DOCUMENTARIO",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3649|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3342|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3640|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3641|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 4k" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",FOX SPORTS 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46943|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports 4k²" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports 4k²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46954|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46955|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",FOX SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46725|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS¹ HD" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",FOX SPORTS¹ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46921|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FURACÃO PLAY" tvg-logo="" group-title="ESPORTE",FURACÃO PLAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57897|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="floriu.com/imagem/futura.png" group-title="CANAIS ABERTOS",FUTURA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6853|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="http://floriu.com/imagem/futura.png" group-title="CANAIS ABERTOS",FUTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6852|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX" tvg-logo="http://floriu.com/imagem/fx.png" group-title="FILMES E SERIES",FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3637|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX 4K" tvg-logo="http://floriu.com/imagem/fx.png" group-title="FILMES E SERIES",FX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3344|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://floriu.com/imagem/fx.png" group-title="FILMES E SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3636|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta 4K" tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="CANAIS ABERTOS",Gazeta 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57906|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo 4K" tvg-logo="" group-title="GLOBO",Globo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57907|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA " tvg-logo="floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BAHIA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18782|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/16770|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BRASILIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5007|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo BRASILIA 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo BRASILIA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57911|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5006|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo EPTV Campinas" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5009|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV CAMPINAS 4K" tvg-logo="" group-title="GLOBO",Globo EPTV CAMPINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57919|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5008|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO EPTV RIBEIRÃO PRETO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18736|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV SAO CARLOS " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO EPTV SAO CARLOS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6862|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV SUL DE MINAS 4K" tvg-logo="" group-title="GLOBO",Globo EPTV SUL DE MINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57922|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV SUL DE MINAS HD" tvg-logo="" group-title="GLOBO",Globo EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57923|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO FLORIANOPOLIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18738|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG FHD" tvg-logo="" group-title="GLOBO",GLOBO INTEGRAÇÃO MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57924|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG HD" tvg-logo="" group-title="GLOBO",GLOBO INTEGRAÇÃO MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57925|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER DO VALE FHD" tvg-logo="" group-title="GLOBO",GLOBO INTER DO VALE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57926|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5012|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG HD" tvg-logo="" group-title="GLOBO",GLOBO INTER VALE MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57927|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6863|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional HD" tvg-logo="" group-title="GLOBO",Globo Internacional HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57928|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus HD" tvg-logo="" group-title="GLOBO",Globo Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57930|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo Mg 4K" tvg-logo="" group-title="GLOBO",Globo Mg 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57931|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas" tvg-logo="" group-title="GLOBO",Globo Minas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57932|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5013|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="" group-title="GLOBO",Globo Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57933|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo Mirante HD (MARANHAO)" tvg-logo="" group-title="GLOBO",Globo Mirante HD (MARANHAO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57934|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo Morena HD" tvg-logo="" group-title="GLOBO",Globo Morena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57935|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",Globo News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5015|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-news-logo.png" group-title="NOTICIAS",GLOBO NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3347|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3743|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO NORDESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5018|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO NORDESTE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6869|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="" group-title="GLOBO",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57938|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="Globo NSC Blumenau 4k" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo NSC Blumenau 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23776|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Santa Catarina HD" tvg-logo="" group-title="GLOBO",Globo NSC Santa Catarina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57939|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSCTV Florianopolis HD" tvg-logo="" group-title="GLOBO",Globo NSCTV Florianopolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57940|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS CAXIAS 4K" tvg-logo="" group-title="GLOBO",Globo RBS CAXIAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57942|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS CAXIAS HD" tvg-logo="" group-title="GLOBO",Globo RBS CAXIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57943|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS PELOTAS 4K" tvg-logo="" group-title="GLOBO",Globo RBS PELOTAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57944|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS PELOTAS HD" tvg-logo="" group-title="GLOBO",Globo RBS PELOTAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57945|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="Globo RBS POA" tvg-logo="" group-title="GLOBO",Globo RBS POA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57946|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globo RBS TV Poa" tvg-name="Globo RBS POA HD" tvg-logo="" group-title="GLOBO",Globo RBS POA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57947|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV STA MARIA" tvg-logo="" group-title="GLOBO",Globo RBS TV STA MARIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57948|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio Sul HD (INTERIOR RJ)" tvg-logo="" group-title="GLOBO",Globo Rio Sul HD (INTERIOR RJ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57949|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5047|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3349|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo RJ 4K (REGIAO SERRANA)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RJ 4K (REGIAO SERRANA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/52407|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RJ HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18771|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo RJ HD (REGIAO SERRANA)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RJ HD (REGIAO SERRANA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/52409|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA 4K (S1) " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RPC CURITIBA 4K (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58446|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA HD (S1) " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RPC CURITIBA HD (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58445|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC FOZ DO IGUAÇU 4K" tvg-logo="" group-title="GLOBO",Globo RPC FOZ DO IGUAÇU 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57950|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC FOZ DO IGUAÇU HD" tvg-logo="" group-title="GLOBO",Globo RPC FOZ DO IGUAÇU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57951|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Parana HD" tvg-logo="" group-title="GLOBO",Globo RPC Parana HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57952|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Curitiba" tvg-logo="" group-title="GLOBO",Globo RPC TV Curitiba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57953|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo Santa Cruz Bahia HD" tvg-logo="" group-title="GLOBO",Globo Santa Cruz Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57954|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6879|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5030|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3350|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5029|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo TRIBUNA 4K (SANTOS)" tvg-logo="" group-title="GLOBO",Globo TRIBUNA 4K (SANTOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57956|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo TRIBUNA HD (SANTOS)" tvg-logo="" group-title="GLOBO",Globo TRIBUNA HD (SANTOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57957|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia 4K" tvg-logo="floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Bahia 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23793|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo Asa branca 4K (Caruaru PE)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Asa branca 4K (Caruaru PE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/7074|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV CENTRO AMÉRICA CUIABÁ " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV CENTRO AMÉRICA CUIABÁ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18783|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="GLOBO TV DIARIO HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV DIARIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58389|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Gazeta 4K" tvg-logo="" group-title="GLOBO",Globo TV Gazeta 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23802|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal Belém HD" tvg-logo="" group-title="GLOBO",Globo TV Liberal Belém HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23806|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Mirante (MARANHAO)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Mirante (MARANHAO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23807|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="Globo TV Morena" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Morena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23808|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Subae" tvg-logo="" group-title="GLOBO",Globo TV Subae
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57958|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV TEM BAURU" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV TEM BAURU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6885|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV TEM SOROCABA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV TEM SOROCABA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3751|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo VANGUARDA 4K (SAO JOSE DOS CAMPOS)" tvg-logo="" group-title="GLOBO",Globo VANGUARDA 4K (SAO JOSE DOS CAMPOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57959|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo VANGUARDA HD (SAO JOSE DOS CAMPOS)" tvg-logo="" group-title="GLOBO",Globo VANGUARDA HD (SAO JOSE DOS CAMPOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57960|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Globo Verdes Mares HD CE" tvg-logo="" group-title="GLOBO",Globo Verdes Mares HD CE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57961|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob" tvg-logo="floriu.com/imagem/gloob.png" group-title="INFANTIS",Gloob
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3617|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB 4K" tvg-logo="floriu.com/imagem/gloob.png" group-title="INFANTIS",GLOOB 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6892|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://floriu.com/imagem/gloob.png" group-title="INFANTIS",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3616|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO 4K" tvg-logo="" group-title="INFANTIS",GLOOBINHO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57968|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="" group-title="INFANTIS",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/26963|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO SD" tvg-logo="" group-title="INFANTIS",GLOOBINHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57970|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT 4K" tvg-logo="http://floriu.com/imagem/gnt.png" group-title="MUSICAS E VARIEDADE",GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57971|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://floriu.com/imagem/gnt.png" group-title="MUSICAS E VARIEDADE",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3613|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://floriu.com/imagem/gnt.png" group-title="MUSICAS E VARIEDADE",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3614|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="" group-title="INFANTIS",Gospel Cartoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57976|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 4K" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3352|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3612|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3757|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 4K" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3353|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4039|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4033|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3354|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO 4K ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57993|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="http://floriu.com/imagem/hbofamily.png" group-title="REDE HBO",HBO FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4034|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="http://floriu.com/imagem/hbofamily.png" group-title="REDE HBO",HBO FAMILY 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6164|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://floriu.com/imagem/hbofamily.png" group-title="REDE HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4040|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4041|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD ( LENGENDADOS)" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO HD ( LENGENDADOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57995|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD" tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="REDE HBO",HBO MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58471|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD" tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="REDE HBO",HBO MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58472|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="REDE HBO",HBO MAX 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58473|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI " tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18841|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI 4k" tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18842|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI 4K ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI 4K ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57998|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD " tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18843|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58000|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4035|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS 4K" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3355|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD  ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS FHD  ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58004|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4042|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58006|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18814|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP 4K" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18848|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP 4K ( LEGENDADOS )" tvg-logo="" group-title="REDE HBO",HBO POP 4K ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58010|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18849|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58012|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4037|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4038|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3356|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE 4K ( LEGENDADOS)" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE 4K ( LEGENDADOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58017|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4044|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD ( LEGENDADOS )" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58019|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM HD ( LEGENDADOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="REDE HBO",HBO XTREAM HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58021|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME " tvg-logo="http://floriu.com/imagem/HBOXTREME.png" group-title="REDE HBO",HBO XTREME 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18844|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="REDE HBO",HBO XTREME 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58022|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme 4K " tvg-logo="" group-title="REDE HBO",HBO Xtreme 4K 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58023|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K ( LEGENDADOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="REDE HBO",HBO XTREME 4K ( LEGENDADOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58024|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="REDE HBO",HBO XTREME HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18846|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV  SD" tvg-logo="http://floriu.com/imagem/hgtv1.jpeg" group-title="DOCUMENTARIO",HGTV  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3725|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV 4K" tvg-logo="http://floriu.com/imagem/hgtv1.jpeg" group-title="DOCUMENTARIO",HGTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3325|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="http://floriu.com/imagem/hgtv1.jpeg" group-title="DOCUMENTARIO",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6788|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://floriu.com/imagem/history.jpg" group-title="DOCUMENTARIO",HISTORY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3357|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://floriu.com/imagem/history.jpg" group-title="DOCUMENTARIO",HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3790|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="http://floriu.com/imagem/history.jpg" group-title="DOCUMENTARIO",HISTORY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3480|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY 4k" tvg-logo="http://floriu.com/imagem/id.jpg" group-title="DOCUMENTARIO",ID - INVESTIGACAO DISCOVERY 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3358|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="http://floriu.com/imagem/id.png" group-title="DOCUMENTARIO",ID - INVESTIGACAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3791|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="http://floriu.com/imagem/id.jpg" group-title="DOCUMENTARIO",ID - INVESTIGACAO DISCOVERY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3761|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME " tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18834|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME 4K" tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6182|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3592|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Loading." tvg-logo="" group-title="MUSICAS E VARIEDADE",Loading.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58055|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MegaPix" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MegaPix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3583|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3360|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6531|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MG - 98.0 FM" tvg-logo="" group-title="RADIOS",MG - 98.0 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58066|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MG - Cultura FM 95.1" tvg-logo="" group-title="RADIOS",MG - Cultura FM 95.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58067|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MG - Itatiaia FM 95.7" tvg-logo="" group-title="RADIOS",MG - Itatiaia FM 95.7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58068|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/5085|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV 4K" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6206|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3793|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",Multishow
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3579|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",MULTISHOW 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3363|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3578|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL" tvg-logo="http://floriu.com/imagem/musicboxbr.png" group-title="MUSICAS E VARIEDADE",MUSIC BOX BRAZIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18861|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO 4k" tvg-logo="floriu.com/imagem/nacionalgeo.png" group-title="DOCUMENTARIO",NATGEO 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18864|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo HD" tvg-logo="http://floriu.com/imagem/nacionalgeo.png" group-title="DOCUMENTARIO",NatGeo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3367|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NatGeo Kids" tvg-logo="http://floriu.com/imagem/NatgeoKids.png" group-title="INFANTIS",NatGeo Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3575|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS 4K" tvg-logo="http://floriu.com/imagem/NatgeoKids.png" group-title="INFANTIS",NATGEO KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6216|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="http://floriu.com/imagem/NatgeoKids.png" group-title="INFANTIS",NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3574|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo SD" tvg-logo="floriu.com/imagem/nacionalgeo.png" group-title="DOCUMENTARIO",NatGeo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3571|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3573|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO WILD 4K" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NATGEO WILD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3366|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NATGEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3572|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="NHK 4K (JAPONES)" tvg-logo="" group-title="NOTICIAS",NHK 4K (JAPONES)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58095|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="NHK HD (JAPONES)" tvg-logo="" group-title="NOTICIAS",NHK HD (JAPONES)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58096|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr" tvg-logo="http://floriu.com/imagem/Nick_Jr._HD.png" group-title="INFANTIS",Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3567|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR 4K" tvg-logo="http://floriu.com/imagem/Nick_Jr._HD.png" group-title="INFANTIS",NICK JR 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3368|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://floriu.com/imagem/Nick_Jr._HD.png" group-title="INFANTIS",NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3566|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="http://floriu.com/imagem/Nickelodeon.png" group-title="INFANTIS",Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3565|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Nickelodeon FHD" tvg-name="NICKELODEON 4k" tvg-logo="http://floriu.com/imagem/Nickelodeon.png" group-title="INFANTIS",NICKELODEON 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18886|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://floriu.com/imagem/Nickelodeon.png" group-title="INFANTIS",NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3564|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="NOVO TEMPO" tvg-logo="http://floriu.com/imagem/novotempo.png" group-title="RELIGIOSOS",NOVO TEMPO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3763|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF" tvg-logo="http://floriu.com/imagem/off.png" group-title="MUSICAS E VARIEDADE",OFF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3563|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF 4K" tvg-logo="http://floriu.com/imagem/off.png" group-title="MUSICAS E VARIEDADE",OFF 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58109|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://floriu.com/imagem/off.png" group-title="MUSICAS E VARIEDADE",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3562|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="FILMES E SERIES",Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3561|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="http://floriu.com/imagem/paramouth.png" group-title="FILMES E SERIES",PARAMOUNT CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3369|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="FILMES E SERIES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3560|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV" tvg-logo="" group-title="CANAIS ABERTOS",POLISHOP TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58130|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV HD" tvg-logo="" group-title="CANAIS ABERTOS",POLISHOP TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58131|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4059|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 4K" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58139|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4053|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4060|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 4K" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58142|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4054|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE",PREMIERE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4061|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 4K" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE",PREMIERE 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58145|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4055|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE",PREMIERE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4062|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 4K" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE",PREMIERE 5 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58148|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6563|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 " tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE",PREMIERE 6 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4063|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 4K" tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE",PREMIERE 6 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58151|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6565|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE",PREMIERE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4064|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 4K" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE",PREMIERE 7 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58154|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6567|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 MOSAICO" tvg-logo="http://floriu.com/imagem/premiere8.jpg" group-title="PREMIERE",PREMIERE 8 MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58157|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes (H265) (S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",Premiere Clubes (H265) (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58133|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",PREMIERE CLUBES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3375|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 4K (S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",PREMIERE CLUBES 4K (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58135|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes 4K ²(S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",Premiere Clubes 4K ²(S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58134|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/19381|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD (S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",PREMIERE CLUBES HD (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58136|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD (S1) " tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",PREMIERE CLUBES SD (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58137|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX MUSIC" tvg-logo="" group-title="MUSICAS E VARIEDADE",PRIME BOX MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58165|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BAHIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58169|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58170|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58171|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD BELÉM HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BELÉM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58172|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD BELÉM HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BELÉM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58173|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58175|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record Campinas" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",Record Campinas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23816|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record Campinas HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",Record Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23815|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="Record Goias (Goiania)" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record Goias (Goiania)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23828|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MANAUS" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD MANAUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58181|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS 4K" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD MINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58442|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="RECORD MINAS HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6299|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="http://floriu.com/imagem/recordnews.png" group-title="NOTICIAS",Record News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3527|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS 4K" tvg-logo="http://floriu.com/imagem/recordnews.png" group-title="NOTICIAS",RECORD NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3377|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordnewss.png" group-title="NOTICIAS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3526|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="RECORD PARANA 4K" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD PARANA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58187|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="RECORD PARANA HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58188|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="Record RJ" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",Record RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23824|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RJ 4K" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58189|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="Record RJ HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",Record RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/23823|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="RECORD",RECORD RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/35050|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="" group-title="RECORD",RECORD RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58190|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS SD" tvg-logo="http://jrlook.fun:80/Floriu/Fontetoop/81" group-title="RECORD",RECORD RS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/35051|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTA CATARINA" tvg-logo="" group-title="RECORD",RECORD SANTA CATARINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58191|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record SP" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",Record SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3522|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record SP 4K" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6292|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP FHD" tvg-logo="" group-title="RECORD",RECORD SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58193|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP HD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3523|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="" group-title="RECORD",RECORD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58195|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RECORD UBERLÂNDIA MG" tvg-logo="" group-title="RECORD",RECORD UBERLÂNDIA MG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58196|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="REDE AMAZONICA 4K (S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",REDE AMAZONICA 4K (S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58197|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="REDE AMAZONICA HD (S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",REDE AMAZONICA HD (S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58198|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="" group-title="CANAIS ABERTOS",Rede Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58200|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Rede Minas" tvg-name="REDE MINAS" tvg-logo="http://floriu.com/imagem/redeminas.png" group-title="CANAIS ABERTOS",REDE MINAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18096|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS HD" tvg-logo="" group-title="CANAIS ABERTOS",REDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58202|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png" group-title="CANAIS ABERTOS",Rede TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/17741|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD" tvg-logo="" group-title="CANAIS ABERTOS",REDE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58204|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="" group-title="CANAIS ABERTOS",REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58205|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV! 4K" tvg-logo="" group-title="CANAIS ABERTOS",Rede TV! 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58206|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV 4k" tvg-logo="http://floriu.com/imagem/redetv.png" group-title="CANAIS ABERTOS",REDETV 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18950|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="REDETV HD " tvg-logo="http://floriu.com/imagem/redetv.png" group-title="CANAIS ABERTOS",REDETV HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18952|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="RedeTPampa.br" tvg-name="REDETV PAMPA RS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logotipo_da_TV_Pampa.png" group-title="CANAIS ABERTOS",REDETV PAMPA RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58399|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV SD" tvg-logo="" group-title="CANAIS ABERTOS",RedeTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58208|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RJ - BeatPlay FM" tvg-logo="" group-title="RADIOS",RJ - BeatPlay FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58210|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RJ - JB FM 99.9" tvg-logo="" group-title="RADIOS",RJ - JB FM 99.9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58211|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RJ - Tupi FM 96.5" tvg-logo="" group-title="RADIOS",RJ - Tupi FM 96.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58212|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RPC CASCAVEL 4K ( S1 )" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",RPC CASCAVEL 4K ( S1 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58213|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="RPC CASCAVEL HD (S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",RPC CASCAVEL HD (S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58214|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RS - 104 FM" tvg-logo="" group-title="RADIOS",RS - 104 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58215|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RS - 92. FM" tvg-logo="" group-title="RADIOS",RS - 92. FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58216|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RS - Alegria FM 92.9" tvg-logo="" group-title="RADIOS",RS - Alegria FM 92.9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58217|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RS - Atlântida FM 94.3" tvg-logo="" group-title="RADIOS",RS - Atlântida FM 94.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58218|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RS - Gaúcha FM 93.7" tvg-logo="" group-title="RADIOS",RS - Gaúcha FM 93.7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58219|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RS - Guaíba FM 101.3" tvg-logo="" group-title="RADIOS",RS - Guaíba FM 101.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58220|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RS - Itapema FM 102.3" tvg-logo="" group-title="RADIOS",RS - Itapema FM 102.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58221|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RS - JovenPan FM 97.5" tvg-logo="" group-title="RADIOS",RS - JovenPan FM 97.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58222|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="" group-title="CANAIS ABERTOS",SBT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58224|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SBT ARATU BAHIA" tvg-logo="" group-title="CANAIS ABERTOS",SBT ARATU BAHIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58227|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SBT BSB" tvg-logo="" group-title="CANAIS ABERTOS",SBT BSB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58228|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARANA" tvg-logo="" group-title="CANAIS ABERTOS",SBT PARANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58229|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARANA FHD" tvg-logo="" group-title="CANAIS ABERTOS",SBT PARANA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58230|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARANA HD" tvg-logo="" group-title="CANAIS ABERTOS",SBT PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58231|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="SBT Rio" tvg-name="SBT RJ 4K" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="CANAIS ABERTOS",SBT RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58232|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="SBT Rio" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="CANAIS ABERTOS",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58233|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="SBTRS.BR" tvg-name="SBT RS " tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="CANAIS ABERTOS",SBT RS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58234|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT SP" tvg-logo="http://floriu.com/imagem/SBT.png" group-title="CANAIS ABERTOS",SBT SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3515|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="SBT SP 4k" tvg-logo="http://floriu.com/imagem/SBT.png" group-title="CANAIS ABERTOS",SBT SP 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/18956|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="SBT SP HD" tvg-logo="http://floriu.com/imagem/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3513|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV TAMBAU" tvg-logo="http://floriu.com/imagem/SBT.png" group-title="CANAIS ABERTOS",SBT TV TAMBAU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58404|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="SescTV" tvg-name="SESC TV" tvg-logo="" group-title="CANAIS ABERTOS",SESC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58209|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY 01" tvg-logo="" group-title="CINE SKY",SKY PLAY 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58241|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY 02" tvg-logo="" group-title="CINE SKY",SKY PLAY 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58242|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY 03" tvg-logo="" group-title="CINE SKY",SKY PLAY 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58243|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY 04" tvg-logo="" group-title="CINE SKY",SKY PLAY 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58244|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SKY PLAY 05" tvg-logo="" group-title="CINE SKY",SKY PLAY 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58245|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SP - Antena 1 FM 94.7" tvg-logo="" group-title="RADIOS",SP - Antena 1 FM 94.7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58253|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SP - Coca Cola FM" tvg-logo="" group-title="RADIOS",SP - Coca Cola FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58254|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SP - Mix FM 106.3" tvg-logo="" group-title="RADIOS",SP - Mix FM 106.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58256|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SP - Radio Globo FM 92.5" tvg-logo="" group-title="RADIOS",SP - Radio Globo FM 92.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58257|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SP - Top FM 100.5" tvg-logo="" group-title="RADIOS",SP - Top FM 100.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58258|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SP - Tropical FM 107.9" tvg-logo="" group-title="RADIOS",SP - Tropical FM 107.9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58259|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",Space
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3511|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4K" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",SPACE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3381|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3510|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 4K" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3382|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 4K (S1) " tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 4K (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58267|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 HD" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3507|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58268|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 4K" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58269|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58270|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58271|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SporTv 4 (H.265) (S1) " tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="ESPORTE",SporTv 4 (H.265) (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58272|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SPORTV 4 4K (S1) " tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="ESPORTE",SPORTV 4 4K (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58273|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SPORTV 4 HD (S1)" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="ESPORTE",SPORTV 4 HD (S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58274|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SPORTV 4 SD (S1)" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="ESPORTE",SPORTV 4 SD (S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58275|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46536|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 4K (S1)" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="ESPORTE",SporTV 4K (S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58264|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46723|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD (S1) ²" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV HD (S1) ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58265|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD (S1)" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="ESPORTE",SPORTV SD (S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58266|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV2 (H265) (S1) " tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SporTV2 (H265) (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58276|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 (H265) (S1)" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SporTV3 (H265) (S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58277|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR +" tvg-logo="" group-title="ESPORTE",STAR +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58475|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR + (2)" tvg-logo="" group-title="ESPORTE",STAR + (2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58476|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR + (3)" tvg-logo="" group-title="ESPORTE",STAR + (3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58477|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel 4K" tvg-logo="" group-title="FILMES E SERIES",Star Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58279|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD ( LEGENDADOS )" tvg-logo="" group-title="FILMES E SERIES",STAR CHANNEL FHD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58281|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="" group-title="FILMES E SERIES",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58282|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD ( LEGENDADOS )" tvg-logo="" group-title="FILMES E SERIES",STAR CHANNEL HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58283|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL SD" tvg-logo="" group-title="FILMES E SERIES",STAR CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58284|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Star Hits 2 (H265)" tvg-logo="" group-title="FILMES E SERIES",Star Hits 2 (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58286|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 FHD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58287|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 FHD ( LEGENDADOS)" tvg-logo="" group-title="FILMES E SERIES",STAR HITS 2 FHD ( LEGENDADOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58288|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 HD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58289|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 HD ( LEGENDADOS )" tvg-logo="" group-title="FILMES E SERIES",STAR HITS 2 HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58290|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 SD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58291|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS FHD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58292|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS FHD ( LEGENDADOS )" tvg-logo="" group-title="FILMES E SERIES",STAR HITS FHD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58293|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS HD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58294|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS HD ( LEGENDADOS )" tvg-logo="" group-title="FILMES E SERIES",STAR HITS HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58295|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS SD" tvg-logo="" group-title="FILMES E SERIES",STAR HITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58296|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE 4K" tvg-logo="" group-title="FILMES E SERIES",STAR LIFE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58297|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE HD" tvg-logo="" group-title="FILMES E SERIES",STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58298|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE SD" tvg-logo="" group-title="FILMES E SERIES",STAR LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58299|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal" tvg-logo="http://floriu.com/imagem/studiouniversal.png" group-title="FILMES E SERIES",Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3502|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/studiouni.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3385|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://floriu.com/imagem/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3501|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy" tvg-logo="http://floriu.com/imagem/syfy.png" group-title="FILMES E SERIES",Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3500|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY 4K" tvg-logo="http://floriu.com/imagem/syfy.png" group-title="FILMES E SERIES",SYFY 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3386|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://floriu.com/imagem/syfy.png" group-title="FILMES E SERIES",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3499|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS" tvg-logo="http://floriu.com/imagem/tbs.png" group-title="FILMES E SERIES",TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3498|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TBS 4K" tvg-logo="" group-title="FILMES E SERIES",TBS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58312|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://floriu.com/imagem/tbs.png" group-title="FILMES E SERIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3497|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="http://floriu.com/imagem/tcm.png" group-title="FILMES E SERIES",TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3496|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://floriu.com/imagem/tcm.png" group-title="FILMES E SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3495|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4021|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION 4K" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3387|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION FHD  ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE ACTION FHD  ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58319|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4027|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE ACTION HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58321|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4022|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT 4K" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3388|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD ( LEGENDADOS)" tvg-logo="" group-title="REDE TELECINE",TELECINE CULT FHD ( LEGENDADOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58325|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE CULT HD" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4028|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE CULT HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58327|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4023|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN 4K" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3389|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE FUN FHD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58331|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4029|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE FUN HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58333|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="TELECINE PIPOCA" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4024|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3390|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE PIPOCA FHD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58338|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4030|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4025|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3391|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM FHD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE PREMIUM FHD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58345|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4031|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE PREMIUM HD ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58347|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4026|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3392|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH FHD ( LEGENDADOS)" tvg-logo="" group-title="REDE TELECINE",TELECINE TOUCH FHD ( LEGENDADOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58351|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4032|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH 4K ( LEGENDADOS )" tvg-logo="" group-title="REDE TELECINE",TELECINE TOUCH 4K ( LEGENDADOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58353|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" group-title="CANAIS ABERTOS",TERRA VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58355|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TMC 4K" tvg-logo="" group-title="FILMES E SERIES",TMC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58359|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46928|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46717|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/46716|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="http://floriu.com/imagem/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3774|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES 4K" tvg-logo="http://floriu.com/imagem/tntseries.png" group-title="FILMES E SERIES",TNT SERIES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3394|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://floriu.com/imagem/tntseries.png" group-title="FILMES E SERIES",TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3802|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast" tvg-logo="http://floriu.com/imagem/tooncast.png" group-title="INFANTIS",Tooncast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3473|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST 4K" tvg-logo="" group-title="INFANTIS",TOONCAST 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58371|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="http://floriu.com/imagem/tooncast.png" group-title="INFANTIS",Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6389|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="" group-title="INFANTIS",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58372|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD" tvg-logo="" group-title="INFANTIS",TOONCAST SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58373|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="" group-title="MUSICAS E VARIEDADE",TRAVEL BOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58374|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV FHD" tvg-logo="" group-title="MUSICAS E VARIEDADE",TRU TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58376|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV HD" tvg-logo="" group-title="MUSICAS E VARIEDADE",TRU TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58377|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV  SAO FRANCISCO FHD ( GLOBO JUAZEIRO BAHIA) (S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV  SAO FRANCISCO FHD ( GLOBO JUAZEIRO BAHIA) (S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58378|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV  SAO FRANCISCO HD ( GLOBO JUAZEIRO BAHIA) (S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV  SAO FRANCISCO HD ( GLOBO JUAZEIRO BAHIA) (S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58379|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="" group-title="RELIGIOSOS",TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58382|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil  4K" tvg-logo="https://sbra.com.br/wp-content/uploads/2020/12/tv-brasil-1.jpg" group-title="CANAIS ABERTOS",TV Brasil  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/57368|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL 4K" tvg-logo="https://sbra.com.br/wp-content/uploads/2020/12/tv-brasil-1.jpg" group-title="CANAIS ABERTOS",TV BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58383|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://sbra.com.br/wp-content/uploads/2020/12/tv-brasil-1.jpg" group-title="CANAIS ABERTOS",TV BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58384|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV Centro America Cuiaba" tvg-logo="" group-title="GLOBO",TV Centro America Cuiaba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58386|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS ABERTOS",TV Cultura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/17751|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="CANAIS ABERTOS",TV Câmara
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/17806|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Tv Escola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="CANAIS ABERTOS",Tv Escola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58390|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES HD" tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2019/04/og-tvgideoes.jpg" group-title="RELIGIOSOS",TV GIDEOES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58392|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV Justica" tvg-logo="https://skytvplanos.com.br/img/channels/lg-167-canal-tv-justica.png" group-title="CANAIS ABERTOS",TV Justica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58393|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Globo Belém Liberal" tvg-name="TV Liberal Belem 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV Liberal Belem 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58394|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://floriu.com/imagem/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/19035|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="" group-title="RELIGIOSOS",TV PAI ETERNO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58398|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM" tvg-logo="" group-title="INFANTIS",TV RA TIM BUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58400|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="http://floriu.com/imagem/ratimbum.jpg" group-title="INFANTIS",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/19038|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="" group-title="INFANTIS",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58401|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="" group-title="INFANTIS",TV RA TIM BUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58402|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV Senado" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-senado-hd_m.png" group-title="CANAIS ABERTOS",TV Senado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58403|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV Tem Sorocaba (S1) " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV Tem Sorocaba (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58407|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV Vanguarda HD(S1)" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV Vanguarda HD(S1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58409|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="TV Verdes Mares Fortaleza (S1) " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",TV Verdes Mares Fortaleza (S1) 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58410|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL 4K" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3395|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3714|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3713|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Universal Tv (H265)" tvg-logo="" group-title="RELIGIOSOS",Universal Tv (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58413|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://floriu.com/imagem/viva.png" group-title="MUSICAS E VARIEDADE",VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3710|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA 4K" tvg-logo="http://floriu.com/imagem/viva.png" group-title="MUSICAS E VARIEDADE",VIVA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3396|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://floriu.com/imagem/viva.png" group-title="MUSICAS E VARIEDADE",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3709|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://floriu.com/imagem/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3708|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://floriu.com/imagem/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6407|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://floriu.com/imagem/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/3707|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO" tvg-logo="http://floriu.com/imagem/WOOHOO.png" group-title="MUSICAS E VARIEDADE",WOOHOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6641|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo 4K" tvg-logo="http://floriu.com/imagem/WOOHOO.png" group-title="MUSICAS E VARIEDADE",Woohoo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58429|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://floriu.com/imagem/WOOHOO.png" group-title="MUSICAS E VARIEDADE",WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/6640|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMO 4K" tvg-logo="http://floriu.com/imagem/zoomoo.jpg" group-title="INFANTIS",ZOOMO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/58437|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="http://floriu.com/imagem/zoomoo.jpg" group-title="INFANTIS",Zoomoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4969|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo SD" tvg-logo="http://floriu.com/imagem/zoomoo.jpg" group-title="INFANTIS",Zoomoo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/4970|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="JP NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Jovem_Pan_News_logo.png" group-title="NOTICIAS",JP NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62492|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JP NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Jovem_Pan_News_logo.png" group-title="NOTICIAS",JP NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62493|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RADIO MEGA HITS" tvg-logo="https://img.radios.com.br/radio/lg/radio125473_1606407079.jpeg" group-title="RADIOS",RADIO MEGA HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62502|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 12" tvg-logo="" group-title="ELEVEN SPORTS",Eleven Sports HD 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62649|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 13" tvg-logo="" group-title="ELEVEN SPORTS",Eleven Sports HD 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62650|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 14" tvg-logo="" group-title="ELEVEN SPORTS",Eleven Sports HD 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62651|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 15" tvg-logo="" group-title="ELEVEN SPORTS",Eleven Sports HD 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62652|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 16" tvg-logo="" group-title="ELEVEN SPORTS",Eleven Sports HD 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62653|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 17" tvg-logo="" group-title="ELEVEN SPORTS",Eleven Sports HD 17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62654|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 18" tvg-logo="" group-title="ELEVEN SPORTS",Eleven Sports HD 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62655|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports HD 19" tvg-logo="" group-title="ELEVEN SPORTS",Eleven Sports HD 19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62656|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 FHD" tvg-logo="" group-title="CONMEBOL",Conmebol 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62657|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 HD" tvg-logo="" group-title="CONMEBOL",Conmebol 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62658|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 1 SD" tvg-logo="" group-title="CONMEBOL",Conmebol 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62659|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 FHD" tvg-logo="" group-title="CONMEBOL",Conmebol 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62660|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 HD" tvg-logo="" group-title="CONMEBOL",Conmebol 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62661|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 2 SD" tvg-logo="" group-title="CONMEBOL",Conmebol 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62662|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 FHD" tvg-logo="" group-title="CONMEBOL",Conmebol 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62663|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 HD" tvg-logo="" group-title="CONMEBOL",Conmebol 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62664|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 3 SD" tvg-logo="" group-title="CONMEBOL",Conmebol 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62665|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 FHD" tvg-logo="" group-title="CONMEBOL",Conmebol 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62666|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 HD" tvg-logo="" group-title="CONMEBOL",Conmebol 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62667|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 4 SD" tvg-logo="" group-title="CONMEBOL",Conmebol 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62668|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol 6 HD" tvg-logo="" group-title="CONMEBOL",Conmebol 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62669|User-Agent=MXPlayer
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A&e FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/A%26E.png" group-title="Canais : Filmes ",A&e FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899422.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="A&e HD" tvg-logo="https://myclient.host/FILMES%26SERIES/A%26E.png" group-title="Canais : Filmes ",A&e HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898633.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="A&e SD" tvg-logo="https://myclient.host/FILMES%26SERIES/A%26E.png" group-title="Canais : Filmes ",A&e SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899061.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="A&e [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/A%26E.png" group-title="Canais : Filmes ",A&e [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898857.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="ALPHA FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",ALPHA FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898813.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Amc FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/AMC.png" group-title="Canais : Filmes ",Amc FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899411.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Amc HD" tvg-logo="https://myclient.host/FILMES%26SERIES/AMC.png" group-title="Canais : Filmes ",Amc HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898634.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Amc SD" tvg-logo="https://myclient.host/FILMES%26SERIES/AMC.png" group-title="Canais : Filmes ",Amc SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899062.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Amc [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/AMC.png" group-title="Canais : Filmes ",Amc [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898858.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="Canais : Documentários",Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899375.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="Canais : Documentários",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898635.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="Canais : Documentários",Animal Planet SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899063.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="Canais : Documentários",Animal Planet [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898859.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1 FM ( RADIOS)" tvg-logo="" group-title="Canais : Rádios",ANTENA 1 FM ( RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898808.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 FHD" tvg-logo="https://myclient.host/VARIEDADES/ARTE%201.png" group-title="Canais : Documentários",Arte 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899447.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" tvg-logo="https://myclient.host/VARIEDADES/ARTE%201.png" group-title="Canais : Documentários",Arte 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898762.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Axn FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/AXN.png" group-title="Canais : Filmes ",Axn FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899406.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Axn FHD (L)" tvg-logo="https://myclient.host/FILMES%26SERIES/AXN.png" group-title="Canais : Legendados",Axn FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899250.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Axn HD" tvg-logo="https://myclient.host/FILMES%26SERIES/AXN.png" group-title="Canais : Filmes ",Axn HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898636.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Axn HD (L)" tvg-logo="https://myclient.host/FILMES%26SERIES/AXN.png" group-title="Canais : Legendados",Axn HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899251.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Axn SD" tvg-logo="https://myclient.host/FILMES%26SERIES/AXN.png" group-title="Canais : Filmes ",Axn SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899064.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Axn [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/AXN.png" group-title="Canais : Filmes ",Axn [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898860.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BabyTV SD" tvg-logo="https://myclient.host/INFANTIL/BABY%20TV.png" group-title="Canais : Infantis",BabyTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899065.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Bahia HD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899066.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Bsb HD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Bsb HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898960.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Campinas FHD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Campinas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899026.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Campinas HD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898961.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Goiania HD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Goiania HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898719.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Goiania [H265]" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Goiania [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898946.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Mg FHD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Mg FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899060.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Mg HD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Mg HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899059.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band News FHD" tvg-logo="http://myclient.host/NOTICIAS/bandnews.png" group-title="Canais : Notícias",Band News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899437.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="http://myclient.host/NOTICIAS/bandnews.png" group-title="Canais : Notícias",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898735.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://myclient.host/NOTICIAS/bandnews.png" group-title="Canais : Notícias",Band News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899068.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band News [H265]" tvg-logo="http://myclient.host/NOTICIAS/bandnews.png" group-title="Canais : Notícias",Band News [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898861.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Rio FHD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Rio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898954.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Rio HD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898962.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Rs HD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Rs HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898963.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band SD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899067.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Sergipe HD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898964.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Sp FHD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Sp FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899439.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Sp HD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Sp HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898965.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports FHD" tvg-logo="https://myclient.host/ESPORTES/BAND%20SPORTS.png" group-title="Canais : Esportes",Band Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899339.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://myclient.host/ESPORTES/BAND%20SPORTS.png" group-title="Canais : Esportes",Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898637.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports SD" tvg-logo="https://myclient.host/ESPORTES/BAND%20SPORTS.png" group-title="Canais : Esportes",Band Sports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899069.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports [H265]" tvg-logo="https://myclient.host/ESPORTES/BAND%20SPORTS.png" group-title="Canais : Esportes",Band Sports [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898862.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Taroba FHD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Taroba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899020.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Taroba FHD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Taroba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899046.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Band Taroba HD" tvg-logo="http://myclient.host/ABERTOS/BAND.png" group-title="Canais : Abertos",Band Taroba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899000.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (0)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (0)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899217.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (1)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898842.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (10)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (10)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898851.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (2)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898843.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (3)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898844.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (4)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898845.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (5)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (5)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898846.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (6)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (6)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898847.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (7)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (7)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898848.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (8)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (8)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898849.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BBB (9)" tvg-logo="https://negociosrpc-sitev2.s3.us-east-1.amazonaws.com/wp-content/uploads/2021/12/28180314/bbb22.png" group-title="Canais : BBB22",BBB (9)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898850.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Bbc World FHD" tvg-logo="http://myclient.host/NOTICIAS/bbc_world.png" group-title="Canais : Notícias",Bbc World FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899451.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Bbc World HD" tvg-logo="http://myclient.host/NOTICIAS/bbc_world.png" group-title="Canais : Notícias",Bbc World HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898766.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="BH FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",BH FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898823.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Bis FHD" tvg-logo="https://myclient.host/VARIEDADES/bis.png" group-title="Canais : Variedades",Bis FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899452.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Bis HD" tvg-logo="https://myclient.host/VARIEDADES/bis.png" group-title="Canais : Variedades",Bis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898638.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Bis SD" tvg-logo="https://myclient.host/VARIEDADES/bis.png" group-title="Canais : Variedades",Bis SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899070.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Bis [H265]" tvg-logo="https://myclient.host/VARIEDADES/bis.png" group-title="Canais : Variedades",Bis [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898863.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD" tvg-logo="https://myclient.host/INFANTIL/1638551413042.png" group-title="Canais : Infantis",Cartoonito SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899071.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA AO VIVO - FOZ DO IGUAÇU" tvg-logo="http://myclient.host/ABERTOS/CAMERAREAL.png" group-title="Canais : Camêras ",CAMERA AO VIVO - FOZ DO IGUAÇU
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899336.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA AO VIVO - MIAMI FL" tvg-logo="http://myclient.host/ABERTOS/CAMERAREAL.png" group-title="Canais : Camêras ",CAMERA AO VIVO - MIAMI FL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899338.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA AO VIVO - RIO DE JANEIRO" tvg-logo="http://myclient.host/ABERTOS/CAMERAREAL.png" group-title="Canais : Camêras ",CAMERA AO VIVO - RIO DE JANEIRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899329.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO - BALNEARIO CAMBURIU" tvg-logo="http://myclient.host/ABERTOS/CAMERAREAL.png" group-title="Canais : Camêras ",CAMERAS AO VIVO - BALNEARIO CAMBURIU
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899337.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO - BARRA DA LAGOA" tvg-logo="http://myclient.host/ABERTOS/CAMERAREAL.png" group-title="Canais : Camêras ",CAMERAS AO VIVO - BARRA DA LAGOA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899331.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO - FLORIDA" tvg-logo="http://myclient.host/ABERTOS/CAMERAREAL.png" group-title="Canais : Camêras ",CAMERAS AO VIVO - FLORIDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899334.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO - GOIANIA GO" tvg-logo="http://myclient.host/ABERTOS/CAMERAREAL.png" group-title="Canais : Camêras ",CAMERAS AO VIVO - GOIANIA GO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899335.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO - Guaruja" tvg-logo="http://myclient.host/ABERTOS/CAMERAREAL.png" group-title="Canais : Camêras ",CAMERAS AO VIVO - Guaruja
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899333.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO - SAO PAULO - UBATUBA" tvg-logo="http://myclient.host/ABERTOS/CAMERAREAL.png" group-title="Canais : Camêras ",CAMERAS AO VIVO - SAO PAULO - UBATUBA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899330.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMERAS AO VIVO -BARRA DA TIJUCA" tvg-logo="http://myclient.host/ABERTOS/CAMERAREAL.png" group-title="Canais : Camêras ",CAMERAS AO VIVO -BARRA DA TIJUCA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899332.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca (1)" tvg-logo="" group-title="Canais : Ppv",Campeonato Carioca (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898774.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca (2)" tvg-logo="" group-title="Canais : Ppv",Campeonato Carioca (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898775.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (1)" tvg-logo="" group-title="Canais : Ppv",CAMPEONATO CATARINENSE (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898728.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (2)" tvg-logo="" group-title="Canais : Ppv",CAMPEONATO CATARINENSE (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898727.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (3)" tvg-logo="" group-title="Canais : Ppv",CAMPEONATO CATARINENSE (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898729.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (4)" tvg-logo="" group-title="Canais : Ppv",CAMPEONATO CATARINENSE (4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898730.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense (5)" tvg-logo="" group-title="Canais : Ppv",Campeonato Catarinense (5)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898777.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro (1)" tvg-logo="" group-title="Canais : Ppv",Campeonato Mineiro (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898855.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro (2)" tvg-logo="" group-title="Canais : Ppv",Campeonato Mineiro (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898856.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense (1)" tvg-logo="" group-title="Canais : Ppv",Campeonato Paranaense (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898852.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense (2)" tvg-logo="" group-title="Canais : Ppv",Campeonato Paranaense (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898853.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense (3)" tvg-logo="" group-title="Canais : Ppv",Campeonato Paranaense (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898854.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipiano (1)" tvg-logo="" group-title="Canais : Ppv",Campeonato Sergipiano (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898771.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipiano (2)" tvg-logo="" group-title="Canais : Ppv",Campeonato Sergipiano (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898772.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/CANAL%20BRASIL.png" group-title="Canais : Filmes ",Canal Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899454.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="https://myclient.host/FILMES%26SERIES/CANAL%20BRASIL.png" group-title="Canais : Filmes ",Canal Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898767.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil SD" tvg-logo="https://myclient.host/FILMES%26SERIES/CANAL%20BRASIL.png" group-title="Canais : Filmes ",Canal Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899072.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/CANAL%20BRASIL.png" group-title="Canais : Filmes ",Canal Brasil [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898865.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi SD" tvg-logo="" group-title="Canais : Abertos",Canal do Boi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899073.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural HD" tvg-logo="" group-title="Canais : Abertos",Canal Rural HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898829.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="https://myclient.host/FILMES%26SERIES/SONY%20CHANNEL.png" group-title="Canais : Filmes ",Canal Sony HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898639.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sony SD" tvg-logo="https://myclient.host/FILMES%26SERIES/SONY%20CHANNEL.png" group-title="Canais : Filmes ",Canal Sony SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899074.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sony [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/SONY%20CHANNEL.png" group-title="Canais : Filmes ",Canal Sony [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898866.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canção Nova HD" tvg-logo="" group-title="Canais : Religiosos",Canção Nova HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898830.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Canção Nova SD" tvg-logo="" group-title="Canais : Religiosos",Canção Nova SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899075.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="https://myclient.host/INFANTIL/CARTOOM%20NETWORK.png" group-title="Canais : Infantis",Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899394.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://myclient.host/INFANTIL/CARTOOM%20NETWORK.png" group-title="Canais : Infantis",Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898640.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="https://myclient.host/INFANTIL/CARTOOM%20NETWORK.png" group-title="Canais : Infantis",Cartoon Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899076.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network [H265]" tvg-logo="https://myclient.host/INFANTIL/CARTOOM%20NETWORK.png" group-title="Canais : Infantis",Cartoon Network [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898867.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD" tvg-logo="https://myclient.host/INFANTIL/1638551413042.png" group-title="Canais : Infantis",Cartoonito FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899393.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://myclient.host/INFANTIL/1638551413042.png" group-title="Canais : Infantis",Cartoonito HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898754.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://myclient.host/INFANTIL/1638551413042.png" group-title="Canais : Infantis",Cartoonito HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898841.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD" tvg-logo="https://myclient.host/INFANTIL/1638551413042.png" group-title="Canais : Infantis",Cartoonito SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899216.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito [H265]" tvg-logo="https://myclient.host/INFANTIL/1638551413042.png" group-title="Canais : Infantis",Cartoonito [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898864.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CBN (RADIOS)" tvg-logo="" group-title="Canais : Rádios",CBN (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898809.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Chefe Tv HD" tvg-logo="" group-title="Canais : Abertos",Chefe Tv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898792.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CIDADE FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",CIDADE FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898821.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky (2) FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="Canais : Cine Sky",Cine Sky (2) FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899219.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky (3)  FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="Canais : Cine Sky",Cine Sky (3)  FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899220.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky (4) FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="Canais : Cine Sky",Cine Sky (4) FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899221.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky (5) FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/CINE%20SKY.png" group-title="Canais : Cine Sky",Cine Sky (5) FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899222.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/CINEMAX.png" group-title="Canais : Filmes ",Cinemax FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899412.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://myclient.host/FILMES%26SERIES/CINEMAX.png" group-title="Canais : Filmes ",Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898641.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="https://myclient.host/FILMES%26SERIES/CINEMAX.png" group-title="Canais : Filmes ",Cinemax SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899077.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/CINEMAX.png" group-title="Canais : Filmes ",Cinemax [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898868.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="CLUBE FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",CLUBE FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898826.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Brasil FHD" tvg-logo="http://myclient.host/NOTICIAS/cnn_brasil.png" group-title="Canais : Notícias",Cnn Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898953.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Brasil HD" tvg-logo="http://myclient.host/NOTICIAS/cnn_brasil.png" group-title="Canais : Notícias",Cnn Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898734.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Brasil SD" tvg-logo="http://myclient.host/NOTICIAS/cnn_brasil.png" group-title="Canais : Notícias",Cnn Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899205.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Cnn FHD" tvg-logo="http://myclient.host/NOTICIAS/cnn.png" group-title="Canais : Notícias",Cnn FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899423.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COCA COLA FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",COCA COLA FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898812.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Combate FHD" tvg-logo="https://myclient.host/ESPORTES/COMBATE.png" group-title="Canais : Esportes",Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899355.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="https://myclient.host/ESPORTES/COMBATE.png" group-title="Canais : Esportes",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898642.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Combate SD" tvg-logo="https://myclient.host/ESPORTES/COMBATE.png" group-title="Canais : Esportes",Combate SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899078.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Combate [H265]" tvg-logo="https://myclient.host/ESPORTES/COMBATE.png" group-title="Canais : Esportes",Combate [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898869.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="https://myclient.host/VARIEDADES/COMEDY%20CENTRAL.png" group-title="Canais : Variedades",Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899429.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://myclient.host/VARIEDADES/COMEDY%20CENTRAL.png" group-title="Canais : Variedades",Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898643.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central SD" tvg-logo="https://myclient.host/VARIEDADES/COMEDY%20CENTRAL.png" group-title="Canais : Variedades",Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899079.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central [H265]" tvg-logo="https://myclient.host/VARIEDADES/COMEDY%20CENTRAL.png" group-title="Canais : Variedades",Comedy Central [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898870.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv FHD (1)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv FHD (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898747.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv FHD (2)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv FHD (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898748.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv FHD (3)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv FHD (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898751.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv FHD (4)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv FHD (4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898779.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv HD (1)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv HD (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898749.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv HD (2)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv HD (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898750.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv HD (3)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv HD (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898752.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv HD (4)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv HD (4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898778.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv SD (1)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv SD (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899209.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv SD (2)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv SD (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899212.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv SD (3)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv SD (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899214.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Conmebol Tv SD (4)" tvg-logo="" group-title="Canais : Ppv",Conmebol Tv SD (4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899210.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE (5)" tvg-logo="" group-title="Canais : Ppv",COPA DO NORDESTE (5)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898741.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE (6)" tvg-logo="" group-title="Canais : Ppv",COPA DO NORDESTE (6)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898742.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (1)" tvg-logo="" group-title="Canais : Ppv",COPA DO NORDESTE 2020 (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898726.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (2)" tvg-logo="" group-title="Canais : Ppv",COPA DO NORDESTE 2020 (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898731.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (3)" tvg-logo="" group-title="Canais : Ppv",COPA DO NORDESTE 2020 (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898732.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (4)" tvg-logo="" group-title="Canais : Ppv",COPA DO NORDESTE 2020 (4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898733.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Curta SD" tvg-logo="https://myclient.host/VARIEDADES/CURTA%21.png" group-title="Canais : Filmes ",Curta SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899080.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Dazn (1) HD" tvg-logo="" group-title="Canais : Ppv",Dazn (1) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898966.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Dazn (2) HD" tvg-logo="" group-title="Canais : Ppv",Dazn (2) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898967.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Dazn (3) HD" tvg-logo="" group-title="Canais : Ppv",Dazn (3) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898968.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (4)" tvg-logo="" group-title="Canais : Ppv",DAZN (4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898743.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="Canais : Documentários",Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899379.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="Canais : Documentários",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898644.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="Canais : Documentários",Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899081.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="Canais : Documentários",Discovery Channel [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898871.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&h FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20HOME%20%26%20HEALTH.png" group-title="Canais : Documentários",Discovery H&h FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899378.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20HOME%20%26%20HEALTH.png" group-title="Canais : Documentários",Discovery H&H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898646.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery h&h SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20HOME%20%26%20HEALTH.png" group-title="Canais : Documentários",Discovery h&h SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899082.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery h&h [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20HOME%20%26%20HEALTH.png" group-title="Canais : Documentários",Discovery h&h [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898873.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="https://myclient.host/INFANTIL/DISCOVERY%20KIDS.png" group-title="Canais : Infantis",Discovery Kids FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899395.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://myclient.host/INFANTIL/DISCOVERY%20KIDS.png" group-title="Canais : Infantis",Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898647.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids SD" tvg-logo="https://myclient.host/INFANTIL/DISCOVERY%20KIDS.png" group-title="Canais : Infantis",Discovery Kids SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899083.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids [H265]" tvg-logo="https://myclient.host/INFANTIL/DISCOVERY%20KIDS.png" group-title="Canais : Infantis",Discovery Kids [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898874.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20SCIENCE.png" group-title="Canais : Documentários",Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899391.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20SCIENCE.png" group-title="Canais : Documentários",Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898648.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20SCIENCE.png" group-title="Canais : Documentários",Discovery Science [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898875.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20THEATER.png" group-title="Canais : Documentários",Discovery Theater FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899392.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20THEATER.png" group-title="Canais : Documentários",Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898649.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20THEATER.png" group-title="Canais : Documentários",Discovery Theater [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898876.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="Canais : Documentários",Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899389.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="Canais : Documentários",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898650.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="Canais : Documentários",Discovery Turbo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899084.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="Canais : Documentários",Discovery Turbo [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898877.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20WORLD.png" group-title="Canais : Documentários",Discovery World FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899373.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20WORLD.png" group-title="Canais : Documentários",Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898651.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20WORLD.png" group-title="Canais : Documentários",Discovery World [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898878.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20CHANNEL.png" group-title="Canais : Infantis",Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899396.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20CHANNEL.png" group-title="Canais : Infantis",Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898652.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel [H265]" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20CHANNEL.png" group-title="Canais : Infantis",Disney Channel [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898879.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20JUNIOR.png" group-title="Canais : Infantis",Disney Junior FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899397.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20JUNIOR.png" group-title="Canais : Infantis",Disney Junior HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898653.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior SD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20JUNIOR.png" group-title="Canais : Infantis",Disney Junior SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899086.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior [H265]" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20JUNIOR.png" group-title="Canais : Infantis",Disney Junior [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898880.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Disney channel SD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20CHANNEL.png" group-title="Canais : Infantis",Disney channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899085.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD SD" tvg-logo="https://myclient.host/INFANTIL/DISNEY%20XD.png" group-title="Canais : Infantis",Disney XD SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899087.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Dog Tv FHD" tvg-logo="https://myclient.host/VARIEDADES/DOG%20TV.png" group-title="Canais : Variedades",Dog Tv FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899351.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Dog Tv HD" tvg-logo="https://myclient.host/VARIEDADES/DOG%20TV.png" group-title="Canais : Documentários",Dog Tv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898769.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="https://myclient.host/VARIEDADES/E%21.png" group-title="Canais : Variedades",E! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899435.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://myclient.host/VARIEDADES/E%21.png" group-title="Canais : Variedades",E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898654.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="https://myclient.host/VARIEDADES/E%21.png" group-title="Canais : Variedades",E! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899088.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="E! [H265]" tvg-logo="https://myclient.host/VARIEDADES/E%21.png" group-title="Canais : Variedades",E! [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898881.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="EI PLUS SD (1)" tvg-logo="" group-title="Canais : Ppv",EI PLUS SD (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899211.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports (1)" tvg-logo="" group-title="Canais : Ppv",Eleven Sports (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898797.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports (10)" tvg-logo="" group-title="Canais : Ppv",Eleven Sports (10)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898806.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports (2)" tvg-logo="" group-title="Canais : Ppv",Eleven Sports (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898798.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports (3)" tvg-logo="" group-title="Canais : Ppv",Eleven Sports (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898799.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports (4)" tvg-logo="" group-title="Canais : Ppv",Eleven Sports (4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898800.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports (5)" tvg-logo="" group-title="Canais : Ppv",Eleven Sports (5)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898801.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports (6)" tvg-logo="" group-title="Canais : Ppv",Eleven Sports (6)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898802.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports (7)" tvg-logo="" group-title="Canais : Ppv",Eleven Sports (7)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898803.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports (8)" tvg-logo="" group-title="Canais : Ppv",Eleven Sports (8)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898804.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports (9)" tvg-logo="" group-title="Canais : Ppv",Eleven Sports (9)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898805.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eptv Campinas FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Eptv Campinas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899006.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eptv Campinas HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Eptv Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899005.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eptv Campinas SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Eptv Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899090.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eptv Ribeirao Preto SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Eptv Ribeirao Preto SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899091.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eptv Ribeirão Preto HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Eptv Ribeirão Preto HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899272.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eptv Ribeirão Preto [H265]" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Eptv Ribeirão Preto [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899010.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="EPTV Sao Carlos SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",EPTV Sao Carlos SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899089.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eptv Sul De Minas FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Eptv Sul De Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899011.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Eptv Sul De Minas HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Eptv Sul De Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899271.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3 FHD" tvg-logo="https://myclient.host/ESPORTES/ESPN_3.png" group-title="Canais : Esportes",Espn 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899343.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3 SD" tvg-logo="https://myclient.host/ESPORTES/ESPN_3.png" group-title="Canais : Esportes",Espn 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899093.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4 FHD" tvg-logo="https://myclient.host/ESPORTES/ESPN_4.png" group-title="Canais : Esportes",Espn 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899345.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4 FHDR" tvg-logo="https://myclient.host/ESPORTES/ESPN_4.png" group-title="Canais : Esportes",Espn 4 FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898959.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4 HD" tvg-logo="https://myclient.host/ESPORTES/ESPN_4.png" group-title="Canais : Esportes",Espn 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898665.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4 [H265]" tvg-logo="https://myclient.host/ESPORTES/ESPN_4.png" group-title="Canais : Esportes",Espn 4 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898891.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn FHD" tvg-logo="https://myclient.host/ESPORTES/ESPN.png" group-title="Canais : Esportes",Espn FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899340.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn HD" tvg-logo="https://myclient.host/ESPORTES/ESPN.png" group-title="Canais : Esportes",Espn HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898656.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn SD" tvg-logo="https://myclient.host/ESPORTES/ESPN.png" group-title="Canais : Esportes",Espn SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899094.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn [H265]" tvg-logo="https://myclient.host/ESPORTES/ESPN.png" group-title="Canais : Esportes",Espn [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898885.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn Extra FHD" tvg-logo="https://myclient.host/ESPORTES/ESPN%20EXTRA.png" group-title="Canais : Esportes",Espn Extra FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899341.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn Extra HD" tvg-logo="https://myclient.host/ESPORTES/ESPN%20EXTRA.png" group-title="Canais : Esportes",Espn Extra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898658.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn Extra [H265]" tvg-logo="https://myclient.host/ESPORTES/ESPN%20EXTRA.png" group-title="Canais : Esportes",Espn Extra [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898882.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2 FHD" tvg-logo="https://myclient.host/ESPORTES/ESPN_2.png" group-title="Canais : Esportes",Espn 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899342.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2 HD" tvg-logo="https://myclient.host/ESPORTES/ESPN_2.png" group-title="Canais : Esportes",Espn 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898657.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2 SD" tvg-logo="https://myclient.host/ESPORTES/ESPN_2.png" group-title="Canais : Esportes",Espn 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899092.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2 [H265]" tvg-logo="https://myclient.host/ESPORTES/ESPN_2.png" group-title="Canais : Esportes",Espn 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898883.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3 HD" tvg-logo="https://myclient.host/ESPORTES/ESPN_3.png" group-title="Canais : Esportes",Espn 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898655.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3 [H265]" tvg-logo="https://myclient.host/ESPORTES/ESPN_3.png" group-title="Canais : Esportes",Espn 3 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898884.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fashion Tv FHD" tvg-logo="" group-title="Canais : Abertos",Fashion Tv FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899445.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV HD" tvg-logo="" group-title="Canais : Abertos",Fashion TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898760.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Film & Art FHD" tvg-logo="https://myclient.host/VARIEDADES/FILM%20%26%20ARTS.png" group-title="Canais : Filmes ",Film & Art FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899426.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Film & Art HD" tvg-logo="https://myclient.host/VARIEDADES/FILM%20%26%20ARTS.png" group-title="Canais : Filmes ",Film & Art HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898757.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Film & Arts SD" tvg-logo="https://myclient.host/VARIEDADES/FILM%20%26%20ARTS.png" group-title="Canais : Filmes ",Film & Arts SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899095.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fish TV SD" tvg-logo="https://myclient.host/ESPORTES/FISH%20TV.png" group-title="Canais : Esportes",Fish TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899096.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="FishTV [H265]" tvg-logo="https://myclient.host/ESPORTES/FISH%20TV.png" group-title="Canais : Esportes",FishTV [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898886.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fla TV" tvg-logo="" group-title="Canais : Ppv",Fla TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898773.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="https://myclient.host/VARIEDADES/FOOD%20NETWORK.png" group-title="Canais : Variedades",Food Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899434.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="https://myclient.host/VARIEDADES/FOOD%20NETWORK.png" group-title="Canais : Variedades",Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898659.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Food Network [H265]" tvg-logo="https://myclient.host/VARIEDADES/FOOD%20NETWORK.png" group-title="Canais : Variedades",Food Network [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898887.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Formula 1 PPV" tvg-logo="" group-title="Canais : Ppv",Formula 1 PPV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898776.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS%202.png" group-title="Canais : Esportes",Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899344.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS%202.png" group-title="Canais : Esportes",Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898664.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS%202.png" group-title="Canais : Esportes",Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899101.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 [H265]" tvg-logo="https://myclient.host/ESPORTES/FOX%20SPORTS%202.png" group-title="Canais : Esportes",Fox Sports 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898892.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Furacão Tv HD" tvg-logo="" group-title="Canais : Ppv",Furacão Tv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898831.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="" group-title="Canais : Abertos",Futura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899102.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fx FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/FX.png" group-title="Canais : Filmes ",Fx FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899413.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fx HD" tvg-logo="https://myclient.host/FILMES%26SERIES/FX.png" group-title="Canais : Filmes ",Fx HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898666.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fx SD" tvg-logo="https://myclient.host/FILMES%26SERIES/FX.png" group-title="Canais : Filmes ",Fx SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899103.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Fx [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/FX.png" group-title="Canais : Filmes ",Fx [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898893.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GAUCHA ZH (Radios)" tvg-logo="" group-title="Canais : Rádios",GAUCHA ZH (Radios)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898811.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",GAZETA FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898819.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Gazeta Sp HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Gazeta Sp HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898974.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="GERAÇÃO FUNK FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",GERAÇÃO FUNK FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898822.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Alagoas FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Alagoas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899289.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Alagoas FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Alagoas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899311.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Alagoas HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Alagoas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899290.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Alagoas HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Alagoas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899312.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Bahia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899019.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899328.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898975.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Brasilia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899104.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia [H265]" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Brasilia [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899263.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Caruaru FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Caruaru FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898770.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Caruaru HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Caruaru HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899261.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Gazeta Vitoria FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Gazeta Vitoria FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899318.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Gazeta Vitoria HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Gazeta Vitoria HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899319.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Integração Araxá FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Integração Araxá FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899323.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Integração Araxá HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Integração Araxá HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899324.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Integração Mg FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Integração Mg FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899034.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Integração Mg HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Integração Mg HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899033.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Integração Uberaba HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Integração Uberaba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899322.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Tv Rio FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Inter Tv Rio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899028.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Tv Rio HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Inter Tv Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899027.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Vale Mg FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Inter Vale Mg FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899030.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Vale Mg HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Inter Vale Mg HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899029.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Interior Rio HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Interior Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899266.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Joaçaba FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Joaçaba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899295.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Joaçaba HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Joaçaba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899296.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Juazeiro Bahia FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Juazeiro Bahia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899038.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Juazeiro Bahia HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Juazeiro Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899037.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Juiz De Fora FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Juiz De Fora FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899293.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Juiz De Fora HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Juiz De Fora HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899294.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899267.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Maranhão HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Maranhão HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899265.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mg SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Mg SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899105.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mg [H265]" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Mg [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899264.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899268.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mogi Das Cruzes FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Mogi Das Cruzes FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899297.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mogi Das Cruzes HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Mogi Das Cruzes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899298.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Montes Claros Mg FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Montes Claros Mg FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899287.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Montes Claros Mg HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Montes Claros Mg HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899288.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo News FHD" tvg-logo="http://myclient.host/NOTICIAS/globonews.png" group-title="Canais : Notícias",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899424.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="http://myclient.host/NOTICIAS/globonews.png" group-title="Canais : Notícias",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898667.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo News SD" tvg-logo="http://myclient.host/NOTICIAS/globonews.png" group-title="Canais : Notícias",Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899106.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo News [H265]" tvg-logo="http://myclient.host/NOTICIAS/globonews.png" group-title="Canais : Notícias",Globo News [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898894.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899031.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899032.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nordeste SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899107.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nsc Blumenau FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nsc Blumenau FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899055.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nsc Blumenau HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nsc Blumenau HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899056.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nsc Chapeco FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nsc Chapeco FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899316.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nsc Chapeco HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nsc Chapeco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899317.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nsc TV Santa Catarina HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nsc TV Santa Catarina HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898997.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nsctv Florianopolis HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nsctv Florianopolis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899269.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nsctv Joi FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nsctv Joi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899274.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Nsctv Joi HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Nsctv Joi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899275.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Paraiba HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Paraiba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899262.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Paranavai HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Paranavai HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899279.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Piaui HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Piaui HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899260.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Porto Velho FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Porto Velho FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899052.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Porto Velho HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Porto Velho HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899051.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Presidente Prudente FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Presidente Prudente FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899291.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Presidente Prudente HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Presidente Prudente HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899292.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rbs Caxias FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rbs Caxias FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899015.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rbs Caxias HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rbs Caxias HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899014.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rbs FHDR" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rbs FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899285.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rbs FHDR" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rbs FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899286.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rbs Passo Fundo FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rbs Passo Fundo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899048.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rbs Passo Fundo HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rbs Passo Fundo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899047.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rbs Pelotas FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rbs Pelotas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899016.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rbs Pelotas HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rbs Pelotas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899017.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Porto Alegre SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo RBS Porto Alegre SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899149.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rbstv Santa Maria HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rbstv Santa Maria HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899371.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899004.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898976.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rio SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899108.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Roraima FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Roraima FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899050.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Roraima HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Roraima HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899049.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rpc Cascavel FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rpc Cascavel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899040.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rpc Cascavel HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rpc Cascavel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899039.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rpc Curitiba FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rpc Curitiba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899044.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rpc Curitiba HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rpc Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899043.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rpc Foz Do Iguaçu FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rpc Foz Do Iguaçu FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899018.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rpc Foz Do Iguaçu HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rpc Foz Do Iguaçu HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899273.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rpc Parana HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Rpc Parana HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898999.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC PARANAVAI FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo RPC PARANAVAI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899278.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Santa Cruz HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Santa Cruz HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898994.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Santos FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Santos FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899325.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Sergipe HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898977.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Sp FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Sp FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899259.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899284.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899109.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Sp [H265]" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Sp [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899258.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Subae HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Subae HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898995.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tem Bauru FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tem Bauru FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899280.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tem Bauru HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tem Bauru HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899281.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Cabo Branco FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Cabo Branco FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899314.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Cabo Branco HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Cabo Branco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899315.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Clube Piaui FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Clube Piaui FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899313.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Integração Divinópolis FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Integração Divinópolis FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899302.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Integração Divinópolis HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Integração Divinópolis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899301.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Liberal Belem HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Liberal Belem HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899007.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Morena FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Morena FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899276.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Morena HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Morena HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899277.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Itape FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Tem Itape FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899282.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Itape HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Tem Itape HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899283.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Sorocaba FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Tem Sorocaba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899320.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Sorocaba HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Tem Sorocaba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899321.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tribuna HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Globo Tv Tribuna HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899022.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globosat FHD" tvg-logo="https://myclient.host/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="Canais : Filmes ",Globosat FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899453.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globosat HD" tvg-logo="https://myclient.host/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="Canais : Filmes ",Globosat HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898668.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="https://myclient.host/INFANTIL/GLOOB.png" group-title="Canais : Infantis",Gloob FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899398.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="https://myclient.host/INFANTIL/GLOOB.png" group-title="Canais : Infantis",Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898669.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Gloob SD" tvg-logo="https://myclient.host/INFANTIL/GLOOB.png" group-title="Canais : Infantis",Gloob SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899110.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Gloob [H265]" tvg-logo="https://myclient.host/INFANTIL/GLOOB.png" group-title="Canais : Infantis",Gloob [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898895.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Gnt FHD" tvg-logo="https://myclient.host/VARIEDADES/GNT.png" group-title="Canais : Documentários",Gnt FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899433.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Gnt HD" tvg-logo="https://myclient.host/VARIEDADES/GNT.png" group-title="Canais : Documentários",Gnt HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898670.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Gnt SD" tvg-logo="https://myclient.host/VARIEDADES/GNT.png" group-title="Canais : Documentários",Gnt SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899111.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Gnt [H265]" tvg-logo="https://myclient.host/VARIEDADES/GNT.png" group-title="Canais : Documentários",Gnt [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898896.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Movie Tv HD" tvg-logo="" group-title="Canais : Religiosos",Gospel Movie Tv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898784.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo 1 HD" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="Canais : Hbo",Hbo 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898673.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo 2 FHD" tvg-logo="https://myclient.host/HBO/HBO%202.png" group-title="Canais : Hbo",Hbo 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899364.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo family FHD" tvg-logo="https://myclient.host/HBO/HBO%20FAMILY.png" group-title="Canais : Hbo",Hbo family FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899366.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Family HD" tvg-logo="https://myclient.host/HBO/HBO%20FAMILY.png" group-title="Canais : Hbo",Hbo Family HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898672.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Family SD" tvg-logo="https://myclient.host/HBO/HBO%20FAMILY.png" group-title="Canais : Hbo",Hbo Family SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899113.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Family [H265]" tvg-logo="https://myclient.host/HBO/HBO%20FAMILY.png" group-title="Canais : Hbo",Hbo Family [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898897.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo FHD" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="Canais : Hbo",Hbo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899363.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo FHD (L)" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="Canais : Legendados",Hbo FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899236.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo HD (L)" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="Canais : Legendados",Hbo HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899237.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Max (1) HD" tvg-logo="" group-title="Canais : Ppv",Hbo Max (1) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898834.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Max (2) HD" tvg-logo="" group-title="Canais : Ppv",Hbo Max (2) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898835.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Max (3) HD" tvg-logo="" group-title="Canais : Ppv",Hbo Max (3) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898836.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Max (4) HD" tvg-logo="" group-title="Canais : Ppv",Hbo Max (4) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898837.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Mundi FHD" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="Canais : Hbo",Hbo Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899368.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Mundi FHD (L)" tvg-logo="https://myclient.host/HBO/HBO%20MUNDI.png" group-title="Canais : Legendados",Hbo Mundi FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899242.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Mundi HD" tvg-logo="https://myclient.host/HBO/HBO%20MUNDI.png" group-title="Canais : Hbo",Hbo Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898680.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Mundi HD (L)" tvg-logo="https://myclient.host/HBO/HBO%20MUNDI.png" group-title="Canais : Legendados",Hbo Mundi HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899243.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Mundi [H265]" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="Canais : Hbo",Hbo Mundi [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898907.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo plus FHD" tvg-logo="https://myclient.host/HBO/HBO%20PLUS.png" group-title="Canais : Hbo",Hbo plus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899365.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Plus FHD (L)" tvg-logo="https://myclient.host/HBO/HBO%20PLUS.png" group-title="Canais : Legendados",Hbo Plus FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899238.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Plus HD" tvg-logo="https://myclient.host/HBO/HBO%20PLUS.png" group-title="Canais : Hbo",Hbo Plus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898674.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Plus HD (L)" tvg-logo="https://myclient.host/HBO/HBO%20PLUS.png" group-title="Canais : Legendados",Hbo Plus HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899239.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Plus SD" tvg-logo="https://myclient.host/HBO/HBO%20PLUS.png" group-title="Canais : Hbo",Hbo Plus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899114.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Plus [H265]" tvg-logo="https://myclient.host/HBO/HBO%20PLUS.png" group-title="Canais : Hbo",Hbo Plus [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898899.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Pop FHD" tvg-logo="https://myclient.host/HBO/HBO%20POP.png" group-title="Canais : Hbo",Hbo Pop FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899370.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Pop FHD (L)" tvg-logo="https://myclient.host/HBO/HBO%20POP.png" group-title="Canais : Legendados",Hbo Pop FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899244.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Pop HD" tvg-logo="https://myclient.host/HBO/HBO%20POP.png" group-title="Canais : Hbo",Hbo Pop HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898682.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Pop HD (L)" tvg-logo="https://myclient.host/HBO/HBO%20POP.png" group-title="Canais : Legendados",Hbo Pop HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899245.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Pop [H265]" tvg-logo="https://myclient.host/HBO/HBO%20POP.png" group-title="Canais : Hbo",Hbo Pop [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898909.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo SD" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="Canais : Hbo",Hbo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899112.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Signature FHD" tvg-logo="https://myclient.host/HBO/HBO%20SIGNATURE.png" group-title="Canais : Hbo",Hbo Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899367.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Signature FHD (L)" tvg-logo="https://myclient.host/HBO/HBO%20SIGNATURE.png" group-title="Canais : Legendados",Hbo Signature FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899240.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="https://myclient.host/HBO/HBO%20SIGNATURE.png" group-title="Canais : Hbo",HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898675.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Signature HD (L)" tvg-logo="https://myclient.host/HBO/HBO%20SIGNATURE.png" group-title="Canais : Legendados",Hbo Signature HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899241.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://myclient.host/HBO/HBO%20SIGNATURE.png" group-title="Canais : Hbo",HBO Signature SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899115.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Signature [H265]" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="Canais : Hbo",Hbo Signature [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898900.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Xtreme FHD" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="Canais : Hbo",Hbo Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899369.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Xtreme FHD (L)" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="Canais : Legendados",Hbo Xtreme FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899246.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Xtreme HD" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="Canais : Hbo",Hbo Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898681.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Xtreme HD (L)" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="Canais : Legendados",Hbo Xtreme HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899247.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Xtreme [H265]" tvg-logo="https://myclient.host/HBO/HBO%20XTREME.png" group-title="Canais : Hbo",Hbo Xtreme [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898908.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo [H265]" tvg-logo="https://myclient.host/HBO/HBO.png" group-title="Canais : Hbo",Hbo [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898898.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo2 HD" tvg-logo="https://myclient.host/HBO/HBO%202.png" group-title="Canais : Hbo",Hbo2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898671.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo2 SD" tvg-logo="https://myclient.host/HBO/HBO%202.png" group-title="Canais : Hbo",Hbo2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899116.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hbo2 [H265]" tvg-logo="https://myclient.host/HBO/HBO%202.png" group-title="Canais : Hbo",Hbo2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898901.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hgtv FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HGTV%20HOME%20%26%20GARDEN.png" group-title="Canais : Documentários",Hgtv FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899432.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hgtv HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HGTV%20HOME%20%26%20GARDEN.png" group-title="Canais : Documentários",Hgtv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898645.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Hgtv [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/HGTV%20HOME%20%26%20GARDEN.png" group-title="Canais : Documentários",Hgtv [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898872.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="History 2 FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%202.png" group-title="Canais : Documentários",History 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899377.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%202.png" group-title="Canais : Documentários",History 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898676.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="History 2 SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%202.png" group-title="Canais : Documentários",History 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899117.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="History 2 [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%202.png" group-title="Canais : Documentários",History 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898903.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="History FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%20CHANNEL.png" group-title="Canais : Documentários",History FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899352.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%20CHANNEL.png" group-title="Canais : Documentários",History HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898677.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="History SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%20CHANNEL.png" group-title="Canais : Documentários",History SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899201.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="History [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/HISTORY%20CHANNEL.png" group-title="Canais : Documentários",History [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898902.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20INVESTIGATION.png" group-title="Canais : Documentários",ID - Investigacao Discovery SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899118.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Inter TV Cabugi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899119.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="InterTv Cabo Frio HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",InterTv Cabo Frio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899003.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20INVESTIGATION.png" group-title="Canais : Documentários",Investigation Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898678.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20INVESTIGATION.png" group-title="Canais : Documentários",Investigation Discovery [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898904.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Investigaçao Discovery FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/DISCOVERY%20INVESTIGATION.png" group-title="Canais : Documentários",Investigaçao Discovery FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899390.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="JB FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",JB FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898817.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAM SP (RADIOS)" tvg-logo="" group-title="Canais : Rádios",JOVEM PAM SP (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898807.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan FHD" tvg-logo="http://myclient.host/NOTICIAS/jovenpantv.png" group-title="Canais : Notícias",Jovem Pan FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899457.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan HD" tvg-logo="http://myclient.host/NOTICIAS/jovenpantv.png" group-title="Canais : Notícias",Jovem Pan HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898840.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD" tvg-logo="https://myclient.host/VARIEDADES/LIFETIME.png" group-title="Canais : Documentários",Lifetime FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899372.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="https://myclient.host/VARIEDADES/LIFETIME.png" group-title="Canais : Documentários",Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898679.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime SD" tvg-logo="https://myclient.host/VARIEDADES/LIFETIME.png" group-title="Canais : Documentários",Lifetime SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899120.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime [H265]" tvg-logo="https://myclient.host/VARIEDADES/LIFETIME.png" group-title="Canais : Documentários",Lifetime [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898905.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal (1)" tvg-logo="" group-title="Canais : Ppv",Liga Futsal (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898745.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature FHD" tvg-logo="https://myclient.host/FILMES&SERIES/Love_Nature_TV.png" group-title="Canais : Documentários",Love Nature FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898952.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat SD" tvg-logo="https://myclient.host/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="Canais : Filmes ",Mais Globosat SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899121.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="MaisGlobosat [H265]" tvg-logo="https://myclient.host/VARIEDADES/MAIS%20GLOBOSAT.png" group-title="Canais : Variedades",MaisGlobosat [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898906.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Megapix FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/MEGAPIX.png" group-title="Canais : Filmes ",Megapix FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899414.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="https://myclient.host/FILMES%26SERIES/MEGAPIX.png" group-title="Canais : Filmes ",Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898683.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="MegaPix SD" tvg-logo="https://myclient.host/FILMES%26SERIES/MEGAPIX.png" group-title="Canais : Filmes ",MegaPix SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899124.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Megapix [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/MEGAPIX.png" group-title="Canais : Filmes ",Megapix [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898910.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="METROPOLITANA FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",METROPOLITANA FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898810.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="METROPOLITANA SERTANEJA (RADIOS)" tvg-logo="" group-title="Canais : Rádios",METROPOLITANA SERTANEJA (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898815.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="MIX FM SP (RADIOS)" tvg-logo="" group-title="Canais : Rádios",MIX FM SP (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898814.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Mtv FHD" tvg-logo="https://myclient.host/VARIEDADES/MTV.png" group-title="Canais : Variedades",Mtv FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899425.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Mtv HD" tvg-logo="https://myclient.host/VARIEDADES/MTV.png" group-title="Canais : Variedades",Mtv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898684.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="https://myclient.host/VARIEDADES/MTV.png" group-title="Canais : Variedades",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899125.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Mtv [H265]" tvg-logo="https://myclient.host/VARIEDADES/MTV.png" group-title="Canais : Variedades",Mtv [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898911.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Multishow FHD" tvg-logo="https://myclient.host/VARIEDADES/multishow.png" group-title="Canais : Variedades",Multishow FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899431.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://myclient.host/VARIEDADES/multishow.png" group-title="Canais : Variedades",Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898685.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Multishow SD" tvg-logo="https://myclient.host/VARIEDADES/multishow.png" group-title="Canais : Variedades",Multishow SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899126.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Multishow [H265]" tvg-logo="https://myclient.host/VARIEDADES/multishow.png" group-title="Canais : Variedades",Multishow [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898912.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Mundial Ideal FHD" tvg-logo="" group-title="Canais : Religiosos",Mundial Ideal FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899450.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Mundial Ideal HD" tvg-logo="" group-title="Canais : Religiosos",Mundial Ideal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898765.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Mundial Ideal SD" tvg-logo="" group-title="Canais : Religiosos",Mundial Ideal SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899204.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="https://myclient.host/VARIEDADES/musicbox.png" group-title="Canais : Variedades",Music Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899128.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD" tvg-logo="https://myclient.host/VARIEDADES/musicbox.png" group-title="Canais : Variedades",Music Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899127.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC.png" group-title="Canais : Documentários",Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898686.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids FHD" tvg-logo="https://myclient.host/INFANTIL/NAT%20GEO%20KIDS.png" group-title="Canais : Infantis",Nat Geo Kids FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899400.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids HD" tvg-logo="https://myclient.host/INFANTIL/NAT%20GEO%20KIDS.png" group-title="Canais : Infantis",Nat Geo Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898687.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC%20WILD.png" group-title="Canais : Documentários",Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898688.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Natgeo FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC.png" group-title="Canais : Documentários",Natgeo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899376.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids SD" tvg-logo="https://myclient.host/INFANTIL/NAT%20GEO%20KIDS.png" group-title="Canais : Infantis",NatGeo Kids SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899129.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids [H265]" tvg-logo="https://myclient.host/INFANTIL/NAT%20GEO%20KIDS.png" group-title="Canais : Infantis",NatGeo Kids [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898915.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild FHD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC%20WILD.png" group-title="Canais : Documentários",Natgeo Wild FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899374.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC%20WILD.png" group-title="Canais : Documentários",NatGeo Wild SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899130.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC%20WILD.png" group-title="Canais : Documentários",NatGeo Wild [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898914.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo [H265]" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC.png" group-title="Canais : Documentários",NatGeo [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898913.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="https://myclient.host/DOCUMENTARIOS/NATIONAL%20GEOGRAPHIC.png" group-title="Canais : Documentários",National Geographic SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899131.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nhk FHD Japão" tvg-logo="" group-title="Canais : Ppv",Nhk FHD Japão
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899042.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nhk HD Japão" tvg-logo="" group-title="Canais : Ppv",Nhk HD Japão
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899041.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nhk SD" tvg-logo="" group-title="Canais : Ppv",Nhk SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899132.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr FHD" tvg-logo="https://myclient.host/INFANTIL/NICK%20JR.png" group-title="Canais : Infantis",Nick Jr FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899402.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="https://myclient.host/INFANTIL/NICK%20JR.png" group-title="Canais : Infantis",Nick Jr HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898690.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nick.Jr SD" tvg-logo="https://myclient.host/INFANTIL/NICK%20JR.png" group-title="Canais : Infantis",Nick.Jr SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899133.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD" tvg-logo="https://myclient.host/INFANTIL/NICKELODEON.png" group-title="Canais : Infantis",Nickelodeon FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899401.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://myclient.host/INFANTIL/NICKELODEON.png" group-title="Canais : Infantis",Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898689.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="https://myclient.host/INFANTIL/NICKELODEON.png" group-title="Canais : Infantis",Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899134.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon [H265]" tvg-logo="https://myclient.host/INFANTIL/NICKELODEON.png" group-title="Canais : Infantis",Nickelodeon [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898916.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Nick.Jr [H265]" tvg-logo="https://myclient.host/INFANTIL/NICK%20JR.png" group-title="Canais : Infantis",Nick.Jr [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898917.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo HD" tvg-logo="" group-title="Canais : Religiosos",Novo Tempo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898738.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo SD" tvg-logo="" group-title="Canais : Religiosos",Novo Tempo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899203.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Off FHD" tvg-logo="https://myclient.host/ESPORTES/CANAL%20OFF.png" group-title="Canais : Esportes",Off FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899430.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Off HD" tvg-logo="https://myclient.host/ESPORTES/CANAL%20OFF.png" group-title="Canais : Esportes",Off HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898691.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Off SD" tvg-logo="https://myclient.host/ESPORTES/CANAL%20OFF.png" group-title="Canais : Esportes",Off SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899135.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Off [H265]" tvg-logo="https://myclient.host/ESPORTES/CANAL%20OFF.png" group-title="Canais : Esportes",Off [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898918.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Paramount FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/PARAMOUNT%20CHANNEL.png" group-title="Canais : Filmes ",Paramount FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899416.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="https://myclient.host/FILMES%26SERIES/PARAMOUNT%20CHANNEL.png" group-title="Canais : Filmes ",Paramount HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898692.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Paramount SD" tvg-logo="https://myclient.host/FILMES%26SERIES/PARAMOUNT%20CHANNEL.png" group-title="Canais : Filmes ",Paramount SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899136.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Paramount [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/PARAMOUNT%20CHANNEL.png" group-title="Canais : Filmes ",Paramount [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898919.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Play kids SD" tvg-logo="https://myclient.host/INFANTIL/PlayKids.png" group-title="Canais : Infantis",Play kids SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899207.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="PlayTV SD" tvg-logo="" group-title="Canais : Abertos",PlayTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899138.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="POP FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",POP FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898827.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Ppv HD" tvg-logo="" group-title="Canais : Ppv",Ppv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898746.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899386.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898693.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899140.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 [H265]" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898921.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899385.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898694.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899141.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 [H265]" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 3 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898922.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899384.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898695.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899142.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 [H265]" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 4 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898923.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899383.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898696.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899143.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 [H265]" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 5 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898924.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899382.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898697.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899144.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 [H265]" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 6 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898925.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899381.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898698.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 7 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899145.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 [H265]" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 7 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898926.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 8 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899146.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 SD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere 9 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899147.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clube FHD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere Clube FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899346.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHDR" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere Clubes FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899257.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898699.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere Clubes SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899148.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes [H265]" tvg-logo="https://myclient.host/ESPORTES/PFC.png" group-title="Canais : Premiere",Premiere Clubes [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898920.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rai Internacional FHD" tvg-logo="https://myclient.host/VARIEDADES/rai_italia.png" group-title="Canais : Variedades",Rai Internacional FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899350.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rai Internacional HD" tvg-logo="" group-title="Canais : Religiosos",Rai Internacional HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899256.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="RBS HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",RBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898978.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Atalaia HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Atalaia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898982.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Belem HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Belem HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898984.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Brasilia HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898979.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Cabralia HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Cabralia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898992.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Goiania HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Goiania HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898700.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Itapoan HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Itapoan HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898782.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Itapoan SD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Itapoan SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899215.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Litoral Santos HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Litoral Santos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898985.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Manaus HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899013.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Minas FHD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898956.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Minas HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898744.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Minas HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898986.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record News FHD" tvg-logo="http://myclient.host/NOTICIAS/recordnews.png" group-title="Canais : Notícias",Record News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899438.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="http://myclient.host/NOTICIAS/recordnews.png" group-title="Canais : Notícias",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898736.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record News SD" tvg-logo="http://myclient.host/NOTICIAS/recordnews.png" group-title="Canais : Notícias",Record News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899150.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Paraná FHD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Paraná FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899036.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Paraná HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Paraná HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899002.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Rio HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898987.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Rio Preto HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Rio Preto HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898981.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Rs FHD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Rs FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899057.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Rs HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Rs HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898980.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record SD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899151.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Sp HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Sp HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898983.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record SP [H265]" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record SP [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899270.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Thathi FHD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Thathi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899025.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Thathia HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Thathia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898996.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Tv Goiania [H265]" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Tv Goiania [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898927.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Record Tv Santa Catarina HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20RECORD%20TV.png" group-title="Canais : Abertos",Record Tv Santa Catarina HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898998.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rede 21 HD" tvg-logo="" group-title="Canais : Religiosos",Rede 21 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898788.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazonica FHD" tvg-logo="" group-title="Canais : Abertos",Rede Amazonica FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899299.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazonica HD" tvg-logo="" group-title="Canais : Abertos",Rede Amazonica HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899300.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rede Amazonica Manaus SD" tvg-logo="" group-title="Canais : Abertos",Rede Amazonica Manaus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899152.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil SD" tvg-logo="http://myclient.host/ABERTOS/REDE%20BRASIL.png" group-title="Canais : Abertos",Rede Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899153.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rede Minas HD" tvg-logo="" group-title="Canais : Abertos",Rede Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898739.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rede Plenitude Tv HD" tvg-logo="" group-title="Canais : Religiosos",Rede Plenitude Tv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898787.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rede Vida SD" tvg-logo="" group-title="Canais : Religiosos",Rede Vida SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899155.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="RedeTv FHD" tvg-logo="http://myclient.host/ABERTOS/REDE%20TV%21.png" group-title="Canais : Abertos",RedeTv FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899440.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="RedeTv HD" tvg-logo="http://myclient.host/ABERTOS/REDE%20TV%21.png" group-title="Canais : Abertos",RedeTv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898701.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="RedeTV SD" tvg-logo="http://myclient.host/ABERTOS/REDE%20TV%21.png" group-title="Canais : Abertos",RedeTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899154.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="RedeTV [H265]" tvg-logo="http://myclient.host/ABERTOS/REDE%20TV%21.png" group-title="Canais : Abertos",RedeTV [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898928.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Rit Tv HD" tvg-logo="" group-title="Canais : Abertos",Rit Tv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898793.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="RPC TV Curitiba SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",RPC TV Curitiba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899156.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SAMBA E PAGODE FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",SAMBA E PAGODE FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898824.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Aratu HD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Aratu HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898991.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Bsb HD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Bsb HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898988.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Mg FHD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Mg FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899459.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Mg HD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Mg HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899458.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Paraná FHD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Paraná FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899035.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Paraná HD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Paraná HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899001.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Rio FHD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Rio FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899012.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SBT Rio HD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",SBT Rio HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899009.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Rs HD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Rs HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898989.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt SD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899157.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Sergipe HD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898990.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Serra Dourada [H265]" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Serra Dourada [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898947.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Sp FHD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Sp FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899441.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Sp HD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Sp HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899054.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Vtv Campinas FHD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Vtv Campinas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899024.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Vtv Campinas HD" tvg-logo="http://myclient.host/ABERTOS/SBT.png" group-title="Canais : Abertos",Sbt Vtv Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899023.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian HD" tvg-logo="https://myclient.host/DOCUMENTARIOS/SMITHSONIAN%20CHANNEL.png" group-title="Canais : Documentários",Smithsonian HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898737.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sony FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/SONY%20CHANNEL.png" group-title="Canais : Filmes ",Sony FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899415.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Space FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/SPACE.png" group-title="Canais : Filmes ",Space FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899417.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://myclient.host/FILMES%26SERIES/SPACE.png" group-title="Canais : Filmes ",Space HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898702.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Space SD" tvg-logo="https://myclient.host/FILMES%26SERIES/SPACE.png" group-title="Canais : Filmes ",Space SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899160.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Space [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/SPACE.png" group-title="Canais : Filmes ",Space [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898929.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Sportv 1 FHD" tvg-logo="http://myclient.host/ESPORTES/sporttv1.png" group-title="Canais : Esportes",Sportv 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899347.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 1 [H265]" tvg-logo="http://myclient.host/ESPORTES/sporttv1.png" group-title="Canais : Esportes",SporTV 1 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898932.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 FHD" tvg-logo="https://myclient.host/ESPORTES/sportv2.png" group-title="Canais : Esportes",SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899348.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="https://myclient.host/ESPORTES/sportv2.png" group-title="Canais : Esportes",SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898703.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 SD" tvg-logo="https://myclient.host/ESPORTES/sportv2.png" group-title="Canais : Esportes",SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899162.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 [H265]" tvg-logo="https://myclient.host/ESPORTES/sportv2.png" group-title="Canais : Esportes",SporTV 2 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898930.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 FHD" tvg-logo="https://myclient.host/ESPORTES/sportv3.png" group-title="Canais : Esportes",SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899349.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="https://myclient.host/ESPORTES/sportv3.png" group-title="Canais : Esportes",SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898704.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 SD" tvg-logo="https://myclient.host/ESPORTES/sportv3.png" group-title="Canais : Esportes",SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899163.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 [H265]" tvg-logo="https://myclient.host/ESPORTES/sportv3.png" group-title="Canais : Esportes",SporTV 3 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898931.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 1 FHDR" tvg-logo="http://myclient.host/ESPORTES/sporttv1.png" group-title="Canais : Esportes",SporTV 1 FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898958.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 1 HD" tvg-logo="http://myclient.host/ESPORTES/sporttv1.png" group-title="Canais : Esportes",SporTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898705.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 1 SD" tvg-logo="http://myclient.host/ESPORTES/sporttv1.png" group-title="Canais : Esportes",SporTV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899161.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="STAR + (1)" tvg-logo="" group-title="Canais : Ppv",STAR + (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898833.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star + HD (2)" tvg-logo="" group-title="Canais : Ppv",Star + HD (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898838.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star + HD (3)" tvg-logo="" group-title="Canais : Ppv",Star + HD (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898839.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/STAR%20CHANNEL.png" group-title="Canais : Filmes ",Star Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899407.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel FHD (L)" tvg-logo="https://myclient.host/FILMES%26SERIES/STAR%20CHANNEL.png" group-title="Canais : Legendados",Star Channel FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899248.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://myclient.host/FILMES%26SERIES/STAR%20CHANNEL.png" group-title="Canais : Filmes ",Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898660.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD (L)" tvg-logo="https://myclient.host/FILMES%26SERIES/STAR%20CHANNEL.png" group-title="Canais : Legendados",Star Channel HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899249.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel SD" tvg-logo="https://myclient.host/FILMES%26SERIES/STAR%20CHANNEL.png" group-title="Canais : Filmes ",Star Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899098.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/STAR%20CHANNEL.png" group-title="Canais : Filmes ",Star Channel [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898888.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star life FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/STAR%20LIFE.png" group-title="Canais : Filmes ",Star life FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899408.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="https://myclient.host/FILMES%26SERIES/STAR%20LIFE.png" group-title="Canais : Filmes ",Star Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898661.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Star Life SD" tvg-logo="https://myclient.host/FILMES%26SERIES/STAR%20LIFE.png" group-title="Canais : Filmes ",Star Life SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899099.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/STUDIO%20UNIVERSAL.png" group-title="Canais : Filmes ",Studio Universal FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899418.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://myclient.host/FILMES%26SERIES/STUDIO%20UNIVERSAL.png" group-title="Canais : Filmes ",Studio Universal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898706.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal SD" tvg-logo="https://myclient.host/FILMES%26SERIES/STUDIO%20UNIVERSAL.png" group-title="Canais : Filmes ",Studio Universal SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899164.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/STUDIO%20UNIVERSAL.png" group-title="Canais : Filmes ",Studio Universal [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898933.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Syfy FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/SYFY.png" group-title="Canais : Variedades",Syfy FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899428.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="https://myclient.host/FILMES%26SERIES/SYFY.png" group-title="Canais : Filmes ",Syfy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898707.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Syfy SD" tvg-logo="https://myclient.host/FILMES%26SERIES/SYFY.png" group-title="Canais : Variedades",Syfy SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899165.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Syfy [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/SYFY.png" group-title="Canais : Variedades",Syfy [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898934.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tbs FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/TBS.png" group-title="Canais : Variedades",Tbs FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899427.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tbs HD" tvg-logo="https://myclient.host/FILMES%26SERIES/TBS.png" group-title="Canais : Filmes ",Tbs HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898708.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tbs SD" tvg-logo="https://myclient.host/FILMES%26SERIES/TBS.png" group-title="Canais : Filmes ",Tbs SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899166.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tbs [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/TBS.png" group-title="Canais : Filmes ",Tbs [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898935.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tcm FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/TCM.png" group-title="Canais : Variedades",Tcm FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899448.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tcm HD" tvg-logo="https://myclient.host/FILMES%26SERIES/TCM.png" group-title="Canais : Filmes ",Tcm HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898763.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tcm SD" tvg-logo="https://myclient.host/FILMES%26SERIES/TCM.png" group-title="Canais : Filmes ",Tcm SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899167.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20ACTION.png" group-title="Canais : Telecine",Telecine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899358.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20ACTION.png" group-title="Canais : Legendados",Telecine Action FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899228.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20ACTION.png" group-title="Canais : Telecine",Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898709.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20ACTION.png" group-title="Canais : Legendados",Telecine Action HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899229.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20ACTION.png" group-title="Canais : Telecine",Telecine Action SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899168.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20ACTION.png" group-title="Canais : Telecine",Telecine Action [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898936.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="Canais : Telecine",Telecine Cult FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899362.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult FHD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="Canais : Legendados",Telecine Cult FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899234.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="Canais : Telecine",Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898710.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="Canais : Legendados",Telecine Cult HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899235.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="Canais : Telecine",Telecine Cult SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899169.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20CULT.png" group-title="Canais : Telecine",Telecine Cult [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898937.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20FUN.png" group-title="Canais : Telecine",Telecine Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899361.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun FHD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20FUN.png" group-title="Canais : Legendados",Telecine Fun FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899232.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20FUN.png" group-title="Canais : Telecine",Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898711.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20FUN.png" group-title="Canais : Legendados",Telecine Fun HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899233.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20FUN.png" group-title="Canais : Telecine",Telecine Fun SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899170.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20FUN.png" group-title="Canais : Telecine",Telecine Fun [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898938.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PIPOCA.png" group-title="Canais : Telecine",Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899360.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PIPOCA.png" group-title="Canais : Legendados",Telecine Pipoca FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899224.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PIPOCA.png" group-title="Canais : Telecine",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898712.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PIPOCA.png" group-title="Canais : Legendados",Telecine Pipoca HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899225.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PIPOCA.png" group-title="Canais : Telecine",Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899171.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PIPOCA.png" group-title="Canais : Telecine",Telecine Pipoca [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898939.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="Canais : Telecine",Telecine Premium FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899357.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="Canais : Legendados",Telecine Premium FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899226.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="Canais : Telecine",Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898713.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="Canais : Legendados",Telecine Premium HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899227.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="Canais : Telecine",Telecine Premium SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899172.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20PREMIUM.png" group-title="Canais : Telecine",Telecine Premium [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898940.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20TOUCH.png" group-title="Canais : Telecine",Telecine Touch FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899359.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20TOUCH.png" group-title="Canais : Legendados",Telecine Touch FHD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899230.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20TOUCH.png" group-title="Canais : Telecine",Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898714.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD (L)" tvg-logo="https://myclient.host/TELECINE/TELECINE%20TOUCH.png" group-title="Canais : Legendados",Telecine Touch HD (L)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899231.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo="https://myclient.host/TELECINE/TELECINE%20TOUCH.png" group-title="Canais : Telecine",Telecine Touch SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899173.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch [H265]" tvg-logo="https://myclient.host/TELECINE/TELECINE%20TOUCH.png" group-title="Canais : Telecine",Telecine Touch [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898941.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Terra Viva SD" tvg-logo="" group-title="Canais : Religiosos",Terra Viva SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899174.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tlc FHD" tvg-logo="https://myclient.host/FILMES&SERIES/tlc.png" group-title="Canais : Filmes ",Tlc FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899380.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tlc HD" tvg-logo="https://myclient.host/FILMES&SERIES/tlc.png" group-title="Canais : Filmes ",Tlc HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898715.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tlc SD" tvg-logo="https://myclient.host/FILMES&SERIES/tlc.png" group-title="Canais : Filmes ",Tlc SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899175.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tlc [H265]" tvg-logo="https://myclient.host/FILMES&SERIES/tlc.png" group-title="Canais : Filmes ",Tlc [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898942.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt FHD" tvg-logo="https://myclient.host/FILMES&SERIES/tnt.png" group-title="Canais : Filmes ",Tnt FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899356.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt HD" tvg-logo="https://myclient.host/FILMES&SERIES/tnt.png" group-title="Canais : Filmes ",Tnt HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898716.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt SD" tvg-logo="https://myclient.host/FILMES&SERIES/tnt.png" group-title="Canais : Filmes ",Tnt SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899176.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt Series FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/TNT%20SERIES.png" group-title="Canais : Filmes ",Tnt Series FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899420.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt Series HD" tvg-logo="https://myclient.host/FILMES%26SERIES/TNT%20SERIES.png" group-title="Canais : Filmes ",Tnt Series HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898717.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series SD" tvg-logo="https://myclient.host/FILMES%26SERIES/TNT%20SERIES.png" group-title="Canais : Filmes ",TNT Series SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899177.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt Series [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/TNT%20SERIES.png" group-title="Canais : Filmes ",Tnt Series [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898944.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt Sports (0)" tvg-logo="" group-title="Canais : Ppv",Tnt Sports (0)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898973.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt Sports (1)" tvg-logo="" group-title="Canais : Ppv",Tnt Sports (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898969.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt Sports (2)" tvg-logo="" group-title="Canais : Ppv",Tnt Sports (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898970.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt Sports (3)" tvg-logo="" group-title="Canais : Ppv",Tnt Sports (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898971.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt Sports (4)" tvg-logo="" group-title="Canais : Ppv",Tnt Sports (4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898972.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tnt [H265]" tvg-logo="https://myclient.host/FILMES&SERIES/tnt.png" group-title="Canais : Filmes ",Tnt [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898943.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast FHD" tvg-logo="https://myclient.host/INFANTIL/TOONCAST.png" group-title="Canais : Infantis",Tooncast FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899405.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="https://myclient.host/INFANTIL/TOONCAST.png" group-title="Canais : Infantis",Tooncast HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898756.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="https://myclient.host/INFANTIL/TOONCAST.png" group-title="Canais : Infantis",Tooncast SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899178.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TOP FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",TOP FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898825.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TRANSCONTINENTAL FM (RADIOS)" tvg-logo="" group-title="Canais : Rádios",TRANSCONTINENTAL FM (RADIOS)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898820.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brasil FHD" tvg-logo="https://myclient.host/VARIEDADES/TRAVEL%20BOX%20BRASIL.png" group-title="Canais : Filmes ",Travel Box Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899455.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brasil HD" tvg-logo="https://myclient.host/VARIEDADES/TRAVEL%20BOX%20BRASIL.png" group-title="Canais : Filmes ",Travel Box Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898768.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Trut Tv FHD" tvg-logo="" group-title="Canais : Abertos",Trut Tv FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899449.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Trut Tv HD" tvg-logo="" group-title="Canais : Abertos",Trut Tv HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898764.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TruTV SD" tvg-logo="" group-title="Canais : Abertos",TruTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899179.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Anhaguera HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Anhaguera HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898718.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Anhaguera [H265]" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Anhaguera [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898945.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Anhanguera Anapolis FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Anhanguera Anapolis FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899306.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Anhanguera Anapolis HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Anhanguera Anapolis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899305.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Anhanguera Catalão FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Anhanguera Catalão FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899308.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Anhanguera Catalão HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Anhanguera Catalão HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899307.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Anhanguera Itumbiara FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Anhanguera Itumbiara FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899310.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Anhanguera Itumbiara HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Anhanguera Itumbiara HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899309.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera SD" tvg-logo="" group-title="Canais : Abertos",TV Anhanguera SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899180.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida SD" tvg-logo="" group-title="Canais : Abertos",TV Aparecida SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899181.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Bahia SD" tvg-logo="" group-title="Canais : Abertos",TV Bahia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899182.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Brasil HD" tvg-logo="http://myclient.host/ABERTOS/TV%20BRASIL.png" group-title="Canais : Abertos",Tv Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898753.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Cabugi FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Cabugi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899304.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Cabugi HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Cabugi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899303.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Camara SD" tvg-logo="http://myclient.host/ABERTOS/TV%20CAMARA.png" group-title="Canais : Abertos",TV Camara SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899183.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Centro America Cuiaba SD" tvg-logo="" group-title="Canais : Abertos",TV Centro America Cuiaba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899184.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Coxa HD (1)" tvg-logo="" group-title="Canais : Ppv",Tv Coxa HD (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898780.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura SD" tvg-logo="http://myclient.host/ABERTOS/TV%20CULTURA.png" group-title="Canais : Abertos",TV Cultura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899185.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Diario HD" tvg-logo="http://myclient.host/ABERTOS/TV%20DIARIO.png" group-title="Canais : Abertos",Tv Diario HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898740.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Escola SD" tvg-logo="" group-title="Canais : Abertos",Tv Escola SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899206.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Evangelizar SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Evangelizar SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899208.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Gideoes HD" tvg-logo="" group-title="Canais : Abertos",Tv Gideoes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898786.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globinho FHD" tvg-logo="https://myclient.host/INFANTIL/GLOOBINHO.png" group-title="Canais : Infantis",Globinho FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899399.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Globinho HD" tvg-logo="https://myclient.host/INFANTIL/GLOOBINHO.png" group-title="Canais : Infantis",Globinho HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898755.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Justica SD" tvg-logo="http://myclient.host/ABERTOS/TV%20JUSTICA.png" group-title="Canais : Abertos",TV Justica SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899186.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belem SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",TV Liberal Belem SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899187.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Nsports HD (1)" tvg-logo="" group-title="Canais : Ppv",Tv Nsports HD (1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898794.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Nsports HD (2)" tvg-logo="" group-title="Canais : Ppv",Tv Nsports HD (2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898795.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Nsports HD (3)" tvg-logo="" group-title="Canais : Ppv",Tv Nsports HD (3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898796.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Pai Eterno HD" tvg-logo="" group-title="Canais : Religiosos",Tv Pai Eterno HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898789.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Pampa Rs FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Pampa Rs FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899058.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Pampa Rs HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Pampa Rs HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899021.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://myclient.host/INFANTIL/TV%20RA%20TIM%20BUM.png" group-title="Canais : Infantis",TV Ra Tim Bum HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898720.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",TV Ra Tim Bum SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899188.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Senado SD" tvg-logo="http://myclient.host/ABERTOS/TV%20SENADO.png" group-title="Canais : Abertos",TV Senado SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899189.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Tem Bauru SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",TV Tem Bauru SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899190.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Tem Rio Preto SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",TV Tem Rio Preto SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899191.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Tem Sorocaba SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",TV Tem Sorocaba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899192.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna Santos SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",TV Tribuna Santos SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899193.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Vanguarda dos Campos SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",TV Vanguarda dos Campos SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899194.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Vanguarda FHD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Vanguarda FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899327.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Tv Vanguarda HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",Tv Vanguarda HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899326.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares CE HD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",TV Verdes Mares CE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899008.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza SD" tvg-logo="https://myclient.host/ABERTOS/GLOBO.png" group-title="Canais : Globo",TV Verdes Mares Fortaleza SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899195.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel TV SD" tvg-logo="https://myclient.host/FILMES%26SERIES/UNIVERSAL%20CHANNEL.png" group-title="Canais : Filmes ",Universal Channel TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899202.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Universal Tv FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/UNIVERSAL%20CHANNEL.png" group-title="Canais : Filmes ",Universal Tv FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899419.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Universal TV HD" tvg-logo="https://myclient.host/FILMES%26SERIES/UNIVERSAL%20CHANNEL.png" group-title="Canais : Filmes ",Universal TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898722.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Universal Tv [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/UNIVERSAL%20CHANNEL.png" group-title="Canais : Filmes ",Universal Tv [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898948.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Vh1 HD" tvg-logo="https://myclient.host/VARIEDADES/VH1.png" group-title="Canais : Variedades",Vh1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898723.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Vh1 SD" tvg-logo="https://myclient.host/VARIEDADES/VH1.png" group-title="Canais : Variedades",Vh1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899196.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Vh1 [H265]" tvg-logo="https://myclient.host/VARIEDADES/VH1.png" group-title="Canais : Variedades",Vh1 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898949.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Viva FHD" tvg-logo="https://myclient.host/VARIEDADES/VIVA.png" group-title="Canais : Variedades",Viva FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899436.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="https://myclient.host/VARIEDADES/VIVA.png" group-title="Canais : Variedades",Viva HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898724.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Viva SD" tvg-logo="https://myclient.host/VARIEDADES/VIVA.png" group-title="Canais : Variedades",Viva SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899197.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel FHD" tvg-logo="https://myclient.host/FILMES%26SERIES/WARNER%20TV.png" group-title="Canais : Filmes ",Warner Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899421.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://myclient.host/FILMES%26SERIES/WARNER%20TV.png" group-title="Canais : Filmes ",Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898725.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel SD" tvg-logo="https://myclient.host/FILMES%26SERIES/WARNER%20TV.png" group-title="Canais : Filmes ",Warner Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899198.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Warner [H265]" tvg-logo="https://myclient.host/FILMES%26SERIES/WARNER%20TV.png" group-title="Canais : Filmes ",Warner [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898950.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo SD" tvg-logo="https://myclient.host/ESPORTES/WOOHOO.png" group-title="Canais : Esportes",Woohoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899199.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo Tv FHD" tvg-logo="https://myclient.host/ESPORTES/WOOHOO.png" group-title="Canais : Esportes",Woohoo Tv FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899446.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo TV HD" tvg-logo="https://myclient.host/ESPORTES/WOOHOO.png" group-title="Canais : Esportes",Woohoo TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898761.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo [H265]" tvg-logo="https://myclient.host/ESPORTES/WOOHOO.png" group-title="Canais : Esportes",Woohoo [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/898951.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Zoomoo FHD" tvg-logo="https://myclient.host/INFANTIL/ZOOMOO.png" group-title="Canais : Infantis",Zoomoo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899403.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Zoomoo HD" tvg-logo="https://myclient.host/INFANTIL/ZOOMOO.png" group-title="Canais : Infantis",Zoomoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899404.m3u8|User-Agent=MXPlayer
-#EXTINF:-1 tvg-id="" tvg-name="ZooMoo SD" tvg-logo="https://myclient.host/INFANTIL/ZOOMOO.png" group-title="Canais : Infantis",ZooMoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://proxyeua.cteam.me:80/live/Bernardo/102030/899200.m3u8|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h 3 Palavrinhas" tvg-logo="" group-title="24 HORAS",24h 3 Palavrinhas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62797|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h A Família Addams" tvg-logo="" group-title="24 HORAS",24h A Família Addams
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62798|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h A Formiga Atômica" tvg-logo="" group-title="24 HORAS",24h A Formiga Atômica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62799|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h A GRANDE FAMILIA" tvg-logo="" group-title="24 HORAS",24h A GRANDE FAMILIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62800|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h A Pantera Cor de Rosa" tvg-logo="" group-title="24 HORAS",24h A Pantera Cor de Rosa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62801|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h A Patrulha Canina" tvg-logo="" group-title="24 HORAS",24h A Patrulha Canina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62802|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h A Vaca e o Frango" tvg-logo="" group-title="24 HORAS",24h A Vaca e o Frango
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62803|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Aladdin" tvg-logo="" group-title="24 HORAS",24h Aladdin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62804|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Animaniacs" tvg-logo="" group-title="24 HORAS",24h Animaniacs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62805|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h As Aventuras de Tintin" tvg-logo="" group-title="24 HORAS",24h As Aventuras de Tintin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62806|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h As Terríveis Aventuras de Billy e Mandy" tvg-logo="" group-title="24 HORAS",24h As Terríveis Aventuras de Billy e Mandy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62807|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h AS VISÕES DA RAVEN" tvg-logo="" group-title="24 HORAS",24h AS VISÕES DA RAVEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62808|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Avatar A Lenda de Aang" tvg-logo="" group-title="24 HORAS",24h Avatar A Lenda de Aang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62809|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Baby Looney Tunes" tvg-logo="" group-title="24 HORAS",24h Baby Looney Tunes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62810|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h BACKARDIGANS" tvg-logo="" group-title="24 HORAS",24h BACKARDIGANS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62811|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h BEN 10" tvg-logo="" group-title="24 HORAS",24h BEN 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62812|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Ben 10 Omniverse" tvg-logo="" group-title="24 HORAS",24h Ben 10 Omniverse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62813|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Big Bang Theory" tvg-logo="" group-title="24 HORAS",24h Big Bang Theory
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62814|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h BOB O CONSTRUTOR" tvg-logo="" group-title="24 HORAS",24h BOB O CONSTRUTOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62815|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h BOB O TREM" tvg-logo="" group-title="24 HORAS",24h BOB O TREM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62816|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h BOBZOOM" tvg-logo="" group-title="24 HORAS",24h BOBZOOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62817|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Boku no Hero Academia" tvg-logo="" group-title="24 HORAS",24h Boku no Hero Academia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62818|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h BOOBA" tvg-logo="" group-title="24 HORAS",24h BOOBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62819|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Brasil Visto de Cima" tvg-logo="" group-title="24 HORAS",24h Brasil Visto de Cima
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62820|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Brooklyn Nine-Nine" tvg-logo="" group-title="24 HORAS",24h Brooklyn Nine-Nine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62821|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h C.S.I. Investigação Criminal" tvg-logo="" group-title="24 HORAS",24h C.S.I. Investigação Criminal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62822|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h CAILLOU" tvg-logo="" group-title="24 HORAS",24h CAILLOU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62823|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Cake Boss" tvg-logo="" group-title="24 HORAS",24h Cake Boss
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62824|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Capitão Caverna" tvg-logo="" group-title="24 HORAS",24h Capitão Caverna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62825|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Capitão Planeta" tvg-logo="" group-title="24 HORAS",24h Capitão Planeta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62826|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Castelo Rá Tim Bum" tvg-logo="" group-title="24 HORAS",24h Castelo Rá Tim Bum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62827|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Cavalo de Fogo" tvg-logo="" group-title="24 HORAS",24h Cavalo de Fogo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62828|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Caverna do Dragão" tvg-logo="" group-title="24 HORAS",24h Caverna do Dragão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62829|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Chapolin Colorado" tvg-logo="" group-title="24 HORAS",24h Chapolin Colorado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62830|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h CHAVES" tvg-logo="" group-title="24 HORAS",24h CHAVES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62831|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Chaves em desenho animado" tvg-logo="" group-title="24 HORAS",24h Chaves em desenho animado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62832|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Como Eu Conheci Sua Mãe" tvg-logo="" group-title="24 HORAS",24h Como Eu Conheci Sua Mãe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62833|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h CORAGEM, O CÃO COVARDE" tvg-logo="" group-title="24 HORAS",24h CORAGEM, O CÃO COVARDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62834|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Corrida Maluca" tvg-logo="" group-title="24 HORAS",24h Corrida Maluca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62835|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Cozinha Prática" tvg-logo="" group-title="24 HORAS",24h Cozinha Prática
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62836|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Detetives do Prédio Azul" tvg-logo="" group-title="24 HORAS",24h Detetives do Prédio Azul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62837|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h DIGIMON" tvg-logo="" group-title="24 HORAS",24h DIGIMON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62838|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h DIGIMON MINECRAFT" tvg-logo="" group-title="24 HORAS",24h DIGIMON MINECRAFT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62839|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Dora a Aventureira" tvg-logo="" group-title="24 HORAS",24h Dora a Aventureira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62840|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Dragon Ball Super" tvg-logo="" group-title="24 HORAS",24h Dragon Ball Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62841|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Dragon Ball Z" tvg-logo="" group-title="24 HORAS",24h Dragon Ball Z
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62842|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Drake & Josh" tvg-logo="" group-title="24 HORAS",24h Drake & Josh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62843|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Du, Dudu e Edu" tvg-logo="" group-title="24 HORAS",24h Du, Dudu e Edu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62844|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Duck Dodgers" tvg-logo="" group-title="24 HORAS",24h Duck Dodgers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62845|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Ducktales" tvg-logo="" group-title="24 HORAS",24h Ducktales
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62846|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Escolinha do Professor Raimundo" tvg-logo="" group-title="24 HORAS",24h Escolinha do Professor Raimundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62847|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Fate" tvg-logo="" group-title="24 HORAS",24h Fate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62848|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Flash" tvg-logo="" group-title="24 HORAS",24h Flash
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62849|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Flash Gordon" tvg-logo="" group-title="24 HORAS",24h Flash Gordon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62850|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Fly o pequeno guerreiro" tvg-logo="" group-title="24 HORAS",24h Fly o pequeno guerreiro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62851|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h As Aventuras De Jackie Chan" tvg-logo="" group-title="24 HORAS",24h As Aventuras De Jackie Chan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62852|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h As Meninas Super Poderosas" tvg-logo="" group-title="24 HORAS",24h As Meninas Super Poderosas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62853|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Beyblade" tvg-logo="" group-title="24 HORAS",24h Beyblade
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62854|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h BOB ESPONJA" tvg-logo="" group-title="24 HORAS",24h BOB ESPONJA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62855|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Cadillacs e Dinossauros" tvg-logo="" group-title="24 HORAS",24h Cadillacs e Dinossauros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62856|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h CUT THE HOPE" tvg-logo="" group-title="24 HORAS",24h CUT THE HOPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62857|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Freakazoid!" tvg-logo="" group-title="24 HORAS",24h Freakazoid!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62858|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h FullMetal Alchemist" tvg-logo="" group-title="24 HORAS",24h FullMetal Alchemist
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62859|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Fullmetal Alchemist" tvg-logo="" group-title="24 HORAS",24h Fullmetal Alchemist
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62860|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Futurama" tvg-logo="" group-title="24 HORAS",24h Futurama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62861|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Galinha Pintadinha" tvg-logo="" group-title="24 HORAS",24h Galinha Pintadinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62862|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h GALINHA PINTADINHA" tvg-logo="" group-title="24 HORAS",24h GALINHA PINTADINHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62863|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h GALINHA PINTADINHA MINI" tvg-logo="" group-title="24 HORAS",24h GALINHA PINTADINHA MINI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62864|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Game of Thrones" tvg-logo="" group-title="24 HORAS",24h Game of Thrones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62865|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h GATO TOM" tvg-logo="" group-title="24 HORAS",24h GATO TOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62866|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h GUMBALL" tvg-logo="" group-title="24 HORAS",24h GUMBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62867|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Gárgulas" tvg-logo="" group-title="24 HORAS",24h Gárgulas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62868|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h He-Man" tvg-logo="" group-title="24 HORAS",24h He-Man
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62869|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Homem Aranha" tvg-logo="" group-title="24 HORAS",24h Homem Aranha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62870|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Hora da Aventura" tvg-logo="" group-title="24 HORAS",24h Hora da Aventura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62871|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Hora de Aventura" tvg-logo="" group-title="24 HORAS",24h Hora de Aventura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62872|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Hércules" tvg-logo="" group-title="24 HORAS",24h Hércules
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62873|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Hércules" tvg-logo="" group-title="24 HORAS",24h Hércules
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62874|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Jackie Chan e Amigos" tvg-logo="" group-title="24 HORAS",24h Jackie Chan e Amigos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62875|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Jaspion" tvg-logo="" group-title="24 HORAS",24h Jaspion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62876|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h KENAN E KEL" tvg-logo="" group-title="24 HORAS",24h KENAN E KEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62877|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Larva" tvg-logo="" group-title="24 HORAS",24h Larva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62878|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Little Angel" tvg-logo="" group-title="24 HORAS",24h Little Angel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62879|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h LITTLE ANGEL" tvg-logo="" group-title="24 HORAS",24h LITTLE ANGEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62880|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Looney Tunes" tvg-logo="" group-title="24 HORAS",24h Looney Tunes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62881|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Masha e o Urso" tvg-logo="" group-title="24 HORAS",24h Masha e o Urso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62882|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Medabots" tvg-logo="" group-title="24 HORAS",24h Medabots
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62883|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Mega Man" tvg-logo="" group-title="24 HORAS",24h Mega Man
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62884|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Meu Amigãozão" tvg-logo="" group-title="24 HORAS",24h Meu Amigãozão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62885|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h MIB Homens de Preto" tvg-logo="" group-title="24 HORAS",24h MIB Homens de Preto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62886|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Mickey Mouse" tvg-logo="" group-title="24 HORAS",24h Mickey Mouse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62887|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h MICKEY MOUSE" tvg-logo="" group-title="24 HORAS",24h MICKEY MOUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62888|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Miraculous Ladybug" tvg-logo="" group-title="24 HORAS",24h Miraculous Ladybug
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62889|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h MISSA APARECIDA" tvg-logo="" group-title="24 HORAS",24h MISSA APARECIDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62890|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Moranguinho" tvg-logo="" group-title="24 HORAS",24h Moranguinho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62891|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Mortal Kombat" tvg-logo="" group-title="24 HORAS",24h Mortal Kombat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62892|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Mr Bean" tvg-logo="" group-title="24 HORAS",24h Mr Bean
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62893|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Mr. Bean" tvg-logo="" group-title="24 HORAS",24h Mr. Bean
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62894|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Mucha Lucha" tvg-logo="" group-title="24 HORAS",24h Mucha Lucha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62895|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Mundo Bita" tvg-logo="" group-title="24 HORAS",24h Mundo Bita
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62896|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Naruto" tvg-logo="" group-title="24 HORAS",24h Naruto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62897|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h O Fantástico Mundo de Bobby" tvg-logo="" group-title="24 HORAS",24h O Fantástico Mundo de Bobby
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62898|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h O Incrível Mundo de Gumball" tvg-logo="" group-title="24 HORAS",24h O Incrível Mundo de Gumball
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62899|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h O Laboratório de Dexter" tvg-logo="" group-title="24 HORAS",24h O Laboratório de Dexter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62900|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h O Mundo de Beakman" tvg-logo="" group-title="24 HORAS",24h O Mundo de Beakman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62901|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h O Máskara" tvg-logo="" group-title="24 HORAS",24h O Máskara
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62902|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h O Show do Ze Colmeia" tvg-logo="" group-title="24 HORAS",24h O Show do Ze Colmeia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62903|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h ODDBODS" tvg-logo="" group-title="24 HORAS",24h ODDBODS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62904|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h os Cavaleiros do Zodíaco" tvg-logo="" group-title="24 HORAS",24h os Cavaleiros do Zodíaco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62905|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Flintstones" tvg-logo="" group-title="24 HORAS",24h Os Flintstones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62906|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Flintstones" tvg-logo="" group-title="24 HORAS",24h Os Flintstones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62907|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Padrinhos Mágicos" tvg-logo="" group-title="24 HORAS",24h Os Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62908|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Simpsons" tvg-logo="" group-title="24 HORAS",24h Os Simpsons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62909|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h OS SIMPSONS" tvg-logo="" group-title="24 HORAS",24h OS SIMPSONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62910|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Super Patos" tvg-logo="" group-title="24 HORAS",24h Os Super Patos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62911|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Vingadores" tvg-logo="" group-title="24 HORAS",24h Os Vingadores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62912|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h PADRE MARCELO ROSSI" tvg-logo="" group-title="24 HORAS",24h PADRE MARCELO ROSSI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62913|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Padrinhos Mágicos" tvg-logo="" group-title="24 HORAS",24h Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62914|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Papa Léguas" tvg-logo="" group-title="24 HORAS",24h Papa Léguas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62915|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Patati e Patatá" tvg-logo="" group-title="24 HORAS",24h Patati e Patatá
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62916|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Patrulha Canina" tvg-logo="" group-title="24 HORAS",24h Patrulha Canina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62917|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Peixonautas" tvg-logo="" group-title="24 HORAS",24h Peixonautas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62918|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Peppa Pig" tvg-logo="" group-title="24 HORAS",24h Peppa Pig
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62919|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h PEPPA PIG" tvg-logo="" group-title="24 HORAS",24h PEPPA PIG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62920|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Pernalonga e seus amigos" tvg-logo="" group-title="24 HORAS",24h Pernalonga e seus amigos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62921|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Pica Pau" tvg-logo="" group-title="24 HORAS",24h Pica Pau
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62922|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Pica Pau" tvg-logo="" group-title="24 HORAS",24h Pica Pau
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62923|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Pinky e o Cérebro" tvg-logo="" group-title="24 HORAS",24h Pinky e o Cérebro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62924|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h PJ Masks" tvg-logo="" group-title="24 HORAS",24h PJ Masks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62925|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Pocoyo" tvg-logo="" group-title="24 HORAS",24h Pocoyo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62926|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h POCOYO" tvg-logo="" group-title="24 HORAS",24h POCOYO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62927|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h POKEMOM MANICRAFT" tvg-logo="" group-title="24 HORAS",24h POKEMOM MANICRAFT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62928|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h POKEMOM MANICRAFT" tvg-logo="" group-title="24 HORAS",24h POKEMOM MANICRAFT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62929|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Popeye" tvg-logo="" group-title="24 HORAS",24h Popeye
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62930|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Rick and morty" tvg-logo="" group-title="24 HORAS",24h Rick and morty
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62931|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h RICK E MORTY" tvg-logo="" group-title="24 HORAS",24h RICK E MORTY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62932|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Sailor Moon" tvg-logo="" group-title="24 HORAS",24h Sailor Moon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62933|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Samurai Warriors" tvg-logo="" group-title="24 HORAS",24h Samurai Warriors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62934|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Scooby Doo Cadê Você" tvg-logo="" group-title="24 HORAS",24h Scooby Doo Cadê Você
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62935|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h She-Ra" tvg-logo="" group-title="24 HORAS",24h She-Ra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62936|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Sitio do Pica-pau Amarelo Desenho" tvg-logo="" group-title="24 HORAS",24h Sitio do Pica-pau Amarelo Desenho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62937|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h South Park" tvg-logo="" group-title="24 HORAS",24h South Park
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62938|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h South Park" tvg-logo="" group-title="24 HORAS",24h South Park
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62939|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Steven Universo" tvg-logo="" group-title="24 HORAS",24h Steven Universo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62940|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Super Choque" tvg-logo="" group-title="24 HORAS",24h Super Choque
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62941|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Taz Mania" tvg-logo="" group-title="24 HORAS",24h Taz Mania
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62942|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h THE BING BANG THEORY" tvg-logo="" group-title="24 HORAS",24h THE BING BANG THEORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62943|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h The Walking Dead" tvg-logo="" group-title="24 HORAS",24h The Walking Dead
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62944|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Thundercats" tvg-logo="" group-title="24 HORAS",24h Thundercats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62945|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Timão e Pumba" tvg-logo="" group-title="24 HORAS",24h Timão e Pumba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62946|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h TODO MUNDO ODEIA O CHRIS" tvg-logo="" group-title="24 HORAS",24h TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62947|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Todo Mundo Odeia o Chris" tvg-logo="" group-title="24 HORAS",24h Todo Mundo Odeia o Chris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62948|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Tom & Jerry" tvg-logo="" group-title="24 HORAS",24h Tom & Jerry
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62949|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Trolls" tvg-logo="" group-title="24 HORAS",24h Trolls
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62950|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Três Espiãs Demais" tvg-logo="" group-title="24 HORAS",24h Três Espiãs Demais
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62951|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Turma da Mônica" tvg-logo="" group-title="24 HORAS",24h Turma da Mônica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62952|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Turma da Pateta" tvg-logo="" group-title="24 HORAS",24h Turma da Pateta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62953|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Um Maluco no Pedaço" tvg-logo="" group-title="24 HORAS",24h Um Maluco no Pedaço
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62954|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Uma família da pesada" tvg-logo="" group-title="24 HORAS",24h Uma família da pesada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62955|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Uma família da pesada" tvg-logo="" group-title="24 HORAS",24h Uma família da pesada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62956|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Ursinhos Carinhosos" tvg-logo="" group-title="24 HORAS",24h Ursinhos Carinhosos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62957|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Vai que Cola" tvg-logo="" group-title="24 HORAS",24h Vai que Cola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62958|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Vikings" tvg-logo="" group-title="24 HORAS",24h Vikings
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62959|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Vikings" tvg-logo="" group-title="24 HORAS",24h Vikings
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62960|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h X-men" tvg-logo="" group-title="24 HORAS",24h X-men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62961|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="24h Zé Colméia" tvg-logo="" group-title="24 HORAS",24h Zé Colméia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62962|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Tv Diario SD" tvg-logo="" group-title="GLOBO",Tv Diario SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62963|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV A Plateia HD" tvg-logo="" group-title="GLOBO",TV A Plateia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62966|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ANAPOLIS FHD" tvg-logo="" group-title="GLOBO",TV ANHANGUERA ANAPOLIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62967|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ANAPOLIS HD" tvg-logo="" group-title="GLOBO",TV ANHANGUERA ANAPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62968|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA CATALAO FHD" tvg-logo="" group-title="GLOBO",TV ANHANGUERA CATALAO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62969|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA CATALAO HD" tvg-logo="" group-title="GLOBO",TV ANHANGUERA CATALAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62970|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ITUMBIARA FHD" tvg-logo="" group-title="GLOBO",TV ANHANGUERA ITUMBIARA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62971|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA ITUMBIARA HD" tvg-logo="" group-title="GLOBO",TV ANHANGUERA ITUMBIARA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/62972|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CASA PLAY ( INFANTIL )" tvg-logo="https://cdn6.aptoide.com/imgs/2/3/a/23a6bb0a6360363e8bc6d092754c3315_icon.png" group-title="CASA PLAY",CASA PLAY ( INFANTIL )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/63016|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) 3 Palavrinhas" tvg-logo="" group-title="24 HORAS",(24h) 3 Palavrinhas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69400|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) A Casa da Raven" tvg-logo="" group-title="24 HORAS",(24h) A Casa da Raven
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69401|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Futurama" tvg-logo="" group-title="24 HORAS",(24h) Futurama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69402|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Padrinhos Mágicos e Pica Pau" tvg-logo="" group-title="24 HORAS",(24h) Padrinhos Mágicos e Pica Pau
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69403|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Kpop" tvg-logo="" group-title="24 HORAS",(24h) Kpop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69404|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Mickey e Donald" tvg-logo="" group-title="24 HORAS",(24h) Mickey e Donald
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69405|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dexter" tvg-logo="" group-title="24 HORAS",(24h) Dexter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69406|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) A Pantera Cor de Rosa" tvg-logo="" group-title="24 HORAS",(24h) A Pantera Cor de Rosa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69407|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) A Pequena Sereia" tvg-logo="" group-title="24 HORAS",(24h) A Pequena Sereia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69408|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Papa-léguas" tvg-logo="" group-title="24 HORAS",(24h) Papa-léguas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69409|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cinema em Casa 3" tvg-logo="" group-title="24 HORAS",(24h) Cinema em Casa 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69410|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Bruce Lee: A Lenda" tvg-logo="" group-title="24 HORAS",(24h) Bruce Lee: A Lenda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69411|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) A Turma do Pateta" tvg-logo="" group-title="24 HORAS",(24h) A Turma do Pateta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69412|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) A Vaca e o Frango" tvg-logo="" group-title="24 HORAS",(24h) A Vaca e o Frango
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69413|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Homem de Ferro" tvg-logo="" group-title="24 HORAS",(24h) Homem de Ferro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69414|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Aladdin Desenho Animado" tvg-logo="" group-title="24 HORAS",(24h) Aladdin Desenho Animado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69415|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Animaniacs" tvg-logo="" group-title="24 HORAS",(24h) Animaniacs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69416|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Arqueiro" tvg-logo="" group-title="24 HORAS",(24h) Arqueiro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69417|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) As Aventuras de Jackie Chan" tvg-logo="" group-title="24 HORAS",(24h) As Aventuras de Jackie Chan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69418|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) As Meninas Super Poderosas" tvg-logo="" group-title="24 HORAS",(24h) As Meninas Super Poderosas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69419|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Desenhos Disney" tvg-logo="" group-title="24 HORAS",(24h) Desenhos Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69420|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Avatar" tvg-logo="" group-title="24 HORAS",(24h) Avatar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69421|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Avatar a Lenda de Korra" tvg-logo="" group-title="24 HORAS",(24h) Avatar a Lenda de Korra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69422|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Serie Baby" tvg-logo="" group-title="24 HORAS",(24h) Serie Baby
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69423|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Bananas de Pijamas" tvg-logo="" group-title="24 HORAS",(24h) Bananas de Pijamas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69424|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Batman" tvg-logo="" group-title="24 HORAS",(24h) Batman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69425|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Batman do Futuro" tvg-logo="" group-title="24 HORAS",(24h) Batman do Futuro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69426|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Ben 10" tvg-logo="" group-title="24 HORAS",(24h) Ben 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69427|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Better Call Saul" tvg-logo="" group-title="24 HORAS",(24h) Better Call Saul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69428|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Big Mouth" tvg-logo="" group-title="24 HORAS",(24h) Big Mouth
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69429|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Black Kamen Rider" tvg-logo="" group-title="24 HORAS",(24h) Black Kamen Rider
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69430|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Bob Esponja" tvg-logo="" group-title="24 HORAS",(24h) Bob Esponja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69431|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Lucas Neto" tvg-logo="" group-title="24 HORAS",(24h) Lucas Neto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69432|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 5" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69433|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Bones" tvg-logo="" group-title="24 HORAS",(24h) Bones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69434|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Boruto" tvg-logo="" group-title="24 HORAS",(24h) Boruto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69435|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Breaking Bad" tvg-logo="" group-title="24 HORAS",(24h) Breaking Bad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69436|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Brooklyn 99" tvg-logo="" group-title="24 HORAS",(24h) Brooklyn 99
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69437|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Caillou" tvg-logo="" group-title="24 HORAS",(24h) Caillou
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69438|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Digimon Savers" tvg-logo="" group-title="24 HORAS",(24h) Digimon Savers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69439|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cinema em Casa 1" tvg-logo="" group-title="24 HORAS",(24h) Cinema em Casa 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69440|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cavaleiro do Zodiaco" tvg-logo="" group-title="24 HORAS",(24h) Cavaleiro do Zodiaco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69441|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Caverna do Dragão" tvg-logo="" group-title="24 HORAS",(24h) Caverna do Dragão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69442|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Charlie Brown" tvg-logo="" group-title="24 HORAS",(24h) Charlie Brown
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69443|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Chapolin Colorado" tvg-logo="" group-title="24 HORAS",(24h) Chapolin Colorado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69444|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Chaves" tvg-logo="" group-title="24 HORAS",(24h) Chaves
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69445|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine 007" tvg-logo="" group-title="24 HORAS",(24h) Cine 007
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69446|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Infantil 1" tvg-logo="" group-title="24 HORAS",(24h) Cine Infantil 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69447|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Infantil 2" tvg-logo="" group-title="24 HORAS",(24h) Cine Infantil 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69448|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Infantil 3" tvg-logo="" group-title="24 HORAS",(24h) Cine Infantil 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69449|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Infantil 4" tvg-logo="" group-title="24 HORAS",(24h) Cine Infantil 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69450|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Infantil 5" tvg-logo="" group-title="24 HORAS",(24h) Cine Infantil 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69451|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Sessão da Tarde" tvg-logo="" group-title="24 HORAS",(24h) Cine Sessão da Tarde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69452|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Três é Demais" tvg-logo="" group-title="24 HORAS",(24h) Três é Demais
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69453|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 1" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69454|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Coragem o Cão Covarde" tvg-logo="" group-title="24 HORAS",(24h) Coragem o Cão Covarde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69455|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 2" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69456|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) CSI" tvg-logo="" group-title="24 HORAS",(24h) CSI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69457|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) De Ferias com o Ex" tvg-logo="" group-title="24 HORAS",(24h) De Ferias com o Ex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69458|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Desenhos Biblicos" tvg-logo="" group-title="24 HORAS",(24h) Desenhos Biblicos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69459|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Digimon" tvg-logo="" group-title="24 HORAS",(24h) Digimon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69460|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dois Homens e Meio" tvg-logo="" group-title="24 HORAS",(24h) Dois Homens e Meio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69461|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Doug" tvg-logo="" group-title="24 HORAS",(24h) Doug
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69462|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball GT" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball GT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69463|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Super" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69464|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69465|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Cell" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Cell
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69466|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Androides" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Androides
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69467|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Babidi" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Babidi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69468|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Majinbu" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Majinbu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69469|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Namekusei" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Namekusei
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69470|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Sayajin" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Sayajin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69471|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga Sayaman" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga Sayaman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69472|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Super" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69473|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Medabots" tvg-logo="" group-title="24 HORAS",(24h) Medabots
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69474|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Eu a Patroa e as Crianças" tvg-logo="" group-title="24 HORAS",(24h) Eu a Patroa e as Crianças
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69475|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Pegadinhas" tvg-logo="" group-title="24 HORAS",(24h) Pegadinhas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69476|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Fly o Pequeno Guerreiro" tvg-logo="" group-title="24 HORAS",(24h) Fly o Pequeno Guerreiro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69477|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Fronteira" tvg-logo="" group-title="24 HORAS",(24h) Fronteira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69478|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Galinha Pintadinha" tvg-logo="" group-title="24 HORAS",(24h) Galinha Pintadinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69479|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 4" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69480|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Game of Thrones" tvg-logo="" group-title="24 HORAS",(24h) Game of Thrones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69481|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Garfield" tvg-logo="" group-title="24 HORAS",(24h) Garfield
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69482|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Buzz Lightyer" tvg-logo="" group-title="24 HORAS",(24h) Buzz Lightyer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69483|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Gato Felix" tvg-logo="" group-title="24 HORAS",(24h) Gato Felix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69484|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Greys Anatomy" tvg-logo="" group-title="24 HORAS",(24h) Greys Anatomy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69485|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Filmes Marvel 01" tvg-logo="" group-title="24 HORAS",(24h) Filmes Marvel 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69486|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) He Man Desenho" tvg-logo="" group-title="24 HORAS",(24h) He Man Desenho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69487|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 3" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69488|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Homem Aranha" tvg-logo="" group-title="24 HORAS",(24h) Homem Aranha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69489|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) iCarly" tvg-logo="" group-title="24 HORAS",(24h) iCarly
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69490|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Jonny Quest" tvg-logo="" group-title="24 HORAS",(24h) Jonny Quest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69491|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Jéssica Jones" tvg-logo="" group-title="24 HORAS",(24h) Jéssica Jones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69492|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) La Casa de Papel" tvg-logo="" group-title="24 HORAS",(24h) La Casa de Papel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69493|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Smallville: As Aventuras do Superboy" tvg-logo="" group-title="24 HORAS",(24h) Smallville: As Aventuras do Superboy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69494|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Ligeirinho" tvg-logo="" group-title="24 HORAS",(24h) Ligeirinho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69495|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Marvel Demolidor" tvg-logo="" group-title="24 HORAS",(24h) Marvel Demolidor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69496|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Masha e o Urso" tvg-logo="" group-title="24 HORAS",(24h) Masha e o Urso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69497|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Mickey Mouse" tvg-logo="" group-title="24 HORAS",(24h) Mickey Mouse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69498|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 6" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69499|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Naruto Clássico" tvg-logo="" group-title="24 HORAS",(24h) Naruto Clássico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69500|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Novela: Vamp" tvg-logo="" group-title="24 HORAS",(24h) Novela: Vamp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69501|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) O Mandaloriano" tvg-logo="" group-title="24 HORAS",(24h) O Mandaloriano
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69502|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) O Show de Garfield" tvg-logo="" group-title="24 HORAS",(24h) O Show de Garfield
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69503|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) O Sócio" tvg-logo="" group-title="24 HORAS",(24h) O Sócio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69504|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Phineas e Ferb" tvg-logo="" group-title="24 HORAS",(24h) Phineas e Ferb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69505|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 7" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69506|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Jovens Titans" tvg-logo="" group-title="24 HORAS",(24h) Os Jovens Titans
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69507|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cine Pipoca 15" tvg-logo="" group-title="24 HORAS",(24h) Cine Pipoca 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69508|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Roni" tvg-logo="" group-title="24 HORAS",(24h) Os Roni
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69509|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Simpsons" tvg-logo="" group-title="24 HORAS",(24h) Os Simpsons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69510|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Smurfs" tvg-logo="" group-title="24 HORAS",(24h) Os Smurfs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69511|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Trapalhões" tvg-logo="" group-title="24 HORAS",(24h) Os Trapalhões
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69512|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Vingadores Desenho" tvg-logo="" group-title="24 HORAS",(24h) Os Vingadores Desenho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69513|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Patrulha Canina" tvg-logo="" group-title="24 HORAS",(24h) Patrulha Canina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69514|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Peppa Pig" tvg-logo="" group-title="24 HORAS",(24h) Peppa Pig
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69515|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Pica Pau" tvg-logo="" group-title="24 HORAS",(24h) Pica Pau
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69516|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 8" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69517|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) TV Globinho 9" tvg-logo="" group-title="24 HORAS",(24h) TV Globinho 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69518|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Polícia 24H" tvg-logo="" group-title="24 HORAS",(24h) Polícia 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69519|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Popeye" tvg-logo="" group-title="24 HORAS",(24h) Popeye
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69520|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Power Rangers" tvg-logo="" group-title="24 HORAS",(24h) Power Rangers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69521|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Rei Leão" tvg-logo="" group-title="24 HORAS",(24h) Rei Leão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69522|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Rick And Morty" tvg-logo="" group-title="24 HORAS",(24h) Rick And Morty
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69523|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Sai de Baixo" tvg-logo="" group-title="24 HORAS",(24h) Sai de Baixo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69524|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Scooby Doo" tvg-logo="" group-title="24 HORAS",(24h) Scooby Doo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69525|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Xuxa" tvg-logo="" group-title="24 HORAS",(24h) Xuxa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69526|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) South Park" tvg-logo="" group-title="24 HORAS",(24h) South Park
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69527|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Spartacus" tvg-logo="" group-title="24 HORAS",(24h) Spartacus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69528|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Stand-UP Comédia" tvg-logo="" group-title="24 HORAS",(24h) Stand-UP Comédia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69529|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Star Wars" tvg-logo="" group-title="24 HORAS",(24h) Star Wars
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69530|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Street Fighter" tvg-logo="" group-title="24 HORAS",(24h) Street Fighter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69531|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Super Choque" tvg-logo="" group-title="24 HORAS",(24h) Super Choque
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69532|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cinema em Casa 2" tvg-logo="" group-title="24 HORAS",(24h) Cinema em Casa 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69533|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Supernatural" tvg-logo="" group-title="24 HORAS",(24h) Supernatural
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69534|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) The 100" tvg-logo="" group-title="24 HORAS",(24h) The 100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69535|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) The Big Bang Theory" tvg-logo="" group-title="24 HORAS",(24h) The Big Bang Theory
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69536|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) The Walking Dead" tvg-logo="" group-title="24 HORAS",(24h) The Walking Dead
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69537|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Timão e Pumba" tvg-logo="" group-title="24 HORAS",(24h) Timão e Pumba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69538|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Todo Mundo Odeia o Chris" tvg-logo="" group-title="24 HORAS",(24h) Todo Mundo Odeia o Chris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69539|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Tom e Jerry" tvg-logo="" group-title="24 HORAS",(24h) Tom e Jerry
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69540|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Cinema em Casa 4" tvg-logo="" group-title="24 HORAS",(24h) Cinema em Casa 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69541|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Trolls" tvg-logo="" group-title="24 HORAS",(24h) Trolls
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69542|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Filmes Marvel 02" tvg-logo="" group-title="24 HORAS",(24h) Filmes Marvel 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69543|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Um Maluco No Pedaço" tvg-logo="" group-title="24 HORAS",(24h) Um Maluco No Pedaço
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69544|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Ursinhos Gummi" tvg-logo="" group-title="24 HORAS",(24h) Ursinhos Gummi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69545|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Irmão do Jorel" tvg-logo="" group-title="24 HORAS",(24h) Irmão do Jorel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69546|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Verdades Secretas" tvg-logo="" group-title="24 HORAS",(24h) Verdades Secretas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69547|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Vikings" tvg-logo="" group-title="24 HORAS",(24h) Vikings
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69548|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) X-Men Antigo" tvg-logo="" group-title="24 HORAS",(24h) X-Men Antigo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69549|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="(24h) Denis o Pimentinha" tvg-logo="" group-title="24 HORAS",(24h) Denis o Pimentinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69550|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Copa Carioca #1" tvg-logo="" group-title="COPAS REGIONAIS",Copa Carioca #1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69551|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Copa Carioca #2" tvg-logo="" group-title="COPAS REGIONAIS",Copa Carioca #2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69552|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 1" tvg-logo="" group-title="COPAS REGIONAIS",Copa Catarinense 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69553|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 2" tvg-logo="" group-title="COPAS REGIONAIS",Copa Catarinense 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69554|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 3" tvg-logo="" group-title="COPAS REGIONAIS",Copa Catarinense 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69555|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #1" tvg-logo="" group-title="COPAS REGIONAIS",Copa do Nordeste 2020 #1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69556|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #2" tvg-logo="" group-title="COPAS REGIONAIS",Copa do Nordeste 2020 #2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69557|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 1" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO CATARINENSE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69558|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 2" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO CATARINENSE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69559|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 3" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO CATARINENSE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69560|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 4" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO CATARINENSE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69561|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 1" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO SERGIPANO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69562|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO SERGIPANO 2" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO SERGIPANO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69563|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO CARIOCA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69564|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO CARIOCA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69565|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 1" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO BAIANO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69566|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BAIANO 2" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO BAIANO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69567|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1" tvg-logo="" group-title="COPAS REGIONAIS",COPA DO NORDESTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69568|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2" tvg-logo="" group-title="COPAS REGIONAIS",COPA DO NORDESTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69569|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 1" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO PARANAENSE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69570|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 2" tvg-logo="" group-title="COPAS REGIONAIS",CAMPEONATO PARANAENSE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/69571|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. MINEIRO 1" tvg-logo="" group-title="COPAS REGIONAIS",CAMP. MINEIRO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70845|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD" tvg-logo="" group-title="REDE HBO",HBO MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70846|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 1 (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70847|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 10 (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70848|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 2 (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70849|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 3 (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70850|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 4 (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70851|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 5 (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70852|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 6 (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70853|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 7 (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70854|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 8 (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70855|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9 (ALTERNATIVO)" tvg-logo="" group-title="ELEVEN SPORTS",ELEVEN SPORTS 9 (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70856|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 4 HD" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70857|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 5 HD" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70858|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS 6 HD" tvg-logo="" group-title="TNT SPORT",ESTÁDIO TNT SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70859|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 1 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 1 HD (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70860|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 2 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 2 HD (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70861|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 3 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 3 HD (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70862|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 4 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 4 HD (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70863|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 5 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 5 HD (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70864|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 6 HD (ALTERNATIVO)" tvg-logo="" group-title="TNT SPORT",Estádio TNT Sports 6 HD (ALTERNATIVO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/70865|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE SD" tvg-logo="https://e7.pngegg.com/pngimages/349/690/png-clipart-logo-france-tv5monde-information-france-television-blue.png" group-title="ESPORTE",TV5 MONDE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/71624|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="CANAIS ABERTOS",TVE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/71625|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="CANAIS ABERTOS",TVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/71626|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="CANAIS ABERTOS",TVE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/71627|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Up Channel HD" tvg-logo="https://static.wixstatic.com/media/8b5001_faf5b5c4681248eb8b6c4ae1e3eaa91c~mv2.png/v1/fit/w_2500,h_1330,al_c/8b5001_faf5b5c4681248eb8b6c4ae1e3eaa91c~mv2.png" group-title="MUSICAS E VARIEDADE",Up Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/71630|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS HD" tvg-logo="https://cms.emidgroup.com.br/conectnet/arquivos/canais_streaming/imagens/103/original/urban-docspng.png" group-title="DOCUMENTARIO",URBAN DOCS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/71631|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS HD" tvg-logo="https://cms.emidgroup.com.br/conectnet/arquivos/canais_streaming/imagens/104/original/urban-kidspng.png" group-title="INFANTIS",URBAN KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/71632|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD" tvg-logo="https://urbantv.com.br/canais/logo-urbanmovies.jpg" group-title="FILMES E SERIES",URBAN MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/71633|User-Agent=MXPlayer
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES HD" tvg-logo="https://cst.net.br/wp-content/uploads/2021/06/urban-series.png" group-title="FILMES E SERIES",URBAN SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://cms-eu-01.casap2p.online:8080//nara1234/nara1234/71634|User-Agent=MXPlayer
+
+
+
+
+
+
+
 
 
 
