@@ -1409,1434 +1409,1437 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES MARES-CE FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO VERDES MARES-CE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431686|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431686.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="MOSAICO" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517905|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517905.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 1" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517906|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517906.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 2" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517908|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517908.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 3" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517909|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517909.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 4" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517910|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517910.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 5" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517911|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517911.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 6" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517912|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517912.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 7" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517913|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517913.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 8" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517914|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517914.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 9" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517915|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517915.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 10" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517916|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517916.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 11" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517917|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517917.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="https://1.bp.blogspot.com/-BXyqaWD9f28/XvfRGvWH21I/AAAAAAAAABM/p2Vq11qKKd4IC8SktriLHbjWUNKjsFWNgCK4BGAsYHg/s400/REDE%2BTV.png" group-title="CANAIS | Abertos",REDE TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/168|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/168.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="https://1.bp.blogspot.com/-BXyqaWD9f28/XvfRGvWH21I/AAAAAAAAABM/p2Vq11qKKd4IC8SktriLHbjWUNKjsFWNgCK4BGAsYHg/s400/REDE%2BTV.png" group-title="CANAIS | Abertos",REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/169|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/169.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="https://1.bp.blogspot.com/-BXyqaWD9f28/XvfRGvWH21I/AAAAAAAAABM/p2Vq11qKKd4IC8SktriLHbjWUNKjsFWNgCK4BGAsYHg/s400/REDE%2BTV.png" group-title="CANAIS | Abertos",REDE TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/170|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/170.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD" tvg-logo="" group-title="CANAIS | Abertos",CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/173|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/173.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="" group-title="CANAIS | Abertos",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/174|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/174.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA SD" tvg-logo="" group-title="CANAIS | Abertos",TV CAMARA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/192|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/192.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA HD" tvg-logo="" group-title="CANAIS | Abertos",TV CAMARA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/193|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/193.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD" tvg-logo="" group-title="CANAIS | Abertos",TV CULTURA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/195|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/195.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="" group-title="CANAIS | Abertos",TV CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/196|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/196.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV ESCOLA SD" tvg-logo="" group-title="CANAIS | Abertos",TV ESCOLA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/198|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/198.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV ESCOLA HD" tvg-logo="" group-title="CANAIS | Abertos",TV ESCOLA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/199|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/199.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="TV FUTURA SD" tvg-logo="https://1.bp.blogspot.com/-aDDp3ye5bss/Xvkj-ubVSvI/AAAAAAAAAGc/lpSTdnUI6S4MHu2PGs1wBb_cvXtodrRXgCK4BGAsYHg/s400/TV%2BFUTURA.png" group-title="CANAIS | Abertos",TV FUTURA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/200|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/200.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="TV FUTURA HD" tvg-logo="https://1.bp.blogspot.com/-aDDp3ye5bss/Xvkj-ubVSvI/AAAAAAAAAGc/lpSTdnUI6S4MHu2PGs1wBb_cvXtodrRXgCK4BGAsYHg/s400/TV%2BFUTURA.png" group-title="CANAIS | Abertos",TV FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/201|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/201.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SD" tvg-logo="" group-title="CANAIS | Abertos",TV GAZETA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/202|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/202.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="" group-title="CANAIS | Abertos",TV GAZETA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/203|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/203.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA SD" tvg-logo="" group-title="CANAIS | Abertos",TV JUSTIÇA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/205|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/205.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA HD" tvg-logo="" group-title="CANAIS | Abertos",TV JUSTIÇA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/206|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/206.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO SD" tvg-logo="" group-title="CANAIS | Abertos",TV SENADO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/213|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/213.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD" tvg-logo="" group-title="CANAIS | Abertos",TV SENADO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/214|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/214.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO HD" tvg-logo="" group-title="CANAIS | Religiosos",NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/622|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/622.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL HD" tvg-logo="" group-title="CANAIS | Religiosos",REDE GOSPEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/623|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/623.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="" group-title="CANAIS | Religiosos",TV APARECIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/628|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/628.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV AVIVANDO NAÇOES SD" tvg-logo="" group-title="CANAIS | Religiosos",TV AVIVANDO NAÇOES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/629|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/629.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR SD" tvg-logo="" group-title="CANAIS | Religiosos",TV EVANGELIZAR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/630|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/630.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV OURO NEGO HD" tvg-logo="" group-title="CANAIS | Religiosos",TV OURO NEGO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/634|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/634.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV UNIVERSAL HD" tvg-logo="" group-title="CANAIS | Religiosos",TV UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/639|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/639.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV VIANNEY HD" tvg-logo="" group-title="CANAIS | Religiosos",TV VIANNEY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/640|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/640.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="REDE MUNDIAL" tvg-logo="" group-title="CANAIS | Religiosos",REDE MUNDIAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/39011|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/39011.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE AÇÃO" tvg-logo="" group-title="CANAIS | Cinema",CINE AÇÃO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40273|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40273.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE ANIMAIS" tvg-logo="" group-title="CANAIS | Cinema",CINE ANIMAIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40274|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40274.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE BONS TEMPOS" tvg-logo="" group-title="CANAIS | Cinema",CINE BONS TEMPOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40275|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40275.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA" tvg-logo="" group-title="CANAIS | Cinema",CINE COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40277|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40277.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE DESENHO" tvg-logo="" group-title="CANAIS | Cinema",CINE DESENHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40278|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40278.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE DRAMA" tvg-logo="" group-title="CANAIS | Cinema",CINE DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40279|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40279.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIA" tvg-logo="" group-title="CANAIS | Cinema",CINE FAMILIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40280|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40280.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE FOOD" tvg-logo="" group-title="CANAIS | Cinema",CINE FOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40281|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40281.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE GOSPEL CARTOON 1" tvg-logo="" group-title="CANAIS | Cinema",CINE GOSPEL CARTOON 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40282|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40282.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE INVESTIGAÇÃO" tvg-logo="" group-title="CANAIS | Cinema",CINE INVESTIGAÇÃO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40284|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40284.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE NOVA PLAY" tvg-logo="" group-title="CANAIS | Cinema",CINE NOVA PLAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40286|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40286.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE RETRO CARTOON 1" tvg-logo="" group-title="CANAIS | Cinema",CINE RETRO CARTOON 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40287|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40287.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SUSPENSE" tvg-logo="" group-title="CANAIS | Cinema",CINE SUSPENSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40291|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40291.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE TERROR" tvg-logo="" group-title="CANAIS | Cinema",CINE TERROR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40292|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40292.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE VIDA REAL" tvg-logo="" group-title="CANAIS | Cinema",CINE VIDA REAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40293|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40293.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE VINTAGE" tvg-logo="" group-title="CANAIS | Cinema",CINE VINTAGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/40294|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/40294.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE ANIMES" tvg-logo="" group-title="CANAIS | Cinema",CINE ANIMES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/175715|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/175715.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO SD" tvg-logo="" group-title="CANAIS | Religiosos",TV PAI ETERNO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/175719|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/175719.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV CRISTO VIVE SD" tvg-logo="" group-title="CANAIS | Religiosos",TV CRISTO VIVE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/175722|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/175722.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV JESUS CRISTO SD" tvg-logo="" group-title="CANAIS | Religiosos",TV JESUS CRISTO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/175727|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/175727.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV GOSPEL LOUVORES SD" tvg-logo="" group-title="CANAIS | Religiosos",TV GOSPEL LOUVORES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/175731|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/175731.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TV VOTULINE SD" tvg-logo="" group-title="CANAIS | Religiosos",TV VOTULINE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/175732|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/175732.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://1.bp.blogspot.com/-o77K5dSw9m8/Xv5GPZcTioI/AAAAAAAAAhs/TYgqKl1ngJcsL40t59SDTjJuB7yGNI6lACK4BGAsYHg/s400/HBO.png" group-title="CANAIS | Hbo",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179331|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179331.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://1.bp.blogspot.com/-o77K5dSw9m8/Xv5GPZcTioI/AAAAAAAAAhs/TYgqKl1ngJcsL40t59SDTjJuB7yGNI6lACK4BGAsYHg/s400/HBO.png" group-title="CANAIS | Hbo",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179334|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179334.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://1.bp.blogspot.com/-o77K5dSw9m8/Xv5GPZcTioI/AAAAAAAAAhs/TYgqKl1ngJcsL40t59SDTjJuB7yGNI6lACK4BGAsYHg/s400/HBO.png" group-title="CANAIS | Hbo",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179336|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179336.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://1.bp.blogspot.com/-olRwCe6zXPs/Xv5N2NUNqXI/AAAAAAAAAiI/1rB6Sk4hsnAe85CHJTgDW0Z97uq4VW_2ACK4BGAsYHg/s400/HBO%2B2.png" group-title="CANAIS | Hbo",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179337|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179337.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://1.bp.blogspot.com/-olRwCe6zXPs/Xv5N2NUNqXI/AAAAAAAAAiI/1rB6Sk4hsnAe85CHJTgDW0Z97uq4VW_2ACK4BGAsYHg/s400/HBO%2B2.png" group-title="CANAIS | Hbo",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179340|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179340.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://1.bp.blogspot.com/-olRwCe6zXPs/Xv5N2NUNqXI/AAAAAAAAAiI/1rB6Sk4hsnAe85CHJTgDW0Z97uq4VW_2ACK4BGAsYHg/s400/HBO%2B2.png" group-title="CANAIS | Hbo",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179342|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179342.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://1.bp.blogspot.com/-Zx1vDMbU-8o/Xv5PU8rLEwI/AAAAAAAAAik/bBZiqSOezW4uMQflHQeAWLA-nWKS7K5tgCK4BGAsYHg/s400/HBO%2BFAMILY.png" group-title="CANAIS | Hbo",HBO FAMILY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179345|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179345.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://1.bp.blogspot.com/-Zx1vDMbU-8o/Xv5PU8rLEwI/AAAAAAAAAik/bBZiqSOezW4uMQflHQeAWLA-nWKS7K5tgCK4BGAsYHg/s400/HBO%2BFAMILY.png" group-title="CANAIS | Hbo",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179346|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179346.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://1.bp.blogspot.com/-Zx1vDMbU-8o/Xv5PU8rLEwI/AAAAAAAAAik/bBZiqSOezW4uMQflHQeAWLA-nWKS7K5tgCK4BGAsYHg/s400/HBO%2BFAMILY.png" group-title="CANAIS | Hbo",HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179348|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179348.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://1.bp.blogspot.com/-E-9OTonpAOE/Xv5UyPRstLI/AAAAAAAAAkQ/cscPlRY3hLMFWe-PDQltxznItbquux2OQCK4BGAsYHg/s400/HBO%2BMUNDI.png" group-title="CANAIS | Hbo",HBO MUNDI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179351|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179351.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://1.bp.blogspot.com/-E-9OTonpAOE/Xv5UyPRstLI/AAAAAAAAAkQ/cscPlRY3hLMFWe-PDQltxznItbquux2OQCK4BGAsYHg/s400/HBO%2BMUNDI.png" group-title="CANAIS | Hbo",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179352|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179352.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://1.bp.blogspot.com/-E-9OTonpAOE/Xv5UyPRstLI/AAAAAAAAAkQ/cscPlRY3hLMFWe-PDQltxznItbquux2OQCK4BGAsYHg/s400/HBO%2BMUNDI.png" group-title="CANAIS | Hbo",HBO MUNDI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179354|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179354.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://1.bp.blogspot.com/-b76dgxi9K-U/Xv5Wvdgi40I/AAAAAAAAAks/KztqxT7-vDoSBpYOIYuDhkfz-kquGiA9wCK4BGAsYHg/s400/HBO%2BPLUS.png" group-title="CANAIS | Hbo",HBO PLUS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179357|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179357.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://1.bp.blogspot.com/-b76dgxi9K-U/Xv5Wvdgi40I/AAAAAAAAAks/KztqxT7-vDoSBpYOIYuDhkfz-kquGiA9wCK4BGAsYHg/s400/HBO%2BPLUS.png" group-title="CANAIS | Hbo",HBO PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179358|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179358.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://1.bp.blogspot.com/-b76dgxi9K-U/Xv5Wvdgi40I/AAAAAAAAAks/KztqxT7-vDoSBpYOIYuDhkfz-kquGiA9wCK4BGAsYHg/s400/HBO%2BPLUS.png" group-title="CANAIS | Hbo",HBO PLUS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179360|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179360.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="https://1.bp.blogspot.com/-7qu_P-MHBis/Xv5YWSQ0cTI/AAAAAAAAAlI/1cOJ1mZUKvYKL_NJ1Dc5Tz-c9zyY9DCegCK4BGAsYHg/s400/HBO%2BPOP.png" group-title="CANAIS | Hbo",HBO POP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179363|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179363.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://1.bp.blogspot.com/-7qu_P-MHBis/Xv5YWSQ0cTI/AAAAAAAAAlI/1cOJ1mZUKvYKL_NJ1Dc5Tz-c9zyY9DCegCK4BGAsYHg/s400/HBO%2BPOP.png" group-title="CANAIS | Hbo",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179364|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179364.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD" tvg-logo="https://1.bp.blogspot.com/-7qu_P-MHBis/Xv5YWSQ0cTI/AAAAAAAAAlI/1cOJ1mZUKvYKL_NJ1Dc5Tz-c9zyY9DCegCK4BGAsYHg/s400/HBO%2BPOP.png" group-title="CANAIS | Hbo",HBO POP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179366|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179366.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://1.bp.blogspot.com/-yhYxU-ACw4s/Xv5ZtnpS0qI/AAAAAAAAAlk/hjeKfcpLLScjytqLomYTlJ9EDt0s-fh6ACK4BGAsYHg/s400/HBO%2BSIGNATURE.png" group-title="CANAIS | Hbo",HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179369|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179369.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://1.bp.blogspot.com/-yhYxU-ACw4s/Xv5ZtnpS0qI/AAAAAAAAAlk/hjeKfcpLLScjytqLomYTlJ9EDt0s-fh6ACK4BGAsYHg/s400/HBO%2BSIGNATURE.png" group-title="CANAIS | Hbo",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179370|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179370.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://1.bp.blogspot.com/-yhYxU-ACw4s/Xv5ZtnpS0qI/AAAAAAAAAlk/hjeKfcpLLScjytqLomYTlJ9EDt0s-fh6ACK4BGAsYHg/s400/HBO%2BSIGNATURE.png" group-title="CANAIS | Hbo",HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179372|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179372.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://1.bp.blogspot.com/-46sBCz2eMRQ/Xv5bIyEGhSI/AAAAAAAAAmA/Kz14S50e9pwIkGrbWbPtMla2ZT5RmtDTgCK4BGAsYHg/s400/HBO%2BXTREME.png" group-title="CANAIS | Hbo",HBO XTREME SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179375|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179375.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://1.bp.blogspot.com/-46sBCz2eMRQ/Xv5bIyEGhSI/AAAAAAAAAmA/Kz14S50e9pwIkGrbWbPtMla2ZT5RmtDTgCK4BGAsYHg/s400/HBO%2BXTREME.png" group-title="CANAIS | Hbo",HBO XTREME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179376|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179376.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD" tvg-logo="https://1.bp.blogspot.com/-46sBCz2eMRQ/Xv5bIyEGhSI/AAAAAAAAAmA/Kz14S50e9pwIkGrbWbPtMla2ZT5RmtDTgCK4BGAsYHg/s400/HBO%2BXTREME.png" group-title="CANAIS | Hbo",HBO XTREME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179378|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179378.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://1.bp.blogspot.com/-3fTkHwKRi00/XvuJdUYpx9I/AAAAAAAAAbU/S3qJtaGddNghJfp4uIRhH7Ux9w_Enw0dACK4BGAsYHg/s400/TELECINE%2BACTION.png" group-title="CANAIS | Telecine",TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179381|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179381.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://1.bp.blogspot.com/-3fTkHwKRi00/XvuJdUYpx9I/AAAAAAAAAbU/S3qJtaGddNghJfp4uIRhH7Ux9w_Enw0dACK4BGAsYHg/s400/TELECINE%2BACTION.png" group-title="CANAIS | Telecine",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179382|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179382.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://1.bp.blogspot.com/-3fTkHwKRi00/XvuJdUYpx9I/AAAAAAAAAbU/S3qJtaGddNghJfp4uIRhH7Ux9w_Enw0dACK4BGAsYHg/s400/TELECINE%2BACTION.png" group-title="CANAIS | Telecine",TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179384|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179384.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://1.bp.blogspot.com/-vN_jQzx4S1s/XvuLZ_r0F0I/AAAAAAAAAbw/NdD5z5aphpIgZweGxUHiaWZoDu7-4EMUACK4BGAsYHg/s400/TELECINE%2BCULT.png" group-title="CANAIS | Telecine",TELECINE CULT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179387|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179387.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://1.bp.blogspot.com/-vN_jQzx4S1s/XvuLZ_r0F0I/AAAAAAAAAbw/NdD5z5aphpIgZweGxUHiaWZoDu7-4EMUACK4BGAsYHg/s400/TELECINE%2BCULT.png" group-title="CANAIS | Telecine",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179388|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179388.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://1.bp.blogspot.com/-vN_jQzx4S1s/XvuLZ_r0F0I/AAAAAAAAAbw/NdD5z5aphpIgZweGxUHiaWZoDu7-4EMUACK4BGAsYHg/s400/TELECINE%2BCULT.png" group-title="CANAIS | Telecine",TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179390|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179390.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://1.bp.blogspot.com/-1DULejogJbI/XvuMtQFGBxI/AAAAAAAAAcM/hwtf4g9ACZ0uI0YlM5U2usap7E8Quny1gCK4BGAsYHg/s400/TELECINE%2BFUN.png" group-title="CANAIS | Telecine",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179393|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179393.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://1.bp.blogspot.com/-1DULejogJbI/XvuMtQFGBxI/AAAAAAAAAcM/hwtf4g9ACZ0uI0YlM5U2usap7E8Quny1gCK4BGAsYHg/s400/TELECINE%2BFUN.png" group-title="CANAIS | Telecine",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179394|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179394.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://1.bp.blogspot.com/-1DULejogJbI/XvuMtQFGBxI/AAAAAAAAAcM/hwtf4g9ACZ0uI0YlM5U2usap7E8Quny1gCK4BGAsYHg/s400/TELECINE%2BFUN.png" group-title="CANAIS | Telecine",TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179396|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179396.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://1.bp.blogspot.com/-H0m9_A5Sp-0/XvuOEpTelWI/AAAAAAAAAco/8urT-XKiZAI10QQPjlOhRWNPb8jJmxY8wCK4BGAsYHg/s400/TELECINE%2BPIPOCA.png" group-title="CANAIS | Telecine",TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179399|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179399.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://1.bp.blogspot.com/-H0m9_A5Sp-0/XvuOEpTelWI/AAAAAAAAAco/8urT-XKiZAI10QQPjlOhRWNPb8jJmxY8wCK4BGAsYHg/s400/TELECINE%2BPIPOCA.png" group-title="CANAIS | Telecine",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179400|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179400.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://1.bp.blogspot.com/-H0m9_A5Sp-0/XvuOEpTelWI/AAAAAAAAAco/8urT-XKiZAI10QQPjlOhRWNPb8jJmxY8wCK4BGAsYHg/s400/TELECINE%2BPIPOCA.png" group-title="CANAIS | Telecine",TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179402|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179402.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://1.bp.blogspot.com/-kCiRRb3i2PA/XvuPZcJJxPI/AAAAAAAAAdE/6ntbfC-q7cYfAhxRlYz-GelGndIwqmTzwCK4BGAsYHg/s400/TELECINE%2BPREMIUM.png" group-title="CANAIS | Telecine",TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179405|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179405.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://1.bp.blogspot.com/-kCiRRb3i2PA/XvuPZcJJxPI/AAAAAAAAAdE/6ntbfC-q7cYfAhxRlYz-GelGndIwqmTzwCK4BGAsYHg/s400/TELECINE%2BPREMIUM.png" group-title="CANAIS | Telecine",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179406|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179406.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://1.bp.blogspot.com/-kCiRRb3i2PA/XvuPZcJJxPI/AAAAAAAAAdE/6ntbfC-q7cYfAhxRlYz-GelGndIwqmTzwCK4BGAsYHg/s400/TELECINE%2BPREMIUM.png" group-title="CANAIS | Telecine",TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179408|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179408.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://1.bp.blogspot.com/-ruCEQ3GNmVc/XvuQz_J7cVI/AAAAAAAAAdg/0SXQUE1t2t8i3TXP-Qzh_Fepv2JghBF8wCK4BGAsYHg/s400/TELECINE%2BTOUCH.png" group-title="CANAIS | Telecine",TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179411|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179411.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://1.bp.blogspot.com/-ruCEQ3GNmVc/XvuQz_J7cVI/AAAAAAAAAdg/0SXQUE1t2t8i3TXP-Qzh_Fepv2JghBF8wCK4BGAsYHg/s400/TELECINE%2BTOUCH.png" group-title="CANAIS | Telecine",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179412|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179412.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://1.bp.blogspot.com/-ruCEQ3GNmVc/XvuQz_J7cVI/AAAAAAAAAdg/0SXQUE1t2t8i3TXP-Qzh_Fepv2JghBF8wCK4BGAsYHg/s400/TELECINE%2BTOUCH.png" group-title="CANAIS | Telecine",TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179414|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179414.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://1.bp.blogspot.com/-1AlSXaEIoKQ/XxWwSmyN6vI/AAAAAAAAAzA/KtKtJSjanggYS8Fbl3qz9w_c8eTgs39SACLcBGAsYHQ/s400/A%2526E.png" group-title="CANAIS | Filmes & Séries",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179415|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179415.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://1.bp.blogspot.com/-1AlSXaEIoKQ/XxWwSmyN6vI/AAAAAAAAAzA/KtKtJSjanggYS8Fbl3qz9w_c8eTgs39SACLcBGAsYHQ/s400/A%2526E.png" group-title="CANAIS | Filmes & Séries",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179418|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179418.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://1.bp.blogspot.com/-1AlSXaEIoKQ/XxWwSmyN6vI/AAAAAAAAAzA/KtKtJSjanggYS8Fbl3qz9w_c8eTgs39SACLcBGAsYHQ/s400/A%2526E.png" group-title="CANAIS | Filmes & Séries",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179420|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179420.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://1.bp.blogspot.com/-oALr_8M7PVQ/XxizOOfzfVI/AAAAAAAAAzo/GkDx6X6gqzIxoyyO4T5FxdeycehxKHobQCLcBGAsYHQ/s400/AMC.png" group-title="CANAIS | Filmes & Séries",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179421|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179421.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://1.bp.blogspot.com/-oALr_8M7PVQ/XxizOOfzfVI/AAAAAAAAAzo/GkDx6X6gqzIxoyyO4T5FxdeycehxKHobQCLcBGAsYHQ/s400/AMC.png" group-title="CANAIS | Filmes & Séries",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179424|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179424.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://1.bp.blogspot.com/-oALr_8M7PVQ/XxizOOfzfVI/AAAAAAAAAzo/GkDx6X6gqzIxoyyO4T5FxdeycehxKHobQCLcBGAsYHQ/s400/AMC.png" group-title="CANAIS | Filmes & Séries",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179426|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179426.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://1.bp.blogspot.com/-_ZUvxzXZQBg/X4HYdyo6-mI/AAAAAAAAA_k/EMenZmCM27kuQDsiZLOSr3Qmu8xYAwsMwCLcBGAsYHQ/s400/ARTE%2B1.png" group-title="CANAIS | Filmes & Séries",ARTE 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179427|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179427.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://1.bp.blogspot.com/-_ZUvxzXZQBg/X4HYdyo6-mI/AAAAAAAAA_k/EMenZmCM27kuQDsiZLOSr3Qmu8xYAwsMwCLcBGAsYHQ/s400/ARTE%2B1.png" group-title="CANAIS | Filmes & Séries",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179431|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179431.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://1.bp.blogspot.com/-_ZUvxzXZQBg/X4HYdyo6-mI/AAAAAAAAA_k/EMenZmCM27kuQDsiZLOSr3Qmu8xYAwsMwCLcBGAsYHQ/s400/ARTE%2B1.png" group-title="CANAIS | Filmes & Séries",ARTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179432|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179432.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://1.bp.blogspot.com/-FvpqfJOtrFg/Xxi0fEpdZgI/AAAAAAAAAz0/1sZxP-SYTF4uyY3SkvW-Uq10Skfkr25LACLcBGAsYHQ/s400/AXN.png" group-title="CANAIS | Filmes & Séries",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179433|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179433.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://1.bp.blogspot.com/-FvpqfJOtrFg/Xxi0fEpdZgI/AAAAAAAAAz0/1sZxP-SYTF4uyY3SkvW-Uq10Skfkr25LACLcBGAsYHQ/s400/AXN.png" group-title="CANAIS | Filmes & Séries",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179436|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179436.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://1.bp.blogspot.com/-FvpqfJOtrFg/Xxi0fEpdZgI/AAAAAAAAAz0/1sZxP-SYTF4uyY3SkvW-Uq10Skfkr25LACLcBGAsYHQ/s400/AXN.png" group-title="CANAIS | Filmes & Séries",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179438|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179438.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://1.bp.blogspot.com/-CHserlvIQ-s/Xxr1mQVO5TI/AAAAAAAAA1s/ncX0ttG-XgANYbQjFy3CZpwlMfeXP2XfgCLcBGAsYHQ/s400/CINEMAX.png" group-title="CANAIS | Filmes & Séries",CINEMAX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179439|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179439.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-CHserlvIQ-s/Xxr1mQVO5TI/AAAAAAAAA1s/ncX0ttG-XgANYbQjFy3CZpwlMfeXP2XfgCLcBGAsYHQ/s400/CINEMAX.png" group-title="CANAIS | Filmes & Séries",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179441|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179441.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://1.bp.blogspot.com/-CHserlvIQ-s/Xxr1mQVO5TI/AAAAAAAAA1s/ncX0ttG-XgANYbQjFy3CZpwlMfeXP2XfgCLcBGAsYHQ/s400/CINEMAX.png" group-title="CANAIS | Filmes & Séries",CINEMAX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179444|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179444.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://1.bp.blogspot.com/-WvXHDW-B9IM/XvooxXuUZgI/AAAAAAAAATU/9sl7GfSm-RIZhBG9TQbd7orqAHm9yWweQCK4BGAsYHg/s400/FISH%2BTV.png" group-title="CANAIS | Filmes & Séries",FISH TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179445|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179445.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://1.bp.blogspot.com/-WvXHDW-B9IM/XvooxXuUZgI/AAAAAAAAATU/9sl7GfSm-RIZhBG9TQbd7orqAHm9yWweQCK4BGAsYHg/s400/FISH%2BTV.png" group-title="CANAIS | Filmes & Séries",FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179450|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179450.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://1.bp.blogspot.com/-cS63k-kxnlE/XxsBSJJX7bI/AAAAAAAAA2c/APLBsfGzissNcBvw1EnLMG20zcj9Sw-qgCLcBGAsYHQ/s400/FX.png" group-title="CANAIS | Filmes & Séries",FX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179451|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179451.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://1.bp.blogspot.com/-cS63k-kxnlE/XxsBSJJX7bI/AAAAAAAAA2c/APLBsfGzissNcBvw1EnLMG20zcj9Sw-qgCLcBGAsYHQ/s400/FX.png" group-title="CANAIS | Filmes & Séries",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179453|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179453.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://1.bp.blogspot.com/-cS63k-kxnlE/XxsBSJJX7bI/AAAAAAAAA2c/APLBsfGzissNcBvw1EnLMG20zcj9Sw-qgCLcBGAsYHQ/s400/FX.png" group-title="CANAIS | Filmes & Séries",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179454|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179454.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://1.bp.blogspot.com/-Ki9b-zqtHU0/XxsCzCDlTDI/AAAAAAAAA2o/tOelLWFqpNEmmq1AmIfzZIQaGTGyTqgrACLcBGAsYHQ/s400/MEGAPIX.png" group-title="CANAIS | Filmes & Séries",MEGAPIX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179457|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179457.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://1.bp.blogspot.com/-Ki9b-zqtHU0/XxsCzCDlTDI/AAAAAAAAA2o/tOelLWFqpNEmmq1AmIfzZIQaGTGyTqgrACLcBGAsYHQ/s400/MEGAPIX.png" group-title="CANAIS | Filmes & Séries",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179459|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179459.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://1.bp.blogspot.com/-Ki9b-zqtHU0/XxsCzCDlTDI/AAAAAAAAA2o/tOelLWFqpNEmmq1AmIfzZIQaGTGyTqgrACLcBGAsYHQ/s400/MEGAPIX.png" group-title="CANAIS | Filmes & Séries",MEGAPIX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179462|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179462.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="https://1.bp.blogspot.com/-T2LtmDY1Tho/XxxK_f2GR8I/AAAAAAAAA20/l3YfthaBG_4LURg3x27XIeq7XvrYQFtfACLcBGAsYHQ/s400/PARAMOUNT.png" group-title="CANAIS | Filmes & Séries",PARAMOUNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179464|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179464.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://1.bp.blogspot.com/-T2LtmDY1Tho/XxxK_f2GR8I/AAAAAAAAA20/l3YfthaBG_4LURg3x27XIeq7XvrYQFtfACLcBGAsYHQ/s400/PARAMOUNT.png" group-title="CANAIS | Filmes & Séries",PARAMOUNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179466|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179466.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY SD" tvg-logo="https://1.bp.blogspot.com/-OT698isChwk/XxxND5cDf6I/AAAAAAAAA3A/xAnFpI2na90WQgVQhez3OIFTbMpEA6MfQCLcBGAsYHQ/s400/SONY.png" group-title="CANAIS | Filmes & Séries",SONY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179467|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179467.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="https://1.bp.blogspot.com/-OT698isChwk/XxxND5cDf6I/AAAAAAAAA3A/xAnFpI2na90WQgVQhez3OIFTbMpEA6MfQCLcBGAsYHQ/s400/SONY.png" group-title="CANAIS | Filmes & Séries",SONY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179469|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179469.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FHD" tvg-logo="https://1.bp.blogspot.com/-OT698isChwk/XxxND5cDf6I/AAAAAAAAA3A/xAnFpI2na90WQgVQhez3OIFTbMpEA6MfQCLcBGAsYHQ/s400/SONY.png" group-title="CANAIS | Filmes & Séries",SONY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179470|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179470.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://1.bp.blogspot.com/-N_ysogaciYw/XxxPXe0MOHI/AAAAAAAAA3M/tkIzj2Tq-5ElDCsjT-P6j4UGYfJjowL5gCLcBGAsYHQ/s400/SPACE.png" group-title="CANAIS | Filmes & Séries",SPACE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179473|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179473.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://1.bp.blogspot.com/-N_ysogaciYw/XxxPXe0MOHI/AAAAAAAAA3M/tkIzj2Tq-5ElDCsjT-P6j4UGYfJjowL5gCLcBGAsYHQ/s400/SPACE.png" group-title="CANAIS | Filmes & Séries",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179476|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179476.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://1.bp.blogspot.com/-N_ysogaciYw/XxxPXe0MOHI/AAAAAAAAA3M/tkIzj2Tq-5ElDCsjT-P6j4UGYfJjowL5gCLcBGAsYHQ/s400/SPACE.png" group-title="CANAIS | Filmes & Séries",SPACE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179478|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179478.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR SD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179479|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179479.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR HD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179482|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179482.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR FHD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179484|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179484.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179485|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179485.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179488|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179488.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179490|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179490.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 SD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR HITS 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179491|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179491.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR HITS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179494|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179494.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 FHD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR HITS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179496|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179496.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR HITS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179497|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179497.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR HITS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179500|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179500.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD" tvg-logo="https://1.bp.blogspot.com/-qJkFNsSA7GI/YEgJkIWLWUI/AAAAAAAABKc/lDDNBDE1XYMA9DkrdyzRX58Mid4JMH1kACLcBGAsYHQ/s400/STAR.png" group-title="CANAIS | Filmes & Séries",STAR HITS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179502|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179502.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://1.bp.blogspot.com/-A9Im79b5X1M/XxxRFcgXK6I/AAAAAAAAA3Y/kSeyIekC6mc4d4w6Ocmhcq7ajeuOmUlzgCLcBGAsYHQ/s400/STUDIO%2BUNIVERSAL.png" group-title="CANAIS | Filmes & Séries",STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179503|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179503.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://1.bp.blogspot.com/-A9Im79b5X1M/XxxRFcgXK6I/AAAAAAAAA3Y/kSeyIekC6mc4d4w6Ocmhcq7ajeuOmUlzgCLcBGAsYHQ/s400/STUDIO%2BUNIVERSAL.png" group-title="CANAIS | Filmes & Séries",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179506|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179506.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://1.bp.blogspot.com/-A9Im79b5X1M/XxxRFcgXK6I/AAAAAAAAA3Y/kSeyIekC6mc4d4w6Ocmhcq7ajeuOmUlzgCLcBGAsYHQ/s400/STUDIO%2BUNIVERSAL.png" group-title="CANAIS | Filmes & Séries",STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179508|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179508.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="" group-title="CANAIS | Filmes & Séries",SYFY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179509|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179509.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="" group-title="CANAIS | Filmes & Séries",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179512|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179512.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="" group-title="CANAIS | Filmes & Séries",SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179514|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179514.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://1.bp.blogspot.com/-NFNjVnuNQc0/X4Hr1bCoveI/AAAAAAAABAI/PtKdINLl20w4WI1WSBnirzmoGHXL-ueHACLcBGAsYHQ/s400/TBS.png" group-title="CANAIS | Filmes & Séries",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179515|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179515.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://1.bp.blogspot.com/-NFNjVnuNQc0/X4Hr1bCoveI/AAAAAAAABAI/PtKdINLl20w4WI1WSBnirzmoGHXL-ueHACLcBGAsYHQ/s400/TBS.png" group-title="CANAIS | Filmes & Séries",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179518|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179518.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="https://1.bp.blogspot.com/-NFNjVnuNQc0/X4Hr1bCoveI/AAAAAAAABAI/PtKdINLl20w4WI1WSBnirzmoGHXL-ueHACLcBGAsYHQ/s400/TBS.png" group-title="CANAIS | Filmes & Séries",TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179520|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179520.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://1.bp.blogspot.com/-0evRcmD-IeY/X4HtRg4bCBI/AAAAAAAABAU/6JOrdvjKmu012KGxzPrKWSpmgRDRDGbwgCLcBGAsYHQ/s400/TCM.png" group-title="CANAIS | Filmes & Séries",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179522|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179522.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://1.bp.blogspot.com/-0evRcmD-IeY/X4HtRg4bCBI/AAAAAAAABAU/6JOrdvjKmu012KGxzPrKWSpmgRDRDGbwgCLcBGAsYHQ/s400/TCM.png" group-title="CANAIS | Filmes & Séries",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179524|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179524.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://1.bp.blogspot.com/-g3Gaca5edkk/X4HuuC3_ElI/AAAAAAAABAg/J_PxijrGCTEv9aD9u958wv0EY0P1rfoAgCLcBGAsYHQ/s400/TNT.png" group-title="CANAIS | Filmes & Séries",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179525|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179525.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://1.bp.blogspot.com/-g3Gaca5edkk/X4HuuC3_ElI/AAAAAAAABAg/J_PxijrGCTEv9aD9u958wv0EY0P1rfoAgCLcBGAsYHQ/s400/TNT.png" group-title="CANAIS | Filmes & Séries",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179528|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179528.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://1.bp.blogspot.com/-g3Gaca5edkk/X4HuuC3_ElI/AAAAAAAABAg/J_PxijrGCTEv9aD9u958wv0EY0P1rfoAgCLcBGAsYHQ/s400/TNT.png" group-title="CANAIS | Filmes & Séries",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179530|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179530.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://1.bp.blogspot.com/-nO21z5H2anc/X4HwWmKxVlI/AAAAAAAABAs/t4daszyoHhUkOwxV2bAub-yq6PN0pJ_eACLcBGAsYHQ/s400/TNT%2BSERIES.png" group-title="CANAIS | Filmes & Séries",TNT SERIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179533|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179533.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://1.bp.blogspot.com/-nO21z5H2anc/X4HwWmKxVlI/AAAAAAAABAs/t4daszyoHhUkOwxV2bAub-yq6PN0pJ_eACLcBGAsYHQ/s400/TNT%2BSERIES.png" group-title="CANAIS | Filmes & Séries",TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179534|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179534.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="https://1.bp.blogspot.com/-nO21z5H2anc/X4HwWmKxVlI/AAAAAAAABAs/t4daszyoHhUkOwxV2bAub-yq6PN0pJ_eACLcBGAsYHQ/s400/TNT%2BSERIES.png" group-title="CANAIS | Filmes & Séries",TNT SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179536|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179536.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL SD" tvg-logo="https://1.bp.blogspot.com/-2L0sNrofBK8/X4HyE1fkpQI/AAAAAAAABA4/lpK4v2h_3M8_fiV8CejBH056DNEi0cFiwCLcBGAsYHQ/s400/UNIVERSAL%2BCHANNEL.png" group-title="CANAIS | Filmes & Séries",UNIVERSAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179537|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179537.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL HD" tvg-logo="https://1.bp.blogspot.com/-2L0sNrofBK8/X4HyE1fkpQI/AAAAAAAABA4/lpK4v2h_3M8_fiV8CejBH056DNEi0cFiwCLcBGAsYHQ/s400/UNIVERSAL%2BCHANNEL.png" group-title="CANAIS | Filmes & Séries",UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179539|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179539.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL FHD" tvg-logo="https://1.bp.blogspot.com/-2L0sNrofBK8/X4HyE1fkpQI/AAAAAAAABA4/lpK4v2h_3M8_fiV8CejBH056DNEi0cFiwCLcBGAsYHQ/s400/UNIVERSAL%2BCHANNEL.png" group-title="CANAIS | Filmes & Séries",UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179540|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179540.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNNER SD" tvg-logo="https://1.bp.blogspot.com/-giI10Loa4Ac/X4H1biw2v-I/AAAAAAAABBE/roiFhhDWEMYyp7EEaVY37nC3sLnd0db1wCLcBGAsYHQ/s400/WARNER.png" group-title="CANAIS | Filmes & Séries",WARNNER SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179543|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179543.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNNER HD" tvg-logo="https://1.bp.blogspot.com/-giI10Loa4Ac/X4H1biw2v-I/AAAAAAAABBE/roiFhhDWEMYyp7EEaVY37nC3sLnd0db1wCLcBGAsYHQ/s400/WARNER.png" group-title="CANAIS | Filmes & Séries",WARNNER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179546|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179546.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNNER FHD" tvg-logo="https://1.bp.blogspot.com/-giI10Loa4Ac/X4H1biw2v-I/AAAAAAAABBE/roiFhhDWEMYyp7EEaVY37nC3sLnd0db1wCLcBGAsYHQ/s400/WARNER.png" group-title="CANAIS | Filmes & Séries",WARNNER FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179548|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179548.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://1.bp.blogspot.com/-m1Lfb3Azc7M/XxG6UhLpbeI/AAAAAAAAAtI/wd_88SjP0004b0eCc_ayBvPkFuBvS1QrACLcBGAsYHQ/s400/ANIMAL%2BPLANET.png" group-title="CANAIS | Documentários",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179551|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179551.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-m1Lfb3Azc7M/XxG6UhLpbeI/AAAAAAAAAtI/wd_88SjP0004b0eCc_ayBvPkFuBvS1QrACLcBGAsYHQ/s400/ANIMAL%2BPLANET.png" group-title="CANAIS | Documentários",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179552|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179552.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://1.bp.blogspot.com/-m1Lfb3Azc7M/XxG6UhLpbeI/AAAAAAAAAtI/wd_88SjP0004b0eCc_ayBvPkFuBvS1QrACLcBGAsYHQ/s400/ANIMAL%2BPLANET.png" group-title="CANAIS | Documentários",ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179554|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179554.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://1.bp.blogspot.com/-A4N0OdwJx4c/XxHAT4yYS6I/AAAAAAAAAtY/3uLVxF3tV68YIyS-deQUb7F4TmGp7fP8QCLcBGAsYHQ/s400/DISCOVERY%2BCHANNEL.png" group-title="CANAIS | Documentários",DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179557|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179557.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-A4N0OdwJx4c/XxHAT4yYS6I/AAAAAAAAAtY/3uLVxF3tV68YIyS-deQUb7F4TmGp7fP8QCLcBGAsYHQ/s400/DISCOVERY%2BCHANNEL.png" group-title="CANAIS | Documentários",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179558|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179558.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-A4N0OdwJx4c/XxHAT4yYS6I/AAAAAAAAAtY/3uLVxF3tV68YIyS-deQUb7F4TmGp7fP8QCLcBGAsYHQ/s400/DISCOVERY%2BCHANNEL.png" group-title="CANAIS | Documentários",DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179560|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179560.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="https://1.bp.blogspot.com/-w8Sz_2bwyIE/XxT0yp-e7BI/AAAAAAAAAxI/cKcVaWk2McogrSkb0cclErMrPk_TiDBewCLcBGAsYHQ/s400/DISCOVERY%2BHOME%2B%2526%2BHEALTH.png" group-title="CANAIS | Documentários",DISCOVERY HOME & HEALTH SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179563|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179563.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://1.bp.blogspot.com/-w8Sz_2bwyIE/XxT0yp-e7BI/AAAAAAAAAxI/cKcVaWk2McogrSkb0cclErMrPk_TiDBewCLcBGAsYHQ/s400/DISCOVERY%2BHOME%2B%2526%2BHEALTH.png" group-title="CANAIS | Documentários",DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179564|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179564.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://1.bp.blogspot.com/-w8Sz_2bwyIE/XxT0yp-e7BI/AAAAAAAAAxI/cKcVaWk2McogrSkb0cclErMrPk_TiDBewCLcBGAsYHQ/s400/DISCOVERY%2BHOME%2B%2526%2BHEALTH.png" group-title="CANAIS | Documentários",DISCOVERY HOME & HEALTH FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179566|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179566.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://1.bp.blogspot.com/-U_01Wvz2X1E/XxT2UXFTXLI/AAAAAAAAAxU/FPP1KD7qeWgWr5CwPg6ZDMRYv2Vkdd2mgCLcBGAsYHQ/s400/DISCOVERY%2BSCIENCE.png" group-title="CANAIS | Documentários",DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179569|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179569.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://1.bp.blogspot.com/-U_01Wvz2X1E/XxT2UXFTXLI/AAAAAAAAAxU/FPP1KD7qeWgWr5CwPg6ZDMRYv2Vkdd2mgCLcBGAsYHQ/s400/DISCOVERY%2BSCIENCE.png" group-title="CANAIS | Documentários",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179570|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179570.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://1.bp.blogspot.com/-U_01Wvz2X1E/XxT2UXFTXLI/AAAAAAAAAxU/FPP1KD7qeWgWr5CwPg6ZDMRYv2Vkdd2mgCLcBGAsYHQ/s400/DISCOVERY%2BSCIENCE.png" group-title="CANAIS | Documentários",DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179572|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179572.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://1.bp.blogspot.com/-k471d9Voh0c/XxWboDWFPjI/AAAAAAAAAxs/-dOmVVco6D40uY5rup7d8fPwEbsAySbTgCLcBGAsYHQ/s400/DISCOVERY%2BTHEATER.png" group-title="CANAIS | Documentários",DISCOVERY THEATER SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179575|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179575.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://1.bp.blogspot.com/-k471d9Voh0c/XxWboDWFPjI/AAAAAAAAAxs/-dOmVVco6D40uY5rup7d8fPwEbsAySbTgCLcBGAsYHQ/s400/DISCOVERY%2BTHEATER.png" group-title="CANAIS | Documentários",DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179576|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179576.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://1.bp.blogspot.com/-k471d9Voh0c/XxWboDWFPjI/AAAAAAAAAxs/-dOmVVco6D40uY5rup7d8fPwEbsAySbTgCLcBGAsYHQ/s400/DISCOVERY%2BTHEATER.png" group-title="CANAIS | Documentários",DISCOVERY THEATER FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179578|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179578.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC SD" tvg-logo="https://1.bp.blogspot.com/-l4WcoeQet3A/X0kpLC3-emI/AAAAAAAAA-g/K5GSRKUL0kQo9PXTUG3o3g6EAQt7z3Y4ACLcBGAsYHQ/s400/TLC%2BDISCOVERY.png" group-title="CANAIS | Documentários",DISCOVERY TLC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179579|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179579.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC HD" tvg-logo="https://1.bp.blogspot.com/-l4WcoeQet3A/X0kpLC3-emI/AAAAAAAAA-g/K5GSRKUL0kQo9PXTUG3o3g6EAQt7z3Y4ACLcBGAsYHQ/s400/TLC%2BDISCOVERY.png" group-title="CANAIS | Documentários",DISCOVERY TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179582|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179582.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC FHD" tvg-logo="https://1.bp.blogspot.com/-l4WcoeQet3A/X0kpLC3-emI/AAAAAAAAA-g/K5GSRKUL0kQo9PXTUG3o3g6EAQt7z3Y4ACLcBGAsYHQ/s400/TLC%2BDISCOVERY.png" group-title="CANAIS | Documentários",DISCOVERY TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179584|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179584.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://1.bp.blogspot.com/-k6Me6kDJeI0/XxT3zDbbj3I/AAAAAAAAAxg/F-VG8MJdYRorruu9J0JkpoLDrapmuMVxwCLcBGAsYHQ/s400/DISCOVERY%2BTURBO.png" group-title="CANAIS | Documentários",DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179585|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179585.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://1.bp.blogspot.com/-k6Me6kDJeI0/XxT3zDbbj3I/AAAAAAAAAxg/F-VG8MJdYRorruu9J0JkpoLDrapmuMVxwCLcBGAsYHQ/s400/DISCOVERY%2BTURBO.png" group-title="CANAIS | Documentários",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179588|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179588.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://1.bp.blogspot.com/-k6Me6kDJeI0/XxT3zDbbj3I/AAAAAAAAAxg/F-VG8MJdYRorruu9J0JkpoLDrapmuMVxwCLcBGAsYHQ/s400/DISCOVERY%2BTURBO.png" group-title="CANAIS | Documentários",DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179590|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179590.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://1.bp.blogspot.com/-AA-LAvPqY98/XxWi_RcjMEI/AAAAAAAAAx4/PENTYJFeKxYLFu_UeH5p4sri_pVc70tlQCLcBGAsYHQ/s400/DISCOVERY%2BWORLD.png" group-title="CANAIS | Documentários",DISCOVERY WORLD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179593|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179593.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://1.bp.blogspot.com/-AA-LAvPqY98/XxWi_RcjMEI/AAAAAAAAAx4/PENTYJFeKxYLFu_UeH5p4sri_pVc70tlQCLcBGAsYHQ/s400/DISCOVERY%2BWORLD.png" group-title="CANAIS | Documentários",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179594|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179594.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://1.bp.blogspot.com/-AA-LAvPqY98/XxWi_RcjMEI/AAAAAAAAAx4/PENTYJFeKxYLFu_UeH5p4sri_pVc70tlQCLcBGAsYHQ/s400/DISCOVERY%2BWORLD.png" group-title="CANAIS | Documentários",DISCOVERY WORLD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179596|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179596.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="https://1.bp.blogspot.com/-2gPzDT2KHsM/X0knopJw4KI/AAAAAAAAA-U/EQTjPKilzZQVVr_CZ8s_HNvmWAZw7LI0wCLcBGAsYHQ/s400/HGTV.png" group-title="CANAIS | Documentários",HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179598|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179598.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://1.bp.blogspot.com/-2gPzDT2KHsM/X0knopJw4KI/AAAAAAAAA-U/EQTjPKilzZQVVr_CZ8s_HNvmWAZw7LI0wCLcBGAsYHQ/s400/HGTV.png" group-title="CANAIS | Documentários",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179600|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179600.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://1.bp.blogspot.com/-j5gB9S5vIWQ/XxWmDXyYsEI/AAAAAAAAAyQ/3NSwZUWCD7MnaTGBqjAXKZYKarVFtvjvQCLcBGAsYHQ/s400/HISTORY.png" group-title="CANAIS | Documentários",HISTORY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179601|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179601.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://1.bp.blogspot.com/-j5gB9S5vIWQ/XxWmDXyYsEI/AAAAAAAAAyQ/3NSwZUWCD7MnaTGBqjAXKZYKarVFtvjvQCLcBGAsYHQ/s400/HISTORY.png" group-title="CANAIS | Documentários",HISTORY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179603|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179603.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="https://1.bp.blogspot.com/-j5gB9S5vIWQ/XxWmDXyYsEI/AAAAAAAAAyQ/3NSwZUWCD7MnaTGBqjAXKZYKarVFtvjvQCLcBGAsYHQ/s400/HISTORY.png" group-title="CANAIS | Documentários",HISTORY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179604|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179604.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 SD" tvg-logo="https://1.bp.blogspot.com/-2bBuGb6xNVM/XxWoWT8g8rI/AAAAAAAAAyc/X8W4MZjwvRs4MX1yGQvBHUBAaKTQOya6ACLcBGAsYHQ/s400/HISTORY%2B2.png" group-title="CANAIS | Documentários",HISTORY 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179607|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179607.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://1.bp.blogspot.com/-2bBuGb6xNVM/XxWoWT8g8rI/AAAAAAAAAyc/X8W4MZjwvRs4MX1yGQvBHUBAaKTQOya6ACLcBGAsYHQ/s400/HISTORY%2B2.png" group-title="CANAIS | Documentários",HISTORY 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179610|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179610.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 FHD" tvg-logo="https://1.bp.blogspot.com/-2bBuGb6xNVM/XxWoWT8g8rI/AAAAAAAAAyc/X8W4MZjwvRs4MX1yGQvBHUBAaKTQOya6ACLcBGAsYHQ/s400/HISTORY%2B2.png" group-title="CANAIS | Documentários",HISTORY 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179612|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179612.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD" tvg-logo="https://1.bp.blogspot.com/-q9WH0nw-qr0/XxWkYOXTJwI/AAAAAAAAAyE/PAyq_oDn368KImAvWoGfd7KGPM1N6oz8gCLcBGAsYHQ/s400/ID.png" group-title="CANAIS | Documentários",INVESTIGAÇÃO DISCOVERY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179615|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179615.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://1.bp.blogspot.com/-q9WH0nw-qr0/XxWkYOXTJwI/AAAAAAAAAyE/PAyq_oDn368KImAvWoGfd7KGPM1N6oz8gCLcBGAsYHQ/s400/ID.png" group-title="CANAIS | Documentários",INVESTIGAÇÃO DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179616|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179616.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY FHD" tvg-logo="https://1.bp.blogspot.com/-q9WH0nw-qr0/XxWkYOXTJwI/AAAAAAAAAyE/PAyq_oDn368KImAvWoGfd7KGPM1N6oz8gCLcBGAsYHQ/s400/ID.png" group-title="CANAIS | Documentários",INVESTIGAÇÃO DISCOVERY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179618|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179618.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="https://1.bp.blogspot.com/-Pddrc8KZiY0/XxWp7cLJMoI/AAAAAAAAAyo/SKhRWXYQ8JUXJ7Th2oC65dqwp6ItzISUACLcBGAsYHQ/s400/NET%2BGEO.png" group-title="CANAIS | Documentários",NATGEO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179621|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179621.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://1.bp.blogspot.com/-Pddrc8KZiY0/XxWp7cLJMoI/AAAAAAAAAyo/SKhRWXYQ8JUXJ7Th2oC65dqwp6ItzISUACLcBGAsYHQ/s400/NET%2BGEO.png" group-title="CANAIS | Documentários",NATGEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179622|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179622.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD" tvg-logo="https://1.bp.blogspot.com/-Pddrc8KZiY0/XxWp7cLJMoI/AAAAAAAAAyo/SKhRWXYQ8JUXJ7Th2oC65dqwp6ItzISUACLcBGAsYHQ/s400/NET%2BGEO.png" group-title="CANAIS | Documentários",NATGEO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179624|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179624.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD" tvg-logo="https://1.bp.blogspot.com/-nOALoTzg83A/XxWrUGQdbNI/AAAAAAAAAy0/F9vNFGzJDEs5NS5a_glOcb6u6tsdfbHeACLcBGAsYHQ/s400/NAT%2BGEO%2BWILLD.png" group-title="CANAIS | Documentários",NATGEO WILD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179627|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179627.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="https://1.bp.blogspot.com/-nOALoTzg83A/XxWrUGQdbNI/AAAAAAAAAy0/F9vNFGzJDEs5NS5a_glOcb6u6tsdfbHeACLcBGAsYHQ/s400/NAT%2BGEO%2BWILLD.png" group-title="CANAIS | Documentários",NATGEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179628|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179628.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD" tvg-logo="https://1.bp.blogspot.com/-nOALoTzg83A/XxWrUGQdbNI/AAAAAAAAAy0/F9vNFGzJDEs5NS5a_glOcb6u6tsdfbHeACLcBGAsYHQ/s400/NAT%2BGEO%2BWILLD.png" group-title="CANAIS | Documentários",NATGEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179630|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179630.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://1.bp.blogspot.com/-QIu34OJCDDc/XvobfGadndI/AAAAAAAAAQs/FXJhVDWvHToxBvgXUEBPWiq-BuNODUtowCK4BGAsYHg/s400/BAND%2BSPORTS.png" group-title="CANAIS | Esportes",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179631|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179631.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://1.bp.blogspot.com/-QIu34OJCDDc/XvobfGadndI/AAAAAAAAAQs/FXJhVDWvHToxBvgXUEBPWiq-BuNODUtowCK4BGAsYHg/s400/BAND%2BSPORTS.png" group-title="CANAIS | Esportes",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179633|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179633.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://1.bp.blogspot.com/-QIu34OJCDDc/XvobfGadndI/AAAAAAAAAQs/FXJhVDWvHToxBvgXUEBPWiq-BuNODUtowCK4BGAsYHg/s400/BAND%2BSPORTS.png" group-title="CANAIS | Esportes",BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179634|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179634.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="https://1.bp.blogspot.com/-8ujsqzEaj_I/Xvoezo7TRBI/AAAAAAAAARI/C3E3YX5LEIMCJ0oOjo48vBu_60T_rzY-ACK4BGAsYHg/s400/COMBATE.png" group-title="CANAIS | Esportes",COMBATE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179637|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179637.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://1.bp.blogspot.com/-8ujsqzEaj_I/Xvoezo7TRBI/AAAAAAAAARI/C3E3YX5LEIMCJ0oOjo48vBu_60T_rzY-ACK4BGAsYHg/s400/COMBATE.png" group-title="CANAIS | Esportes",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179640|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179640.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="https://1.bp.blogspot.com/-8ujsqzEaj_I/Xvoezo7TRBI/AAAAAAAAARI/C3E3YX5LEIMCJ0oOjo48vBu_60T_rzY-ACK4BGAsYHg/s400/COMBATE.png" group-title="CANAIS | Esportes",COMBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179642|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179642.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN SD" tvg-logo="https://1.bp.blogspot.com/-GADEJGBauo8/XvogveQ0CEI/AAAAAAAAARk/It2LTS-cIk8HW5oIjN4lBCrk8Lm3_JJvwCK4BGAsYHg/s400/ESPN.png" group-title="CANAIS | Esportes",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179643|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179643.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD" tvg-logo="https://1.bp.blogspot.com/-GADEJGBauo8/XvogveQ0CEI/AAAAAAAAARk/It2LTS-cIk8HW5oIjN4lBCrk8Lm3_JJvwCK4BGAsYHg/s400/ESPN.png" group-title="CANAIS | Esportes",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179646|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179646.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN FHD" tvg-logo="https://1.bp.blogspot.com/-GADEJGBauo8/XvogveQ0CEI/AAAAAAAAARk/It2LTS-cIk8HW5oIjN4lBCrk8Lm3_JJvwCK4BGAsYHg/s400/ESPN.png" group-title="CANAIS | Esportes",ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179648|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179648.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="https://1.bp.blogspot.com/-i_GADJ0Q1RU/XvojxAQHPgI/AAAAAAAAASA/aK_Dl7aCXFEe7V-WIW7_bWXQdFWBPw1IgCK4BGAsYHg/s400/ESPN%2B2.png" group-title="CANAIS | Esportes",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179649|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179649.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://1.bp.blogspot.com/-i_GADJ0Q1RU/XvojxAQHPgI/AAAAAAAAASA/aK_Dl7aCXFEe7V-WIW7_bWXQdFWBPw1IgCK4BGAsYHg/s400/ESPN%2B2.png" group-title="CANAIS | Esportes",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179652|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179652.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD" tvg-logo="https://1.bp.blogspot.com/-i_GADJ0Q1RU/XvojxAQHPgI/AAAAAAAAASA/aK_Dl7aCXFEe7V-WIW7_bWXQdFWBPw1IgCK4BGAsYHg/s400/ESPN%2B2.png" group-title="CANAIS | Esportes",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179654|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179654.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 3 SD" tvg-logo="" group-title="CANAIS | Esportes",ESPN 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179655|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179655.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 3 HD" tvg-logo="" group-title="CANAIS | Esportes",ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179658|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179658.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 3 FHD" tvg-logo="" group-title="CANAIS | Esportes",ESPN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179660|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179660.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://1.bp.blogspot.com/-PUyChx5WIko/Xvonb6EPudI/AAAAAAAAAS4/RZ5n_C5CSCYBiEkLB9BLQKoCxGigNkaygCK4BGAsYHg/s400/ESPN%2BEXTRA.png" group-title="CANAIS | Esportes",ESPN EXTRA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179661|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179661.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://1.bp.blogspot.com/-PUyChx5WIko/Xvonb6EPudI/AAAAAAAAAS4/RZ5n_C5CSCYBiEkLB9BLQKoCxGigNkaygCK4BGAsYHg/s400/ESPN%2BEXTRA.png" group-title="CANAIS | Esportes",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179664|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179664.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://1.bp.blogspot.com/-PUyChx5WIko/Xvonb6EPudI/AAAAAAAAAS4/RZ5n_C5CSCYBiEkLB9BLQKoCxGigNkaygCK4BGAsYHg/s400/ESPN%2BEXTRA.png" group-title="CANAIS | Esportes",ESPN EXTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179666|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179666.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 SD" tvg-logo="" group-title="CANAIS | Esportes",ESPN 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179667|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179667.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="" group-title="CANAIS | Esportes",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179670|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179670.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD" tvg-logo="" group-title="CANAIS | Esportes",ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179672|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179672.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://1.bp.blogspot.com/-2sMp33IzR5Q/XvorldIM6rI/AAAAAAAAAUM/0F54jVz8VKwwK1_iu--XSW5s7wU4WC_QgCK4BGAsYHg/s400/FOX%2BSPORTS%2B2.png" group-title="CANAIS | Esportes",FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179673|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179673.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://1.bp.blogspot.com/-2sMp33IzR5Q/XvorldIM6rI/AAAAAAAAAUM/0F54jVz8VKwwK1_iu--XSW5s7wU4WC_QgCK4BGAsYHg/s400/FOX%2BSPORTS%2B2.png" group-title="CANAIS | Esportes",FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179676|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179676.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://1.bp.blogspot.com/-2sMp33IzR5Q/XvorldIM6rI/AAAAAAAAAUM/0F54jVz8VKwwK1_iu--XSW5s7wU4WC_QgCK4BGAsYHg/s400/FOX%2BSPORTS%2B2.png" group-title="CANAIS | Esportes",FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179678|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179678.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://1.bp.blogspot.com/-2-J1GZKEpTs/XvovPmbONeI/AAAAAAAAAUo/XqyHxSJ5wKoiNYrXOZwjH5RlSFT195RiQCK4BGAsYHg/s400/SPORTV.png" group-title="CANAIS | Esportes",SPORTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179679|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179679.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://1.bp.blogspot.com/-2-J1GZKEpTs/XvovPmbONeI/AAAAAAAAAUo/XqyHxSJ5wKoiNYrXOZwjH5RlSFT195RiQCK4BGAsYHg/s400/SPORTV.png" group-title="CANAIS | Esportes",SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179682|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179682.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://1.bp.blogspot.com/-2-J1GZKEpTs/XvovPmbONeI/AAAAAAAAAUo/XqyHxSJ5wKoiNYrXOZwjH5RlSFT195RiQCK4BGAsYHg/s400/SPORTV.png" group-title="CANAIS | Esportes",SPORTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179684|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179684.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 SD" tvg-logo="https://1.bp.blogspot.com/-kvmgtXiZaYQ/XvowuAr78_I/AAAAAAAAAVE/s5F0xeXaQLMTnfikRcIPKMSTYKD4EaA8ACK4BGAsYHg/s400/SPORTV%2B2.png" group-title="CANAIS | Esportes",SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179687|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179687.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://1.bp.blogspot.com/-kvmgtXiZaYQ/XvowuAr78_I/AAAAAAAAAVE/s5F0xeXaQLMTnfikRcIPKMSTYKD4EaA8ACK4BGAsYHg/s400/SPORTV%2B2.png" group-title="CANAIS | Esportes",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179688|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179688.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://1.bp.blogspot.com/-kvmgtXiZaYQ/XvowuAr78_I/AAAAAAAAAVE/s5F0xeXaQLMTnfikRcIPKMSTYKD4EaA8ACK4BGAsYHg/s400/SPORTV%2B2.png" group-title="CANAIS | Esportes",SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179690|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179690.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://1.bp.blogspot.com/-qCl4_zWbyqo/XvozXXI0z6I/AAAAAAAAAVg/G2opTRlt4Bc_LxaVI5RbdFAqX7eF0GdgQCK4BGAsYHg/s400/SPORTV%2B3.png" group-title="CANAIS | Esportes",SPORTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179691|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179691.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://1.bp.blogspot.com/-qCl4_zWbyqo/XvozXXI0z6I/AAAAAAAAAVg/G2opTRlt4Bc_LxaVI5RbdFAqX7eF0GdgQCK4BGAsYHg/s400/SPORTV%2B3.png" group-title="CANAIS | Esportes",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179694|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179694.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://1.bp.blogspot.com/-qCl4_zWbyqo/XvozXXI0z6I/AAAAAAAAAVg/G2opTRlt4Bc_LxaVI5RbdFAqX7eF0GdgQCK4BGAsYHg/s400/SPORTV%2B3.png" group-title="CANAIS | Esportes",SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179696|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179696.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179698|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179698.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179701|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179701.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179703|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179703.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179704|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179704.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179707|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179707.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179709|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179709.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179710|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179710.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179713|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179713.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179715|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179715.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179718|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179718.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179719|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179719.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179721|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179721.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179724|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179724.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179725|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179725.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179727|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179727.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179730|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179730.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179731|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179731.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179733|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179733.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179734|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179734.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://1.bp.blogspot.com/-B6txfRwk_f8/Xz3hCGeqoTI/AAAAAAAAA4o/QgYaP31pvaM09IMCR1ZGlBGEu34UJ5RgQCLcBGAsYHQ/s400/PREMIERE.png" group-title="CANAIS | Premiere",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/179736|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/179736.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180016|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180016.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180017|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180017.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP FHD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180018|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180018.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ SD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180019|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180019.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180020|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180020.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ FHD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180021|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180021.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD AMAZONAS SD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD AMAZONAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180022|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180022.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD AMAZONAS HD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD AMAZONAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180023|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180023.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA SD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD BAHIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180025|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180025.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180026|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180026.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA SD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD BRASILIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180027|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180027.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180028|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180028.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS SD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD CAMPINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180030|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180030.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180031|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180031.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD MG SD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD MG SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180038|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180038.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD MG HD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180039|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180039.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD PARA SD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD PARA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180041|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180041.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD PARA HD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD PARA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180042|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180042.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RS SD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD RS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180048|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180048.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180049|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180049.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180051|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180051.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180052|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180052.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180053|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180053.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ SD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180054|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180054.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180055|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180055.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="SBT BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180058|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180058.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="SBT GOIAS SD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT GOIAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180060|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180060.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="SBT GOIAS HD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT GOIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180061|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180061.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="SBT NORDESTE HD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180065|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180065.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180074|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180074.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180075|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180075.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180076|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180076.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ SD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180077|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180077.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180078|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180078.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ FHD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180079|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180079.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS SD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND CAMPINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180080|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180080.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180081|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180081.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BAND NORDESTE SD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND NORDESTE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180083|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180083.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BAND NORDESTE HD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180084|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180084.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://1.bp.blogspot.com/-sdAt0DlYITg/XvoEislyuBI/AAAAAAAAAMk/WKskZXrpNCwE7_d6irZeRAS3-U45OpcKACK4BGAsYHg/s400/BAND%2BNEWS.png" group-title="CANAIS | Noticias",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180086|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180086.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://1.bp.blogspot.com/-sdAt0DlYITg/XvoEislyuBI/AAAAAAAAAMk/WKskZXrpNCwE7_d6irZeRAS3-U45OpcKACK4BGAsYHg/s400/BAND%2BNEWS.png" group-title="CANAIS | Noticias",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180089|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180089.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://1.bp.blogspot.com/-sdAt0DlYITg/XvoEislyuBI/AAAAAAAAAMk/WKskZXrpNCwE7_d6irZeRAS3-U45OpcKACK4BGAsYHg/s400/BAND%2BNEWS.png" group-title="CANAIS | Noticias",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180091|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180091.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://1.bp.blogspot.com/-yvCQiZJ7fH0/XvoIPYE_vMI/AAAAAAAAANA/kKztfpqeeWgRYu5Og2pZrKplyKUrbaFdgCK4BGAsYHg/s400/CNN%2BBRASIL.png" group-title="CANAIS | Noticias",CNN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180092|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180092.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://1.bp.blogspot.com/-yvCQiZJ7fH0/XvoIPYE_vMI/AAAAAAAAANA/kKztfpqeeWgRYu5Og2pZrKplyKUrbaFdgCK4BGAsYHg/s400/CNN%2BBRASIL.png" group-title="CANAIS | Noticias",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180095|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180095.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://1.bp.blogspot.com/-yvCQiZJ7fH0/XvoIPYE_vMI/AAAAAAAAANA/kKztfpqeeWgRYu5Og2pZrKplyKUrbaFdgCK4BGAsYHg/s400/CNN%2BBRASIL.png" group-title="CANAIS | Noticias",CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180097|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180097.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://1.bp.blogspot.com/-xX_LKd5PjNI/XvoPfqA-05I/AAAAAAAAAPY/EnDM4BdsF9Ira5qsvTnfi_P3r2Xmz_cowCK4BGAsYHg/s400/GLOBO%2BNEWS.png" group-title="CANAIS | Noticias",GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180098|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180098.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://1.bp.blogspot.com/-xX_LKd5PjNI/XvoPfqA-05I/AAAAAAAAAPY/EnDM4BdsF9Ira5qsvTnfi_P3r2Xmz_cowCK4BGAsYHg/s400/GLOBO%2BNEWS.png" group-title="CANAIS | Noticias",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180101|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180101.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://1.bp.blogspot.com/-xX_LKd5PjNI/XvoPfqA-05I/AAAAAAAAAPY/EnDM4BdsF9Ira5qsvTnfi_P3r2Xmz_cowCK4BGAsYHg/s400/GLOBO%2BNEWS.png" group-title="CANAIS | Noticias",GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180103|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180103.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://1.bp.blogspot.com/-QdEBYIq1Y0I/XvoUWISz0QI/AAAAAAAAAQQ/DL4l0h7oMzou94K1gGj3lMU9S5YELLC1wCK4BGAsYHg/s400/RECORD%2BNEWS.png" group-title="CANAIS | Noticias",RECORD NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180104|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180104.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://1.bp.blogspot.com/-QdEBYIq1Y0I/XvoUWISz0QI/AAAAAAAAAQQ/DL4l0h7oMzou94K1gGj3lMU9S5YELLC1wCK4BGAsYHg/s400/RECORD%2BNEWS.png" group-title="CANAIS | Noticias",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180107|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180107.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://1.bp.blogspot.com/-QdEBYIq1Y0I/XvoUWISz0QI/AAAAAAAAAQQ/DL4l0h7oMzou94K1gGj3lMU9S5YELLC1wCK4BGAsYHg/s400/RECORD%2BNEWS.png" group-title="CANAIS | Noticias",RECORD NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180109|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180109.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://1.bp.blogspot.com/-REbCQddNDrM/X4IP7wfOmJI/AAAAAAAABBc/4QIC8VDEdCgsIISqsNxLtgsHwGCb7qL0QCLcBGAsYHQ/s400/BABY.png" group-title="CANAIS | Infantil",BABY TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180110|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180110.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://1.bp.blogspot.com/-REbCQddNDrM/X4IP7wfOmJI/AAAAAAAABBc/4QIC8VDEdCgsIISqsNxLtgsHwGCb7qL0QCLcBGAsYHQ/s400/BABY.png" group-title="CANAIS | Infantil",BABY TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180113|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180113.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV FHD" tvg-logo="https://1.bp.blogspot.com/-REbCQddNDrM/X4IP7wfOmJI/AAAAAAAABBc/4QIC8VDEdCgsIISqsNxLtgsHwGCb7qL0QCLcBGAsYHQ/s400/BABY.png" group-title="CANAIS | Infantil",BABY TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180115|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180115.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://1.bp.blogspot.com/-enfup-kI7nk/X4IRVdgk8nI/AAAAAAAABBo/BXFLB6JR1A0T-qurvTL3PZwb25bKNHDcQCLcBGAsYHQ/s400/BOOMERANG.png" group-title="CANAIS | Infantil",BOOMERANG SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180116|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180116.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://1.bp.blogspot.com/-enfup-kI7nk/X4IRVdgk8nI/AAAAAAAABBo/BXFLB6JR1A0T-qurvTL3PZwb25bKNHDcQCLcBGAsYHQ/s400/BOOMERANG.png" group-title="CANAIS | Infantil",BOOMERANG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180119|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180119.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="https://1.bp.blogspot.com/-enfup-kI7nk/X4IRVdgk8nI/AAAAAAAABBo/BXFLB6JR1A0T-qurvTL3PZwb25bKNHDcQCLcBGAsYHQ/s400/BOOMERANG.png" group-title="CANAIS | Infantil",BOOMERANG FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180121|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180121.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://1.bp.blogspot.com/-aIG_tMZlZ0A/X4IS5Mcn0TI/AAAAAAAABB0/_g1E4ycnUhMzd_IdGzTGkvTH4lDSIcZzgCLcBGAsYHQ/s400/CARTOON.png" group-title="CANAIS | Infantil",CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180122|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180122.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://1.bp.blogspot.com/-aIG_tMZlZ0A/X4IS5Mcn0TI/AAAAAAAABB0/_g1E4ycnUhMzd_IdGzTGkvTH4lDSIcZzgCLcBGAsYHQ/s400/CARTOON.png" group-title="CANAIS | Infantil",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180125|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180125.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://1.bp.blogspot.com/-aIG_tMZlZ0A/X4IS5Mcn0TI/AAAAAAAABB0/_g1E4ycnUhMzd_IdGzTGkvTH4lDSIcZzgCLcBGAsYHQ/s400/CARTOON.png" group-title="CANAIS | Infantil",CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180127|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180127.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://1.bp.blogspot.com/-s9_dVa8V4sE/X4JAwDiOg6I/AAAAAAAABCA/R09uL57LlCYNTslmxzHiQNNvqHXUDya1QCLcBGAsYHQ/s400/DISCOVERY%2BKIDS.png" group-title="CANAIS | Infantil",DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180128|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180128.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://1.bp.blogspot.com/-s9_dVa8V4sE/X4JAwDiOg6I/AAAAAAAABCA/R09uL57LlCYNTslmxzHiQNNvqHXUDya1QCLcBGAsYHQ/s400/DISCOVERY%2BKIDS.png" group-title="CANAIS | Infantil",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180131|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180131.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://1.bp.blogspot.com/-s9_dVa8V4sE/X4JAwDiOg6I/AAAAAAAABCA/R09uL57LlCYNTslmxzHiQNNvqHXUDya1QCLcBGAsYHQ/s400/DISCOVERY%2BKIDS.png" group-title="CANAIS | Infantil",DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180133|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180133.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY SD" tvg-logo="https://1.bp.blogspot.com/-LbP34P7XRo4/X4JDcXA_1kI/AAAAAAAABCM/XK_S75ej6tYvYuN00ct5VhM0gFQfKPj5QCLcBGAsYHQ/s400/DISNEY%2BCHANNEL.png" group-title="CANAIS | Infantil",DISNEY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180134|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180134.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY HD" tvg-logo="https://1.bp.blogspot.com/-LbP34P7XRo4/X4JDcXA_1kI/AAAAAAAABCM/XK_S75ej6tYvYuN00ct5VhM0gFQfKPj5QCLcBGAsYHQ/s400/DISNEY%2BCHANNEL.png" group-title="CANAIS | Infantil",DISNEY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180137|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180137.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY FHD" tvg-logo="https://1.bp.blogspot.com/-LbP34P7XRo4/X4JDcXA_1kI/AAAAAAAABCM/XK_S75ej6tYvYuN00ct5VhM0gFQfKPj5QCLcBGAsYHQ/s400/DISNEY%2BCHANNEL.png" group-title="CANAIS | Infantil",DISNEY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180139|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180139.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD" tvg-logo="https://1.bp.blogspot.com/-5fFHJ36uFu8/X4JFeNn_wNI/AAAAAAAABCY/BNA84ciGD-ofQzsisMUyt5NbEYUJrbugQCLcBGAsYHQ/s400/DISNEY%2BJR.png" group-title="CANAIS | Infantil",DISNEY JR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180140|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180140.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY JR HD" tvg-logo="https://1.bp.blogspot.com/-5fFHJ36uFu8/X4JFeNn_wNI/AAAAAAAABCY/BNA84ciGD-ofQzsisMUyt5NbEYUJrbugQCLcBGAsYHQ/s400/DISNEY%2BJR.png" group-title="CANAIS | Infantil",DISNEY JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180143|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180143.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY JR FHD" tvg-logo="https://1.bp.blogspot.com/-5fFHJ36uFu8/X4JFeNn_wNI/AAAAAAAABCY/BNA84ciGD-ofQzsisMUyt5NbEYUJrbugQCLcBGAsYHQ/s400/DISNEY%2BJR.png" group-title="CANAIS | Infantil",DISNEY JR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180145|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180145.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://1.bp.blogspot.com/-hUVsVloU6BI/X4JInOjAr4I/AAAAAAAABCk/L1v7K7Eh9ZsS3qy1-lwyET8f8SvvXCZEgCLcBGAsYHQ/s400/DISNEY%2BXD.png" group-title="CANAIS | Infantil",DISNEY XD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180146|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180146.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="https://1.bp.blogspot.com/-hUVsVloU6BI/X4JInOjAr4I/AAAAAAAABCk/L1v7K7Eh9ZsS3qy1-lwyET8f8SvvXCZEgCLcBGAsYHQ/s400/DISNEY%2BXD.png" group-title="CANAIS | Infantil",DISNEY XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180149|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180149.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD" tvg-logo="https://1.bp.blogspot.com/-hUVsVloU6BI/X4JInOjAr4I/AAAAAAAABCk/L1v7K7Eh9ZsS3qy1-lwyET8f8SvvXCZEgCLcBGAsYHQ/s400/DISNEY%2BXD.png" group-title="CANAIS | Infantil",DISNEY XD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180151|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180151.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://1.bp.blogspot.com/-ejC54BXDrHg/X4JLou5spZI/AAAAAAAABCw/y9diFTdRB6QcKNzpq8B3xAz5fCbNc4-1gCLcBGAsYHQ/s400/GLOOB.png" group-title="CANAIS | Infantil",GLOOB SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180152|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180152.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://1.bp.blogspot.com/-ejC54BXDrHg/X4JLou5spZI/AAAAAAAABCw/y9diFTdRB6QcKNzpq8B3xAz5fCbNc4-1gCLcBGAsYHQ/s400/GLOOB.png" group-title="CANAIS | Infantil",GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180155|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180155.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://1.bp.blogspot.com/-CvoHvJP2Zdc/X4JRMzGVeDI/AAAAAAAABDU/p38P3YX3gaAldIVRFPdqqJa3fkFr74wGACLcBGAsYHQ/s400/GLOBINHO.png" group-title="CANAIS | Infantil",GLOOBINHO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180161|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180161.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD" tvg-logo="https://1.bp.blogspot.com/-dx2GSnAjuHQ/X4JOzgGTn2I/AAAAAAAABDI/BDVmBvnmzKA6reuu0oJxAlPhKvQqHAf6ACLcBGAsYHQ/s400/NATGEO%2BKIDS.png" group-title="CANAIS | Infantil",NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180164|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180164.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="https://1.bp.blogspot.com/-dx2GSnAjuHQ/X4JOzgGTn2I/AAAAAAAABDI/BDVmBvnmzKA6reuu0oJxAlPhKvQqHAf6ACLcBGAsYHQ/s400/NATGEO%2BKIDS.png" group-title="CANAIS | Infantil",NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180167|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180167.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS FHD" tvg-logo="https://1.bp.blogspot.com/-dx2GSnAjuHQ/X4JOzgGTn2I/AAAAAAAABDI/BDVmBvnmzKA6reuu0oJxAlPhKvQqHAf6ACLcBGAsYHQ/s400/NATGEO%2BKIDS.png" group-title="CANAIS | Infantil",NATGEO KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180169|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180169.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://1.bp.blogspot.com/-ojgk004QvzE/X4Rz1EdiYVI/AAAAAAAABDg/62InE3QTRG4Dvqe1HraK93otKRMPvMEqwCLcBGAsYHQ/s400/NICK%2BJR.png" group-title="CANAIS | Infantil",NICK JR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180170|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180170.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://1.bp.blogspot.com/-ojgk004QvzE/X4Rz1EdiYVI/AAAAAAAABDg/62InE3QTRG4Dvqe1HraK93otKRMPvMEqwCLcBGAsYHQ/s400/NICK%2BJR.png" group-title="CANAIS | Infantil",NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180173|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180173.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="https://1.bp.blogspot.com/-ojgk004QvzE/X4Rz1EdiYVI/AAAAAAAABDg/62InE3QTRG4Dvqe1HraK93otKRMPvMEqwCLcBGAsYHQ/s400/NICK%2BJR.png" group-title="CANAIS | Infantil",NICK JR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180175|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180175.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://1.bp.blogspot.com/-Q643nUPJANw/X4R13hdX5BI/AAAAAAAABDs/fCFdkolenb0L-iTYcCUA6_klf85HL_csACLcBGAsYHQ/s400/NICKELODEON.png" group-title="CANAIS | Infantil",NICKELODEON SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180176|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180176.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://1.bp.blogspot.com/-Q643nUPJANw/X4R13hdX5BI/AAAAAAAABDs/fCFdkolenb0L-iTYcCUA6_klf85HL_csACLcBGAsYHQ/s400/NICKELODEON.png" group-title="CANAIS | Infantil",NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180179|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180179.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="https://1.bp.blogspot.com/-Q643nUPJANw/X4R13hdX5BI/AAAAAAAABDs/fCFdkolenb0L-iTYcCUA6_klf85HL_csACLcBGAsYHQ/s400/NICKELODEON.png" group-title="CANAIS | Infantil",NICKELODEON FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180181|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180181.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://1.bp.blogspot.com/-N5m8vtUc908/X4R6W5N3p9I/AAAAAAAABEM/Qj93mr2rea4JNO1O2f9WjTHmOiHVI7giQCLcBGAsYHQ/s400/ZOOMOO.png" group-title="CANAIS | Infantil",ZOOMOO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180186|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180186.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://1.bp.blogspot.com/-N5m8vtUc908/X4R6W5N3p9I/AAAAAAAABEM/Qj93mr2rea4JNO1O2f9WjTHmOiHVI7giQCLcBGAsYHQ/s400/ZOOMOO.png" group-title="CANAIS | Infantil",ZOOMOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180189|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180189.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="https://1.bp.blogspot.com/-E-7rR_-i3Qg/X4TGUXZPUhI/AAAAAAAABGc/sP0Fi9hyLfEv3s6xC4r0O0MxcfDCNsIfgCLcBGAsYHQ/s400/BIS.png" group-title="CANAIS | Variedades",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180192|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180192.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="https://1.bp.blogspot.com/-E-7rR_-i3Qg/X4TGUXZPUhI/AAAAAAAABGc/sP0Fi9hyLfEv3s6xC4r0O0MxcfDCNsIfgCLcBGAsYHQ/s400/BIS.png" group-title="CANAIS | Variedades",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180195|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180195.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="https://1.bp.blogspot.com/-E-7rR_-i3Qg/X4TGUXZPUhI/AAAAAAAABGc/sP0Fi9hyLfEv3s6xC4r0O0MxcfDCNsIfgCLcBGAsYHQ/s400/BIS.png" group-title="CANAIS | Variedades",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180197|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180197.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://1.bp.blogspot.com/-jd-thqAyLE0/X4TIrhthhTI/AAAAAAAABGo/RIz7XTWfnN8z0EGP-t1k7Fp3B8ifbdS5wCLcBGAsYHQ/s400/COMEDY%2BCENTRAL.png" group-title="CANAIS | Variedades",COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180199|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180199.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://1.bp.blogspot.com/-jd-thqAyLE0/X4TIrhthhTI/AAAAAAAABGo/RIz7XTWfnN8z0EGP-t1k7Fp3B8ifbdS5wCLcBGAsYHQ/s400/COMEDY%2BCENTRAL.png" group-title="CANAIS | Variedades",COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180202|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180202.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://1.bp.blogspot.com/-jd-thqAyLE0/X4TIrhthhTI/AAAAAAAABGo/RIz7XTWfnN8z0EGP-t1k7Fp3B8ifbdS5wCLcBGAsYHQ/s400/COMEDY%2BCENTRAL.png" group-title="CANAIS | Variedades",COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180204|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180204.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA SD" tvg-logo="" group-title="CANAIS | Variedades",CURTA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180205|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180205.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CURTA HD" tvg-logo="" group-title="CANAIS | Variedades",CURTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180207|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180207.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="" group-title="CANAIS | Variedades",FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180213|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180213.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="CANAIS | Variedades",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180216|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180216.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="" group-title="CANAIS | Variedades",FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180218|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180218.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT HD" tvg-logo="https://1.bp.blogspot.com/-id5U2yIJeDY/Xvklk3nOynI/AAAAAAAAAG4/MI9TsbHfFQ4PCu6iOfoS4_pnQjz44F90QCK4BGAsYHg/s400/TV%2BMAIS%2BGLOBOSAT.png" group-title="CANAIS | Variedades",GLOBOSAT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180222|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180222.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="" group-title="CANAIS | Variedades",GNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180223|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180223.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="" group-title="CANAIS | Variedades",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180226|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180226.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="" group-title="CANAIS | Variedades",LIFETIME SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180229|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180229.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="" group-title="CANAIS | Variedades",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180232|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180232.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="" group-title="CANAIS | Variedades",LIFETIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180234|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180234.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="" group-title="CANAIS | Variedades",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180235|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180235.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="" group-title="CANAIS | Variedades",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180238|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180238.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://1.bp.blogspot.com/-5pUPrUtszZo/YAnlVml5RYI/AAAAAAAABJQ/4eGlLk8m3D40PTV4xYEXNW2U6dmukuWUQCLcBGAsYHQ/s400/MULTSHOW.png" group-title="CANAIS | Variedades",MULTISHOW SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180241|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180241.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://1.bp.blogspot.com/-5pUPrUtszZo/YAnlVml5RYI/AAAAAAAABJQ/4eGlLk8m3D40PTV4xYEXNW2U6dmukuWUQCLcBGAsYHQ/s400/MULTSHOW.png" group-title="CANAIS | Variedades",MULTISHOW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180244|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180244.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://1.bp.blogspot.com/-EE_-a7G0VTE/XvuCp9O-V2I/AAAAAAAAAac/MbllmTVDcEMkzNQ6Bt2UvZBBGQibSOtCACK4BGAsYHg/s400/OFF.png" group-title="CANAIS | Variedades",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180246|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180246.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://1.bp.blogspot.com/-EE_-a7G0VTE/XvuCp9O-V2I/AAAAAAAAAac/MbllmTVDcEMkzNQ6Bt2UvZBBGQibSOtCACK4BGAsYHg/s400/OFF.png" group-title="CANAIS | Variedades",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180249|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180249.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="POLISHOP HD" tvg-logo="" group-title="CANAIS | Variedades",POLISHOP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180253|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180253.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="" group-title="CANAIS | Variedades",PRIME BOX BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180257|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180257.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://1.bp.blogspot.com/-c6yPT7WBDvc/X0kVllMBZRI/AAAAAAAAA9A/bRQMqcvC-nc8UAl22pFMdLFtfh0aZKj7wCLcBGAsYHQ/s360/618fb858d59d173b28618021045efd3c.png" group-title="CANAIS | Variedades",TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180262|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180262.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://1.bp.blogspot.com/-c6yPT7WBDvc/X0kVllMBZRI/AAAAAAAAA9A/bRQMqcvC-nc8UAl22pFMdLFtfh0aZKj7wCLcBGAsYHQ/s360/618fb858d59d173b28618021045efd3c.png" group-title="CANAIS | Variedades",TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180265|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180265.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VHI SD" tvg-logo="" group-title="CANAIS | Variedades",VHI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180267|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180267.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VHI HD" tvg-logo="" group-title="CANAIS | Variedades",VHI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180269|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180269.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="" group-title="CANAIS | Variedades",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180274|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180274.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="" group-title="CANAIS | Variedades",VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180276|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180276.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://1.bp.blogspot.com/-ienbFejgvgY/XvuEPRYN0rI/AAAAAAAAAa4/BW55pIn7k8Ue21iBBjCBQxlYq6pK1_tnwCK4BGAsYHg/s400/WOOHOO.png" group-title="CANAIS | Variedades",WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180277|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180277.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://1.bp.blogspot.com/-cFlZPBAPdmc/XvkfYHbBJII/AAAAAAAAAFI/tafuQMn7OpEwzv-eWbwVm4tkPw52fwA0ACK4BGAsYHg/s400/CINE%2BSKY.png" group-title="CANAIS | Cine",CINE SKY 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180309|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180309.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://1.bp.blogspot.com/-cFlZPBAPdmc/XvkfYHbBJII/AAAAAAAAAFI/tafuQMn7OpEwzv-eWbwVm4tkPw52fwA0ACK4BGAsYHg/s400/CINE%2BSKY.png" group-title="CANAIS | Cine",CINE SKY 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180310|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180310.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://1.bp.blogspot.com/-cFlZPBAPdmc/XvkfYHbBJII/AAAAAAAAAFI/tafuQMn7OpEwzv-eWbwVm4tkPw52fwA0ACK4BGAsYHg/s400/CINE%2BSKY.png" group-title="CANAIS | Cine",CINE SKY 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180311|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180311.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-cFlZPBAPdmc/XvkfYHbBJII/AAAAAAAAAFI/tafuQMn7OpEwzv-eWbwVm4tkPw52fwA0ACK4BGAsYHg/s400/CINE%2BSKY.png" group-title="CANAIS | Cine",CINE SKY 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180312|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180312.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-cFlZPBAPdmc/XvkfYHbBJII/AAAAAAAAAFI/tafuQMn7OpEwzv-eWbwVm4tkPw52fwA0ACK4BGAsYHg/s400/CINE%2BSKY.png" group-title="CANAIS | Cine",CINE SKY 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180313|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180313.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-cFlZPBAPdmc/XvkfYHbBJII/AAAAAAAAAFI/tafuQMn7OpEwzv-eWbwVm4tkPw52fwA0ACK4BGAsYHg/s400/CINE%2BSKY.png" group-title="CANAIS | Cine",CINE SKY 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180314|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180314.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-cFlZPBAPdmc/XvkfYHbBJII/AAAAAAAAAFI/tafuQMn7OpEwzv-eWbwVm4tkPw52fwA0ACK4BGAsYHg/s400/CINE%2BSKY.png" group-title="CANAIS | Cine",CINE SKY 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180315|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180315.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-cFlZPBAPdmc/XvkfYHbBJII/AAAAAAAAAFI/tafuQMn7OpEwzv-eWbwVm4tkPw52fwA0ACK4BGAsYHg/s400/CINE%2BSKY.png" group-title="CANAIS | Cine",CINE SKY 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180316|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180316.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-cFlZPBAPdmc/XvkfYHbBJII/AAAAAAAAAFI/tafuQMn7OpEwzv-eWbwVm4tkPw52fwA0ACK4BGAsYHg/s400/CINE%2BSKY.png" group-title="CANAIS | Cine",CINE SKY 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180317|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180317.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BAND RS SD" tvg-logo="https://1.bp.blogspot.com/-Zz2I09nV0Bg/XvfKOg7T4mI/AAAAAAAAAAw/JeSgihZU_E43iVZv4LY01T8NJyJolyZXgCK4BGAsYHg/s400/BAND.png" group-title="CANAIS | Band",BAND RS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180321|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180321.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BAND RS HD" tvg-logo="" group-title="CANAIS | Band",BAND RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/180322|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/180322.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-cFlZPBAPdmc/XvkfYHbBJII/AAAAAAAAAFI/tafuQMn7OpEwzv-eWbwVm4tkPw52fwA0ACK4BGAsYHg/s400/CINE%2BSKY.png" group-title="CANAIS | Cine",CINE SKY 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/182359|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/182359.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="ANOS 70" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",ANOS 70
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188195|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188195.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="ANOS 80" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",ANOS 80
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188196|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188196.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="ANOS 90" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",ANOS 90
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188197|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188197.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="ANOS 2000" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",ANOS 2000
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188198|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188198.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="AXE" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",AXE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188199|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188199.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BOSSA NOVA" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",BOSSA NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188200|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188200.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BREGA" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",BREGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188201|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188201.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="EVANGELHO" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",EVANGELHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188204|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188204.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="FORRO" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",FORRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188205|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188205.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="HIP HOP" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",HIP HOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188207|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188207.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",INFANTIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188208|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188208.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="MUSICAS CLASSICAS" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",MUSICAS CLASSICAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188209|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188209.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PAGODE" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",PAGODE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188210|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188210.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RAP NACIONAL" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",RAP NACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188213|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188213.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="REGGAE" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",REGGAE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188214|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188214.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RODEIO" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",RODEIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188216|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188216.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="SERTANEJO" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",SERTANEJO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188217|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188217.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="SERTANEJO RAIZES" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",SERTANEJO RAIZES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188218|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188218.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="SERTANEJO UNIVERSITARIO" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",SERTANEJO UNIVERSITARIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188219|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188219.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TECNO BREGA" tvg-logo="https://1.bp.blogspot.com/-niF9mR6PymY/XxhD69sfFEI/AAAAAAAAAzc/yMKpXlkv7-gSpfBxOBsOPtk4rRny7RR1wCLcBGAsYHQ/s400/RADIOS.png" group-title="CANAIS | Músicas",TECNO BREGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/188220|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/188220.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV SD" tvg-logo="" group-title="CANAIS | Variedades",TRU TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/308738|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/308738.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV HD" tvg-logo="" group-title="CANAIS | Variedades",TRU TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/308739|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/308739.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV FHD" tvg-logo="" group-title="CANAIS | Variedades",TRU TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/308740|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/308740.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="" group-title="CANAIS | Variedades",E! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/308741|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/308741.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="" group-title="CANAIS | Variedades",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/308742|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/308742.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="" group-title="CANAIS | Variedades",E! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/308743|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/308743.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD" tvg-logo="" group-title="CANAIS | Religiosos",REDE VIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/308777|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/308777.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="" group-title="CANAIS | Infantil",TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/308784|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/308784.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="SBT CAMPINAS SD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT CAMPINAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/309901|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/309901.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="SBT CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-Qrp_7bcHOEQ/Xve0Gtu2tdI/AAAAAAAAAAU/4-yFS7pt9CslI3avkpeRn-RvdIXKk7ipACK4BGAsYHg/s400/SBT.png" group-title="CANAIS | Sbt",SBT CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/309902|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/309902.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="JOVEN PAM NEWS SD" tvg-logo="" group-title="CANAIS | Noticias",JOVEN PAM NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/428696|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/428696.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS HD" tvg-logo="" group-title="CANAIS | Noticias",JOVEN PAN NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/428697|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/428697.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS SD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD GOIAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/429126|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/429126.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS HD" tvg-logo="https://1.bp.blogspot.com/-m9MosWAUpIU/XwnhaemhhII/AAAAAAAAAsw/7HgoLJOwj34SmEzhIP0-jS5PrYQe4OqHwCLcBGAsYHQ/s400/RECORD.png" group-title="CANAIS | Record",RECORD GOIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/429127|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/429127.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE" tvg-logo="https://i.ibb.co/8b2s3hG/nbatv.png" group-title="CANAIS | PPV Sports",NBA LEAGUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/429262|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/429262.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ  SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RJ  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431528|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431528.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ  HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RJ  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431529|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431529.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ  FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RJ  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431530|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431530.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP  SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO SP  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431531|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431531.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP  HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO SP  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431532|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431532.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP  FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO SP  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431533|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431533.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO ACRE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431534|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431534.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO ACRE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431535|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431535.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO ACRE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431536|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431536.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO AMAZONAS SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO AMAZONAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431537|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431537.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZONAS HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO AMAZONAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431538|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431538.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZONAS FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO AMAZONAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431539|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431539.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA-GO SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO ANHANGUERA-GO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431540|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431540.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA-GO HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO ANHANGUERA-GO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431541|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431541.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA-GO FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO ANHANGUERA-GO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431542|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431542.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ASA BRANCA-PE SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO ASA BRANCA-PE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431543|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431543.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ASA BRANCA-PE HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO ASA BRANCA-PE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431544|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431544.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ASA BRANCA-PE FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO ASA BRANCA-PE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431545|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431545.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO BAHIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431546|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431546.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431547|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431547.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO BAHIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431548|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431548.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431549|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431549.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431550|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431550.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO BRASILIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431551|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431551.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO CABO BRANCO-PB SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO CABO BRANCO-PB SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431552|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431552.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO CABO BRANCO-PB HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO CABO BRANCO-PB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431553|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431553.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO CABO BRANCO-PB FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO CABO BRANCO-PB FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431554|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431554.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMERICA-MT SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO CENTRO AMERICA-MT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431555|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431555.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMERICA-MT HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO CENTRO AMERICA-MT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431556|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431556.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMERICA-MT FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO CENTRO AMERICA-MT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431557|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431557.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS-SP SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO EPTV CAMPINAS-SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431558|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431558.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS-SP HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO EPTV CAMPINAS-SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431559|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431559.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS-SP FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO EPTV CAMPINAS-SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431560|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431560.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV R.PRETO-SP SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO EPTV R.PRETO-SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431567|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431567.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV R.PRETO-SP HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO EPTV R.PRETO-SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431568|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431568.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV R.PRETO-SP FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO EPTV R.PRETO-SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431569|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431569.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERTV CABUGI-RN SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO INTERTV CABUGI-RN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431582|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431582.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERTV CABUGI-RN HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO INTERTV CABUGI-RN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431583|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431583.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERTV CABUGI-RN FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO INTERTV CABUGI-RN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431584|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431584.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS GERAIS SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO MINAS GERAIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431591|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431591.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS GERAIS HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO MINAS GERAIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431592|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431592.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS GERAIS FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO MINAS GERAIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431593|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431593.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MIRANTE-MA SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO MIRANTE-MA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431594|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431594.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MIRANTE-MA HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO MIRANTE-MA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431595|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431595.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MIRANTE-MA FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO MIRANTE-MA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431596|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431596.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431600|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431600.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431601|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431601.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO NORDESTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431602|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431602.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU-SC SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO NSC BLUMENAU-SC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431603|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431603.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU-SC HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO NSC BLUMENAU-SC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431604|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431604.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU-SC FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO NSC BLUMENAU-SC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431605|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431605.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC FLORIANOPOLIS-SC SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO NSC FLORIANOPOLIS-SC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431609|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431609.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC FLORIANOPOLIS-SC  HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO NSC FLORIANOPOLIS-SC  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431610|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431610.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC FLORIANOPOLIS-SC FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO NSC FLORIANOPOLIS-SC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431611|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431611.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO PARA SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO PARA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431615|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431615.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO PARA HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO PARA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431616|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431616.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO PARA FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO PARA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431617|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431617.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS P. ALEGRE-RS SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RBS P. ALEGRE-RS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431627|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431627.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS P. ALEGRE-RS HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RBS P. ALEGRE-RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431628|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431628.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS P. ALEGRE-RS FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RBS P. ALEGRE-RS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431629|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431629.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO SUL-RJ SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RIO SUL-RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431630|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431630.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO SUL-RJ HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RIO SUL-RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431631|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431631.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO SUL-RJ FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RIO SUL-RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431632|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431632.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA-PR SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RPC CURITIBA-PR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431636|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431636.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA-PR HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RPC CURITIBA-PR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431637|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431637.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA-PR FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO RPC CURITIBA-PR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431638|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431638.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO SERGIPE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431651|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431651.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO SERGIPE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431652|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431652.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO SERGIPE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431653|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431653.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TVTEM BAURU-SP SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TVTEM BAURU-SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431654|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431654.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TVTEM BAURU-SP  HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TVTEM BAURU-SP  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431655|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431655.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TVTEM BAURU-SP  FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TVTEM BAURU-SP  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431656|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431656.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TVTEM SOROCABA-SP SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TVTEM SOROCABA-SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431660|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431660.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TVTEM SOROCABA-SP HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TVTEM SOROCABA-SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431661|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431661.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TVTEM SOROCABA-SP FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TVTEM SOROCABA-SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431662|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431662.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA-AL SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV GAZETA-AL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431666|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431666.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA-AL HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV GAZETA-AL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431667|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431667.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA-AL FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV GAZETA-AL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431668|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431668.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL-ES SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV GAZETA SUL-ES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431669|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431669.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL-ES HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV GAZETA SUL-ES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431670|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431670.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL-ES FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV GAZETA SUL-ES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431671|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431671.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS-SP SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV TRIBUNA SANTOS-SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431675|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431675.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS-SP HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV TRIBUNA SANTOS-SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431676|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431676.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS-SP FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV TRIBUNA SANTOS-SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431677|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431677.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S.J CAMPOS-SP SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV VANGUARDA S.J CAMPOS-SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431678|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431678.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S.J CAMPOS-SP HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV VANGUARDA S.J CAMPOS-SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431679|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431679.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S.J CAMPOS-SP FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV VANGUARDA S.J CAMPOS-SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431680|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431680.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA TAUBATE-SP SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV VANGUARDA TAUBATE-SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431681|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431681.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA TAUBATE-SP HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV VANGUARDA TAUBATE-SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431682|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431682.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA TAUBATE-SP FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO TV VANGUARDA TAUBATE-SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431683|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431683.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES MARES-CE SD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO VERDES MARES-CE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431684|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431684.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES MARES-CE HD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO VERDES MARES-CE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431685|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431685.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES MARES-CE FHD" tvg-logo="https://1.bp.blogspot.com/-UqRnj5K4Vss/XwmtjyIOmvI/AAAAAAAAAsk/f1pOsdKW4c0g2lLU5MrY4P3dshzXmtU0QCLcBGAsYHQ/s400/GLOBO.png" group-title="CANAIS | Globos",GLOBO VERDES MARES-CE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/431686|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/431686.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="MOSAICO" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517905|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517905.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 1" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517906|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517906.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 2" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517908|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517908.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 3" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517909|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517909.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 4" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517910|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517910.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 5" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517911|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517911.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 6" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517912|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517912.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 7" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517913|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517913.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 8" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517914|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517914.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 9" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517915|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517915.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 10" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517916|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517916.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="CAM 11" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517917|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517917.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: 3 PALAVRINHAS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: 3 PALAVRINHAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517918|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517918.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: A FEITICEIRA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: A FEITICEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517919|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517919.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: A FORMIGA ATOMICA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: A FORMIGA ATOMICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517920|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517920.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: A GRANDE FAMILIA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: A GRANDE FAMILIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517921|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517921.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: A GATA COMEU" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: A GATA COMEU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517922|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517922.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: AS MENINAS SUPERPODEROSAS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: AS MENINAS SUPERPODEROSAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517923|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517923.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: ALADIN" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: ALADIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517924|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517924.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: ASTRO BOY" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: ASTRO BOY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517925|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517925.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: BEN 10" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: BEN 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517926|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517926.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: BITA E OS ANIMAIS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: BITA E OS ANIMAIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517927|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517927.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: BOB ESPONJA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: BOB ESPONJA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517928|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517928.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: BREAKING BAD" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: BREAKING BAD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517929|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517929.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: CAO CORAGEM" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: CAO CORAGEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517930|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517930.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: CAVERNA DO DRAGÃO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: CAVERNA DO DRAGÃO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517931|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517931.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: CHAPOLIM COLORADO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: CHAPOLIM COLORADO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517932|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517932.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: CHAVES" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: CHAVES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517934|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517934.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: CHAVES" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: CHAVES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517935|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517935.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: CHAVES DESENHO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: CHAVES DESENHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517936|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517936.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: CORRIDA MALUCA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: CORRIDA MALUCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517938|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517938.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: DENIS E O PIMENTINHA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: DENIS E O PIMENTINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517939|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517939.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: DESENHOS BIBLICOS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: DESENHOS BIBLICOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517940|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517940.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: DESENHOS DISNEY" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: DESENHOS DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517941|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517941.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: DIGMON" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: DIGMON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517942|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517942.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: DOIS HOMENS E MEIO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: DOIS HOMENS E MEIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517943|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517943.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: DOUG" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: DOUG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517944|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517944.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: DRAGON BALL" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: DRAGON BALL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517945|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517945.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: DRAGON BALL SUPER" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: DRAGON BALL SUPER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517946|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517946.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: DRAGON BALL Z" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: DRAGON BALL Z
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517947|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517947.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: EU, A PATROA E AS CRIANÇAS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: EU, A PATROA E AS CRIANÇAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517949|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517949.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: FORRÓ DO PISEIRO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: FORRÓ DO PISEIRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517950|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517950.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: FUNK" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: FUNK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517951|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517951.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: GÊNESIS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: GÊNESIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517954|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517954.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: GOSPEL" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: GOSPEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517955|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517955.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: GUARDIOES DA GALAXIA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: GUARDIOES DA GALAXIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517956|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517956.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: HE-MAN" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: HE-MAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517957|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517957.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: HERCULES" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: HERCULES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517958|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517958.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: HISTORIA DISNEY" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: HISTORIA DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517959|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517959.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: HOMEM ARANHA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: HOMEM ARANHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517960|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517960.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: HOMEM DE FERRO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: HOMEM DE FERRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517961|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517961.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: HOMEMS DE PRETO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: HOMEMS DE PRETO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517962|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517962.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: INCRIVEL HULK" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: INCRIVEL HULK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517964|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517964.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: JACK CHAM" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: JACK CHAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517965|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517965.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: JASPIM" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: JASPIM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517966|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517966.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: JIRAYA O INCRIVEL NINJA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: JIRAYA O INCRIVEL NINJA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517967|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517967.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: JEZABEL" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: JEZABEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517968|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517968.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: JESUS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: JESUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517969|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517969.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: KPOP" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: KPOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517972|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517972.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: KENAN E KEL" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: KENAN E KEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517973|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517973.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: LULUZINHA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: LULUZINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517974|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517974.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: LA CASA DE PAPEL" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: LA CASA DE PAPEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517975|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517975.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: LIGA DA JUSTIÇA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: LIGA DA JUSTIÇA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517976|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517976.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: LUCAS NETO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: LUCAS NETO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517977|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517977.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: MEDABOTS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: MEDABOTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517980|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517980.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: MEGA MAN" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: MEGA MAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517981|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517981.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: MEGA MAN" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: MEGA MAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517983|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517983.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: MR.BEM" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: MR.BEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517985|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517985.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: NARUTO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: NARUTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517986|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517986.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: NARUTO SHIPPUDEN" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: NARUTO SHIPPUDEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517987|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517987.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: O FANTASTICO MUNDO DE BOBBY" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: O FANTASTICO MUNDO DE BOBBY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517988|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517988.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: O INSPETOR" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: O INSPETOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517989|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517989.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: O MASKARA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: O MASKARA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517990|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517990.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: OS ANJINHOS-RUGRATS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: OS ANJINHOS-RUGRATS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517991|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517991.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: OS CAVALEIROS DO ZODIACO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: OS CAVALEIROS DO ZODIACO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517992|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517992.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: OS FLINTSTONES" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: OS FLINTSTONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517993|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517993.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: OS SIMPSONS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: OS SIMPSONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517994|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517994.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: OS VINGADORES" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: OS VINGADORES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517995|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517995.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: O REI DO GADO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: O REI DO GADO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517996|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517996.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: O RICO E O LAZARO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: O RICO E O LAZARO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517997|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517997.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: PAGODE" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: PAGODE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/517998|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/517998.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: PAPA LEGUAS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: PAPA LEGUAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518000|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518000.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: PEPPA E PING" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: PEPPA E PING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518001|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518001.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: PERNALONGA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: PERNALONGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518002|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518002.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: PHINEAS E FERB" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: PHINEAS E FERB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518003|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518003.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: PICA PAU" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: PICA PAU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518004|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518004.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: PINK E CEREBRO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: PINK E CEREBRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518005|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518005.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: PEQUENOS ESPIOES" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: PEQUENOS ESPIOES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518006|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518006.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: POKEMON" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: POKEMON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518007|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518007.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: POPEYE O MARINHEIRO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: POPEYE O MARINHEIRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518008|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518008.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: REI DAVI" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: REI DAVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518009|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518009.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: RAMBO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: RAMBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518010|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518010.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: SCOOBY-DOO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: SCOOBY-DOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518011|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518011.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: SOUTH PARK" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: SOUTH PARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518012|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518012.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: STEVEN UNIVERSE" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: STEVEN UNIVERSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518013|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518013.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: SUPER CHOQUE" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: SUPER CHOQUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518014|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518014.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: SUPERMAM" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: SUPERMAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518015|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518015.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: SERTANEJO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: SERTANEJO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518016|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518016.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: SMALLVILLE" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: SMALLVILLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518017|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518017.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: SOBRE NATURAL" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: SOBRE NATURAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518018|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518018.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: TARTARUGAS NINJAS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: TARTARUGAS NINJAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518019|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518019.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: TAZ MANIA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: TAZ MANIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518020|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518020.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: THUNDERCATS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: THUNDERCATS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518021|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518021.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: TIMAO E PUMBA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: TIMAO E PUMBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518022|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518022.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: TOM & JERRY" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: TOM & JERRY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518023|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518023.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: TRES ESPIANS DE MAIS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: TRES ESPIANS DE MAIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518024|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518024.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: TODO MUNDO ODEIA O CRIS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: TODO MUNDO ODEIA O CRIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518025|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518025.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: UM MALUCO NO PEDAÇO" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: UM MALUCO NO PEDAÇO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518026|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518026.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: UMA FAMILIA DA PESADA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: UMA FAMILIA DA PESADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518027|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518027.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: URSINHOS CARINHOS" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: URSINHOS CARINHOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518028|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518028.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: VAI QUE COLA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: VAI QUE COLA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518029|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518029.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: VAI QUE COLA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: VAI QUE COLA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518030|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518030.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: X-MAN" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: X-MAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518032|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518032.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: XENA" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: XENA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518033|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518033.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: YU-GI-OH" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: YU-GI-OH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518034|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518034.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="24Hrs: YU-YU" tvg-logo="https://1.bp.blogspot.com/-Oy1ZUojnk4k/YEPBra6jIyI/AAAAAAAABKU/3P1YfLRhCU86Z7s89bTuPJYM1YCo_rruQCLcBGAsYHQ/s400/24%2BHORAS.png" group-title="CANAIS | Canais 24 Hrs",24Hrs: YU-YU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518035|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518035.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1" tvg-logo="https://1.bp.blogspot.com/-84PWX_s0LQo/XvtzMAgCK7I/AAAAAAAAAYs/orxvTuC4GH8wZx2p8pmYEPTQ0coxvW-yACK4BGAsYHg/s400/COPA%2BNORDESTE.png" group-title="CANAIS | Camp Estaduais",COPA DO NORDESTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518036|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518036.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2" tvg-logo="https://1.bp.blogspot.com/-84PWX_s0LQo/XvtzMAgCK7I/AAAAAAAAAYs/orxvTuC4GH8wZx2p8pmYEPTQ0coxvW-yACK4BGAsYHg/s400/COPA%2BNORDESTE.png" group-title="CANAIS | Camp Estaduais",COPA DO NORDESTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518037|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518037.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3" tvg-logo="https://1.bp.blogspot.com/-84PWX_s0LQo/XvtzMAgCK7I/AAAAAAAAAYs/orxvTuC4GH8wZx2p8pmYEPTQ0coxvW-yACK4BGAsYHg/s400/COPA%2BNORDESTE.png" group-title="CANAIS | Camp Estaduais",COPA DO NORDESTE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518038|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518038.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4" tvg-logo="https://1.bp.blogspot.com/-84PWX_s0LQo/XvtzMAgCK7I/AAAAAAAAAYs/orxvTuC4GH8wZx2p8pmYEPTQ0coxvW-yACK4BGAsYHg/s400/COPA%2BNORDESTE.png" group-title="CANAIS | Camp Estaduais",COPA DO NORDESTE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518039|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518039.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5" tvg-logo="https://1.bp.blogspot.com/-84PWX_s0LQo/XvtzMAgCK7I/AAAAAAAAAYs/orxvTuC4GH8wZx2p8pmYEPTQ0coxvW-yACK4BGAsYHg/s400/COPA%2BNORDESTE.png" group-title="CANAIS | Camp Estaduais",COPA DO NORDESTE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518040|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518040.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6" tvg-logo="https://1.bp.blogspot.com/-84PWX_s0LQo/XvtzMAgCK7I/AAAAAAAAAYs/orxvTuC4GH8wZx2p8pmYEPTQ0coxvW-yACK4BGAsYHg/s400/COPA%2BNORDESTE.png" group-title="CANAIS | Camp Estaduais",COPA DO NORDESTE 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518041|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518041.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 1" tvg-logo="https://1.bp.blogspot.com/-GfJgxTvnLWI/Xvt1jGZdkMI/AAAAAAAAAZI/4cB3fu4dRF8OxlpofZ_K1gAx3dRK_psfgCK4BGAsYHg/s400/COPA%2BCATARINENSE.png" group-title="CANAIS | Camp Estaduais",COPA CATARINENSE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518042|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518042.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2" tvg-logo="https://1.bp.blogspot.com/-GfJgxTvnLWI/Xvt1jGZdkMI/AAAAAAAAAZI/4cB3fu4dRF8OxlpofZ_K1gAx3dRK_psfgCK4BGAsYHg/s400/COPA%2BCATARINENSE.png" group-title="CANAIS | Camp Estaduais",COPA CATARINENSE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518043|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518043.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 3" tvg-logo="https://1.bp.blogspot.com/-GfJgxTvnLWI/Xvt1jGZdkMI/AAAAAAAAAZI/4cB3fu4dRF8OxlpofZ_K1gAx3dRK_psfgCK4BGAsYHg/s400/COPA%2BCATARINENSE.png" group-title="CANAIS | Camp Estaduais",COPA CATARINENSE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518044|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518044.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 4" tvg-logo="https://1.bp.blogspot.com/-GfJgxTvnLWI/Xvt1jGZdkMI/AAAAAAAAAZI/4cB3fu4dRF8OxlpofZ_K1gAx3dRK_psfgCK4BGAsYHg/s400/COPA%2BCATARINENSE.png" group-title="CANAIS | Camp Estaduais",COPA CATARINENSE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518045|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518045.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA SERGIPANO 1" tvg-logo="https://lh3.googleusercontent.com/-Gj_OD7Qljy0/YexI90-pTCI/AAAAAAAAK4o/rs87zGYqwr4UUczEZ-czhxcRmLk5gaSOACNcBGAsYHQ/catari.png" group-title="CANAIS | Camp Estaduais",COPA SERGIPANO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518046|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518046.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA SERGIPANO 2" tvg-logo="https://lh3.googleusercontent.com/-Gj_OD7Qljy0/YexI90-pTCI/AAAAAAAAK4o/rs87zGYqwr4UUczEZ-czhxcRmLk5gaSOACNcBGAsYHQ/catari.png" group-title="CANAIS | Camp Estaduais",COPA SERGIPANO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518047|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518047.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA PARANAENSE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/ParanaenseFutebol.png" group-title="CANAIS | Camp Estaduais",COPA PARANAENSE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518048|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518048.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA PARANAENSE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/ParanaenseFutebol.png" group-title="CANAIS | Camp Estaduais",COPA PARANAENSE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518049|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518049.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA CARIOCA 1" tvg-logo="https://explosaotricolor.com.br/wp-content/uploads/2022/01/Carioca-678x381.png" group-title="CANAIS | Camp Estaduais",COPA CARIOCA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518050|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518050.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA CARIOCA 2" tvg-logo="https://explosaotricolor.com.br/wp-content/uploads/2022/01/Carioca-678x381.png" group-title="CANAIS | Camp Estaduais",COPA CARIOCA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518051|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518051.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="https://1.bp.blogspot.com/-y1C2B2wuft0/YUKd09ZGYyI/AAAAAAAABNQ/liah_2zEQE8FEuWrhihiJ8MMxoZi3qtIwCLcBGAsYHQ/s500/hbo%2Bmax.png" group-title="CANAIS | PPV Sports",HBO MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518052|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518052.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="https://1.bp.blogspot.com/-y1C2B2wuft0/YUKd09ZGYyI/AAAAAAAABNQ/liah_2zEQE8FEuWrhihiJ8MMxoZi3qtIwCLcBGAsYHQ/s500/hbo%2Bmax.png" group-title="CANAIS | PPV Sports",HBO MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518053|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518053.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="https://1.bp.blogspot.com/-y1C2B2wuft0/YUKd09ZGYyI/AAAAAAAABNQ/liah_2zEQE8FEuWrhihiJ8MMxoZi3qtIwCLcBGAsYHQ/s500/hbo%2Bmax.png" group-title="CANAIS | PPV Sports",HBO MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518054|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518054.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4" tvg-logo="https://1.bp.blogspot.com/-y1C2B2wuft0/YUKd09ZGYyI/AAAAAAAABNQ/liah_2zEQE8FEuWrhihiJ8MMxoZi3qtIwCLcBGAsYHQ/s500/hbo%2Bmax.png" group-title="CANAIS | PPV Sports",HBO MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518055|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518055.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 1" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/87/b7/7c/87b77ca5-5945-13e7-10ea-2cf9a6d0b903/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | PPV Sports",ESTADIO TNT SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518056|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518056.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 2" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/87/b7/7c/87b77ca5-5945-13e7-10ea-2cf9a6d0b903/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | PPV Sports",ESTADIO TNT SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518057|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518057.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 3" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/87/b7/7c/87b77ca5-5945-13e7-10ea-2cf9a6d0b903/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | PPV Sports",ESTADIO TNT SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518058|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518058.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 4" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/87/b7/7c/87b77ca5-5945-13e7-10ea-2cf9a6d0b903/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | PPV Sports",ESTADIO TNT SPORT 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518059|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518059.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 5" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/87/b7/7c/87b77ca5-5945-13e7-10ea-2cf9a6d0b903/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | PPV Sports",ESTADIO TNT SPORT 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518060|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518060.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="https://1.bp.blogspot.com/-LU9d1uAZboU/YUKf04NTkCI/AAAAAAAABNY/cmVIjT7XMuwU_ECNsEUEVQwTaB3zqQJQwCLcBGAsYHQ/s500/STAR%2B%252B.png" group-title="CANAIS | PPV Sports",STAR+ 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518061|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518061.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="https://1.bp.blogspot.com/-LU9d1uAZboU/YUKf04NTkCI/AAAAAAAABNY/cmVIjT7XMuwU_ECNsEUEVQwTaB3zqQJQwCLcBGAsYHQ/s500/STAR%2B%252B.png" group-title="CANAIS | PPV Sports",STAR+ 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518062|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518062.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="https://1.bp.blogspot.com/-LU9d1uAZboU/YUKf04NTkCI/AAAAAAAABNY/cmVIjT7XMuwU_ECNsEUEVQwTaB3zqQJQwCLcBGAsYHQ/s500/STAR%2B%252B.png" group-title="CANAIS | PPV Sports",STAR+ 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518063|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518063.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 4" tvg-logo="https://1.bp.blogspot.com/-LU9d1uAZboU/YUKf04NTkCI/AAAAAAAABNY/cmVIjT7XMuwU_ECNsEUEVQwTaB3zqQJQwCLcBGAsYHQ/s500/STAR%2B%252B.png" group-title="CANAIS | PPV Sports",STAR+ 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518064|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518064.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 5" tvg-logo="https://1.bp.blogspot.com/-LU9d1uAZboU/YUKf04NTkCI/AAAAAAAABNY/cmVIjT7XMuwU_ECNsEUEVQwTaB3zqQJQwCLcBGAsYHQ/s500/STAR%2B%252B.png" group-title="CANAIS | PPV Sports",STAR+ 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518065|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518065.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 6" tvg-logo="https://1.bp.blogspot.com/-LU9d1uAZboU/YUKf04NTkCI/AAAAAAAABNY/cmVIjT7XMuwU_ECNsEUEVQwTaB3zqQJQwCLcBGAsYHQ/s500/STAR%2B%252B.png" group-title="CANAIS | PPV Sports",STAR+ 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518066|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518066.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://1.bp.blogspot.com/-ZXZFoXEaCDc/XvtxBza6vyI/AAAAAAAAAYQ/SPWPOtEN83InugTGW9dxOGSXTlSUo0yTwCK4BGAsYHg/s400/FAZ%2BLOGO-Recuperado.png" group-title="CANAIS | PPV Sports",DAZN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518067|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518067.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://1.bp.blogspot.com/-ZXZFoXEaCDc/XvtxBza6vyI/AAAAAAAAAYQ/SPWPOtEN83InugTGW9dxOGSXTlSUo0yTwCK4BGAsYHg/s400/FAZ%2BLOGO-Recuperado.png" group-title="CANAIS | PPV Sports",DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518068|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518068.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://1.bp.blogspot.com/-ZXZFoXEaCDc/XvtxBza6vyI/AAAAAAAAAYQ/SPWPOtEN83InugTGW9dxOGSXTlSUo0yTwCK4BGAsYHg/s400/FAZ%2BLOGO-Recuperado.png" group-title="CANAIS | PPV Sports",DAZN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518069|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518069.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://1.bp.blogspot.com/-ZXZFoXEaCDc/XvtxBza6vyI/AAAAAAAAAYQ/SPWPOtEN83InugTGW9dxOGSXTlSUo0yTwCK4BGAsYHg/s400/FAZ%2BLOGO-Recuperado.png" group-title="CANAIS | PPV Sports",DAZN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518070|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518070.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="https://1.bp.blogspot.com/-ZXZFoXEaCDc/XvtxBza6vyI/AAAAAAAAAYQ/SPWPOtEN83InugTGW9dxOGSXTlSUo0yTwCK4BGAsYHg/s400/FAZ%2BLOGO-Recuperado.png" group-title="CANAIS | PPV Sports",DAZN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518071|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518071.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="CANAIS | PPV Sports",TNT SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518072|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518072.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="CANAIS | PPV Sports",TNT SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518073|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518073.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="CANAIS | PPV Sports",TNT SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518074|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518074.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="CANAIS | PPV Sports",TNT SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518075|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518075.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL 1" tvg-logo="https://i.ibb.co/ypMq6vv/conmebol.png" group-title="CANAIS | PPV Sports",CONMEBOL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518076|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518076.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="CONMEBOL 2" tvg-logo="https://i.ibb.co/ypMq6vv/conmebol.png" group-title="CANAIS | PPV Sports",CONMEBOL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518077|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518077.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="CONMEBOL 3" tvg-logo="https://i.ibb.co/ypMq6vv/conmebol.png" group-title="CANAIS | PPV Sports",CONMEBOL 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518078|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518078.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="CONMEBOL 4" tvg-logo="https://i.ibb.co/ypMq6vv/conmebol.png" group-title="CANAIS | PPV Sports",CONMEBOL 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518079|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518079.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 1" tvg-logo="https://1.bp.blogspot.com/-EFG-lqpOcBk/YUTDuOcxvuI/AAAAAAAABNg/TDXwC8GxJlYTzwUEPQIO_aZTmnxf3IXPACLcBGAsYHQ/s500/STAR%2B%252B%2B%25281%2529.png" group-title="CANAIS | PPV Sports",BR: ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518080|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518080.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 2" tvg-logo="https://1.bp.blogspot.com/-EFG-lqpOcBk/YUTDuOcxvuI/AAAAAAAABNg/TDXwC8GxJlYTzwUEPQIO_aZTmnxf3IXPACLcBGAsYHQ/s500/STAR%2B%252B%2B%25281%2529.png" group-title="CANAIS | PPV Sports",BR: ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518081|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518081.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 3" tvg-logo="https://1.bp.blogspot.com/-EFG-lqpOcBk/YUTDuOcxvuI/AAAAAAAABNg/TDXwC8GxJlYTzwUEPQIO_aZTmnxf3IXPACLcBGAsYHQ/s500/STAR%2B%252B%2B%25281%2529.png" group-title="CANAIS | PPV Sports",BR: ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518082|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518082.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 4" tvg-logo="https://1.bp.blogspot.com/-EFG-lqpOcBk/YUTDuOcxvuI/AAAAAAAABNg/TDXwC8GxJlYTzwUEPQIO_aZTmnxf3IXPACLcBGAsYHQ/s500/STAR%2B%252B%2B%25281%2529.png" group-title="CANAIS | PPV Sports",BR: ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518083|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518083.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 5" tvg-logo="https://1.bp.blogspot.com/-EFG-lqpOcBk/YUTDuOcxvuI/AAAAAAAABNg/TDXwC8GxJlYTzwUEPQIO_aZTmnxf3IXPACLcBGAsYHQ/s500/STAR%2B%252B%2B%25281%2529.png" group-title="CANAIS | PPV Sports",BR: ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518084|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518084.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 6" tvg-logo="https://1.bp.blogspot.com/-EFG-lqpOcBk/YUTDuOcxvuI/AAAAAAAABNg/TDXwC8GxJlYTzwUEPQIO_aZTmnxf3IXPACLcBGAsYHQ/s500/STAR%2B%252B%2B%25281%2529.png" group-title="CANAIS | PPV Sports",BR: ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518085|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518085.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 7" tvg-logo="https://1.bp.blogspot.com/-EFG-lqpOcBk/YUTDuOcxvuI/AAAAAAAABNg/TDXwC8GxJlYTzwUEPQIO_aZTmnxf3IXPACLcBGAsYHQ/s500/STAR%2B%252B%2B%25281%2529.png" group-title="CANAIS | PPV Sports",BR: ELEVEN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518086|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518086.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 8" tvg-logo="https://1.bp.blogspot.com/-EFG-lqpOcBk/YUTDuOcxvuI/AAAAAAAABNg/TDXwC8GxJlYTzwUEPQIO_aZTmnxf3IXPACLcBGAsYHQ/s500/STAR%2B%252B%2B%25281%2529.png" group-title="CANAIS | PPV Sports",BR: ELEVEN SPORTS 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518087|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518087.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 9" tvg-logo="https://1.bp.blogspot.com/-EFG-lqpOcBk/YUTDuOcxvuI/AAAAAAAABNg/TDXwC8GxJlYTzwUEPQIO_aZTmnxf3IXPACLcBGAsYHQ/s500/STAR%2B%252B%2B%25281%2529.png" group-title="CANAIS | PPV Sports",BR: ELEVEN SPORTS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518088|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518088.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BR: ELEVEN SPORTS 10" tvg-logo="https://1.bp.blogspot.com/-EFG-lqpOcBk/YUTDuOcxvuI/AAAAAAAABNg/TDXwC8GxJlYTzwUEPQIO_aZTmnxf3IXPACLcBGAsYHQ/s500/STAR%2B%252B%2B%25281%2529.png" group-title="CANAIS | PPV Sports",BR: ELEVEN SPORTS 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518089|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518089.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6wnatAMgJqC-ogu70YnBFCAt8EW92iTWJqQ6znr_Z09k09guPrAD6skfp8V0pYbMgvHF-F6l9qs1OuzoYDs_4xbkSfaLpY0jp9kad4SjeTIUFMSwnbVh8CLBNfVByLnINSRfAA_dbC498evJNmrI_hDAzsiDXhfHipgkN4EaD96hrJCfBua7FzbI8=s600" group-title="CANAIS | PPV Sports",PT: ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518090|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518090.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6wnatAMgJqC-ogu70YnBFCAt8EW92iTWJqQ6znr_Z09k09guPrAD6skfp8V0pYbMgvHF-F6l9qs1OuzoYDs_4xbkSfaLpY0jp9kad4SjeTIUFMSwnbVh8CLBNfVByLnINSRfAA_dbC498evJNmrI_hDAzsiDXhfHipgkN4EaD96hrJCfBua7FzbI8=s600" group-title="CANAIS | PPV Sports",PT: ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518091|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518091.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6wnatAMgJqC-ogu70YnBFCAt8EW92iTWJqQ6znr_Z09k09guPrAD6skfp8V0pYbMgvHF-F6l9qs1OuzoYDs_4xbkSfaLpY0jp9kad4SjeTIUFMSwnbVh8CLBNfVByLnINSRfAA_dbC498evJNmrI_hDAzsiDXhfHipgkN4EaD96hrJCfBua7FzbI8=s600" group-title="CANAIS | PPV Sports",PT: ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518092|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518092.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6wnatAMgJqC-ogu70YnBFCAt8EW92iTWJqQ6znr_Z09k09guPrAD6skfp8V0pYbMgvHF-F6l9qs1OuzoYDs_4xbkSfaLpY0jp9kad4SjeTIUFMSwnbVh8CLBNfVByLnINSRfAA_dbC498evJNmrI_hDAzsiDXhfHipgkN4EaD96hrJCfBua7FzbI8=s600" group-title="CANAIS | PPV Sports",PT: ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518093|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518093.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6wnatAMgJqC-ogu70YnBFCAt8EW92iTWJqQ6znr_Z09k09guPrAD6skfp8V0pYbMgvHF-F6l9qs1OuzoYDs_4xbkSfaLpY0jp9kad4SjeTIUFMSwnbVh8CLBNfVByLnINSRfAA_dbC498evJNmrI_hDAzsiDXhfHipgkN4EaD96hrJCfBua7FzbI8=s600" group-title="CANAIS | PPV Sports",PT: ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518094|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518094.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6wnatAMgJqC-ogu70YnBFCAt8EW92iTWJqQ6znr_Z09k09guPrAD6skfp8V0pYbMgvHF-F6l9qs1OuzoYDs_4xbkSfaLpY0jp9kad4SjeTIUFMSwnbVh8CLBNfVByLnINSRfAA_dbC498evJNmrI_hDAzsiDXhfHipgkN4EaD96hrJCfBua7FzbI8=s600" group-title="CANAIS | PPV Sports",PT: ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518095|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518095.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 7" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6wnatAMgJqC-ogu70YnBFCAt8EW92iTWJqQ6znr_Z09k09guPrAD6skfp8V0pYbMgvHF-F6l9qs1OuzoYDs_4xbkSfaLpY0jp9kad4SjeTIUFMSwnbVh8CLBNfVByLnINSRfAA_dbC498evJNmrI_hDAzsiDXhfHipgkN4EaD96hrJCfBua7FzbI8=s600" group-title="CANAIS | PPV Sports",PT: ELEVEN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518096|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518096.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 8" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6wnatAMgJqC-ogu70YnBFCAt8EW92iTWJqQ6znr_Z09k09guPrAD6skfp8V0pYbMgvHF-F6l9qs1OuzoYDs_4xbkSfaLpY0jp9kad4SjeTIUFMSwnbVh8CLBNfVByLnINSRfAA_dbC498evJNmrI_hDAzsiDXhfHipgkN4EaD96hrJCfBua7FzbI8=s600" group-title="CANAIS | PPV Sports",PT: ELEVEN SPORTS 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518097|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518097.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 9" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6wnatAMgJqC-ogu70YnBFCAt8EW92iTWJqQ6znr_Z09k09guPrAD6skfp8V0pYbMgvHF-F6l9qs1OuzoYDs_4xbkSfaLpY0jp9kad4SjeTIUFMSwnbVh8CLBNfVByLnINSRfAA_dbC498evJNmrI_hDAzsiDXhfHipgkN4EaD96hrJCfBua7FzbI8=s600" group-title="CANAIS | PPV Sports",PT: ELEVEN SPORTS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518098|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518098.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 10" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6wnatAMgJqC-ogu70YnBFCAt8EW92iTWJqQ6znr_Z09k09guPrAD6skfp8V0pYbMgvHF-F6l9qs1OuzoYDs_4xbkSfaLpY0jp9kad4SjeTIUFMSwnbVh8CLBNfVByLnINSRfAA_dbC498evJNmrI_hDAzsiDXhfHipgkN4EaD96hrJCfBua7FzbI8=s600" group-title="CANAIS | PPV Sports",PT: ELEVEN SPORTS 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518099|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518099.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA CARIOCA 3" tvg-logo="https://explosaotricolor.com.br/wp-content/uploads/2022/01/Carioca-678x381.png" group-title="CANAIS | Camp Estaduais",COPA CARIOCA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518100|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518100.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 1" tvg-logo="" group-title="CANAIS | PPV Sports",LIGA FUTSAL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518101|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518101.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL 2" tvg-logo="" group-title="CANAIS | PPV Sports",LIGA FUTSAL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518102|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518102.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA PAULISTÃO 1" tvg-logo="https://i.ibb.co/D1p3K8h/LOGO-583-Paulistao.png" group-title="CANAIS | Camp Estaduais",COPA PAULISTÃO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518103|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518103.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA PAULISTAO 2" tvg-logo="https://i.ibb.co/D1p3K8h/LOGO-583-Paulistao.png" group-title="CANAIS | Camp Estaduais",COPA PAULISTAO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518104|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518104.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA BRASILIENSE" tvg-logo="blob:https://web.whatsapp.com/b12a1a7a-aa4b-4bd6-8cde-a600e70aa8b4" group-title="CANAIS | Camp Estaduais",COPA BRASILIENSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518105|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518105.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA MATO GROSSENSE" tvg-logo="blob:https://web.whatsapp.com/8b5ea22d-1088-464a-b83d-21e5cd059c65" group-title="CANAIS | Camp Estaduais",COPA MATO GROSSENSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518106|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518106.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA MINEIRO" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2360.png" group-title="CANAIS | Camp Estaduais",COPA MINEIRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518107|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518107.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA GOIANO 1" tvg-logo="blob:https://web.whatsapp.com/12662fa3-5ff6-4ed8-b9bb-f1ed6b398f37" group-title="CANAIS | Camp Estaduais",COPA GOIANO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518108|User-Agent=VLC/3.0.0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518108.m3u8|User-Agent=VLC/3.0.0
 #EXTINF:-1 tvg-id="" tvg-name="COPA GOIANO 2" tvg-logo="blob:https://web.whatsapp.com/12662fa3-5ff6-4ed8-b9bb-f1ed6b398f37" group-title="CANAIS | Camp Estaduais",COPA GOIANO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&url=http://srvtv.tech:80/Eduardo/123456/518109|User-Agent=VLC/3.0.0
-
-
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=DWIGHT FARROKH&url=http://192.99.34.98:80/live/Eduardo/123456/518109.m3u8|User-Agent=VLC/3.0.0
 
 
 
